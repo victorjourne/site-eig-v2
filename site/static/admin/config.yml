@@ -1,12 +1,6 @@
 backend:
-  name: github
-  repo: LaNetscouade/site-eig-v2-psh   # Path to your Github repository
-  branch: master    # Branch to update
-  base_url: https://master-7rqtwti-6ovuf6zk2knum.ovh-fr-2.platformsh.site # Path to ext auth provider
+  name: git-gateway
 
-
-publish_mode: editorial_workflow
-show_preview_links: true
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
@@ -21,7 +15,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-
   - name: "pages"
     label: "Pages"
     files:
