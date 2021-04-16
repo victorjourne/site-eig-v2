@@ -1,2 +1,5 @@
-languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+languageCode = "fr-fr"
+title = "Entrepreneurs d'intérêt général"
+
+[taxonomies]
+  expertise = "expertises"

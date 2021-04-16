@@ -1,0 +1,10 @@
+<div class="fr-container fr-mb-20v">
+  <div class="fr-grid-row fr-grid-row--gutters fr-mb-10v">
+    {{ range ( where .Site.RegularPages "Type" "defis" ) }}
+      <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+        {{ .Render "li" }}
+      </div>
+    {{ end }}
+  </div>
+  <a href="#" class="fr-link fr-link--lg fr-fi-arrow-right-line fr-link--icon-right">Faire ses vœux</a>
+</div>
