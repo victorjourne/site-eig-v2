@@ -5,26 +5,37 @@ date: 2016-12-17T15:04:10.000Z
 expertises:
 - Data science
 description: Accompagner l’ouverture des données sur les médicaments
-image: /img/blog-flavor_wheel.jpg
+who: Agence nationale de sécurité des médicaments et des produits de santé
+image: /img/picto-defi.svg
 ---
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## Le contexte
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+L’Agence nationale de sécurité des médicaments et des produits de santé (ANSM) souhaite mettre en place des outils lui permettant une plus grande transparence des données sur le médicament pour améliorer l’information disponible.
 
-## What the updates mean to you
+## La problématique
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+L’ANSM est chargée de garantir la sécurité des produits de santé tout au long de leur cycle de vie, en contrôlant la qualité des produits et en inspectant les laboratoires pharmaceutiques. Elle détient donc une multitude de données issues de ses contrôles ou de ses recherches.
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+Confrontée à des demandes d’information croissantes et une forte pression médiatique, l’ANSM souhaite favoriser la transparence sur l’action publique, améliorer l’information sur le médicament - notamment à destination des patients et des professionnels de santé - et valoriser les données de santé.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+C’est pourquoi, depuis 2019, l’ANSM a mis en place une stratégie d’ouverture de ses données pour communiquer sur ses actions et valoriser son expertise. Cependant, ces données (rapports d’évaluation, vigilances de médicaments et de dispositifs médicaux, données sur les ruptures de stocks de médicament…) sont complexes et sensibles.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+L’enjeu est donc de concilier l’ouverture des données et la protection des secrets légaux, ainsi que rendre plus intelligibles ces informations.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+## Le terrain de jeu
+
+Le défi consiste donc à développer des outils permettant à l’ANSM de publier ses données et d’innover pour améliorer l’information du public sur le médicament.
+
+#### Les défis techniques
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+- Faire monter en qualité les données afin de permettre leur publication ;
+- automatiser la mise à disposition des données de l’ANSM ;
+- améliorer l’accès et la compréhension des données pour les patients et les professionnels de santé ;
+- croiser des bases de données pour renforcer la capacité d’exploitation et d’information.
+
+#### Les bénéfices
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

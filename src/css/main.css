@@ -1,1 +1,50 @@
 @import './dsfr';
+
+ul, ol {
+  padding-left: 0;
+}
+
+.fr-card__img {
+  background-color: #bff1f1;
+
+  img {
+    object-fit: contain;
+  }
+}
+
+.c-project-head {
+  position: relative;
+
+  &__title {
+    color: var(--bf500);
+    padding-left: 60px;
+
+    @media (min-width: 62em) {
+      padding-left: 0;
+    }
+  }
+
+  &__meta {
+    margin-bottom: 0;
+
+    img {
+      width: 24px;
+      height: auto;
+      vertical-align: middle;
+      margin-right: 10px;
+    }
+  }
+
+  &__picto {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 50px;
+    height: auto;
+
+    @media (min-width: 62em) {
+      position: static;
+      width: 100%;
+    }
+  }
+}
