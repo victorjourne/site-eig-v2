@@ -4,7 +4,8 @@ town: 93200 Saint-Denis
 description: Accompagner l’ouverture des données sur les médicaments
 who: Agence nationale de sécurité des médicaments et des produits de santé
 date: 2016-12-17T15:04:10.000Z
-expertises: Data science
+expertises:
+- Data science
 image: /img/picto-defi.svg
 ---
 
