@@ -7,3 +7,4 @@ import './js/dsfr.module';
 
 // More
 import './js/grid.js';
+import './js/tarteaucitron.js';

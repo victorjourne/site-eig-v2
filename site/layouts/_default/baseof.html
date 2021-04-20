@@ -9,6 +9,7 @@
 
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
+    <script src="/tarteaucitron/tarteaucitron.js"></script>
     {{ $script := .Site.Data.webpack.main }}
     {{ with $script.js }}
       <script src="{{ relURL . }}"></script>

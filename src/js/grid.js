@@ -1,6 +1,6 @@
 const Isotope = require('isotope-layout');
 
-export default class Header {
+export default class Grid {
   constructor() {
      this.setupIsotope();
   }
@@ -17,7 +17,6 @@ export default class Header {
     if(filter != '*') {
       filter = '.is-cat-' + filter;
     }
-    console.log(filter);
 
     this.isotope.arrange({
       filter
@@ -25,4 +24,4 @@ export default class Header {
   }
 }
 
-new Header();
+new Grid();

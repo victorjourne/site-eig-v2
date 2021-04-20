@@ -67,6 +67,7 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
-    "isotope-layout": "^3.0.6"
+    "isotope-layout": "^3.0.6",
+    "tarteaucitronjs": "^1.9.0"
   }
 }

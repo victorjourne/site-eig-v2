@@ -1,4 +1,5 @@
 @import './dsfr';
+@import './dsfr-theme-tac';
 
 ul, ol {
   padding-left: 0;

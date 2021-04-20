@@ -10668,6 +10668,11 @@ tar@^2.0.0:
     fstream "^1.0.12"
     inherits "2"
 
+tarteaucitronjs@^1.9.0:
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/tarteaucitronjs/-/tarteaucitronjs-1.9.0.tgz#89d79b4e6fed3d4d0fb1954bcc6ed0698de21e99"
+  integrity sha512-P3Q8xK7/gRMHMIuBDmYUnJdZQIG62SU3eigSOmNJLo4D1YyyddDx6ncc5SzgZM0Tx/d5sFGTu3BOjlQx+kD/qw==
+
 teeny-tap@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/teeny-tap/-/teeny-tap-0.2.0.tgz#167e645182d06ac222d62bb2ab67947a70a58a68"
