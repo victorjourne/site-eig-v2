@@ -8,6 +8,8 @@ title = "Homepage"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
+removePathAccents = true
+
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
