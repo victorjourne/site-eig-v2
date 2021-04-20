@@ -3,3 +3,8 @@ title = "Entrepreneurs d'intérêt général"
 
 [taxonomies]
   expertise = "expertises"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
