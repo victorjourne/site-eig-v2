@@ -13,9 +13,10 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Client", name: "who", widget: "string"}
+      - {label: "Lieu", name: "town", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime"}
       - {label: "Expertises", name: "expertises", widget: "select", multiple: true, options: ["Data Engineering", "Data science", "Design", "Développement", "Géomatique", "Juriste"]}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Contenu", name: "body", widget: "markdown"}
   # - name: "pages"
   #   label: "Pages"
