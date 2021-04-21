@@ -1,14 +1,15 @@
 ---
 title: DataMed
-town: 93200 Saint-Denis
 description: Accompagner l’ouverture des données sur les médicaments
 who: Agence nationale de sécurité des médicaments et des produits de santé
+town: 93200 Saint-Denis
 date: 2016-12-17T15:04:10.000Z
 expertises:
   - Data science
   - Design
 image: /img/picto-defi.svg
 ---
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x64z39w" width="100%" height="100%" allowfullscreen > </iframe> </div>
 
 ## Le contexte
 
@@ -32,10 +33,10 @@ Le défi consiste donc à développer des outils permettant à l’ANSM de publi
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
-- Faire monter en qualité les données afin de permettre leur publication ;
-- automatiser la mise à disposition des données de l’ANSM ;
-- améliorer l’accès et la compréhension des données pour les patients et les professionnels de santé ;
-- croiser des bases de données pour renforcer la capacité d’exploitation et d’information.
+* Faire monter en qualité les données afin de permettre leur publication ;
+* automatiser la mise à disposition des données de l’ANSM ;
+* améliorer l’accès et la compréhension des données pour les patients et les professionnels de santé ;
+* croiser des bases de données pour renforcer la capacité d’exploitation et d’information.
 
 #### Les bénéfices
 
