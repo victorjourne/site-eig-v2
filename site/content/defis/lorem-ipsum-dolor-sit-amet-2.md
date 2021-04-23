@@ -1,5 +1,5 @@
 ---
-title: Lorem ipsum dolor sit amet
+title: Test 2
 description: Lorem ipsum dolor sit amet
 who: Agence nationale de sécurité des médicaments et des produits de santé
 town: "Bordeaux "
