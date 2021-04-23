@@ -1,6 +1,6 @@
 ---
 title: Test test test test
-description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr
+description: Lorem ipsum dolor sit amet
 who: Organisme
 town: Saint-Maur-des-Fossés
 date: 2021-04-23T12:43:55.892Z
