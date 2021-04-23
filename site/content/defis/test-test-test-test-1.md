@@ -7,8 +7,6 @@ date: 2021-04-23T12:51:12.476Z
 expertises:
   - Data science
   - Data Engineering
-  - Design
-  - Juriste
   - Développement
   - Géomatique
 image: img/picto-defi.svg
