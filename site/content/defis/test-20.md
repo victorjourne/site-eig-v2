@@ -1,12 +1,45 @@
 ---
-title: Test 20
-description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr
-who: Lorem ipsum dolor sit amet, consetetur sadipscing elitr
-town: Monaco
+title: France Transition
+description: Faciliter l'accès aux aides publiques à la transition écologique et énergétique
+who: Commissariat général au développement durable
+town: La Défense (92400)
 date: 2021-04-23T14:55:26.044Z
 expertises:
   - Data science
   - Géomatique
 image: img/picto-defi.svg
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitrLorem ipsum dolor sit amet, consetetur sadipscing elitrLorem ipsum dolor sit amet, consetetur sadipscing elitrLorem ipsum dolor sit amet, consetetur sadipscing elitrLorem ipsum dolor sit amet, consetetur sadipscing elitr
+Dans le cadre de l’initiative du Gouvernement « France Transition Écologique », qui vise à accélérer le financement de projets liés à la transition écologique et énergétique, le Conseil de défense écologique souhaite développer une plateforme unique recensant les aides publiques à destination des particuliers, entreprises et collectivités.
+
+## La problématique : des aides publiques à la transition écologique et énergétique nombreuses mais méconnues et dispersées sur différentes plateformes
+
+Aujourd’hui, l’offre publique en matière de soutien à la transition écologique et énergétique (TEE) est dense, mais très peu connue du grand public, des entreprises et des collectivités. Par exemple, selon une étude Opinion Way, 64% des Français ne seraient pas en mesure de citer une aide financière permettant de réaliser des travaux de rénovation énergétique.
+
+Ces aides sont portées par différentes organisations publiques : ministères, opérateurs, agences nationales et régionales, banques publiques, chambres de commerce et d’industrie (CCI). Les informations se retrouvent alors dispersées sur les plateformes de ces organisations : la base de données du Gouvernement sur les aides publiques aux entreprises, le site d’information des CCI sur les aides aux entreprises, le site de la Banque des Territoires, le site de l’agence de l’environnement et de maîtrise de l’énergie (ADEME), le site de Bpifrance, ou encore le site du ministère de la Transition écologique (MTE).
+
+Chacune de ces organisations propose une multitude de dispositifs d’aide en fonction des situations de chacun, mais aucun acteur n’est en mesure de voir l’ensemble des dispositifs disponibles adaptés à ses besoins.
+
+## Le défi : développer une plateforme unique pour faciliter l’accès aux aides publiques à la transition écologique et énergétique
+
+Le défi consiste en la création d’une plateforme unique qui recense l’ensemble de l’offre publique française en matière d’aides à la TEE.
+
+L’enjeu est de faire connaître les dispositifs de financement, de faciliter l’accompagnement des particuliers, entreprises et collectivités locales dans leurs projets en faveur de la transition énergétique et écologique et d’augmenter les flux d’investissements dans la TEE
+
+Cette plateforme permettra :
+
+* d’**apporter une plus grande visibilité et lisibilité** de l’offre ;
+* de **mobiliser plus facilement les aides** grâce à la possibilité de déposer des demandes ;
+* d’avoir un **accompagnement personnalisé** pour les porteurs de projet grâce à un outil de gestion intégré des dossiers.
+
+D’un point de vue technique la solution devra :
+
+* simplifier et fluidifier le parcours d’aide grâce à une plateforme pensée utilisateur ;
+* s’inscrire dans une démarche de sobriété numérique.
+
+*Ce défi sera réalisé en collaboration avec les équipes de l’Ecolab du Commissariat général au développement durable et de la [Fabrique Numérique](https://beta.gouv.fr/incubateurs/mtes.html) du Ministère de la Transition écologique.*
+
+## Webinaire
+
+Ce défi a été présenté lors du webinaire « Écologie et affaires maritimes » du mardi 12 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-1 "Rediffusion du webinaire").
+
+Rendez-vous sur la [page de présentation de l'appel à candidatures](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html "Présentation de l'appel à candidatures") pour retrouver la liste complète des webinaires.
