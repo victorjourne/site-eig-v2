@@ -4,7 +4,7 @@ description: Améliorer la communication et la collaboration des 1,2 million
   d’agents de l’Education nationale
 who: Ministère de l’Éducation Nationale
 town: Montpellier
-date: 2021-04-23T14:38:12.194Z
+date: 2021-05-06T14:38:12.194Z
 expertises:
   - Développement
 image: img/alphabet.png
