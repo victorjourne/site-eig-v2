@@ -1,5 +1,5 @@
 ---
-title: Test test test test
+title: Test 6
 description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr
 who: Organisme
 town: Saint-Maur-des-Fossés
