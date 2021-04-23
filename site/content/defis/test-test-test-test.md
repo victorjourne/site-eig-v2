@@ -1,6 +1,7 @@
 ---
-title: Test test test test
-description: Lorem ipsum dolor sit amet
+title: Vers l'école pour tous
+description: Simplifier le parcours des familles dont les enfants sont en
+  situation de handicap
 who: Organisme
 town: Saint-Maur-des-Fossés
 date: 2021-04-23T12:43:55.892Z
