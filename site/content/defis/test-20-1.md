@@ -13,7 +13,7 @@ description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
   gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 who: Test
-domain: Testtestestteststest
+domain: Santé et écologie
 town: 75014 Paris
 date: 2021-04-27T14:16:33.385Z
 expertises:
