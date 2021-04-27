@@ -1,6 +1,8 @@
 @import './dsfr';
 @import './dsfr-theme-tac';
 
+@import './components/embed';
+
 ul, ol {
   padding-left: 0;
 }
