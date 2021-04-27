@@ -41,6 +41,7 @@ export default class TAC {
     });
 
     (tarteaucitron.job = tarteaucitron.job || []).push('youtube');
+    (tarteaucitron.job = tarteaucitron.job || []).push('dailymotion');
   }
 }
 
