@@ -1,5 +1,5 @@
 <div class="fr-container fr-mb-20v">
-  <div class="fr-grid-row fr-grid-row--gutters fr-mb-10v js-isotope">
+  <div class="fr-grid-row fr-grid-row--gutters fr-mb-10v js-grid">
     {{ range ( where .Site.RegularPages "Type" "defis" ) }}
       <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3 {{ range $index, $expertises := .Params.expertises }}{{ if gt $index 0 }} {{ end }}is-cat-{{ . | urlize }}{{ end }}">
         {{ .Render "li" }}
