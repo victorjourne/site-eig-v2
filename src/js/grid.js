@@ -6,7 +6,11 @@ export default class Grid {
   }
  
   setupIsotope() {
-    this.isotope = new Isotope(document.querySelector('.js-isotope'));
+    const $isotope = document.querySelector('.js-isotope');
+
+    if(!$isotope) return;
+
+    this.isotope = new Isotope($isotope);
 
     document.querySelector('.js-filter').addEventListener('change', (e) => {
       this.filter(e.target.value);
