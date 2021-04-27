@@ -2,6 +2,7 @@
 title: ADEX
 description: Prévenir les conflits d'intérêts dans le domaine médical
 who: Haute Autorité de Santé
+domain: Santé
 town: Saint-Denis (93200)
 date: 2021-04-23T12:51:12.476Z
 expertises:

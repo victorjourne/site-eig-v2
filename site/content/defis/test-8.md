@@ -3,6 +3,7 @@ title: Alphabet
 description: Améliorer la communication et la collaboration des 1,2 million
   d’agents de l’Education nationale
 who: Ministère de l’Éducation Nationale
+domain: Santé
 town: Montpellier
 date: 2021-05-06T14:38:12.194Z
 expertises:

@@ -2,6 +2,7 @@
 title: EIG Link
 description: Assurer la réussite de la promotion EIG 4
 who: Direction interministérielle du numérique
+domain: Santé
 town: Paris (75007)
 date: 2021-04-20T21:51:49.285Z
 expertises:

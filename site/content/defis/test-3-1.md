@@ -2,6 +2,7 @@
 title: Test 3
 description: Lorem ipsum dolor sit amet, consetetur
 who: Lorem ipsum dolor sit amet, consetetur
+domain: Santé
 town: Brive-la-Gaillarde
 date: 2021-04-23T14:40:45.241Z
 expertises:

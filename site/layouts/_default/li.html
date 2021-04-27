@@ -1,7 +1,7 @@
 <div class="fr-card fr-enlarge-link">
   <div class="fr-card__body">
     <p class="fr-card__detail">
-      {{ range $index, $expertises := .Params.expertises }}{{ if gt $index 0 }}, {{ end }}{{ . }}{{ end }} | {{ .Params.town }}</p>
+      {{ .Params.domain }} | {{ .Params.town }}</p>
     <h4 class="fr-card__title">
       <a href="{{ .RelPermalink }}" class="fr-card__link">{{ .Title }}</a>
     </h4>

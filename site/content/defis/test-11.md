@@ -3,6 +3,7 @@ title: Test 11
 description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
 who: Lorem ipsum dolor sit amet, consetetur sadipscing elitr,Lorem ipsum dolor
   sit amet, consetetur sadipscing elitr,
+domain: Santé
 town: Paris
 date: 2021-04-23T14:52:08.810Z
 expertises:

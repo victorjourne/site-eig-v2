@@ -3,6 +3,7 @@ title: Open Collectivités
 description: Simplifier l’accès aux informations financières et statistiques des
   collectivités locales
 who: Direction générale des collectivités locales
+domain: Santé
 town: Paris (75008)
 date: 2021-04-23T13:13:39.688Z
 expertises:

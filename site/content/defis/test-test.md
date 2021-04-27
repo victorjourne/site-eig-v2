@@ -2,6 +2,7 @@
 title: "Test test "
 description: Test
 who: Test
+domain: Santé
 town: "Paris "
 date: 2021-04-23T12:57:15.415Z
 expertises:

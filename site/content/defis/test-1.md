@@ -2,6 +2,7 @@
 title: SIANCE
 description: Améliorer le contrôle des activités nucléaires
 who: Autorité de sûreté nucléaire
+domain: Santé
 town: Montrouge (92120)
 date: 2021-04-23T13:08:15.766Z
 expertises:
