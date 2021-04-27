@@ -40,7 +40,6 @@ export default class TAC {
       "mandatory": true /* Show a message about mandatory cookies */
     });
 
-    (tarteaucitron.job = tarteaucitron.job || []).push('youtube');
     (tarteaucitron.job = tarteaucitron.job || []).push('dailymotion');
   }
 }
