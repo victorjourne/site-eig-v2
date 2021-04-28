@@ -1,6 +1,6 @@
 ---
 title: DataMed
-description: Accompagner l’ouverture des données sur les médicaments
+description: Accompagner l’ouverture des données sur les médicaments - test
 who: Agence nationale de sécurité des médicaments et des produits de santé
 domain: Santé
 town: 93200 Saint-Denis
