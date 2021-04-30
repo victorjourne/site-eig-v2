@@ -9,6 +9,8 @@ expertises:
   - Data science
 image: img/picto-defi.svg
 ---
+{{< dailymotion x80qwbn >}}
+
 ## Le contexte
 
 L’Agence nationale de sécurité des médicaments et des produits de santé (ANSM) souhaite mettre en place des outils lui permettant une plus grande transparence des données sur le médicament pour améliorer l’information disponible.
