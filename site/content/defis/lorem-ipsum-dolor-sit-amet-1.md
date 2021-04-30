@@ -1,6 +1,8 @@
 ---
 title: " PrédiSauvetage"
-description: Sauver des vies en mer en prévenant les accidents maritimes
+description: Sauver des vies en mer en prévenant les accidents maritimes Sauver
+  des vies en mer en prévenant les accidents maritimes Sauver des vies en mer en
+  prévenant les accidents maritimes
 who: Lorem ipsum dolor sit amet
 domain: Santé
 town: Lorem ipsum dolor sit amet
