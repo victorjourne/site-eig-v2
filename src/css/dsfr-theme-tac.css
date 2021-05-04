@@ -181,6 +181,7 @@ button#tarteaucitronPrivacyUrl {
   position: fixed;
   bottom: 0;
   right: 0;
+  display: none !important;
   z-index: 4000;
 }
 .tarteaucitronIconTopLeft {

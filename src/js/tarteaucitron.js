@@ -1,6 +1,14 @@
 export default class TAC {
   constructor() {
-     this.setup();
+    this.setup();
+    this.addCustomTrigger();
+  }
+
+  addCustomTrigger() {
+    document.querySelector('.js-cookies').addEventListener('click', (e) => {
+      e.preventDefault();
+      document.getElementById('tarteaucitronManager').click();
+    })
   }
 
   setup() {
