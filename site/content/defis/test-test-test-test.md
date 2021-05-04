@@ -2,7 +2,7 @@
 title: Vers l'école pour tous
 description: Simplifier le parcours des familles dont les enfants sont en
   situation de handicap
-who: Organisme
+who: Organisme organisme organisme organisme organisme
 domain: Santé
 town: (94068) Saint-Maur-des-Fossés
 date: 2021-04-13T15:41:41.730Z
