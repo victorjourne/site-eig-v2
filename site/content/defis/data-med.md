@@ -1,6 +1,6 @@
 ---
 title: DataMed
-description: Accompagner l’ouverture des données sur les médicaments
+description: Accompagner l’ouverture des données sur les médicaments - test
 who: Agence nationale de sécurité des médicaments et des produits de santé
 domain: Santé
 town: 93200 Saint-Denis
@@ -34,11 +34,15 @@ Le défi consiste donc à développer des outils permettant à l’ANSM de publi
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
-* Faire monter en qualité les données afin de permettre leur publication ;
+* Faire monter en qualité les données afin de [permettre leur publication](https://www.google.com) ;
 * automatiser la mise à disposition des données de l’ANSM ;
 * améliorer l’accès et la compréhension des données pour les patients et les professionnels de santé ;
 * croiser des bases de données pour renforcer la capacité d’exploitation et d’information.
 
 #### Les bénéfices
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Lorem ipsum dolor sit amet, consectetur adipiscing 
+2. elit, sed do eiusmod tempor incididunt ut labore 
+3. et dolore magna aliqua. 
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
