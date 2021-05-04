@@ -51,3 +51,13 @@ ul, ol {
     }
   }
 }
+
+.c-wysiwyg {
+  p {
+    margin-bottom: 1rem;
+  }
+
+  h2 {
+    margin-top: 2.5rem;
+  }
+}

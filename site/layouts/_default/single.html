@@ -23,19 +23,21 @@
           </div>
           <div class="fr-col-12 fr-col-lg-9">
             <h1 class="c-project-head__title">{{ .Title }}</h1>
-            <p class="fr-h4">{{ .Description }}</p>
+            <p class="fr-h4 fr-mb-2v">{{ .Description }}</p>
             <p class="fr-mb-4v">{{ .Params.who }}</p>
-            <p class="c-project-head__meta">
+            <p class="c-project-head__meta fr-mb-1v">
               <img src="img/icon-marker.svg" alt=""> {{ .Params.town }}
             </p>
             <p class="c-project-head__meta">
-              <img src="img/icon-team.svg" alt=""> 
+              <img src="img/icon-team.svg" alt="">
               {{ range $index, $director := .Params.expertises }}{{ if gt $index 0 }}, {{ end }}{{ . }}{{ end }}
             </p>
           </div>
         </div>
       </div>
-      {{ .Content }}
+      <div class="c-wysiwyg">
+        {{ .Content }}
+      </div>
     </div>
   </div>
 </div>
