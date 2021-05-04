@@ -15,6 +15,12 @@ ul, ol {
   }
 }
 
+.fr-card__detail {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .c-project-head {
   position: relative;
 
