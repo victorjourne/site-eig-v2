@@ -49,6 +49,9 @@ export default class TAC {
     });
 
     (tarteaucitron.job = tarteaucitron.job || []).push('dailymotion');
+    tarteaucitron.user.matomoId = 171;
+    tarteaucitron.user.matomoHost = 'https://stats.data.gouv.fr/';
+    (tarteaucitron.job = tarteaucitron.job || []).push('matomo');
   }
 }
 
