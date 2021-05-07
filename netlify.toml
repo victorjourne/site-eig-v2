@@ -8,3 +8,9 @@
 
 [context.deploy-preview]
   command = "yarn build:preview"
+
+[[redirects]]
+  from = "https://site-eig-v2.netlify.app/*"
+  to = "https://eig.lanetscouade.com/*"
+  status = 301
+  force = true
