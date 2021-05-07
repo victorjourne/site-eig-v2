@@ -1,7 +1,7 @@
 ---
-title: Gestion des cookies
+title: Données personnelles
 layout: page
-url: /gestion-des-cookies
+url: /donnees-personnelles
 ---
 ## Lorem ipsum dolor
 

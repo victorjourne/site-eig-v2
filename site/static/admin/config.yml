@@ -24,9 +24,9 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
-      - file: "site/content/cookies.md"
-        label: "Cookies"
-        name: "cookies"
+      - file: "site/content/personal-data.md"
+        label: "Données personnelles"
+        name: "personal-data"
         fields:
           - {label: "Titre", name: title, widget: string}
           - {label: "Contenu", name: "body", widget: "markdown"}
