@@ -12,7 +12,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/defis" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Titre", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Administration", name: "who", widget: "string"}
       - {label: "Domaine", name: "domain", widget: "string", pattern: ['^.{1,20}$', "20 caractères maximum"]}
@@ -21,28 +21,16 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Expertises", name: "expertises", widget: "select", multiple: true, options: ["Data Engineering", "Data science", "Design", "Développement", "Géomatique", "Juriste"]}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Contenu", name: "body", widget: "markdown"}
-  # - name: "pages"
-  #   label: "Pages"
-  #   files:
-  #     - file: "site/content/_index.md"
-  #       label: "Home Page"
-  #       name: "home"
-  #       fields:
-  #         - {label: Title, name: title, widget: string}
-  #         - {label: Subtitle, name: subtitle, widget: string}
-  #         - {label: Image, name: image, widget: image}
-  #         - {label: "Blurb", name: blurb, widget: object, fields: [
-  #             {label: "Heading", name: "heading", widget: string},
-  #             {label: "Text", name: "text", widget: "text"}]}
-  #         - {label: "Intro", name: intro, widget: object, fields: [
-  #             {label: "Heading", name: "heading", widget: string},
-  #             {label: "Text", name: "text", widget: "text"}]}
-  #         - {label: "Products", name: products, widget: list, fields: [
-  #             {label: "Image", name: "image", widget: "image"},
-  #             {label: "Text", name: "text", widget: "text"}]}
-  #         - {label: "Values", name: "values", widget: "object", fields: [
-  #             {label: "Heading", name: "heading", widget: string},
-  #             {label: "Text", name: "text", widget: "text"}]}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "site/content/cookies.md"
+        label: "Cookies"
+        name: "cookies"
+        fields:
+          - {label: "Titre", name: title, widget: string}
+          - {label: "Contenu", name: "body", widget: "markdown"}
+          
   #     - file: "site/content/contact/_index.md"
   #       label: "Contact Page"
   #       name: "contact"
