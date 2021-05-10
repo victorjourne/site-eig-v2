@@ -7,6 +7,11 @@ ul, ol {
   padding-left: 0;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .fr-card__img {
   background-color: #bff1f1;
 
