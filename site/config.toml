@@ -1,7 +1,7 @@
-baseurl = "https://eig.lanetscouade.com/"
+baseurl = "/"
 languageCode = "fr-fr"
 languageLang = "fr"
-title = "Entrepreneurs d'intérêt général - Projets de la promotion 5"
+title = "Entrepreneurs d'intérêt général"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
