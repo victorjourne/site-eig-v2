@@ -17,10 +17,10 @@ image: img/icone-eig.png
 1. ***Ainsi, la Plateforme d’Accompagnement à Distance (PAD), mise en place par l’EPNAK*** (Etablissement Public National Antoine Koenigswarter), permet des parcours de réadaptation professionnelle à distance, essentiellement sur le volet pédagogique et la formation à distance.
 2. **Dans le cadre d’un partenariat étroit entre Etablissements publics, la Cnam** (Groupe UGECAM) et l’EPNAK, deux opérateurs clés de la réadaptation professionnelle, souhaitent développer ensemble cette plateforme numérique sur l’activité d’accompagnement médico-psycho-social, en mutualisant leurs ressources pour industrialiser, pérenniser et ouvrir au plus grand nombre les services offerts par la PAD.
 
-   # Test titre
+### Test titre
 
-   ![](img/eig_photo_-metatag-landing-page.jpg)
+![](img/eig_photo_-metatag-landing-page.jpg)
 
-   #### test sous-titre
+#### test sous-titre
 
-   {{< dailymotion x6fp47d >}}
+{{< dailymotion x6fp47d >}}
