@@ -1,0 +1,41 @@
+---
+title: BatID
+description: "Faciliter le suivi de la politique publique en matière de
+  rénovation énergétique des bâtiments "
+who: Agence de l'environnement et de la maîtrise de l'énergie (ADEME)
+domain: Ecologie
+town: 92120 Montrouge
+date: 2021-05-12T15:41:48.018Z
+expertises:
+  - Data Engineering
+  - Juriste
+image: img/picto-defi.svg
+---
+## Le contexte
+
+En France, le secteur du bâtiment représente près de 45% de la consommation d’énergie finale et 27% des émissions de gaz à effet de serre*.
+
+Face à ce constat, l’Etat a lancé un plan de rénovation énergétique des bâtiments, qui vise à atteindre la neutralité carbone d’ici à 2050, tout en poursuivant un objectif de lutte contre la précarité énergétique. 
+
+## La problématique
+
+Malheureusement, le croisement difficile entre les différentes bases de données pertinentes empêche une description fine des bâtiments et donc le suivi des rénovations effectuées. 
+
+## Le terrain de jeu 
+
+Votre mission, si vous l’acceptez, sera de créer un identifiant unique du bâtiment qui deviendra une donnée pivot pour croiser les jeux de données pertinents entre eux.  
+
+#### Vos défis techniques 
+
+La solution :
+* impliquera la construction d’une base de données commune à toutes les bases de données pertinentes, afin d’organiser les flux entre celles-ci
+* permettra de connaître pour chaque bâtiment des informations importantes et de qualité (type de logement, matériaux, étiquette énergétique, type de chauffage, etc.) 
+* nécessitera un travail juridique autour de l’accès à la donnée
+* découlera sur une mise en œuvre politique, pour laquelle il faudra étudier les opportunités réglementaires, les évolutions de textes de lois à envisager, etc. 
+
+#### Votre impact 
+
+Votre outil facilitera considérablement le suivi des travaux menés sur les bâtiments et donc de la politique publique en matière de rénovation énergétique. Il sera alors possible d’ajuster « en temps réel » les mesures prises. 
+
+
+*https://www.ecologie.gouv.fr/sites/default/files/Plan%20de%20r%C3%A9novation%20%C3%A9nerg%C3%A9tique_0.pdf
