@@ -23,14 +23,14 @@ Actuellement, beaucoup de décisions relatives à la gestion des personnels hosp
 
 Venez vous attaquer à cette problématique d'actualité en développant un outil de simulation de la masse salariale des hôpitaux publics qui permettra d'établir des projections de dépenses en personnel. 
 
-### Vos défis techniques
+#### Les défis techniques
 
 La solution : 
 * traitera de gros volumes de données
 * permettra de simuler différentes hypothèses de comportement des salariés ou différentes réformes
 * sera utilisée à tous les échelons territoriaux, par des agents avec un niveau d'expertise très variable
 
-### Votre impact
+#### Votre impact
 
 Grâce à vous, il sera possible : 
 * de prendre des décisions éclairées en matière de gestion des personnels, sur la base de mesures objectives et chiffrées
