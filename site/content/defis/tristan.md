@@ -23,7 +23,7 @@ Malheureusement, la quantité d’affaires et les modalités de certaines procé
 
 Venez vous attaquer à cette problématique en développant un outil de schématisation des procédures pénales, qui permettra aux magistrats de bien appréhender les dossiers des justiciables. 
 
-Ce projet s’inscrit dans le cadre du programme « Procédure Pénale Numérique » (PPN) qui, en dématérialisant de bout en bout les procédures pénales, vise à accélérer la justice et faciliter le suivi des affaires par les justiciables. 
+_Ce projet s’inscrit dans le cadre du programme « Procédure Pénale Numérique » (PPN) qui, en dématérialisant de bout en bout les procédures pénales, vise à accélérer la justice et faciliter le suivi des affaires par les justiciables._
 
 #### Vos défis techniques 
 
@@ -33,7 +33,7 @@ La solution :
 * pourra exiger un travail de définition sémantique des termes métier 
 * intègrera directement les retours des magistrats
 
-Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un data engineer avec une appétence pour la data science, d’un développeur front et d’un UX designer.
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une data engineer avec une appétence pour la data science, d’un développeur front ou une développeuse front et d’un ou une UX designer._
 
 #### Votre impact 
 
