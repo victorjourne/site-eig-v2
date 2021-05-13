@@ -1,10 +1,11 @@
 ---
 title: e-PSHAD
-description: "Proposer un accompagnement professionnel adapté aux personnes en
-  situation de handicap "
-who: Caisse nationale de l'assurance maladie / EPNAK
-domain: "?"
-town: "91000 Evry "
+description: Proposer un accompagnement professionnel adapté aux personnes en
+  situation de handicap
+who: "Etablissement Public National Antoine Koenigswarter (EPNAK) + Caisse
+  nationale d’assurance maladie (CNAM) "
+domain: Formation
+town: 91000 Evry + 75020 Paris
 date: 2021-05-12T14:59:52.765Z
 expertises:
   - Développement
@@ -13,29 +14,32 @@ image: img/picto-defi.svg
 ---
 ## Le contexte
 
-Les établissements et services médicosociaux de réadaptation professionnelle ont pour mission de favoriser l’insertion professionnelle des personnes en situation de handicap. 
+Les personnes en situation de handicap représentent aujourd’hui une population fragile sur le marché du travail, confrontées à un taux de chômage deux fois plus élevé que la population générale. Les établissements et services médicosociaux de réadaptation professionnelle ont pour mission de favoriser leur insertion professionnelle. 
 
 ## La problématique
 
-Les personnes en situation de handicap représentent aujourd’hui une population fragile sur le marché du travail, confrontée à un taux de chômage deux fois plus élevé que la population générale. 
-La formation constitue un premier levier d’insertion professionnelle, mais il n’existe malheureusement pas de solution d’apprentissage à distance qui intègre l’accompagnement médicosocial essentiel pour les personnes en situation de handicap. 
+Jusqu’alors, les personnes en situation de handicap devaient se déplacer, parfois très loin de leur domicile, pour bénéficier des services de ces établissements. Cela pouvait les conduire à y renoncer ou contraindre leurs choix. 
 
 ## Le terrain de jeu 
 
-Venez-vous attaquer à cette problématique en développant une plateforme numérique d’accompagnement professionnel à distance pour les personnes en situation de handicap suivies par des établissements et services médico-sociaux en réadaptation professionnelle. 
+Vous voulez résoudre ce problème ? Venez développer une plateforme numérique d’accompagnement professionnel à distance pour les personnes en situation de handicap. 
 
 #### Vos défis techniques 
 
 La solution : 
-* intègrera trois volets : pédagogie, formation et accompagnement médicosocial
-* proposera un éventail de fonctionnalités adaptées à ces publics (cartographie des offres, outils de suivi et d’auto-évaluation, échange entre pairs, etc.)
-* sera résolument centrée utilisateurs
-* accordera une importance très particulière à l’accessibilité
+* comportera trois volets : pédagogie, formation à distance et accompagnement médicosocial
+* intègrera un éventail de fonctionnalités adaptées à ces publics (cartographie des offres, outils de suivi de parcours et d’auto-évaluation, échanges entre pairs, etc.) 
+* se construira à partir d’un socle existant, la Plateforme d’Accompagnement à Distance mise en place par l’EPNAK, qui pourra être challengé
+* sera résolument centrée utilisateurs et accordera une importance toute particulière à l’accessibilité
+* sera testé sur un pool de sites pilotes UGECAM et EPNAK, avant de pouvoir être généralisé à tous les établissements et services de la réadaptation professionnelle
+
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer et de deux développeurs ou développeuses. Les profils devront avoir une forte sensibilité à l’accessibilité (une expérience associée serait un plus)._
 
 #### Votre impact 
 
-L’outil que vous aurez conçu :
-* développera le « pouvoir d’agir » des personnes en situation de handicap sur leur parcours
-* favorisera l’acculturation des personnes en situation de handicap aux outils numériques
-* permettra d’ouvrir l’accès au plus grand nombre à des services spécialisés
-pour in fine, renforcer les chances d’insertion professionnelle des personnes en situation de handicap. 
+Votre travail et votre engagement permettront de : 
+* développer le « pouvoir d’agir » des personnes en situation de handicap sur leur parcours, qui pourront alors personnaliser leurs accompagnements de manière souple
+* leur donner accès à une offre élargie, sans limites territoriales 
+* proposer les services spécialisés de réadaptation professionnelle au plus grand nombre
+* pour in fine, renforcer les chances d’insertion professionnelle des personnes en situation de handicap. 
+
