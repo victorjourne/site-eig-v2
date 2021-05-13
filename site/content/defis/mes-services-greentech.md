@@ -34,7 +34,7 @@ La solution :
 * pourra intégrer API, moteur de recherche, ETL, webscrapping ou encore NLP/reconnaissance sémantique 
 * sera testée sur les startups labellisées GreenTech Innovation et les 27 membres du Réseau national d’incubateurs GreenTech, avant d’être proposé à l’ensemble de l’écosystème
 
-Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un designer UX/UI, d’un développeur back-end et d’un développeur full-stack. 
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une designer UX/UI, d’un développeur back-end ou une développeuse back-end et d’un développeur full-stack ou une développeuse full-stack._
 
 #### Votre impact 
 
