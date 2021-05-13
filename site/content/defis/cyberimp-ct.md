@@ -1,6 +1,6 @@
 ---
 title: cyberIMP@CT
-description: Aider la Gendarmerie Nationale à mieux comprendre les citoyens pour
+description: Aider la Gendarmerie nationale à mieux comprendre les citoyens pour
   mieux les protéger
 who: "Direction Générale de la Gendarmerie nationale "
 domain: Sécurité
@@ -13,26 +13,30 @@ image: img/picto-defi.svg
 ---
 ## Le contexte
 
-La Gendarmerie Nationale, c’est 130 000 femmes et hommes au service de la population sur 95% du territoire physique. Elle est tout aussi présente dans le monde numérique, à travers plusieurs services et interfaces (Je donne mon avis, PERCEV@L, ServicesPublics+, VISIBRAIN, cybermalveillance.gouv.fr, etc.) 
+La Gendarmerie nationale, c’est 130 000 femmes et hommes au service de la population sur 95% du territoire physique. Mais elle est tout aussi présente dans le monde numérique, à travers plusieurs services et interfaces (Je donne mon avis, Percev@l, ServicesPublics+, les réseaux sociaux, cybermalveillance.gouv.fr, etc.).
 
 ## La problématique
 
-Malheureusement, ces interfaces ne sont pas corrélées, créant un éparpillement des données qui empêche la constitution d’une vision consolidée ainsi qu’un pilotage simple des actions cyber. 
+Malheureusement, ces interfaces ne sont pas corrélées, créant un éparpillement des données qui empêche la constitution d’une vision consolidée ainsi qu’un pilotage simple des actions en ligne. 
 
 ## Le terrain de jeu 
 
-Intégrez les équipes de la Gendarmerie Nationale pour créer un outil qui permettra de suivre, exploiter et visualiser les données issues de toutes les plateformes numériques en place. 
+Intégrez les équipes de la Gendarmerie nationale pour créer un outil qui permettra de suivre, exploiter et visualiser les données issues de toutes les plateformes numériques en place. 
 
 #### Vos défis techniques 
 
 La solution : 
 * intègrera 3 piliers principaux : la visibilité (proximité numérique, téléservices, management de présence, etc.), la perception des usagers (avis Monavis, ServicesPublics+, etc.) et les acteurs (prise en compte des victimes de cybermalveillance et actions de prévention)
 * proposera des data-visualisations correspondant aux besoins métier identifiés
-* pourra intégrer ETL, ESB ou encore API 
+
+Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une designer avec une expertise en data-visualisation et d’un développeur ou une développeuse back-end et/ou d’un ou une data engineer. Les profils parfaits auront une capacité de cadrage, d’exploration et seront particulièrement proactifs. 
 
 #### Votre impact 
 
-Grâce à vous, les gendarmes pourront :
-* suivre en temps réel l’impact de leurs actions dans le monde numérique et les adapter, comme la proximité numérique avec le citoyen 
-* mieux comprendre les citoyens pour adapter leurs actions et mettre en adéquation les moyens humains et financiers déployés 
-* réagir rapidement à des signaux faibles (mouvements de foule, panique numérique, diffusion en masse de rumeurs erronées, etc.) et à tous types de crise (climatique, écologique, sanitaire, etc.) 
+L’outil que vous concevrez ouvrira le champ des possibles pour les gendarmes qui pourront alors : 
+* suivre en temps réel l’impact de leurs actions en ligne, notamment la qualité de la proximité numérique avec les citoyens
+* mieux comprendre les citoyens 
+* adapter leurs actions physiques et en ligne et mettre en adéquation les moyens humains et financiers déployés 
+-	réagir rapidement à des signaux faibles (mouvements de foule, panique numérique, diffusion en masse de rumeurs erronées, etc.) et à tous types de crise (climatique, écologique, sanitaire, etc.)
+
+L’ensemble concourra vers une meilleure protection des citoyens. 
