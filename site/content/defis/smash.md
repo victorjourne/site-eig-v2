@@ -13,7 +13,7 @@ image: img/picto-defi.svg
 
 L’hôpital public représente aujourd’hui 1,04 million de salariés, pour des dépenses de personnel qui s’élèvent à 46,9 milliards d’euros (en 2018). Il s’agit du premier poste de dépense des établissements de santé. 
 
-En juillet 2020 ont été signés les accords du Ségur de la santé, qui visent à revaloriser l’ensemble des carrières du soin. Cette réforme d’envergure fera très certainement évoluer les comportements des salariés des établissements de santé, impliquant une incertitude forte sur l’évolution des masses salariales et donc des dépenses de santé. 
+En juillet 2020 ont été signés [les accords du Ségur de la santé](https://solidarites-sante.gouv.fr/systeme-de-sante-et-medico-social/segur-de-la-sante-les-conclusions/), qui visent à revaloriser l’ensemble des carrières du soin. Cette réforme d’envergure fera très certainement évoluer les comportements des salariés des établissements de santé, impliquant une incertitude forte sur l’évolution des masses salariales et donc des dépenses de santé. 
 
 ## La problématique
 
@@ -30,7 +30,7 @@ La solution :
 * permettra de simuler différentes hypothèses de comportement des salariés ou réformes
 * sera utilisée à tous les échelons territoriaux, par des agents avec un niveau d’expertise très variable 
 
-Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une data scientist avec des compétences en conception et pilotage de projet, et d’un ou une data scientist avec une expertise en programmation et en gestion de données volumineuses. 
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une data scientist avec des compétences en conception et pilotage de projet, et d’un ou une data scientist avec une expertise en programmation et en gestion de données volumineuses._
 
 #### Votre impact 
 
