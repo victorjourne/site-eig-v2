@@ -1,8 +1,8 @@
 ---
 title: UrssafassuR
-description: "Sécuriser la relation particuliers-entrepreneurs lors de travaux "
+description: Sécuriser la relation particuliers-entrepreneurs lors de travaux
 who: Urssaf Caisse nationale
-domain: "?"
+domain: Protection sociale
 town: 93108 Montreuil
 date: 2021-05-12T15:51:27.913Z
 expertises:
@@ -12,23 +12,31 @@ image: img/picto-defi.svg
 ---
 ## Le contexte
 
-Nombreux sont les particuliers qui font appel à des entrepreneurs pour réaliser des travaux à leurs domiciles : en 2019, on comptait 1,6 millions d’auto-entrepreneurs en France, pour 13,5 milliards d’euros de chiffre d’affaires. 
+Nombreux sont les particuliers qui font appel à des entrepreneurs pour réaliser des travaux à leur domicile : en 2019, on comptait 1,6 millions d’autoentrepreneurs en France, pour un chiffre d’affaires de 13,5 milliards d’euros. 
 
 ## La problématique
 
-Malgré le volume, peu de particuliers vérifient la « régularité » des entrepreneurs sollicités et beaucoup ignorent les risques potentiels en cas d’irrégularité (responsabilité en cas d’accident, pas d’assurance en cas de malfaçons ou de sinistre, sanctions en cas de contrôle, etc.). Très souvent, ils ne savent pas non plus où trouver ces informations. 
+Malgré ce volume, peu de particuliers vérifient la « régularité » des entrepreneurs sollicités et beaucoup ignorent les risques potentiels en cas d’irrégularité (responsabilité en cas d’accident, pas d’assurance en cas de malfaçons ou de sinistre, sanctions en cas de contrôle, etc.). Très souvent, elles et ils ne savent pas non plus où trouver ces informations. 
 
 ## Le terrain de jeu 
 
-Urssaf Caisse Nationale a besoin de vous pour développer un service en ligne permettant aux particuliers de vérifier la régularité des prestataires envisagés pour la réalisation de leurs travaux. 
+Urssaf Caisse Nationale a besoin de vous pour développer un service en ligne qui permettra aux particuliers de vérifier la régularité des prestataires envisagés pour la réalisation de leurs travaux. 
 
 #### Vos défis techniques 
 
 La solution : 
-* permettra aux particuliers de vérifier l’existence et l’activité de l’autoentrepreneur
+* permettra aux particuliers, à partir du numéro SIRET, de vérifier l’existence et l’activité de l’autoentrepreneur 
 * partagera aux particuliers une « fiche situation » de l’autoentrepreneur, ou les notifiera d’un refus de partage de sa part
 * sera résolument centrée utilisateurs
+* sera initialement développée pour des contrats inférieurs à 5 000€ hors taxe, avant d’être élargie à tous types de contrat
+
+Les agents publics qui portent ce projet ont besoin de renfort et sont à la recherche d’un UX designer et d’un développeur API et interfaces. 
 
 #### Votre impact 
 
-Grâce à vous, les particuliers pourront sécuriser la contractualisation avec leurs prestataires, les prestataires seront protégés contre la concurrence faussée et incités à exercer dans la réglementation et l’Urssaf pourra procéder à un meilleur recouvrement des cotisations pour la sécurité sociale et lutter plus efficacement contre la fraude et le travail dissimulé. 
+Imaginez : demain, Mme Terrieur sollicite plusieurs entrepreneurs pour la rénovation de son installation électrique. Alors qu’elle s’apprête à choisir Mme Sansiret, elle utilise le service que vous aurez conçu et constate l’ « irrégularité » de cette dernière. 
+* Mme Terrieur décide alors de faire appel à un autre entrepreneur, M. Branche dont la situation régulière lui permet de lui confier ce chantier sereinement ; 
+* L’entrepreneur M. Branche constate que de plus en plus de particuliers se préoccupent de la régularité des prestataires, ce qui le conforte à exercer son activité « en règle », au bénéfice d’une concurrence plus juste et loyale ; 
+* L’entrepreneure Mme Sansiret prend conscience de la nécessité de régulariser sa situation. 
+
+En conséquence, l’Urssaf pourra également procéder à un meilleur recouvrement des cotisations pour la sécurité sociale et lutter plus efficacement contre la fraude et le travail dissimulé.
