@@ -30,7 +30,7 @@ La solution :
 * sera résolument centrée utilisateurs
 * sera initialement développée pour des contrats inférieurs à 5 000€ hors taxe, avant d’être élargie à tous types de contrat
 
-Les agents publics qui portent ce projet ont besoin de renfort et sont à la recherche d’un UX designer et d’un développeur API et interfaces. 
+_Les agents publics qui portent ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer et d’un développeur ou une développeuse._ 
 
 #### Votre impact 
 
