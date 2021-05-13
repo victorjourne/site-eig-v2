@@ -36,7 +36,7 @@ La solution devra :
 * être accessible en mode service (API) 
 * être compatible avec les dispositifs terrain des forces de l’ordre
 
-_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou d’une data scientist qui dispose d’une expertise en computer vision et d’un développeur ou d’une développeuse pour la conception d’API, la partie front et l’application mobile._ 
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une data scientist qui dispose d’une expertise en computer vision et d’un développeur ou d’une développeuse pour la conception d’API, la partie front et l’application mobile._ 
 
 #### Votre impact 
 L’application libèrera les forces de l’ordre d’une tâche laborieuse et leur permettra de se concentrer sur des actions métier à plus forte valeur ajoutée (enquêtes, poursuites, …), tout en réduisant le risque d’erreur. 
