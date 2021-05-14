@@ -32,9 +32,7 @@ La solution :
 * permettra de bien aiguiller chaque dossier en assurant la détection de dossier sensible
 * reposera sur un algorithme d’aide à la décision/un modèle de machine learning
 * sera fondamentalement centrée utilisateurs et reposera sur l’animation d’une communauté de testeurs et futurs utilisateurs
-* sera interfacée avec les autres outils de l’Agence
-
-Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer, d’un ou une data scientist maîtrisant Python et disposant de connaissances en NLP et d’un développeur ou une développeuse full stack avec une bonne connaissance de Python et de React (Docker serait un plus).  
+* sera interfacée avec les autres outils de l’Agence  
 
 #### Votre impact 
 
@@ -45,3 +43,5 @@ Grâce à vous, l’ANSM pourra :
 * garantir la cohérence des modes de traitement entre ses différentes directions
 
 L’ensemble permettra de renforcer la confiance des citoyens dans l’expertise des autorités sanitaires. 
+
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer, d’un ou une data scientist maîtrisant Python et disposant de connaissances en NLP et d’un développeur ou une développeuse full stack avec une bonne connaissance de Python et de React (Docker serait un plus)._
