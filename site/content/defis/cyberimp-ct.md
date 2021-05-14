@@ -20,17 +20,17 @@ Malheureusement, ces interfaces ne sont pas corrélées, créant un éparpilleme
 
 ## Le terrain de jeu 
 
-Intégrez les équipes de la Gendarmerie nationale pour créer un outil qui permettra de suivre, exploiter et visualiser les données issues de toutes les plateformes numériques en place. 
+Intégrez les équipes de la Gendarmerie nationale pour créer un outil qui permettra de suivre, exploiter et visualiser de manière pertinente les données issues de toutes les plateformes numériques en place. 
 
 #### Vos défis techniques 
 
 La solution : 
-* intègrera 3 piliers principaux : la visibilité (proximité numérique, téléservices, management de présence, etc.), la perception des usagers (avis Monavis, ServicesPublics+, etc.) et les acteurs (prise en compte des victimes de cybermalveillance et actions de prévention)
+* intègrera 3 piliers principaux : la visibilité, la perception des usagers et les acteurs
 * proposera des data-visualisations correspondant aux besoins métier identifiés
 
 #### Votre impact 
 
-L’outil que vous concevrez ouvrira le champ des possibles pour les gendarmes qui pourront alors : 
+L’outil que vous concevrez ouvrira le champ des possibles pour les gendarmes qui pourront : 
 * suivre en temps réel l’impact de leurs actions en ligne, notamment la qualité de la proximité numérique avec les citoyens
 * mieux comprendre les citoyens 
 * adapter leurs actions physiques et en ligne et mettre en adéquation les moyens humains et financiers déployés 
@@ -38,4 +38,4 @@ L’outil que vous concevrez ouvrira le champ des possibles pour les gendarmes q
 
 L’ensemble concourra vers une meilleure protection des citoyens. 
 
-_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une designer avec une expertise en data-visualisation et d’un développeur ou une développeuse back-end (et/ou d’un ou une data engineer). Les profils parfaits auront une bonne capacité de cadrage, d’exploration et seront particulièrement proactifs._
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une designer avec une expertise en data-visualisation et d’un développeur ou une développeuse back-end (et/ou d’un ou une data engineer). Les profils idéaux auront une bonne capacité de cadrage, d’exploration et seront particulièrement proactifs._
