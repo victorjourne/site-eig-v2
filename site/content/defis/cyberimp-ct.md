@@ -29,14 +29,14 @@ La solution :
 * intègrera 3 piliers principaux : la visibilité (proximité numérique, téléservices, management de présence, etc.), la perception des usagers (avis Monavis, ServicesPublics+, etc.) et les acteurs (prise en compte des victimes de cybermalveillance et actions de prévention)
 * proposera des data-visualisations correspondant aux besoins métier identifiés
 
-Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une designer avec une expertise en data-visualisation et d’un développeur ou une développeuse back-end et/ou d’un ou une data engineer. Les profils parfaits auront une capacité de cadrage, d’exploration et seront particulièrement proactifs. 
-
 #### Votre impact 
 
 L’outil que vous concevrez ouvrira le champ des possibles pour les gendarmes qui pourront alors : 
 * suivre en temps réel l’impact de leurs actions en ligne, notamment la qualité de la proximité numérique avec les citoyens
 * mieux comprendre les citoyens 
 * adapter leurs actions physiques et en ligne et mettre en adéquation les moyens humains et financiers déployés 
--	réagir rapidement à des signaux faibles (mouvements de foule, panique numérique, diffusion en masse de rumeurs erronées, etc.) et à tous types de crise (climatique, écologique, sanitaire, etc.)
+* réagir rapidement à des signaux faibles (mouvements de foule, panique numérique, diffusion en masse de rumeurs erronées, etc.) et à tous types de crise (climatique, écologique, sanitaire, etc.)
 
 L’ensemble concourra vers une meilleure protection des citoyens. 
+
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une designer avec une expertise en data-visualisation et d’un développeur ou une développeuse back-end (et/ou d’un ou une data engineer). Les profils parfaits auront une bonne capacité de cadrage, d’exploration et seront particulièrement proactifs._
