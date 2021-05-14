@@ -29,7 +29,7 @@ _Ce projet s’inscrit dans le cadre du programme « Procédure Pénale Numéri
 
 La solution : 
 * permettra de réconcilier les données pénales disponibles
-* automatisera la schématisation des affaires pénales, avec pour piste envisagée une présentation temporelle des éléments clés
+* automatisera la schématisation des affaires pénales, avec pour piste envisagée une présentation temporelle des éléments clés d'une affaire
 * pourra exiger un travail de définition sémantique des termes métier 
 * intègrera directement les retours des magistrats
 
