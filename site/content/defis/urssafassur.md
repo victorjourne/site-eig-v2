@@ -1,6 +1,6 @@
 ---
 title: UrssafassuR
-description: Sécuriser la relation particuliers-entrepreneurs lors de travaux
+description: "Sécuriser la relation particuliers-entrepreneurs lors de travaux "
 who: Urssaf Caisse nationale
 domain: Protection sociale
 town: 93108 Montreuil
