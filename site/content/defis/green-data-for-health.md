@@ -35,7 +35,7 @@ La solution :
 
 #### Votre impact 
 
-Grâce à vous, les chercheurs pourront accéder à des données dont ils ignoraient jusqu’alors l’existence et économiser un temps précieux sur leur traitement. Cela permettra d’accélérer la production de connaissance quant à l’impact de l’environnement sur la santé. 
+Grâce à vous, les chercheurs pourront accéder à des données dont ils ignoraient jusqu’alors l’existence et économiser un temps précieux sur leur traitement. Cela permettra d’accélérer la production de connaissance concernant l’impact de l’environnement sur la santé. 
 
 Ainsi, citoyens et décideurs seront mieux informés sur ces effets et pourront agir pour protéger la santé de tous. 
 
