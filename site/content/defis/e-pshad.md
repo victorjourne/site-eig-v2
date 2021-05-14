@@ -29,14 +29,13 @@ Vous voulez résoudre ce problème ? Venez développer une plateforme numérique
 La solution : 
 * comportera trois volets : pédagogie, formation à distance et accompagnement médicosocial
 * intègrera un éventail de fonctionnalités adaptées à ces publics (cartographie des offres, outils de suivi de parcours et d’auto-évaluation, échanges entre pairs, etc.) 
-* se construira à partir d’un socle existant, la Plateforme d’Accompagnement à Distance mise en place par l’EPNAK, qui pourra être challengé
+* sera construite à partir d’un socle existant, la Plateforme d’Accompagnement à Distance de l’EPNAK, qui pourra être challengé
 * sera résolument centrée utilisateurs et accordera une importance toute particulière à l’accessibilité
-* sera testé sur un pool de sites pilotes UGECAM et EPNAK, avant de pouvoir être généralisé à tous les établissements et services de la réadaptation professionnelle
 
 #### Votre impact 
 
 Votre travail et votre engagement permettront de : 
-* développer le « pouvoir d’agir » des personnes en situation de handicap sur leur parcours, qui pourront alors personnaliser leurs accompagnements de manière souple
+* développer le « pouvoir d’agir » des personnes en situation de handicap sur leur parcours, qui pourront personnaliser leurs accompagnements de manière souple
 * leur donner accès à une offre élargie, sans limites territoriales 
 * proposer les services spécialisés de réadaptation professionnelle au plus grand nombre
 * pour in fine, renforcer les chances d’insertion professionnelle des personnes en situation de handicap. 
