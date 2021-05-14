@@ -1,7 +1,7 @@
 ---
 title: e-PSHAD
-description: Proposer un accompagnement professionnel adapté aux personnes en
-  situation de handicap
+description: "Proposer un accompagnement professionnel adapté aux personnes en
+  situation de handicap "
 who: "Etablissement Public National Antoine Koenigswarter (EPNAK) + Caisse
   nationale d’assurance maladie (CNAM) "
 domain: Formation
