@@ -39,3 +39,5 @@ Par la création de cet identifiant unique du bâtiment, vous ouvrirez le champ 
 * suivi fin des travaux menés sur les bâtiments, et donc de la politique publique en matière de rénovation énergétique ;
 * ajustement « en temps réel » des mesures prises dans ce domaine ; 
 * utilisation possible dans le cadre des appels aux services de secours, des demandes d’aides publiques ou encore l’organisation de la vie publique locale (gestion des déchets, services publics, etc.) 
+
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une data engineer et d’un ou une juriste du numérique._
