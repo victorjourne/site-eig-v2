@@ -34,7 +34,6 @@ La solution devra :
 * reposer sur une démarche UX, guidée par le Lead UX du laboratoire d’innovation
 * reposer sur un modèle d’intelligence artificielle entraîné
 * être accessible en mode service (API) 
-* être compatible avec les dispositifs terrain des forces de l’ordre
 
 #### Votre impact 
 L’application libèrera les forces de l’ordre d’une tâche laborieuse et leur permettra de se concentrer sur des actions métier à plus forte valeur ajoutée (enquêtes, poursuites, …), tout en réduisant le risque d’erreur. 
