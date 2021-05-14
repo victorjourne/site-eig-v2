@@ -12,7 +12,7 @@ image: img/picto-defi.svg
 ---
 ## Le contexte
 
-Avec 100 000 agents, la Direction Générale des Finances Publiques (DGFiP) est présente sur l’ensemble du territoire français pour mener des missions très variées : gestion des recettes et dépenses de l’Etat et des collectivités territoriales, tenue des comptes publics, lutte contre la fraude fiscale, etc. Elle s’est engagée depuis plusieurs année dans de nombreux chantiers de modernisation, pour être au plus près de ses usagers et de leurs besoins. 
+Avec 100 000 agents, la Direction Générale des Finances Publiques (DGFiP) est présente sur l’ensemble du territoire français pour mener des missions très variées : gestion des recettes et dépenses de l’Etat et des collectivités territoriales, tenue des comptes publics, lutte contre la fraude fiscale, etc. Elle s’est engagée depuis plusieurs année dans de nombreux chantiers de modernisation pour être au plus près de ses usagers et de leurs besoins. 
 
 ## La problématique
 
