@@ -33,8 +33,6 @@ La solution :
 * sera résolument centrée utilisateurs et accordera une importance toute particulière à l’accessibilité
 * sera testé sur un pool de sites pilotes UGECAM et EPNAK, avant de pouvoir être généralisé à tous les établissements et services de la réadaptation professionnelle
 
-_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer et de deux développeurs ou développeuses. Les profils devront avoir une forte sensibilité à l’accessibilité (une expérience associée serait un plus)._
-
 #### Votre impact 
 
 Votre travail et votre engagement permettront de : 
@@ -42,4 +40,7 @@ Votre travail et votre engagement permettront de :
 * leur donner accès à une offre élargie, sans limites territoriales 
 * proposer les services spécialisés de réadaptation professionnelle au plus grand nombre
 * pour in fine, renforcer les chances d’insertion professionnelle des personnes en situation de handicap. 
+
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer et de deux développeurs ou développeuses. Les profils devront avoir une forte sensibilité à l’accessibilité (une expérience associée serait un grand plus)._
+
 
