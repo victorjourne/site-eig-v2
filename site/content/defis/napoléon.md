@@ -25,14 +25,14 @@ Vous voulez aider les agents concernés par cette gestion laborieuse ? Venez d�
 #### Vos défis techniques 
 
 La solution : 
--	dématérialisera de bout en bout l’attribution des distinctions honorifiques 
--	intègrera des tableaux de bord de suivi des dossiers
--	permettra une remontée des lauréats qui peuvent prétendre à une promotion 
--	sera résolution centrée utilisateurs (agents instructeurs et/ou intégrateurs)
--	impliquera une formation des agents utilisateurs 
-
-_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer et d’un développeur ou une développeuse._
+* dématérialisera de bout en bout l’attribution des distinctions honorifiques 
+* intègrera des tableaux de bord de suivi des dossiers
+* permettra une remontée des lauréats qui peuvent prétendre à une promotion 
+* sera résolution centrée utilisateurs (agents instructeurs et/ou intégrateurs)
+* impliquera une formation des agents utilisateurs 
 
 #### Votre impact 
 
 Grâce à vos propositions, le travail d’instruction d’un très grand nombre d’agents (en administrations centrales et dans une centaine de préfectures) sera simplifié, ce qui leur donnera davantage de temps pour étudier les dossiers en profondeur. L’outil conçu pourra être mutualisé et prendre une dimension interministérielle. 
+
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer et d’un développeur ou une développeuse._
