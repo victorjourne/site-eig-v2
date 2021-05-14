@@ -1,7 +1,6 @@
 ---
 title: cyberIMP@CT
-description: Aider la Gendarmerie nationale à mieux comprendre les citoyens pour
-  mieux les protéger
+description: Mieux comprendre les citoyens pour mieux les protéger
 who: "Direction Générale de la Gendarmerie nationale "
 domain: Sécurité
 town: 92130 Issy-les-Moulineaux
