@@ -33,10 +33,11 @@ La solution :
 * prendra en compte les enjeux juridiques de mise à disposition des données environnementales et ceux liés à la sécurité des données de santé avec lesquelles elles ont vocation à être croisées
 * favorisera la synergie entre acteurs de la Santé-Environnement. 
 
-_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer, d’un ou une data engineer et d’un ou une juriste du numérique._
-
 #### Votre impact 
 
 Grâce à vous, les chercheurs pourront accéder à des données dont ils ignoraient jusqu’alors l’existence et économiser un temps précieux sur leur traitement. Cela permettra d’accélérer la production de connaissance quant à l’impact de l’environnement sur la santé. 
 
 Ainsi, citoyens et décideurs seront mieux informés sur ces effets et pourront agir pour protéger la santé de tous. 
+
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer, d’un ou une data engineer et d’un ou une juriste du numérique._
+
