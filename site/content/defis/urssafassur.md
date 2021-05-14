@@ -30,8 +30,6 @@ La solution :
 * sera résolument centrée utilisateurs
 * sera initialement développée pour des contrats inférieurs à 5 000€ hors taxe, avant d’être élargie à tous types de contrat
 
-_Les agents publics qui portent ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer et d’un développeur ou une développeuse._ 
-
 #### Votre impact 
 
 Imaginez : demain, Mme Terrieur sollicite plusieurs entrepreneurs pour la rénovation de son installation électrique. Alors qu’elle s’apprête à choisir Mme Sansiret, elle utilise le service que vous aurez conçu et constate l’ « irrégularité » de cette dernière. 
@@ -40,3 +38,6 @@ Imaginez : demain, Mme Terrieur sollicite plusieurs entrepreneurs pour la réno
 * L’entrepreneure Mme Sansiret prend conscience de la nécessité de régulariser sa situation. 
 
 En conséquence, l’Urssaf pourra également procéder à un meilleur recouvrement des cotisations pour la sécurité sociale et lutter plus efficacement contre la fraude et le travail dissimulé.
+
+_Les agents publics qui portent ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer et d’un développeur ou une développeuse._
+
