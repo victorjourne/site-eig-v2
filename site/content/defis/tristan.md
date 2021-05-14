@@ -33,12 +33,12 @@ La solution :
 * pourra exiger un travail de définition sémantique des termes métier 
 * intègrera directement les retours des magistrats
 
-_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une data engineer avec une appétence pour la data science, d’un développeur front ou une développeuse front et d’un ou une UX designer._
-
 #### Votre impact 
 
 Grâce à vos propositions, les magistrats gagneront un temps précieux dans la préparation de leurs audiences pour se concentrer sur l’analyse en profondeur des dossiers. Elles et ils pourront également ré-exploiter les éléments visuels générés pour illustrer leurs propos pendant les audiences. 
 Dès lors, les affaires seront mieux appréhendées par les magistrats et les spécificités de chaque justiciable mieux prises en compte, ce qui permettra de lutter contre la normalisation des peines dans le cadre de la justice de masse. 
+
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une data engineer avec une appétence pour la data science, d’un développeur ou une développeuse front-end et d’un ou une UX designer._
 
 
 *Rapport d'information n° 17 (2005-2006) de la Commission des Lois du Sénat 
