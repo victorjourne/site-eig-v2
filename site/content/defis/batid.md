@@ -29,9 +29,9 @@ Votre mission, si vous l’acceptez, sera de créer un identifiant unique du bâ
 
 La solution : 
 * impliquera la construction d’une base de données commune à toutes les bases de données pertinentes, afin d’organiser les flux entre celles-ci
-* permettra de connaître, pour chaque bâtiment, des informations importantes et de qualité (type de logement, matériaux, étiquette énergétique, type de chauffage, etc.)
 * nécessitera un travail juridique autour de l’accès à la donnée
-* découlera sur une mise en œuvre politique, pour laquelle il faudra étudier les opportunités réglementaires, les évolutions des textes de lois à envisager, etc. 
+* découlera sur une mise en œuvre politique, pour laquelle il faudra étudier les opportunités réglementaires, les évolutions des textes de lois à envisager, etc.
+* permettra de connaître, pour chaque bâtiment, des informations importantes et de qualité (type de logement, matériaux, étiquette énergétique, type de chauffage, etc.)
 
 #### Votre impact 
 
