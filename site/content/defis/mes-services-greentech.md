@@ -14,7 +14,7 @@ image: img/picto-defi.svg
 
 Aujourd’hui, la France dispose d’un écosystème GreenTech particulièrement riche, peuplé de 9 000 startups et 100 incubateurs/accélérateurs. 
 
-Depuis 2016, l’initiative [GreenTech Innovation](https://greentechinnovation.fr/) accompagne 215 entreprises labellisées ainsi qu’un réseau national de 27 incubateurs, en leur proposant une offre de services. Celle-ci a vocation à s’étendre à l’ensemble de l’écosystème. 
+Depuis 2016, l’initiative [GreenTech Innovation](https://greentechinnovation.fr/) accompagne 215 entreprises labellisées ainsi qu’un réseau national de 27 incubateurs en leur proposant une offre de services. Celle-ci a vocation à s’étendre à l’ensemble de l’écosystème. 
 
 ## La problématique
 
@@ -36,6 +36,7 @@ La solution :
 
 #### Votre impact 
 
-L’outil que vous aurez conçu accélèrera la montée en compétences et le développement des startups et PME GreenTech. En permettant, par exemple, à la startup Materr’Up (productrice de ciment et bétons d’argile) de capter 80% de son marché et donc de diminuer de 2,5% les émissions de gaz à effet de serre de la France, vous participerez activement aux politiques de la transition écologique. 
+L’outil que vous aurez conçu accélèrera la montée en compétences et le développement des startups et PME GreenTech. Vous participerez activement aux politiques de la transition écologique en permettant, par exemple, à la startup Materr’Up (productrice de ciment et bétons d’argile) de capter 80% de son marché et donc de diminuer de 2,5% les émissions de gaz à effet de serre de la France.
+
 
 _Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une designer UX/UI, d’un développeur ou une développeuse back-end et d’un développeur ou une développeuse full-stack._
