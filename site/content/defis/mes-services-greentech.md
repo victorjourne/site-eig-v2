@@ -32,7 +32,7 @@ La solution :
 * permettra, à partir d’une saisie détaillée du profil de l’entreprise, d’identifier automatiquement les meilleures ressources pour une veille efficace (textes réglementaires, jeux de données pertinents, aides publiques, marchés publics, contacts, études sectorielles, etc.) 
 * sera résolument centrée utilisateurs 
 * pourra intégrer API, moteur de recherche, ETL, webscrapping ou encore NLP/reconnaissance sémantique 
-* sera testée sur les startups labellisées GreenTech Innovation et les 27 membres du Réseau national d’incubateurs GreenTech, avant d’être proposé à l’ensemble de l’écosystème
+* sera testée sur les startups labellisées GreenTech Innovation et les 27 membres du Réseau national d’incubateurs GreenTech, avant d’être proposée à l’ensemble de l’écosystème
 
 #### Votre impact 
 
