@@ -34,8 +34,8 @@ La solution :
 * pourra intégrer API, moteur de recherche, ETL, webscrapping ou encore NLP/reconnaissance sémantique 
 * sera testée sur les startups labellisées GreenTech Innovation et les 27 membres du Réseau national d’incubateurs GreenTech, avant d’être proposé à l’ensemble de l’écosystème
 
-_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une designer UX/UI, d’un développeur back-end ou une développeuse back-end et d’un développeur full-stack ou une développeuse full-stack._
-
 #### Votre impact 
 
 L’outil que vous aurez conçu accélèrera la montée en compétences et le développement des startups et PME GreenTech. En permettant, par exemple, à la startup Materr’Up (productrice de ciment et bétons d’argile) de capter 80% de son marché et donc de diminuer de 2,5% les émissions de gaz à effet de serre de la France, vous participerez activement aux politiques de la transition écologique. 
+
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une designer UX/UI, d’un développeur ou une développeuse back-end et d’un développeur ou une développeuse full-stack._
