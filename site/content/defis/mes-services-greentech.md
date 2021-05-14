@@ -1,6 +1,6 @@
 ---
 title: Mes services GreenTech
-description: Appuyer le développement des startups et écosystèmes GreenTech
+description: Accélérer le développement des startups et des écosystèmes GreenTech
 who: Commissariat Général au Développement Durable (CGDD)
 domain: Ecologie
 town: "92055 La Défense "
