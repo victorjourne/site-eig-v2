@@ -1,7 +1,7 @@
 ---
 title: BatID
-description: Faciliter le suivi de la politique publique en matière de
-  rénovation énergétique des bâtiments
+description: "Faciliter le suivi de la politique publique en matière de
+  rénovation énergétique des bâtiments "
 who: "Agence de l'environnement et de la maîtrise de l'énergie (ADEME) "
 domain: Ecologie
 town: 92120 Montrouge
