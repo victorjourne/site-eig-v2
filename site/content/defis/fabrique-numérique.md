@@ -1,6 +1,6 @@
 ---
 title: Fabrique numérique
-description: "Accompagner des projets numériques à fort impact "
+description: Améliorer le service aux usagers et le travail des agents
 who: Direction Générale des Finances Publiques (DGFiP)
 domain: Service public
 town: 93160 Noisy-le-Grand
