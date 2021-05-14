@@ -32,7 +32,6 @@ La solution :
 * permettra de bien aiguiller chaque dossier en assurant la détection de dossier sensible
 * reposera sur un algorithme d’aide à la décision/un modèle de machine learning
 * sera fondamentalement centrée utilisateurs et reposera sur l’animation d’une communauté de testeurs et futurs utilisateurs
-* sera interfacée avec les autres outils de l’Agence  
 
 #### Votre impact 
 
