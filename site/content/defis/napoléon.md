@@ -2,7 +2,7 @@
 title: Napoléon
 description: Simplifier la procédure d’attribution des distinctions honorifiques
 who: Ministère de l'Intérieur
-domain: "?"
+domain: Citoyenneté
 town: 75008 Paris
 date: 2021-05-12T14:57:47.759Z
 expertises:
@@ -20,7 +20,7 @@ Aujourd’hui, la gestion des distinctions honorifiques est assurée à partir d
 
 ## Le terrain de jeu 
 
-Vous voulez aider les agents concernés par cette gestion laborieuse ? Venez développer l’outil qui permettra de gérer simplement l’ensemble des procédures liées aux distinctions honorifiques : de l’instruction des candidatures à la gestion des lauréats ainsi que leur promotion aux grades supérieurs. 
+Votre mission, si vous l’acceptez, sera de développer l’outil qui permettra de gérer simplement l’ensemble des procédures liées aux distinctions honorifiques : de l’instruction des candidatures à la gestion des lauréats ainsi que leur promotion aux grades supérieurs. 
 
 #### Vos défis techniques 
 
@@ -28,7 +28,7 @@ La solution :
 * dématérialisera de bout en bout l’attribution des distinctions honorifiques 
 * intègrera des tableaux de bord de suivi des dossiers
 * permettra une remontée des lauréats qui peuvent prétendre à une promotion 
-* sera résolution centrée utilisateurs (agents instructeurs et/ou intégrateurs)
+* sera résolution centrée utilisateurs
 * impliquera une formation des agents utilisateurs 
 
 #### Votre impact 
