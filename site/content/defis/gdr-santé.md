@@ -1,8 +1,8 @@
 ---
-title: GDR Santé
-description: "Sécuriser les processus d’autorisation-surveillance des
-  médicaments et des produits de santé "
-who: "Agence nationale de sécurité du médicament et des produits de santé (ANSM) "
+title: GDR Santé
+description: Sécuriser les processus d’autorisation-surveillance des médicaments
+  et produits de santé
+who: Agence nationale de sécurité du médicament et des produits de santé (ANSM)
 domain: Santé
 town: 93200 Saint Denis
 date: 2021-05-12T15:38:22.176Z
@@ -43,4 +43,4 @@ Grâce à vous, l’ANSM pourra :
 
 L’ensemble permettra de renforcer la confiance des citoyens dans l’expertise des autorités sanitaires. 
 
-_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer, d’un ou une data scientist maîtrisant Python et disposant de connaissances en NLP et d’un développeur ou une développeuse full stack avec une bonne connaissance de Python et de React (Docker serait un plus)._
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer, d’un ou une data scientist maîtrisant Python et disposant de connaissances en NLP et d’un développeur ou une développeuse full stack avec une bonne connaissance de Python et de React (Docker serait un plus)._ 
