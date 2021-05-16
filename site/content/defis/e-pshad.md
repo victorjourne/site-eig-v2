@@ -1,7 +1,7 @@
 ---
 title: e-PSHAD
-description: "Proposer un accompagnement professionnel adapté aux personnes en
-  situation de handicap "
+description: Proposer un accompagnement professionnel adapté aux personnes en
+  situation de handicap
 who: "Etablissement Public National Antoine Koenigswarter (EPNAK) + Caisse
   nationale d’assurance maladie (CNAM) "
 domain: Formation
@@ -18,7 +18,7 @@ Les personnes en situation de handicap représentent aujourd’hui une populatio
 
 ## La problématique
 
-Jusqu’alors, les personnes en situation de handicap devaient se déplacer, parfois très loin de leur domicile, pour bénéficier des services de ces établissements. Cela pouvait les conduire à y renoncer ou contraindre leurs choix. 
+Jusqu’alors, les personnes en situation de handicap devaient se déplacer, parfois très loin de leur domicile, pour bénéficier des services de ces établissements. Cela pouvait contraindre leurs choix d’accompagnement ou les conduire à y renoncer. 
 
 ## Le terrain de jeu 
 
@@ -40,6 +40,4 @@ Votre travail et votre engagement permettront de :
 * proposer les services spécialisés de réadaptation professionnelle au plus grand nombre
 * pour in fine, renforcer les chances d’insertion professionnelle des personnes en situation de handicap. 
 
-_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer et de deux développeurs ou développeuses. Les profils devront avoir une forte sensibilité à l’accessibilité (une expérience associée serait un grand plus)._
-
-
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer et de deux développeurs ou développeuses. Les profils devront avoir une forte sensibilité à l’accessibilité (une expérience associée serait un grand plus)._ 
