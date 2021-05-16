@@ -12,15 +12,15 @@ image: img/picto-defi.svg
 ---
 ## Le contexte
 
-Avec 100 000 agents, la Direction Générale des Finances Publiques (DGFiP) est présente sur l’ensemble du territoire français pour mener des missions très variées : gestion des recettes et dépenses de l’Etat et des collectivités territoriales, tenue des comptes publics, lutte contre la fraude fiscale, etc. Elle s’est engagée depuis plusieurs année dans de nombreux chantiers de modernisation pour être au plus près de ses usagers et de leurs besoins. 
+Avec 100 000 agents, la Direction Générale des Finances Publiques (DGFiP) est présente sur l’ensemble du territoire français pour mener des missions très variées : gestion des recettes et dépenses de l’Etat et des collectivités territoriales, tenue des comptes publics, lutte contre la fraude fiscale, etc. Elle s’est engagée depuis plusieurs années dans de nombreux chantiers de modernisation pour être au plus près de ses usagers et de leurs besoins. 
 
 ## La problématique
 
-Des irritants sont constamment remontés par les usagers et les agents, mais ces demandes d’évolutions ne sont aujourd’hui que partiellement exploitées. 
+Des irritants sont constamment remontés par les usagers et les agents de la DGFiP, mais ces demandes d’évolutions ne sont aujourd’hui que partiellement exploitées. 
 
 ## Le terrain de jeu 
 
-Intégrez la Fabrique Numérique (incubateur de la DGFiP) pour accompagner des projets numériques visant à résoudre les irritants les plus prégnants. 
+Intégrez la Fabrique Numérique (incubateur de la DGFiP) pour accompagner des projets numériques à fort impact visant à résoudre les irritants les plus importants. 
 
 Un appel à candidatures a été lancé auprès des agents de la DGFiP pour faire remonter plus formellement irritants et projets. Certains passeront en investigation pour aboutir à de premières incubations courant septembre 2021. 
 
