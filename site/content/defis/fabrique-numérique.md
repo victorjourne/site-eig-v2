@@ -8,7 +8,7 @@ date: 2021-05-12T15:02:33.005Z
 expertises:
   - Design
   - Développement
-image: img/picto-defi.svg
+image: img/07_fabrique-numerique_10.svg
 ---
 ## Le contexte
 
