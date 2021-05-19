@@ -9,7 +9,7 @@ expertises:
   - Data Engineering
   - Développement
   - Design
-image: img/picto-defi.svg
+image: img/02_tristan_10.svg
 ---
 ## Le contexte
 
