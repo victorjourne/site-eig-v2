@@ -8,7 +8,7 @@ date: 2021-05-12T14:54:41.173Z
 expertises:
   - Design
   - Développement
-image: img/picto-defi.svg
+image: img/10_cyberimpact_10.svg
 ---
 ## Le contexte
 
