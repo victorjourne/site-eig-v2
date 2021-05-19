@@ -10,7 +10,7 @@ date: 2021-05-12T14:59:52.765Z
 expertises:
   - Développement
   - Design
-image: img/picto-defi.svg
+image: img/08_epshad_10.svg
 ---
 ## Le contexte
 
