@@ -8,7 +8,7 @@ date: 2021-05-12T15:54:33.256Z
 expertises:
   - Data science
   - Développement
-image: img/picto-defi.svg
+image: img/13_basegun_10.svg
 ---
 ## Le contexte
 
