@@ -9,7 +9,7 @@ date: 2021-05-12T15:41:48.018Z
 expertises:
   - Data Engineering
   - Juriste
-image: img/picto-defi.svg
+image: img/04_batid_10.svg
 ---
 ## Le contexte
 
