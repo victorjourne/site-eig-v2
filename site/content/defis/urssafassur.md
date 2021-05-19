@@ -8,7 +8,7 @@ date: 2021-05-12T15:51:27.913Z
 expertises:
   - Design
   - Développement
-image: img/picto-defi.svg
+image: img/01_urssafassur_10.svg
 ---
 ## Le contexte
 
