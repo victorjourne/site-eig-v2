@@ -1,0 +1,40 @@
+---
+title: Mes services Greentech
+description: Accélérer le développement des startups et des écosystèmes GreenTech
+who: Commissariat Général au Développement Durable (CGDD)
+domain: Ecologie
+town: 92055 La Défense
+date: 2021-05-12T15:48:32.602Z
+expertises:
+  - Design
+  - Développement
+image: img/03_mes-services-greentech_10.svg
+---
+## Le contexte
+
+Aujourd’hui, la France dispose d’un écosystème GreenTech particulièrement riche, peuplé de 9 000 startups et de 100 incubateurs/accélérateurs. 
+
+Depuis 2016, l’initiative [GreenTech Innovation](https://greentechinnovation.fr/) accompagne 215 entreprises labellisées ainsi qu’un réseau national de 27 incubateurs à travers plusieurs services : des boosters « visibilité » et « commercial », la mise à disposition de ressources pertinentes, l’accès à un Living Lab GreenTech, un soutien sur mesure, etc. Une partie de cet accompagnement a vocation à s’étendre à l’ensemble de l’écosystème. 
+
+## La problématique
+
+Quel que soit leur stade de développement, les entreprises GreenTech sont confrontées aux mêmes difficultés : suivi complexe des évolutions réglementaires, difficile identification des jeux de données utiles, manque de visibilité auprès des clients potentiels, etc. Les ressources existent, mais elles sont dispersées. 
+
+Cette méconnaissance suscite des erreurs pouvant se traduire en occasions perdues, en emplois non créés ou en pollutions émises alors qu’elles auraient pu être évitées. 
+
+## Le terrain de jeu 
+
+Vous voulez voir fleurir l’écosystème GreenTech français ? Venez développer le portail extranet qui permettra aux acteurs de cet écosystème d’accéder simplement à toutes les ressources dont ils ont besoin pour leur développement. 
+
+#### Vos défis techniques 
+
+La solution : 
+* permettra, à partir d’une saisie détaillée du profil de l’entreprise, d’identifier automatiquement les meilleures ressources pour une veille efficace (textes réglementaires, jeux de données pertinents, aides publiques, marchés publics, contacts, études sectorielles, etc.) 
+* sera résolument centrée utilisateurs 
+* pourra intégrer API, moteur de recherche, ETL, webscrapping ou encore NLP/reconnaissance sémantique 
+
+#### Votre impact 
+
+L’outil que vous aurez conçu accélèrera la montée en compétences et le développement des startups et PME GreenTech. Vous participerez activement aux politiques de la transition écologique en permettant, par exemple, à la startup Materr’Up (productrice de ciment et bétons d’argile) de capter 80% de son marché et donc de diminuer de 2,5% les émissions de gaz à effet de serre de la France. 
+
+_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une designer UX/UI, d’un développeur ou une développeuse back-end et d’un développeur ou une développeuse full-stack._
