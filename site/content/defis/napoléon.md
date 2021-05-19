@@ -8,7 +8,7 @@ date: 2021-05-12T14:57:47.759Z
 expertises:
   - Design
   - Développement
-image: img/picto-defi.svg
+image: img/09_napoleon_10.svg
 ---
 ## Le contexte
 
