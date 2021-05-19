@@ -1,5 +1,5 @@
 ---
-title: Mes services GreenTech
+title: Mes services Greentech
 description: Accélérer le développement des startups et des écosystèmes GreenTech
 who: Commissariat Général au Développement Durable (CGDD)
 domain: Ecologie
@@ -8,7 +8,7 @@ date: 2021-05-12T15:48:32.602Z
 expertises:
   - Design
   - Développement
-image: img/picto-defi.svg
+image: img/03_mes-services-greentech_10.svg
 ---
 ## Le contexte
 
