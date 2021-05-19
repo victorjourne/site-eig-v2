@@ -10,7 +10,7 @@ expertises:
   - Data Engineering
   - Design
   - Développement
-image: img/picto-defi.svg
+image: img/06_gd4h_10.svg
 ---
 ## Le contexte 
 
