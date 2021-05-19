@@ -10,7 +10,7 @@ expertises:
   - Design
   - Data science
   - Développement
-image: img/picto-defi.svg
+image: img/05_gdr-santé_10.svg
 ---
 ## Le contexte
 
