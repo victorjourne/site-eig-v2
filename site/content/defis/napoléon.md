@@ -1,7 +1,7 @@
 ---
 title: Napoléon
 description: Simplifier la procédure d’attribution des distinctions honorifiques
-who: Ministère de l'Intérieur
+who: "Ministère de l’Intérieur "
 domain: Citoyenneté
 town: 75008 Paris
 date: 2021-05-12T14:57:47.759Z
@@ -12,7 +12,7 @@ image: img/09_napoleon_10.svg
 ---
 ## Le contexte
 
-Chaque année, entre 2 000 et 3 000 candidatures sont étudiées par le Ministère de l’Intérieur dans le cadre de l’attribution des ordres nationaux (Légion d’Honneur, Ordre National du Mérite, etc.) et de distinctions ministérielles propres. 
+Chaque année, entre 2 000 et 3 000 candidatures sont étudiées par le Ministère de l’Intérieur dans le cadre de l’attribution des ordres nationaux (Légion d’Honneur, Ordre National du Mérite) et de distinctions ministérielles propres. 
 
 ## La problématique
 
@@ -28,11 +28,12 @@ La solution :
 * dématérialisera de bout en bout l’attribution des distinctions honorifiques 
 * intègrera des tableaux de bord de suivi des dossiers
 * permettra une remontée des lauréats qui peuvent prétendre à une promotion 
-* sera résolution centrée utilisateurs
+* sera résolument centrée utilisateurs
 * impliquera une formation des agents utilisateurs 
 
 #### Votre impact 
 
-Grâce à vos propositions, le travail d’instruction d’un très grand nombre d’agents (en administrations centrales et dans une centaine de préfectures) sera simplifié, ce qui leur donnera davantage de temps pour étudier les dossiers en profondeur. L’outil conçu pourra être mutualisé et prendre une dimension interministérielle. 
+Grâce à vos propositions, le travail d’instruction d’un très grand nombre d’agents (en administrations centrales et dans une centaine de préfectures) sera simplifié, ce qui leur donnera davantage de temps pour étudier les dossiers en profondeur. L’outil conçu pourra être mutualisé et prendre à terme une dimension interministérielle. 
 
 _Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer et d’un développeur ou une développeuse._
+
