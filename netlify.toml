@@ -11,6 +11,6 @@
 
 [[redirects]]
   from = "https://site-eig-v2.netlify.app"
-  to = "https://eig.lanetscouade.com"
+  to = "https://eig.etalab.gouv.fr"
   status = 301
   force = true
