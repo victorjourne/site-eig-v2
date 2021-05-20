@@ -1,7 +1,7 @@
 ---
 title: Green Data for Health
-description: Faciliter l’identification des effets des facteurs environnementaux
-  sur la santé
+description: Faciliter la mobilisation des données environnementales au service
+  de l’identification des effets des facteurs environnementaux sur la santé
 who: Commissariat Général au Développement Durable (CGDD)
 domain: Santé-Environnement
 town: 92800 Puteaux
@@ -14,11 +14,11 @@ image: img/06_gd4h_10.svg
 ---
 ## Le contexte 
 
-Selon l’Organisation mondiale de la santé, les facteurs environnementaux et comportementaux sont responsables de 15% des décès en Europe. En effet, la pollution de l’air, de l’eau, des sols, les pesticides, les perturbateurs endocriniens, etc. sont à l’origine de multiples pathologies. C’est pourquoi mieux connaître l’effet des facteurs environnementaux sur la santé constitue un enjeu majeur de santé publique.  
+Selon l’Organisation mondiale de la santé, les facteurs environnementaux et comportementaux sont responsables d’au moins 15% des décès en Europe, soit environ 1,4 million de décès par an, pour la plupart évitables. En effet, la pollution de l’air, de l’eau, des sols, les pesticides, les perturbateurs endocriniens, etc. sont à l’origine de multiples pathologies. C’est pourquoi mieux connaître l’effet des facteurs environnementaux sur la santé constitue un enjeu majeur de santé publique.  
 
 ## La problématique 
 
-Les bases de données environnementales existantes, particulièrement riches, ne sont que peu mobilisées pour faire émerger des associations entre expositions environnementales et pathologies humaines. 
+Les bases de données environnementales existantes, particulièrement riches, ne sont que peu mobilisées pour faire émerger des associations entre expositions environnementales et pathologies humaines et améliorer les connaissances sur l’impact sanitaire des facteurs environnementaux. 
 
 ## Le terrain de jeu
 
@@ -29,9 +29,9 @@ Cette question vous tient à cœur ? Venez créer le dispositif qui permettra u
 La solution : 
 * décrira les données environnementales pertinentes et disponibles pour être croisées avec des données de santé
 * facilitera la repérabilité et l’accès aux données environnementales
-* améliorera l’intéropérabilité des données environnementales entre elles et avec des données de santé
+* améliorera l’interopérabilité des données environnementales entre elles et avec des données de santé
 * prendra en compte les enjeux juridiques de mise à disposition et de sécurité des données
-* favorisera la synergie entre acteurs de la Santé-Environnement
+* favorisera la synergie entre acteurs de l’écosystème recherche et l’expertise en Santé-Environnement
 
 #### Votre impact 
 
