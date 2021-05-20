@@ -16,20 +16,20 @@ Avec 100 000 agents, la Direction Générale des Finances Publiques (DGFiP) est 
 
 ## La problématique
 
-Des irritants sont constamment remontés par les usagers et les agents de la DGFiP, mais ces demandes d’évolutions ne sont aujourd’hui que partiellement exploitées. 
+Des irritants et des demandes d’évolution sont constamment remontés par les usagers et les agents de la DGFiP, mais ces demandes ne sont aujourd’hui que partiellement exploitées et transformées. 
 
 ## Le terrain de jeu 
 
 Intégrez la Fabrique Numérique (incubateur de la DGFiP) pour accompagner des projets numériques à fort impact visant à résoudre les irritants les plus importants. 
 
-Un appel à candidatures a été lancé auprès des agents de la DGFiP pour faire remonter plus formellement irritants et projets. Certains passeront en investigation pour aboutir à de premières incubations courant septembre 2021. 
+Un appel à candidatures a été lancé auprès des agents de la DGFiP pour faire remonter plus formellement des initiatives internes. Certains passeront en investigation pour aboutir à de premières incubations courant octobre 2021. 
 
 #### Vos défis techniques 
 
-Vous qualifierez les besoins et développerez des solutions avec les usagers en prenant part aux phases de conception, de prototypage et de consolidation. Véritables coachs, vous diffuserez de nouvelles approches et méthodes de travail au sein de la DGFiP. 
+Vous qualifierez les besoins et développerez des solutions avec les usagers en prenant part aux phases de conception, de prototypage et de consolidation avec la réalisation d’un MVP. Véritables coachs, vous diffuserez de nouvelles approches et méthodes de travail au sein de la DGFiP. 
 
 #### Votre impact 
 
-Grâce à votre accompagnement, des agents publics « intrapreneurs » seront en capacité de régler des irritants en expérimentant des solutions simples à fort impact. Vous contribuerez alors à améliorer le service rendu aux usagers ainsi que le travail des agents de la DGFiP tout en impulsant un élan de transformation numérique au sein de la structure. 
+Grâce à votre accompagnement, des agents publics « intrapreneurs » seront en capacité de réaliser des projets innovants en expérimentant des solutions simples à fort impact. Vous contribuerez alors à améliorer le service rendu aux usagers ainsi que le travail des agents de la DGFiP tout en impulsant un élan de transformation numérique au sein de la structure. 
 
 _Les agents publics de la Fabrique Numérique ont besoin de renfort et sont à la recherche d’un ou une UX designer maîtrisant l’ensemble de la chaîne de valeur (une expérience avec une composante accessibilité numérique serait un plus) et d’un développeur ou une développeuse avec une expertise DevOps. Les profils idéaux auront une appétence particulière pour la gestion de projet._
