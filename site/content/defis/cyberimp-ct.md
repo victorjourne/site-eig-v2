@@ -11,6 +11,8 @@ expertises:
   - Data science
 image: img/10_cyberimpact_10.svg
 ---
+{{< dailymotion x81fgy3 >}}
+
 ## Le contexte
 
 La Gendarmerie nationale, c’est 130 000 femmes et hommes au service de la population sur 95% du territoire physique. Mais c’est aussi une présence dans l’espace numérique, à travers plusieurs services et interfaces (Je donne mon avis, Percev@l, ServicesPublics+, les réseaux sociaux, cybermalveillance.gouv.fr, etc.).
@@ -19,19 +21,21 @@ La Gendarmerie nationale, c’est 130 000 femmes et hommes au service de la popu
 
 Malheureusement, ces interfaces ne sont pas corrélées, créant un éparpillement des données qui empêche la constitution d’une vision consolidée, ainsi qu’un pilotage simple des actions en ligne. 
 
-## Le terrain de jeu 
+## Le terrain de jeu
 
 Intégrez les équipes de la Gendarmerie nationale pour créer un outil qui permettra d’abord de rapatrier les données des interfaces numériques et de les homogénéiser, pour ensuite les suivre, les exploiter et les visualiser de manière pertinente. 
 
-#### Vos défis techniques 
+#### Vos défis techniques
 
 La solution : 
+
 * intègrera 3 piliers principaux : la visibilité (proximité numérique), la perception des usagers et les actions (conseils et prévention, signalisations et démarches)
 * proposera des data-visualisations correspondant aux besoins métier qui auront été identifiés
 
 #### Votre impact 
 
 L’outil que vous concevrez ouvrira le champ des possibles pour les gendarmes qui pourront : 
+
 * suivre en temps réel l’impact de leurs actions en ligne, notamment la qualité de la proximité numérique avec les citoyens
 * mieux comprendre les citoyens 
 * adapter leurs actions physiques/en ligne et mettre en adéquation les moyens humains et financiers déployés 
@@ -39,6 +43,6 @@ L’outil que vous concevrez ouvrira le champ des possibles pour les gendarmes q
 
 L’ensemble concourra vers une meilleure protection des citoyens. 
 
-_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une data engineer (des compétences en scrapping seraient un plus) et d’un data scientist avec une expertise sur les données web._ 
+*Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une data engineer (des compétences en scrapping seraient un plus) et d’un data scientist avec une expertise sur les données web.* 
 
 ## Faire ses voeux
