@@ -10,6 +10,8 @@ expertises:
   - Data science
 image: img/12_smash_10.svg
 ---
+{{< dailymotion x81fhbz >}}
+
 ## Le contexte
 
 L’hôpital public représente aujourd’hui 1,04 million de salariés, pour des dépenses de personnel qui s’élèvent à 46,9 milliards d’euros (en 2018). Il s’agit du premier poste de dépense des établissements de santé. 
@@ -20,13 +22,14 @@ En juillet 2020 ont été signés les accords du Ségur de la santé, qui visent
 
 Actuellement, beaucoup de décisions relatives à la gestion des personnels hospitaliers sont prises en aveugle, sans possibilité d’estimation fine en amont. Ainsi, les estimations budgétaires liées au Ségur de la santé ont été réalisées à l’aide d’outils particulièrement frustres. 
 
-## Le terrain de jeu 
+## Le terrain de jeu
 
 Venez vous attaquer à cette problématique d’actualité en développant un outil de simulation de la masse salariale des hôpitaux publics qui permettra d’établir des projections de dépenses en personnel. 
 
-## Vos défis techniques 
+## Vos défis techniques
 
 La solution : 
+
 * traitera de gros volumes de données (décrivant l’emploi et les rémunérations des personnels des établissements de santé) 
 * permettra de simuler différentes hypothèses de comportement des salariés ou différentes réformes
 * sera utilisée à tous les échelons territoriaux, par des agents avec un niveau d’expertise très variable 
@@ -34,10 +37,11 @@ La solution :
 #### Votre impact 
 
 Grâce à vous, il sera possible : 
+
 * de prendre des décisions éclairées en matière de gestion des personnels, notamment dans le cadre du projet de loi de finance de la sécurité sociale ;
 * d’estimer et d’anticiper l’effet des réformes sur le budget des hôpitaux et leur sensibilité aux hypothèses posées de comportement des salariés ;
 * d’assurer un pilotage national, mais aussi régional et local (identifier les établissements en difficulté du fait de l’évolution de leur masse salariale, etc.). 
 
-_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une data scientist avec de bonnes compétences en pilotage de projet (des compétences en design/recherche utilisateurs seraient un plus), et d’un ou une data scientist avec une expertise en programmation et en gestion de données volumineuses._
+*Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une data scientist avec de bonnes compétences en pilotage de projet (des compétences en design/recherche utilisateurs seraient un plus), et d’un ou une data scientist avec une expertise en programmation et en gestion de données volumineuses.*
 
 ## Faire ses voeux
