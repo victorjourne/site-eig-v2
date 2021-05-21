@@ -19,32 +19,29 @@ Aujourd’hui, les forces de l’ordre (gendarmes, policiers et policières) sai
 ## La problématique
 
 Cependant, la méthode actuelle d’identification des armes sur le terrain est chronophage, soumise à interprétation et génératrice d’erreurs. En effet, les agents procèdent de trois façons souvent combinées : 
-
 * Ils et elles tentent des rapprochements visuels à partir de recherches internet/intranet autonomes
 * Ils et elles interrogent leurs collègues ou un armurier privé
 * Ils et elles consultent des experts au sein du Ministère de l’Intérieur (SCAE)
 
 La police judiciaire estime que 15 à 20% des armes saisies sont mal ou non identifiées, ce qui conduit à des absences de poursuites ou des poursuites pénales injustifiées.
 
-## Le terrain de jeu
+## Le terrain de jeu 
 
-Votre mission, si vous l’acceptez, sera de concevoir une application terrain qui permettra aux forces de l’ordre d’identifier instantanément une arme à partir de photos. Elle indiquera également la conduite à tenir adaptée. Au-delà de ce cas d’usage identifié, d’autres utilisations connexes d’une telle application (usage de particuliers, armuriers privée, forces de l’ordre européennes) sont à explorer avec l’aide de l’équipe projet.
+Votre mission, si vous l’acceptez, sera de concevoir une application terrain qui permettra aux forces de l’ordre d’identifier instantanément une arme à partir de photos. Elle indiquera également la conduite à tenir adaptée. Au-delà de ce cas d’usage identifié, d’autres utilisations connexes d’une telle application (usage de particuliers, armuriers privés, forces de l’ordre européennes) sont à explorer avec l’aide de l’équipe projet.
 
-#### Vos défis techniques
+#### Vos défis techniques 
 
 La solution devra :  
-
 * fournir une réponse instantanée, avec un taux de confiance sur la classification obtenue
 * reposer sur une démarche UX, guidée par le Lead UX du laboratoire d’innovation
 * reposer sur un modèle d’intelligence artificielle entraîné
 * être accessible en mode service (API) 
 
 #### Votre impact 
-
 L’application libèrera les forces de l’ordre d’une tâche laborieuse et leur permettra de se concentrer sur des actions métier à plus forte valeur ajoutée (enquêtes, poursuites, …), tout en réduisant le risque d’erreur. 
 
-Grâce à vous, les citoyens seront préservés des poursuites injustifiées liées aux erreurs de classification.  Ils seront également mieux informés sur les armes qu’ils détiennent, à travers une mise à disposition du service. 
+Les citoyens seront préservés des poursuites injustifiées liées aux erreurs de classification.  Ils seront également mieux informés sur les armes qu’ils détiennent, à travers une mise à disposition du service. 
 
-*Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une data scientist qui dispose d’une expertise en computer vision et d’un développeur ou une développeuse pour la conception d’API, la partie front et l’application mobile. Les profils idéaux seront très entrepreneuriaux, capables de penser d’autres usages.*
+_Les agents publics porteurs de ce projet sont à la recherche d’un ou une data scientist qui dispose d’une expertise en computer vision et d’un développeur ou une développeuse pour la conception d’API, la partie front et l’application mobile. Les profils idéaux seront très entrepreneuriaux, capables de penser d’autres usages._
 
 ## Faire ses voeux
