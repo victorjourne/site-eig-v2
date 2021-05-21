@@ -41,3 +41,5 @@ Votre travail et votre engagement permettront de :
 pour in fine, renforcer les chances d’insertion professionnelle des personnes en situation de handicap. 
 
 _Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer et de deux développeurs ou développeuses web full stack. Les profils devront avoir une forte sensibilité à l’accessibilité (une expérience associée serait un grand plus)._
+
+## Faire ses voeux
