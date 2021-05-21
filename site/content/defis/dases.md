@@ -10,7 +10,7 @@ expertises:
   - Data Engineering
   - Design
   - Juriste
-image: img/picto-defi.svg
+image: img/15_dases.svg
 ---
 ## Le contexte
 
