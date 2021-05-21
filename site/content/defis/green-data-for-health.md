@@ -9,7 +9,7 @@ date: 2021-05-12T15:03:46.040Z
 expertises:
   - Data Engineering
   - Design
-  - Développement
+  - Juriste
 image: img/06_gd4h_10.svg
 ---
 {{< dailymotion x81fh9n >}}
