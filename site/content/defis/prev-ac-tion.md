@@ -1,5 +1,5 @@
 ---
-title: Prev-AC-TION
+title: Prev-AC-Tion
 description: Prévenir les risques et les maladies professionnelles dans le secteur maritime
 who: Ministère de la Mer
 domain: Santé
