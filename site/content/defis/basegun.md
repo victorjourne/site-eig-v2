@@ -10,7 +10,7 @@ expertises:
   - Développement
 image: img/13_basegun_10.svg
 ---
-{{< dailymotion x6fp47d >}}
+{{< dailymotion x81fgiw >}}
 
 ## Le contexte
 
