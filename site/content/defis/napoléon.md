@@ -10,6 +10,8 @@ expertises:
   - Développement
 image: img/09_napoleon_10.svg
 ---
+{{< dailymotion x81fhdj >}}
+
 ## Le contexte
 
 Chaque année, entre 2 000 et 3 000 candidatures sont étudiées par le Ministère de l’Intérieur dans le cadre de l’attribution des ordres nationaux (Légion d’Honneur, Ordre National du Mérite) et de distinctions ministérielles propres. 
@@ -18,13 +20,14 @@ Chaque année, entre 2 000 et 3 000 candidatures sont étudiées par le Ministè
 
 Aujourd’hui, la gestion des distinctions honorifiques est assurée à partir d’outils mêlant instruction papier et logiciels devenus obsolètes. Ces derniers ne permettent pas de sécuriser les procédures, sont lourds en termes de gestion administrative et peu économes. 
 
-## Le terrain de jeu 
+## Le terrain de jeu
 
 Votre mission, si vous l’acceptez, sera de développer l’outil qui permettra de gérer simplement l’ensemble des procédures liées aux distinctions honorifiques : de l’instruction des candidatures à la gestion des lauréats ainsi que leur promotion aux grades supérieurs. 
 
-#### Vos défis techniques 
+#### Vos défis techniques
 
 La solution : 
+
 * dématérialisera de bout en bout l’attribution des distinctions honorifiques 
 * intègrera des tableaux de bord de suivi des dossiers
 * permettra une remontée des lauréats qui peuvent prétendre à une promotion 
@@ -35,6 +38,6 @@ La solution :
 
 Grâce à vos propositions, le travail d’instruction d’un très grand nombre d’agents (en administrations centrales et dans une centaine de préfectures) sera simplifié, ce qui leur donnera davantage de temps pour étudier les dossiers en profondeur. L’outil conçu pourra être mutualisé et prendre à terme une dimension interministérielle. 
 
-_Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer et d’un développeur ou une développeuse._
+*Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une UX designer et d’un développeur ou une développeuse.*
 
 ## Faire ses voeux
