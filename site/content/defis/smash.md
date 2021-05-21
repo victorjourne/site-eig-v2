@@ -26,7 +26,7 @@ Actuellement, beaucoup de décisions relatives à la gestion des personnels hosp
 
 Venez vous attaquer à cette problématique d’actualité en développant un outil de simulation de la masse salariale des hôpitaux publics qui permettra d’établir des projections de dépenses en personnel. 
 
-## Vos défis techniques
+#### Vos défis techniques
 
 La solution : 
 
