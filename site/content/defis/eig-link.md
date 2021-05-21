@@ -8,7 +8,7 @@ date: 2021-05-21T19:07:47.411Z
 expertises:
   - Design
   - Développement
-image: img/picto-defi.svg
+image: img/16_link.svg
 ---
 ## Le contexte
 
