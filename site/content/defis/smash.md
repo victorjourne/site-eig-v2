@@ -39,3 +39,5 @@ Grâce à vous, il sera possible :
 * d’assurer un pilotage national, mais aussi régional et local (identifier les établissements en difficulté du fait de l’évolution de leur masse salariale, etc.). 
 
 _Les agents publics porteurs de ce projet ont besoin de renfort et sont à la recherche d’un ou une data scientist avec de bonnes compétences en pilotage de projet (des compétences en design/recherche utilisateurs seraient un plus), et d’un ou une data scientist avec une expertise en programmation et en gestion de données volumineuses._
+
+## Faire ses voeux
