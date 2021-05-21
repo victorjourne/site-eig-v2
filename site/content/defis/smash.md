@@ -36,7 +36,7 @@ La solution :
 
 #### Votre impact 
 
-Grâce à vous, il sera possible : 
+Grâce à vos propositions, il sera possible : 
 * de prendre des décisions éclairées en matière de gestion des personnels, notamment dans le cadre du projet de loi de finance de la sécurité sociale
 * d’estimer et d’anticiper l’effet des réformes sur le budget des hôpitaux et leur sensibilité aux hypothèses posées de comportement des salariés
 * d’assurer un pilotage national, mais aussi régional et local (identifier les établissements en difficulté du fait de l’évolution de leur masse salariale, etc.). 
