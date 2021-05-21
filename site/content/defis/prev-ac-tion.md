@@ -41,3 +41,4 @@ pour, à terme, pouvoir diminuer le nombre d’accidents du travail et de maladi
 
 _Les porteurs de ce projet ont besoin de renfort et sont à la recherche d’un développeur ou une développeuse, d’un ou une data engineer et d’un ou une juriste du numérique. Les profils idéaux auront une bonne capacité de cadrage, d’exploration et seront particulièrement proactifs._
 
+## Faire ses voeux
