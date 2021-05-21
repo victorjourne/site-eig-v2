@@ -8,7 +8,7 @@ date: 2021-05-21T19:07:47.411Z
 expertises:
   - Design
   - Développement
-image: img/picto-defi.svg
+image: img/16_link.svg
 ---
 ## Le contexte
 
@@ -57,3 +57,4 @@ Grâce à vous :
 * Les réalisations de toutes les équipes projet seront valorisées
 * Les bonnes pratiques tech et design circuleront au sein de la promotion et de l’administration
 
+## Faire ses voeux
