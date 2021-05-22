@@ -3,26 +3,16 @@ title: Données personnelles
 layout: page
 url: /donnees-personnelles
 ---
-## Lorem ipsum dolor
+Etalab s'engage à ce que la collecte et le traitement de données personnelles effectuées sur eig.etalab.gouv.fr soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut venenatis tellus in metus. Consectetur lorem donec massa sapien faucibus et. Tincidunt augue interdum velit euismod. Turpis in eu mi bibendum neque egestas congue quisque egestas. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Ipsum a arcu cursus vitae congue mauris rhoncus. Vel pharetra vel turpis nunc. Aenean sed adipiscing diam donec adipiscing tristique. Aliquet risus feugiat in ante metus dictum. Orci a scelerisque purus semper eget duis at tellus. Ut enim blandit volutpat maecenas volutpat blandit aliquam. In eu mi bibendum neque egestas congue. Mauris in aliquam sem fringilla.
+## Exercer vos droits
 
-## Lorem ipsum dolor
+Pour toute information ou exercice de vos droits Informatique et Libertés sur les traitements de données personnelles gérés par Etalab, vous pouvez contacter le délégué à la protection des données (DPD) des services du Premier Ministre : 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut venenatis tellus in metus. Consectetur lorem donec massa sapien faucibus et. Tincidunt augue interdum velit euismod. Turpis in eu mi bibendum neque egestas congue quisque egestas. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Ipsum a arcu cursus vitae congue mauris rhoncus. Vel pharetra vel turpis nunc. Aenean sed adipiscing diam donec adipiscing tristique. Aliquet risus feugiat in ante metus dictum. Orci a scelerisque purus semper eget duis at tellus. Ut enim blandit volutpat maecenas volutpat blandit aliquam. In eu mi bibendum neque egestas congue. Mauris in aliquam sem fringilla.
+* par courriel à dpd@pm.gouv.fr
+* ou par courrier (avec copie de votre pièce d'identité en cas d'exercice de vos droits) à l'adresse suivante : 
 
-## Lorem ipsum dolor
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut venenatis tellus in metus. Consectetur lorem donec massa sapien faucibus et. Tincidunt augue interdum velit euismod. Turpis in eu mi bibendum neque egestas congue quisque egestas. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Ipsum a arcu cursus vitae congue mauris rhoncus. Vel pharetra vel turpis nunc. Aenean sed adipiscing diam donec adipiscing tristique. Aliquet risus feugiat in ante metus dictum. Orci a scelerisque purus semper eget duis at tellus. Ut enim blandit volutpat maecenas volutpat blandit aliquam. In eu mi bibendum neque egestas congue. Mauris in aliquam sem fringilla.
-
-## Lorem ipsum dolor
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut venenatis tellus in metus. Consectetur lorem donec massa sapien faucibus et. Tincidunt augue interdum velit euismod. Turpis in eu mi bibendum neque egestas congue quisque egestas. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Ipsum a arcu cursus vitae congue mauris rhoncus. Vel pharetra vel turpis nunc. Aenean sed adipiscing diam donec adipiscing tristique. Aliquet risus feugiat in ante metus dictum. Orci a scelerisque purus semper eget duis at tellus. Ut enim blandit volutpat maecenas volutpat blandit aliquam. In eu mi bibendum neque egestas congue. Mauris in aliquam sem fringilla.
-
-## Lorem ipsum dolor
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut venenatis tellus in metus. Consectetur lorem donec massa sapien faucibus et. Tincidunt augue interdum velit euismod. Turpis in eu mi bibendum neque egestas congue quisque egestas. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Ipsum a arcu cursus vitae congue mauris rhoncus. Vel pharetra vel turpis nunc. Aenean sed adipiscing diam donec adipiscing tristique. Aliquet risus feugiat in ante metus dictum. Orci a scelerisque purus semper eget duis at tellus. Ut enim blandit volutpat maecenas volutpat blandit aliquam. In eu mi bibendum neque egestas congue. Mauris in aliquam sem fringilla.
-
-## Lorem ipsum dolor
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut venenatis tellus in metus. Consectetur lorem donec massa sapien faucibus et. Tincidunt augue interdum velit euismod. Turpis in eu mi bibendum neque egestas congue quisque egestas. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Ipsum a arcu cursus vitae congue mauris rhoncus. Vel pharetra vel turpis nunc. Aenean sed adipiscing diam donec adipiscing tristique. Aliquet risus feugiat in ante metus dictum. Orci a scelerisque purus semper eget duis at tellus. Ut enim blandit volutpat maecenas volutpat blandit aliquam. In eu mi bibendum neque egestas congue. Mauris in aliquam sem fringilla.
+Services du Premier Ministre
+A l'attention du délégué à la protection des données (DPD)
+56 rue de Varenne
+75007 Paris
