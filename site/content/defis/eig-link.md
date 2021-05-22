@@ -18,7 +18,7 @@ Chaque promotion du programme Entrepreneurs d’Intérêt Général réunit des 
 
 La plupart de ces spécialistes font leurs premiers pas dans l’administration et découvrent un univers aux contraintes techniques et juridiques particulières. 
 
-Pour accompagner les EIG et les agents publics, une équipe dédiée au sein d’Etalab pilote le programme de A à Z. Elle s’assure de leur offrir toutes les ressources nécessaires pour relever les défis : conseil sur la gestion de projet, méthodes de développement, design et data science, conseil juridique, ressources techniques, etc. Pour réaliser ces nombreuses actions, cette équipe a besoin d’un appui. 
+Pour accompagner les EIG et les agents publics, une équipe dédiée au sein d’[Etalab](https://www.etalab.gouv.fr/) pilote le programme de A à Z. Elle s’assure de leur offrir toutes les ressources nécessaires pour relever les défis : conseil sur la gestion de projet, méthodes de développement, design et data science, conseil juridique, ressources techniques, etc. Pour réaliser ces nombreuses actions, cette équipe a besoin d’un appui. 
 
 ## Le terrain de jeu 
 
