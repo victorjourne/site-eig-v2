@@ -45,6 +45,7 @@ Le Data Space Education and Skills ouvrira le champ des possibles en permettant�
 * aux professeurs de connaître les besoins spécifiques de chacun des élèves et d’adapter leur accompagnement dans ce sens
 * aux décideurs de mieux suivre les politiques publiques mises en place et de les affiner
 * aux entreprises de la filière EdTech de mieux évaluer l’impact de leurs solutions et de cerner les besoins de leurs usagers
+
 L’ensemble concourra vers un accompagnement des élèves, des étudiants et des citoyens au plus près de leurs besoins en formation. 
 
 _Les porteurs de ce projet sont à la recherche d’un ou une data engineer, d’un ou une UX/UI designer et d’un ou une juriste du numérique, spécialiste de la contractualisation des espaces de données._
