@@ -24,13 +24,14 @@ Depuis 2019, l’ANSM a adopté une politique de gestion de ces demandes par les
 
 Aujourd’hui, les demandes sont réceptionnées et hiérarchisées par des évaluateurs généralistes qui ne disposent pas toujours des connaissances (historique, etc.) pour définir le meilleur mode de traitement. Des critères de risque ont été identifiés par type de demande et de métiers mobilisés en s’appuyant sur différentes bases de données rigides mais leur exploitation via Excel s’avère fastidieuse, chronophage et subjective. 
 
-## Le terrain de jeu 
+## Le terrain de jeu
 
 Cette problématique vous parle ? Venez développer l’outil d’aide à la décision qui permettra de détecter les risques et enjeux associés à chaque nouvelle demande reçue par l’ANSM, et de proposer le mode de traitement le plus adapté. 
 
-#### Vos défis techniques 
+#### Vos défis techniques
 
 La solution : 
+
 * permettra de bien orienter chaque dossier en assurant la détection des dossiers sensibles
 * reposera sur un algorithme d’aide à la décision/un modèle de machine learning
 * sera fondamentalement centrée utilisateurs et reposera sur l’animation d’une communauté de testeurs et futurs utilisateurs
@@ -38,6 +39,7 @@ La solution :
 #### Votre impact 
 
 Grâce à vous, l’ANSM pourra : 
+
 * apporter à chaque dossier l’expertise technique et scientifique adaptée au niveau de risque
 * proportionner les ressources d’expertise allouées à chaque dossier en fonction des enjeux de santé publique
 * apporter un traitement égal, à situation égale
@@ -45,6 +47,6 @@ Grâce à vous, l’ANSM pourra :
 
 L’ensemble permettra de renforcer la confiance des citoyens dans l’expertise des autorités sanitaires. 
 
-_Les agents publics porteurs de ce projet sont à la recherche d’un ou une UX designer, d’un ou une data scientist maîtrisant Python et disposant de connaissances en NLP et d’un développeur ou une développeuse full stack avec une bonne connaissance de Python et de React (Docker serait un plus)._  
+*Les agents publics porteurs de ce projet sont à la recherche d’un ou une UX designer, d’un ou une data scientist maîtrisant Python et disposant de connaissances en NLP et d’un développeur ou une développeuse full stack avec une bonne connaissance de Python et de React (Docker serait un plus).*  
 
-## Faire ses voeux
+## [Faire ses voeux](https://www.demarches-simplifiees.fr/commencer/aac-eig5-voeux)
