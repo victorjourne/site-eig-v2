@@ -1,7 +1,7 @@
 ---
 title: Green Data for Health
-description: "Identifier par la donnée les effets des facteurs environnementaux
-  sur la santé "
+description: "Identifier les effets des facteurs environnementaux sur la santé
+  par la donnée "
 who: Commissariat Général au Développement Durable (CGDD)
 domain: Santé-Environnement
 town: 92800 Puteaux
