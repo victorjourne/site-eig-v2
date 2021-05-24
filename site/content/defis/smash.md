@@ -1,7 +1,7 @@
 ---
 title: SMASH
-description: Anticiper les dépenses en personnel des hôpitaux et leur évolution,
-  ainsi que l’impact des réformes sur la viabilité des hôpitaux
+description: Anticiper les dépenses en personnel des hôpitaux et l’impact des
+  réformes sur la viabilité des hôpitaux
 who: Direction de la Recherche, des Études, de l’Évaluation et des Statistiques
   (DREES)
 domain: Santé
