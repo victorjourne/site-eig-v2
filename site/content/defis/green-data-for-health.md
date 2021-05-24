@@ -1,7 +1,7 @@
 ---
 title: Green Data for Health
-description: Faciliter la mobilisation des données environnementales au service
-  de l’identification des effets des facteurs environnementaux sur la santé
+description: Mobiliser des données environnementales pour identifier des effets
+  des facteurs environnementaux sur la santé
 who: Commissariat Général au Développement Durable (CGDD)
 domain: Santé-Environnement
 town: 92800 Puteaux
