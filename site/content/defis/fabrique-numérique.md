@@ -10,7 +10,7 @@ expertises:
   - Développement
 image: img/07_fabrique-numerique_10.svg
 ---
-{{< dailymotion x81fh7z >}}
+{{< dailymotion  >}}
 
 ## Le contexte
 
