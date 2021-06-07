@@ -12,7 +12,7 @@ Pour toute information ou exercice de vos droits Informatique et Libertés sur l
 * par courriel à dpd@pm.gouv.fr
 * ou par courrier (avec copie de votre pièce d'identité en cas d'exercice de vos droits) à l'adresse suivante : 
 
-Services du Premier Ministre
+Services du Premier Ministre 
 A l'attention du délégué à la protection des données (DPD)
 56 rue de Varenne
 75007 Paris
