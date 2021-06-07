@@ -46,5 +46,3 @@ L’application libèrera les forces de l’ordre d’une tâche laborieuse et l
 Les citoyens seront préservés des poursuites injustifiées liées aux erreurs de classification.  Ils seront également mieux informés sur les armes qu’ils détiennent, à travers une mise à disposition du service. 
 
 *Les agents publics porteurs de ce projet sont à la recherche d’un ou une data scientist qui dispose d’une expertise en computer vision et d’un développeur ou une développeuse pour la conception d’API, la partie front et l’application mobile. Les profils idéaux seront très entrepreneuriaux, capables de penser d’autres usages.*
-
-## [Faire ses voeux](https://www.demarches-simplifiees.fr/commencer/aac-eig5-voeux)
