@@ -42,7 +42,12 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Titre", name: title, widget: string}
           - {label: "Contenu", name: "body", widget: "markdown"}
-
+      - file: "site/content/impact.md"
+        label: "Impact"
+        name: "impact"
+        fields:
+          - {label: Titre, name: title, widget: string}
+          - {label: Description, name: desc, widget: text}
           
   #     - file: "site/content/contact/_index.md"
   #       label: "Contact Page"
