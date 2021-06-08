@@ -30,7 +30,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Homepage"
         name: "home"
         fields:
-          - {label: "Hero", name: "hero", widget: "object", [{label: Title, name: title, widget: string}, {label: Bouton, name: btn, widget: object, [{label: Title, name: title, widget: string}, {label: URL, name: url, widget: string}]}]}
+          - {label: "Hero", name: "hero", widget: "object", fields: [{label: Title, name: title, widget: string}, {label: Bouton, name: btn, widget: object, fields: [{label: Title, name: title, widget: string}, {label: URL, name: url, widget: string}]}]}
       - file: "site/content/personal-data.md"
         label: "Données personnelles"
         name: "personal-data"
