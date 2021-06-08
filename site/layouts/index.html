@@ -7,8 +7,8 @@
   <div class="c-hero__content">
     <div class="fr-container">
       <div class="c-hero__inner">
-        <h1>Entreprendre <br>par le <span>numérique</span> <br>pour le service public</h1>
-        <a href="#" class="fr-btn">Participer</a>
+        <h1>{{ replace .Params.hero.title "\n" "<br/>" | safeHTML }}</h1>
+        <a href="{{ .Params.hero.btn.url }}" class="fr-btn">{{ .Params.hero.btn.title }}</a>
       </div>
     </div>
   </div>
