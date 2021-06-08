@@ -3,7 +3,10 @@ title: CyberImpact
 description: Mieux comprendre les citoyens qui s’expriment dans l’espace cyber
   pour mieux les protéger
 who: Direction générale de la gendarmerie nationale (DGGN)
-domain: Sécurité
+themes:
+  - Sécurité
+promos:
+  - EIG 1
 town: 92130 Issy-les-Moulineaux
 date: 2021-05-12T14:54:41.173Z
 expertises:

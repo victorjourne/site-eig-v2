@@ -4,6 +4,8 @@ export default class Grid {
   constructor() {
     this.resized = true;
     this.timeout = null;
+    this.$filters = document.querySelectorAll('.js-filter');
+
     this.setupIsotope();
   }
  
@@ -19,8 +21,15 @@ export default class Grid {
       layoutMode: 'fitRows',
     });
 
-    document.querySelector('.js-filter').addEventListener('change', (e) => {
-      this.filter(e.target.value);
+    // document.querySelector('.js-filter').addEventListener('change', (e) => {
+    //   this.filter(e.target.value);
+    //   this.filter();
+    // });
+
+    this.$filters.forEach(select => {
+      select.addEventListener('change', () => {
+        this.filter();
+      });
     });
   }
 
@@ -48,13 +57,16 @@ export default class Grid {
     });
   }
 
-  filter(filter) {
-    if(filter != '*') {
-      filter = '.is-cat-' + filter;
-    }
+  filter() {
+    let filters = [];
+    this.$filters.forEach(select => {
+      if(select.value != '*') {
+        filters.push('.' + select.value);
+      }
+    });
 
     this.isotope.arrange({
-      filter
+      filter: filters.length > 0 ? filters.join('') : '*'
     });
   }
 }

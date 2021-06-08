@@ -4,7 +4,10 @@ description: Accompagner les personnes en situation de handicap dans leur
   parcours de réadaptation professionnelle
 who: "Etablissement Public National Antoine Koenigswarter (EPNAK) + Caisse
   nationale d’assurance maladie (CNAM) "
-domain: Formation
+themes: 
+  - Formation
+promos:
+  - EIG 1
 town: "91000 Evry + 75020 Paris "
 date: 2021-05-12T14:59:52.765Z
 expertises:

@@ -3,7 +3,10 @@ title: "BatID "
 description: "Faciliter le suivi de la politique publique en matière de
   rénovation énergétique des bâtiments "
 who: "Agence de la transition écologique (ADEME) "
-domain: Ecologie
+themes:
+  - Ecologie
+promos:
+  - EIG 1
 town: 92120 Montrouge
 date: 2021-05-12T15:41:48.018Z
 expertises:

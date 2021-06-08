@@ -27,7 +27,13 @@
           <div class="fr-col-12 fr-col-lg-9">
             <h1 class="c-project-head__title">{{ .Title }}</h1>
             <p class="fr-h4 fr-mb-2v">{{ .Description }}</p>
-            <p class="fr-tag fr-mb-4v">{{ .Params.domain }}</p>
+            <ul class="fr-tags-group fr-mb-2v">
+              {{ range $index, $themes := .Params.themes }}
+              <li>
+                <p class="fr-tag">{{ . }}</p>
+              </li>
+              {{ end }}
+            </ul>
             <p class="fr-mb-2v"><strong>{{ .Params.who }}</strong></p>
             <p class="c-project-head__meta fr-mb-1v">
               <img src="img/icon-marker.svg" alt=""> {{ .Params.town }}

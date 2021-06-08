@@ -2,7 +2,10 @@
 title: Prev-AC-Tion
 description: Prévenir les risques et les maladies professionnelles dans le secteur maritime
 who: Ministère de la Mer
-domain: Santé
+themes:
+  - Santé
+promos:
+  - EIG 1
 town: 92055 La Défense
 date: 2021-05-20T14:22:09.650Z
 expertises:

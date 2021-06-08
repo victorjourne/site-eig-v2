@@ -1,15 +1,33 @@
 <div class="fr-container">
   <div class="fr-mb-10v fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
-      <label class="fr-label" for="select">Expertise</label>
-      <select class="fr-select js-filter">
+      <label class="fr-label" for="expertises">Expertise</label>
+      <select class="fr-select js-filter" id="expertises">
         <option value="*">Toutes</option>
-        <option value="data-engineering">Data Engineering</option>
-        <option value="data-science">Data science</option>
-        <option value="design">Design</option>
-        <option value="developpement">Développement</option>
-        <option value="geomatique">Géomatique</option>
-        <option value="juriste">Juriste</option>
+        <option value="is-cat-data-engineering">Data Engineering</option>
+        <option value="is-cat-data-science">Data science</option>
+        <option value="is-cat-design">Design</option>
+        <option value="is-cat-developpement">Développement</option>
+        <option value="is-cat-geomatique">Géomatique</option>
+        <option value="is-cat-juriste">Juriste</option>
+      </select>
+    </div>
+    <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+      <label class="fr-label" for="promos">Promotion</label>
+      <select class="fr-select js-filter" id="promos">
+        <option value="*">Toutes</option>
+        {{ range $name, $taxonomy := .Site.Taxonomies.promos }}
+        <option value="is-promo-{{ $name | urlize }}">{{ $name }}</option>
+        {{ end }}
+      </select>
+    </div>
+    <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+      <label class="fr-label" for="themes">Thématiques</label>
+      <select class="fr-select js-filter" id="themes">
+        <option value="*">Toutes</option>
+        {{ range $name, $taxonomy := .Site.Taxonomies.themes }}
+        <option value="is-theme-{{ $name | urlize }}">{{ $name }}</option>
+        {{ end }}
       </select>
     </div>
   </div>

@@ -1,7 +1,11 @@
 /* @import './dsfr'; */
 @import './dsfr-theme-tac';
 
-@import './components/embed';
+@import './components/_embed';
+@import './components/_hero';
+@import './components/_style-title';
+@import './components/_section';
+@import './components/_join';
 
 ul, ol {
   padding-left: 0;
@@ -71,4 +75,8 @@ img {
   h2 {
     margin-top: 2.5rem;
   }
+}
+
+.u-text-center {
+  text-align: center;
 }

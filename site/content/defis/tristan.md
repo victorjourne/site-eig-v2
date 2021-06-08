@@ -2,7 +2,10 @@
 title: "TRISTAN "
 description: Aider les magistrats dans la préparation de leurs audiences
 who: Ministère de la Justice
-domain: Justice
+themes: 
+  - Justice
+promos:
+  - EIG 1
 town: 75019 Paris
 date: 2021-05-12T15:49:55.984Z
 expertises:

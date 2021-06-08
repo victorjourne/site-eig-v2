@@ -1,9 +1,11 @@
 ---
 title: DataRH
-description: Favoriser un travail transparent et collaboratif autour des
-  politiques RH et de santé
+description: Favoriser un travail transparent et collaboratif autour des politiques RH et de santé
 who: Agence régionale de santé Auvergne-Rhône-Alpes
-domain: Ressources humaines
+themes: 
+  - Ressources humaines
+promos:
+  - EIG 1
 town: 69003 Lyon
 date: 2021-05-20T14:24:33.264Z
 expertises:

@@ -2,7 +2,10 @@
 title: Fabrique Numérique
 description: Améliorer le service aux usagers et le travail des agents
 who: Direction générale des finances publiques (DGFiP)
-domain: Service public
+themes: 
+  - Service public
+promos:
+  - EIG 1
 town: 93160 Noisy-le-Grand
 date: 2021-05-12T15:02:33.005Z
 expertises:

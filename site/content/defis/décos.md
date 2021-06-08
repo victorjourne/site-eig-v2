@@ -2,7 +2,10 @@
 title: Décos
 description: Simplifier la procédure d’attribution des distinctions honorifiques
 who: "Ministère de l’Intérieur "
-domain: Citoyenneté
+themes: 
+  - Citoyenneté
+promos:
+  - EIG 1
 town: 75008 Paris
 date: 2021-05-22T10:56:14.512Z
 expertises:

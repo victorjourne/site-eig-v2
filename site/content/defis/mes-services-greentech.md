@@ -2,7 +2,10 @@
 title: Mes services Greentech
 description: Accélérer le développement des startups et des écosystèmes Greentech
 who: Commissariat Général au Développement Durable (CGDD)
-domain: Ecologie
+themes:
+  - Ecologie
+promos:
+  - EIG 1
 town: 92055 La Défense
 date: 2021-05-12T15:48:32.602Z
 expertises:

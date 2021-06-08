@@ -16,7 +16,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Administration", name: "who", widget: "string"}
-      - {label: "Domaine", name: "domain", widget: "string", pattern: ['^.{1,20}$', "20 caractères maximum"]}
+      - {label: "Thématique", name: "themes", widget: "select", multiple: true, options: ["Sécurité", "Ecologie", "Education", "Ressources humaines", "Citoyenneté", "Formation", "Numérique public", "Service public", "Santé", "Santé-Environnement", "Justice", "Protection sociale"]}
+      - {label: "Promotion", name: "promos", widget: "select", multiple: true, options: ["EIG 1", "EIG 2", "EIG 3", "EIG 4"]}
       - {label: "Lieu", name: "town", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime"}
       - {label: "Expertises", name: "expertises", widget: "select", multiple: true, options: ["Data Engineering", "Data science", "Design", "Développement", "Géomatique", "Juriste"]}
@@ -25,12 +26,18 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
+      - file: "site/content/_index.md"
+        label: "Homepage"
+        name: "home"
+        fields:
+          - {label: "Hero", name: "hero", widget: "object", [{label: Title, name: title, widget: string}, {label: Bouton, name: btn, widget: object, [{label: Title, name: title, widget: string}, {label: URL, name: url, widget: string}]}]}
       - file: "site/content/personal-data.md"
         label: "Données personnelles"
         name: "personal-data"
         fields:
           - {label: "Titre", name: title, widget: string}
           - {label: "Contenu", name: "body", widget: "markdown"}
+
           
   #     - file: "site/content/contact/_index.md"
   #       label: "Contact Page"

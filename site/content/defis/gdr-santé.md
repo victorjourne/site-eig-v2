@@ -3,7 +3,10 @@ title: GDR Santé
 description: "Sécuriser les processus d’autorisation-surveillance des
   médicaments et produits de santé "
 who: "Agence nationale de sécurité du médicament et des produits de santé (ANSM) "
-domain: Santé
+themes: 
+  - Santé
+promos:
+  - EIG 1
 town: 93200 Saint Denis
 date: 2021-05-12T15:38:22.176Z
 expertises:

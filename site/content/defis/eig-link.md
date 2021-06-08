@@ -2,7 +2,10 @@
 title: EIG Link
 description: "Assurer la réussite de la promotion EIG 5 "
 who: Direction interministérielle du numérique (DINUM)
-domain: Numérique public
+themes: 
+  - Numérique public
+promos:
+  - EIG 1
 town: 75007 Paris
 date: 2021-05-21T19:07:47.411Z
 expertises:
