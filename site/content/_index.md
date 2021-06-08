@@ -26,7 +26,11 @@ join:
   btn:
     title: Participer
     url: "#"
+  title: Rejoignez la promotion 6
 medias:
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua.
+  tiles:
+    - image: https://dev--ds-gouv.netlify.app/example/img/placeholder.1x1.png
+      title: Titre
 ---
