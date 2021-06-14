@@ -3,11 +3,11 @@ title: Projets de la promotion 5
 hero:
   btn:
     title: Participer
-    url: "#"
+    url: https://www.google.fr/
   title: |-
     Entreprendre
     par le <span>numérique</span>
-    pour le service public
+    pour le service public public public public public public
 defis:
   sub: Relever des défis d’intérêt général en 10 mois
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -33,4 +33,10 @@ medias:
   tiles:
     - image: https://dev--ds-gouv.netlify.app/example/img/placeholder.1x1.png
       title: Titre
+    - image: img/02_tristan_10.svg
+      title: Test test test test test
+    - image: img/580b57fcd9996e24bc43c53e.png
+      title: Test test test
+    - image: img/05_gdr-santé_10.svg
+      title: "Test test "
 ---
