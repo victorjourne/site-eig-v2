@@ -2,16 +2,21 @@
 title: Projets de la promotion 5
 hero:
   btn:
-    title: Participer
+    title: TEST
     url: https://www.google.fr/
   title: |-
     Entreprendre
-    par le <span>numérique</span>
-    pour le service public public public public public public
+    par le numérique pour le service 
+    public public public public public public
 defis:
-  sub: Relever des défis d’intérêt général en 10 mois
+  sub: Relever des défis d’intérêt général en 10 mois mois mois mois mois mois
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
+    tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit
+    amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+    labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+    aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+    eiusmod tempor incididunt ut labore et dolore magna aliqua.
 talents:
   sub: Les talents ou « EIG »
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
