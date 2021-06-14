@@ -9,22 +9,20 @@ hero:
     par le numérique pour le service 
     public public public public public public
 defis:
-  sub: Relever des défis d’intérêt général en 10 mois mois mois mois mois mois
+  sub: Relever des défis d’intérêt général en 10 mois
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-    labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    amet
 talents:
   sub: Les talents ou « EIG »
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
+    tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit
+    amet
 agents:
-  sub: Les agents publics
+  sub: Les agents publics Les agents publics Les agents publics Les agents publics
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
+    tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit
+    amet
 join:
   image: img/push-promo.jpg
   sub: du programme Entrepreneurs d’intérêt général !
@@ -36,8 +34,6 @@ medias:
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua.
   tiles:
-    - image: https://dev--ds-gouv.netlify.app/example/img/placeholder.1x1.png
-      title: Titre
     - image: img/02_tristan_10.svg
       title: Test test test test test
     - image: img/580b57fcd9996e24bc43c53e.png
