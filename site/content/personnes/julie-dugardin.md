@@ -3,6 +3,7 @@ title: Julie Dugardin
 job: Designer
 promos:
   - EIG 1
+role: participant
 defi: Basegun
 image: img/13_basegun_10.svg
 linkedin: https://www.google.fr
