@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+<div class="fr-container fr-mt-8v fr-mb-10v">
+  <h1>{{ .Params.title }}</h1>
+  <p class="fr-text--lead fr-mb-4v">
+    {{ .Params.desc }}
+  </p>
+  <a class="fr-btn fr-btn--secondary" href="#">Nous rejoindre</a>
+  <div class="fr-tabs fr-mt-8v">
+    <ul class="fr-tabs__list" role="tablist" aria-label="Personnes">
+      <li role="presentation">
+        <button id="tabpanel-630" class="fr-tabs__tab fr-tabs__tab--icon-left" tabindex="0" role="tab" aria-selected="true" aria-controls="tabpanel-630-panel">L’équipe du programme</button>
+      </li>
+      <li role="presentation">
+        <button id="tabpanel-631" class="fr-tabs__tab fr-tabs__tab--icon-left" tabindex="-1" role="tab" aria-selected="false" aria-controls="tabpanel-631-panel">Écosystème</button>
+      </li>
+    </ul>
+    <div id="tabpanel-630-panel" class="fr-tabs__panel fr-tabs__panel--selected" role="tabpanel" aria-labelledby="tabpanel-630" tabindex="0">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+      <div class="fr-grid-row fr-grid-row--gutters">
+        {{ range ( where .Site.RegularPages "Type" "personnes" ).ByDate }}
+          <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+            {{ .Render "li" }}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+    <div id="tabpanel-631-panel" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-631" tabindex="0">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+    </div>
+  </div>
+</div>
+
+{{ end }}
