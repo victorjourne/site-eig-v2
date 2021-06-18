@@ -1,0 +1,21 @@
+.c-talent {
+  position: relative;
+
+  &__img {
+    @media (min-width: 62em) {
+      order: -1;
+    }
+  }
+
+  &__links {
+    display: none;
+    position: absolute;
+    top: 12px;
+    width: auto;
+    right: -1rem;
+
+    @media (min-width: 62em) {
+      display: flex;
+    }
+  }
+}

@@ -6,6 +6,8 @@
 @import './components/_style-title';
 @import './components/_section';
 @import './components/_join';
+@import './components/_error';
+@import './components/_talent';
 
 ul, ol {
   padding-left: 0;

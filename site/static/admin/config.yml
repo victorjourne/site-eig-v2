@@ -23,6 +23,20 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Expertises", name: "expertises", widget: "select", multiple: true, options: ["Data Engineering", "Data science", "Design", "Développement", "Géomatique", "Juriste"]}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Contenu", name: "body", widget: "markdown"}
+  - name: "personnes" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Personnes" # Used in the UI, ie.: "New Post"
+    label_singular: "Personnes"
+    folder: "site/content/personnes" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Nom", name: "title", widget: "string"}
+      - {label: "Poste", name: "job", widget: "string"}
+      - {label: "Promotion", name: "promos", widget: "select", multiple: true, options: ["EIG 1", "EIG 2", "EIG 3", "EIG 4"]}
+      - {label: "Type", name: "type", widget: "select", options: ["Participant", "Agent du programme", "Agent de l’écosystème"]}
+      - {label: "Défi", name: "defi", widget: "relation", collection: "defis"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Contenu", name: "body", widget: "markdown"}
+      - {label: "Linkedin", name: "linkedin", widget: "string"}
   - name: "pages"
     label: "Pages"
     files:
@@ -39,6 +53,12 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/personal-data.md"
         label: "Données personnelles"
         name: "personal-data"
+        fields:
+          - {label: "Titre", name: title, widget: string}
+          - {label: "Contenu", name: "body", widget: "markdown"}
+      - file: "site/content/cookies.md"
+        label: "Gestion des cookies"
+        name: "cookies"
         fields:
           - {label: "Titre", name: title, widget: string}
           - {label: "Contenu", name: "body", widget: "markdown"}
