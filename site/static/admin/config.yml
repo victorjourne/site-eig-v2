@@ -32,7 +32,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Nom", name: "title", widget: "string"}
       - {label: "Poste", name: "job", widget: "string"}
       - {label: "Promotion", name: "promos", widget: "select", multiple: true, options: ["EIG 1", "EIG 2", "EIG 3", "EIG 4"]}
-      - {label: "Rôle", name: "role", widget: "select", options: [{label: "Participant", value: "participant"}, {label: "Agent du programme", value: "agent-programme"}, {label: "Agent de l’écosystème", value: "agent-ecosysteme"]}
+      - {label: "Rôle", name: "role", widget: "select", options: [{label: "Participant", value: "participant"}, {label: "Agent du programme", value: "agent-programme"}, {label: "Agent de l’écosystème", value: "agent-ecosysteme"}]}
       - {label: "Défi", name: "defi", widget: "relation", collection: "defis", value_field: "title", search_fields: ["title"]}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Linkedin", name: "linkedin", widget: "string"}
