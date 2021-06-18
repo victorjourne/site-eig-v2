@@ -25,18 +25,18 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Contenu", name: "body", widget: "markdown"}
   - name: "personnes" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Personnes" # Used in the UI, ie.: "New Post"
-    label_singular: "Personnes"
+    label_singular: "Personne"
     folder: "site/content/personnes" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Nom", name: "title", widget: "string"}
       - {label: "Poste", name: "job", widget: "string"}
       - {label: "Promotion", name: "promos", widget: "select", multiple: true, options: ["EIG 1", "EIG 2", "EIG 3", "EIG 4"]}
-      - {label: "Type", name: "type", widget: "select", options: ["Participant", "Agent du programme", "Agent de l’écosystème"]}
+      - {label: "Rôle", name: "role", widget: "select", options: [{label: "Participant", value: "participant"}, {label: "Agent du programme", value: "agent-programme"}, {label: "Agent de l’écosystème", value: "agent-ecosysteme"]}
       - {label: "Défi", name: "defi", widget: "relation", collection: "defis", value_field: "title", search_fields: ["title"]}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Contenu", name: "body", widget: "markdown"}
       - {label: "Linkedin", name: "linkedin", widget: "string"}
+      - {label: "Contenu", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
