@@ -1,10 +1,10 @@
 ---
-title: Test
-job: Test
+title: "Sophie Machin "
+job: Développeur front/back
 promos:
   - EIG 4
 role: participant
-defi: Décos
+defi: CyberImpact
 image: img/prince-akachi-j1oscm_uhuq-unsplash.jpg
 linkedin: https://www.linkedin.com/in/oceane-chahbazian/
 ---
