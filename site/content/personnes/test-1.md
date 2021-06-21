@@ -1,6 +1,6 @@
 ---
-title: Test
-job: Test
+title: Sylvie Dupont Maurice Dupong Maurice
+job: Cheffe de projet
 promos:
   - EIG 2
 role: participant
