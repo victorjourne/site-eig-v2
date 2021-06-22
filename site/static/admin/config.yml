@@ -18,7 +18,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Administration", name: "who", widget: "string"}
       - {label: "Thématiques", name: "themes", widget: "relation", collection: "themes", multiple: true, value_field: "title", search_fields: ["title"]}
       # - {label: "Thématique", name: "themes", widget: "select", multiple: true, options: ["Sécurité", "Ecologie", "Education", "Ressources humaines", "Citoyenneté", "Formation", "Numérique public", "Service public", "Santé", "Santé-Environnement", "Justice", "Protection sociale"]}
-      - {label: "Promotion", name: "promos", widget: "select", multiple: true, options: ["EIG 1", "EIG 2", "EIG 3", "EIG 4"]}
+      - {label: "Promotions", name: "promos", widget: "relation", collection: "promos", multiple: true, value_field: "title", search_fields: ["title"]}
+      # - {label: "Promotion", name: "promos", widget: "select", multiple: true, options: ["EIG 1", "EIG 2", "EIG 3", "EIG 4"]}
       - {label: "Lieu", name: "town", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime"}
       - {label: "Expertises", name: "expertises", widget: "relation", collection: "expertises", multiple: true, value_field: "title", search_fields: ["title"]}
@@ -50,6 +51,13 @@ collections: # A list of collections the CMS should be able to edit
     label: "Expertises" # Used in the UI, ie.: "New Post"
     label_singular: "Expertise"
     folder: "site/content/expertises" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Titre", name: "title", widget: "string"}
+  - name: "promos" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Promotions" # Used in the UI, ie.: "New Post"
+    label_singular: "Promotion"
+    folder: "site/content/promos" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Titre", name: "title", widget: "string"}
