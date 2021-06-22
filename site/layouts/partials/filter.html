@@ -4,20 +4,17 @@
       <label class="fr-label" for="expertises">Expertise</label>
       <select class="fr-select js-filter" id="expertises">
         <option value="*">Toutes</option>
-        <option value="is-cat-data-engineering">Data Engineering</option>
-        <option value="is-cat-data-science">Data science</option>
-        <option value="is-cat-design">Design</option>
-        <option value="is-cat-developpement">Développement</option>
-        <option value="is-cat-geomatique">Géomatique</option>
-        <option value="is-cat-juriste">Juriste</option>
+        {{ range (where .Site.RegularPages "Section" "expertises") }}
+        <option value="is-cat-{{ .Title | urlize }}">{{ .Title }}</option>
+        {{ end }}
       </select>
     </div>
     <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
       <label class="fr-label" for="promos">Promotion</label>
       <select class="fr-select js-filter" id="promos">
         <option value="*">Toutes</option>
-        {{ range $name, $taxonomy := .Site.Taxonomies.promos }}
-        <option value="is-promo-{{ $name | urlize }}">{{ $name }}</option>
+        {{ range (where .Site.RegularPages "Section" "promos") }}
+        <option value="is-promo-{{ .Title | urlize }}">{{ .Title }}</option>
         {{ end }}
       </select>
     </div>
@@ -25,8 +22,8 @@
       <label class="fr-label" for="themes">Thématiques</label>
       <select class="fr-select js-filter" id="themes">
         <option value="*">Toutes</option>
-        {{ range $name, $taxonomy := .Site.Taxonomies.themes }}
-        <option value="is-theme-{{ $name | urlize }}">{{ $name }}</option>
+        {{ range (where .Site.RegularPages "Section" "themes") }}
+        <option value="is-theme-{{ .Title | urlize }}">{{ .Title }}</option>
         {{ end }}
       </select>
     </div>

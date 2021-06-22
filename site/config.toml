@@ -13,6 +13,7 @@ removePathAccents = true
 [taxonomies]
   theme = "themes"
   promo = "promos"
+  expertise = "expertises"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
