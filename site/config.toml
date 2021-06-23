@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "fr-fr"
 languageLang = "fr"
 title = "Entrepreneurs d'intérêt général"
+paginate = 8
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
@@ -14,6 +15,7 @@ removePathAccents = true
   theme = "themes"
   promo = "promos"
   expertise = "expertises"
+  category = "categories"
 
 [markup]
   defaultMarkdownHandler = "goldmark"

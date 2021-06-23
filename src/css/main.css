@@ -8,6 +8,8 @@
 @import './components/_join';
 @import './components/_error';
 @import './components/_talent';
+@import './components/_filters';
+@import './components/_metas';
 
 ul, ol {
   padding-left: 0;
@@ -81,4 +83,13 @@ img {
 
 .u-text-center {
   text-align: center;
+}
+
+.fr-pagination__list {
+  justify-content: center;
+}
+
+.is-active .fr-tag {
+  color: #fff;
+  background-color: #000091;
 }

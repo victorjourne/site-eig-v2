@@ -26,6 +26,19 @@ collections: # A list of collections the CMS should be able to edit
       # - {label: "Expertises", name: "expertises", widget: "select", multiple: true, options: ["Data Engineering", "Data science", "Design", "Développement", "Géomatique", "Juriste"]}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Contenu", name: "body", widget: "markdown"}
+  - name: "articles" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Articles" # Used in the UI, ie.: "New Post"
+    label_singular: "Article"
+    folder: "site/content/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Auteur", name: "author", widget: "string"}
+      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Catégories", name: "categories", widget: "relation", collection: "categories", multiple: true, value_field: "title", search_fields: ["title"]}
+      - {label: "Contenu", name: "body", widget: "markdown"}
   - name: "personnes" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Personnes" # Used in the UI, ie.: "New Post"
     label_singular: "Personne"
@@ -58,6 +71,13 @@ collections: # A list of collections the CMS should be able to edit
     label: "Promotions" # Used in the UI, ie.: "New Post"
     label_singular: "Promotion"
     folder: "site/content/promos" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Titre", name: "title", widget: "string"}
+  - name: "categories" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Catégories" # Used in the UI, ie.: "New Post"
+    label_singular: "Catégorie"
+    folder: "site/content/categories" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Titre", name: "title", widget: "string"}

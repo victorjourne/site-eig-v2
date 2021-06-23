@@ -1,0 +1,5 @@
+---
+title: Les actualités du programme
+layout: list
+url: /blog
+---
