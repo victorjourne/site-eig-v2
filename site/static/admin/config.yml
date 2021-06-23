@@ -17,13 +17,11 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Administration", name: "who", widget: "string"}
       - {label: "Thématiques", name: "themes", widget: "relation", collection: "themes", multiple: true, value_field: "title", search_fields: ["title"]}
-      # - {label: "Thématique", name: "themes", widget: "select", multiple: true, options: ["Sécurité", "Ecologie", "Education", "Ressources humaines", "Citoyenneté", "Formation", "Numérique public", "Service public", "Santé", "Santé-Environnement", "Justice", "Protection sociale"]}
       - {label: "Promotions", name: "promos", widget: "relation", collection: "promos", multiple: true, value_field: "title", search_fields: ["title"]}
-      # - {label: "Promotion", name: "promos", widget: "select", multiple: true, options: ["EIG 1", "EIG 2", "EIG 3", "EIG 4"]}
       - {label: "Lieu", name: "town", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime"}
       - {label: "Expertises", name: "expertises", widget: "relation", collection: "expertises", multiple: true, value_field: "title", search_fields: ["title"]}
-      # - {label: "Expertises", name: "expertises", widget: "select", multiple: true, options: ["Data Engineering", "Data science", "Design", "Développement", "Géomatique", "Juriste"]}
+      - {label: "Personnes", name: "personnes", widget: "relation", collection: "personnes", multiple: true, value_field: "title", search_fields: ["title"]}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Contenu", name: "body", widget: "markdown"}
   - name: "articles" # Used in routes, ie.: /admin/collections/:slug/edit
