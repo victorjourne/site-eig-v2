@@ -39,6 +39,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Catégories", name: "categories", widget: "relation", collection: "categories", multiple: true, value_field: "title", search_fields: ["title"]}
       - {label: "Contenu", name: "body", widget: "markdown"}
+      - {label: "Visible", name: "visible", widget: hidden, default: true}
   - name: "personnes" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Personnes" # Used in the UI, ie.: "New Post"
     label_singular: "Personne"

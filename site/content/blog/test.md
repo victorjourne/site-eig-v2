@@ -6,6 +6,7 @@ author: Thanh Ha Le, équipe EIG
 categories:
   - Open
 image: img/13_basegun_10.svg
+visible: true
 ---
 
 ## Le contexte
