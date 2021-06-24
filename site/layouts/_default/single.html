@@ -8,10 +8,10 @@
         <div class="fr-collapse" id="breadcrumb-192">
           <ol class="fr-breadcrumb__list">
             <li>
-              <a class="fr-breadcrumb__link" href="/">Accueil</a>
+              <a class="fr-breadcrumb__link" href="{{ .Site.BaseURL }}">Accueil</a>
             </li>
             <li>
-              <a class="fr-breadcrumb__link" href="/impact">Impact</a>
+              <a class="fr-breadcrumb__link" href="{{ relref . "blog/_index.md" }}">Blog</a>
             </li>
             <li>
               <a class="fr-breadcrumb__link" aria-current="page">{{ .Title }}</a>
@@ -19,29 +19,17 @@
           </ol>
         </div>
       </nav>
-      <div class="c-project-head fr-mb-8v">
-        <div class="fr-grid-row fr-grid-row--gutters">
-          <div class="fr-col-12 fr-col-lg-3">
-            <img src="{{ .Params.image }}" alt="" class="c-project-head__picto">
-          </div>
-          <div class="fr-col-12 fr-col-lg-9">
-            <h1 class="c-project-head__title">{{ .Title }}</h1>
-            <p class="fr-h4 fr-mb-2v">{{ .Description }}</p>
-            <ul class="fr-tags-group fr-mb-2v">
-              {{ range $index, $themes := .Params.themes }}
-              <li>
-                <p class="fr-tag">{{ . }}</p>
-              </li>
-              {{ end }}
-            </ul>
-            <p class="fr-mb-2v"><strong>{{ .Params.who }}</strong></p>
-            <p class="c-project-head__meta fr-mb-1v">
-              <img src="img/icon-marker.svg" alt=""> {{ .Params.town }}
-            </p>
-            <p class="c-project-head__meta">
-              <img src="img/icon-team.svg" alt="">
-              {{ range $index, $exp := .Params.expertises }}{{ if gt $index 0 }}, {{ end }}{{ . }}{{ end }}
-            </p>
+      <h1>{{ .Title }}</h1>
+      <div class="c-metas">
+        <div class="c-metas__author">{{ .Date.Format "02/01/2006" }} par {{ .Params.author }}</div>
+        <div class="c-metas__line">
+          <ul class="fr-tags-group">
+            {{ range (.GetTerms "categories") }}
+            <li><a class="fr-tag" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+            {{ end }}
+          </ul>
+          <div class="c-metas__share">
+            Partager <a href="#" class="fr-link"><span class="fr-fi-twitter-fill"></span></a> <a href="#" class="fr-link"><span class="fr-fi-mail-line"></span></a>
           </div>
         </div>
       </div>
