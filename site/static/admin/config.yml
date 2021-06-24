@@ -88,7 +88,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Homepage"
         name: "home"
         fields:
-          - {label: "Hero", name: "hero", widget: "object", fields: [{label: Title, name: title, widget: text}, {label: Bouton, name: btn, widget: object, fields: [{label: Title, name: title, widget: string}, {label: URL, name: url, widget: string}]}]}
+          - {label: "Hero", name: "hero", widget: "object", fields: [{label: Title, name: title, widget: text}, {label: Bouton, name: btn, widget: object, required: false, fields: [{label: Title, name: title, widget: string}, {label: URL, name: url, widget: string}]}]}
           - {label: Défis, name: defis, widget: object, fields: [{label: Sous-titre, name: sub, widget: string}, {label: Description, name: desc, widget: text}]}
           - {label: Talents, name: talents, widget: object, fields: [{label: Sous-titre, name: sub, widget: string}, {label: Description, name: desc, widget: text}]}
           - {label: Agents, name: agents, widget: object, fields: [{label: Sous-titre, name: sub, widget: string}, {label: Description, name: desc, widget: text}]}
@@ -118,8 +118,8 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Titre, name: title, widget: string}
           - {label: Description, name: desc, widget: text}
-          - {label: Intro programme, name: intro-prog, widget: text}
-          - {label: Intro écosystème, name: intro-eco, widget: text}
+          - {label: Intro programme, name: introProg, widget: text}
+          - {label: Intro écosystème, name: introEco, widget: text}
 
       - file: "site/content/talents.md"
         label: "Talents"

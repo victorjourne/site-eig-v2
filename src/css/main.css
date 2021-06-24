@@ -126,3 +126,22 @@ img {
     }
   }
 }
+
+
+.fr-card--horizontal {
+  .fr-card__img {
+    @media (min-width: 48em) {
+      max-width: 328px;
+    }
+
+    &::before {
+      @media (min-width: 48em) {
+        padding-bottom: 40%;
+      }
+    }
+
+    img {
+      object-fit: cover;
+    }
+  }
+}
