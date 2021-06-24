@@ -48,9 +48,10 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Poste", name: "job", widget: "string"}
       - {label: "Promotion", name: "promos", widget: "select", multiple: true, options: ["EIG 1", "EIG 2", "EIG 3", "EIG 4"]}
       - {label: "Rôle", name: "role", widget: "select", options: [{label: "Participant", value: "participant"}, {label: "Agent du programme", value: "agent-programme"}, {label: "Agent de l’écosystème", value: "agent-ecosysteme"}]}
-      - {label: "Défi", name: "defi", widget: "relation", collection: "defis", value_field: "title", search_fields: ["title"]}
+      - {label: "Défi", name: "defi", widget: "relation", collection: "defis", value_field: "title", search_fields: ["title"], required: false}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Linkedin", name: "linkedin", widget: "string"}
+      - {label: "Linkedin", name: "linkedin", widget: "string", required: false}
+      - {label: "Github", name: "github", widget: "string", required: false}
       - {label: "Contenu", name: "body", widget: "markdown"}
   - name: "themes" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Thématiques" # Used in the UI, ie.: "New Post"
@@ -114,6 +115,15 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/team.md"
         label: "Equipe"
         name: "team"
+        fields:
+          - {label: Titre, name: title, widget: string}
+          - {label: Description, name: desc, widget: text}
+          - {label: Intro programme, name: intro-prog, widget: text}
+          - {label: Intro écosystème, name: intro-eco, widget: text}
+
+      - file: "site/content/talents.md"
+        label: "Talents"
+        name: "talents"
         fields:
           - {label: Titre, name: title, widget: string}
           - {label: Description, name: desc, widget: text}
