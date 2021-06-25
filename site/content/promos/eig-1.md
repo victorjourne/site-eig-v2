@@ -1,3 +1,3 @@
 ---
-title: EIG 1
+title: Promotion 2
 ---
