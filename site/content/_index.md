@@ -3,7 +3,7 @@ title: Projets de la promotion 5
 hero:
   btn:
     title: ""
-    url: ""
+    url: "#"
   title: |-
     Entreprendre
     par le numérique 
@@ -18,11 +18,18 @@ talents:
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit
     amet
+  list:
+    - Adeline Celier
+    - Julie Dugardin
+    - "Sophie Machin "
 agents:
   sub: Les agents publics
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit
     amet
+  list:
+    - Stéphanie De Monaco
+    - Dolor Sit
 join:
   image: img/push-promo.jpg
   sub: du programme Entrepreneurs d’intérêt général !
