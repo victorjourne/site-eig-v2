@@ -2,7 +2,7 @@
 title: Projets de la promotion 5
 hero:
   btn:
-    title: ""
+    title: Participer
     url: "#"
   title: |-
     Entreprendre
@@ -34,6 +34,9 @@ join:
   image: img/push-promo.jpg
   sub: du programme Entrepreneurs d’intérêt général !
   title: Rejoignez la promotion 6
+  btn:
+    title: Participer
+    url: "#"
 medias:
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua.
