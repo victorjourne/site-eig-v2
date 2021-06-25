@@ -90,8 +90,8 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Hero", name: "hero", widget: "object", fields: [{label: Title, name: title, widget: text}, {label: Bouton, name: btn, widget: object, required: false, fields: [{label: Title, name: title, widget: string, required: false}, {label: URL, name: url, widget: string}]}]}
           - {label: Défis, name: defis, widget: object, fields: [{label: Sous-titre, name: sub, widget: string}, {label: Description, name: desc, widget: text}]}
-          - {label: Talents, name: talents, widget: object, fields: [{label: Sous-titre, name: sub, widget: string}, {label: Description, name: desc, widget: text}]}
-          - {label: Agents, name: agents, widget: object, fields: [{label: Sous-titre, name: sub, widget: string}, {label: Description, name: desc, widget: text}]}
+          - {label: Talents, name: talents, widget: object, fields: [{label: Sous-titre, name: sub, widget: string}, {label: Description, name: desc, widget: text}, {label: "Talents", name: "list", widget: "relation", multiple: true, max: 3, collection: "personnes", value_field: "title", search_fields: ["title"]}]}
+          - {label: Agents, name: agents, widget: object, fields: [{label: Sous-titre, name: sub, widget: string}, {label: Description, name: desc, widget: text}, {label: "Agents", name: "list", widget: "relation", multiple: true, max: 3, collection: "personnes", value_field: "title", search_fields: ["title"]}]}
           - {label: Rejoindre, name: join, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Titre, name: title, widget: string}, {label: Sous-titre, name: sub, widget: string}, {label: Bouton, name: btn, widget: object, fields: [{label: Title, name: title, widget: string}, {label: URL, name: url, widget: string}]}]}
           - {label: Médias, name: medias, widget: object, fields: [{label: Description, name: desc, widget: text}, {label: Tuiles, name: tiles, widget: list, fields: [{label: Title, name: title, widget: string}, {label: Image, name: image, widget: image}]}]}
       - file: "site/content/personal-data.md"
