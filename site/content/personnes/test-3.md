@@ -1,5 +1,5 @@
 ---
-title: "Sophie Machin "
+title: Sophie Machin
 job: Développeur front/back
 promos:
   - EIG 4

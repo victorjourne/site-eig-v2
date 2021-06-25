@@ -21,7 +21,7 @@ talents:
   list:
     - Adeline Celier
     - Julie Dugardin
-    - "Sophie Machin "
+    - Sophie Machin
 agents:
   sub: Les agents publics
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -33,9 +33,6 @@ agents:
 join:
   image: img/push-promo.jpg
   sub: du programme Entrepreneurs d’intérêt général !
-  btn:
-    title: Participer
-    url: "#"
   title: Rejoignez la promotion 6
 medias:
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod

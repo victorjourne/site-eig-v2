@@ -26,7 +26,7 @@
             <li{{ if eq $pageTitle .Page.Title }} class="is-active"{{ end }}><a class="fr-tag" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
             {{ end }}
           </ul>
-          <a class="fr-link fr-fi-close-circle-line fr-link--icon-left" href="{{ relref . "blog/_index.md" }}">Réinitialiser les filtres</a>
+          <a class="fr-link fr-fi-close-circle-line fr-link--icon-left" href="{{ relref . "blog" }}">Réinitialiser les filtres</a>
         </div>
       </div>
       {{ $paginator := .Paginate .Pages }}
