@@ -1,5 +1,5 @@
 ---
-title: Les talents ou « EIG »
+title: "Les talents ou « EIG » "
 layout: talents
 url: /talents
 desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod

@@ -7,6 +7,7 @@ role: participant
 defi: Décos
 image: img/christelle_ratignier-carbonneil.png
 linkedin: https://www.linkedin.com/in/christelle-ratignier-carbonneil-8279a913b/
+github: https://www.linkedin.com/in/christelle-ratignier-carbonneil-8279a913b/
 ---
 hristelle Ratignier-Carbonneil, Docteur en immuno-hématologie, exerce entre 2002 et 2010 plusieurs fonctions en lien avec l’évaluation clinique des médicaments au sein de l’Agence française de sécurité sanitaire des produits de santé, devenue ANSM.
 
