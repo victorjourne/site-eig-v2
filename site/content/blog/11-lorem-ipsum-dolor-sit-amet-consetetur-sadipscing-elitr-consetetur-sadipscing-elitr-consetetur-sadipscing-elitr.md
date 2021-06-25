@@ -8,6 +8,8 @@ image: img/_images_dossiers_historique_tournesol-175148-copie.jpg
 categories:
   - Évaluation
   - Open
+  - Test 2
+  - Test 1
 visible: true
 ---
 # Lorem ipsum dolor sit amet,
