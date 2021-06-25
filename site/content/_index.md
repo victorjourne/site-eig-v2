@@ -2,8 +2,8 @@
 title: Projets de la promotion 5
 hero:
   btn:
-    title: Test
-    url: Test
+    title: ""
+    url: ""
   title: |-
     Entreprendre
     par le numérique 
