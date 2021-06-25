@@ -10,6 +10,7 @@
 @import './components/_talent';
 @import './components/_filters';
 @import './components/_metas';
+@import './components/_participate';
 
 ul, ol {
   padding-left: 0;

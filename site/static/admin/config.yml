@@ -127,4 +127,10 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Titre, name: title, widget: string}
           - {label: Description, name: desc, widget: text}
+
+      - file: "site/content/participer/_index.md"
+        label: "Participer"
+        name: "participate"
+        fields:
+          - {label: Titre, name: title, widget: text}
           
