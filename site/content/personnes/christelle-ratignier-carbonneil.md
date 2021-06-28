@@ -1,8 +1,10 @@
 ---
 title: Christelle Ratignier-Carbonneil
-job: Mentor
+job: Mentor classique
 promos:
   - EIG 3
+  - EIG 2
+  - EIG 4
 role: participant
 defi: Décos
 image: img/christelle_ratignier-carbonneil.png
