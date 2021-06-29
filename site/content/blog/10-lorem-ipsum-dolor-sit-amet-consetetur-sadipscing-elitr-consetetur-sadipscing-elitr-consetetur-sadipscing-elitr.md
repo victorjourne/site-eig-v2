@@ -1,6 +1,5 @@
 ---
-title: 10 Lorem ipsum dolor sit amet, consetetur sadipscing elitr consetetur
-  sadipscing elitr consetetur sadipscing elitr
+title: "10 Lorem ipsum dolor sit amet, consetetur sadipscing elitr "
 author: Océane Chahbazian, Cheffe de projet
 date: 2021-06-25T14:11:42.497Z
 description: Test
