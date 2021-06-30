@@ -1,4 +1,5 @@
 ---
+menu: program
 numbers:
   - num: "172"
     title: Entrepreneurs d’intérêt général

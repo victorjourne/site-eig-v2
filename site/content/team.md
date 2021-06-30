@@ -1,6 +1,7 @@
 ---
 title: "Qui sommes-nous ? "
 layout: team
+menu: team
 url: /equipe
 desc: Entrepreneurs d’intérêt général est un programme d’innovation numérique
   des Services du Premier Ministre porté par Etalab, à la Direction

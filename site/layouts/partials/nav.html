@@ -46,31 +46,29 @@
           <div class="fr-header__menu-links"></div>
           <nav class="fr-nav" id="navigation-804" role="navigation" aria-label="Menu principal">
             <ul class="fr-nav__list">
+              {{ $current := . }}
+              {{ range .Site.Menus.nav }}
+                {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
+                {{ $active = or $active (eq .Identifier $current.Params.menu) }}
+                {{ if .HasChildren }}
                 <li class="fr-nav__item">
-                    <a class="fr-nav__link" href="{{ relref . "program" }}" target="_self">Programme</a>
+                  <button class="fr-nav__btn" aria-expanded="false" aria-controls="menu-807"{{ if $active }} aria-current="true"{{ end }}>{{ .Name }}</button>
+                  <div class="fr-collapse fr-menu" id="menu-807">
+                    <ul class="fr-menu__list">
+                      {{ range .Children }}
+                      <li>
+                        <a class="fr-nav__link" href="{{ .URL }}" target="_self">{{ .Name }}</a>
+                      </li>
+                      {{ end }}
+                    </ul>
+                  </div>
                 </li>
+                {{ else }}
                 <li class="fr-nav__item">
-                    <a class="fr-nav__link" href="/impact" target="_self">Impact</a>
+                  <a class="fr-nav__link" href="{{ .URL }}" target="_self"{{ if $active }} aria-current="true"{{ end }}>{{ .Name }}</a>
                 </li>
-                <li class="fr-nav__item">
-                    <button class="fr-nav__btn" aria-expanded="false" aria-controls="menu-807">Participants</button>
-                    <div class="fr-collapse fr-menu" id="menu-807">
-                        <ul class="fr-menu__list">
-                            <li>
-                                <a class="fr-nav__link" href="{{ relref . "talents" }}" target="_self">Talents EIG</a>
-                            </li>
-                            <li>
-                                <a class="fr-nav__link" href="#" target="_self">Agents publics</a>
-                            </li>
-                        </ul>
-                    </div>
-                </li>
-                <li class="fr-nav__item">
-                    <a class="fr-nav__link" href="{{ relref . "team" }}" target="_self">Équipe</a>
-                </li>
-                <li class="fr-nav__item">
-                    <a class="fr-nav__link" href="{{ relref . "participer" }}" target="_self">Participer</a>
-                </li>
+                {{ end }}
+              {{ end }}
             </ul>
           </nav>
       </div>
