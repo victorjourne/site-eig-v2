@@ -10,8 +10,8 @@ numbers:
     btnUrl: /impact
   - num: XX
     title: administrations impactées
-    btnTitle: "#"
-    btnUrl: "#"
+    btnTitle: ""
+    btnUrl: ""
 steps:
   - icon: img/phase1.png
     step: Phase 1
