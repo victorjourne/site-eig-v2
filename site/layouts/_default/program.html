@@ -2,14 +2,14 @@
 
 <div class="c-hero">
   <div class="c-hero__bg">
-    <img src="img/hero.jpg" alt="">
+    <img src="{{ .Params.image }}" alt="">
   </div>
 </div>
 <div class="fr-container">
   <div class="fr-grid-row fr-grid-row--center">
     <div class="fr-col-12 fr-col-lg-10">
       <h1 class="fr-mb-8v">{{ .Title }}</h1>
-      <p class="fr-text--lead">Entrepreneurs d'intérêt général permet à des talents du numérique ou « EIG » d’intégrer des administrations, pour relever en 10 mois des défis qui améliorent le service public. <br>Les méthodes utilisées par les « EIG » ont des effets déterminants pour transformer et acculturer les administrations et répondre aux attentes des citoyens.</p>
+      {{ .Params.desc | markdownify }}
       <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
         <div class="fr-col-12 fr-col-md-6 fr-col-lg-4">
           <div class="c-card-number">

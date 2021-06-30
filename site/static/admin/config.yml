@@ -305,6 +305,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: Cover, name: image, widget: image }
           - { label: Titre, name: title, widget: text }
+          - { label: Description, name: desc, widget: markdown }
           - label: "Chiffres clés"
             name: numbers
             max: 3

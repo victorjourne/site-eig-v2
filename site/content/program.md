@@ -44,20 +44,20 @@ layout: program
 url: /programme
 image: img/hero.jpg
 title: Pourquoi ce programme
+desc: >-
+  Lorem ipsum
 how:
   desc: >-
     ## Comment ça marche
 
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  title: "#"
 then:
   desc: |-
     ## Et après ?
 
     50% des talents du numérique restent dans l'administration. \
     90% des défis deviennent un projet qui perdure.
-  title: "#"
 quote:
   photo: img/01_urssafassur_10.svg
   quote: Même là où j’innovais, j’aimais à me sentir avant tout un continuateur.
