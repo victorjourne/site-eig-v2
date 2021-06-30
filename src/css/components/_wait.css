@@ -1,0 +1,22 @@
+.c-wait {
+  padding: 1.5rem;
+  border: 8px solid #00c8c8;
+
+  @media (min-width: 48em) {
+    padding: 3rem 1.5rem;
+  }
+
+  p {
+    margin: 0;
+
+    a {
+      color: var(--bf500);
+    }
+  }
+
+  &__icon {
+    @media (min-width: 48em) {
+      text-align: center; 
+    }
+  }
+}

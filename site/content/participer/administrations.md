@@ -1,0 +1,4 @@
+---
+title: "Administrations"
+layout: admins
+---

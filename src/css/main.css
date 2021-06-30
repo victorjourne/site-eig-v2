@@ -12,6 +12,11 @@
 @import './components/_metas';
 @import './components/_participate';
 @import './components/_rounded';
+@import './components/_card-plus';
+@import './components/_card-alt';
+@import './components/_card-number';
+@import './components/_wait';
+@import './components/_list-links';
 
 ul, ol {
   padding-left: 0;
@@ -96,10 +101,18 @@ img {
       transform: scaleX(-1);
     }
   }
+
+  a:not([class]) {
+    color: var(--bf500);
+  }
 }
 
 .u-text-center {
   text-align: center;
+}
+
+.u-color-primary {
+  color: var(--bf500);
 }
 
 .fr-pagination__list {
@@ -146,4 +159,14 @@ img {
       object-fit: cover;
     }
   }
+}
+
+.c-multi-btns {
+  a {
+    margin: 0.5rem 1rem 0.5rem 0;
+  }
+}
+
+.fr-callout ol {
+  margin: 1rem 0 0 1rem;
 }

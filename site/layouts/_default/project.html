@@ -1,0 +1,74 @@
+{{ define "main" }}
+
+<div class="fr-container">
+  <div class="fr-grid-row fr-grid-row--center">
+    <div class="fr-col-12 fr-col-lg-10">
+      <nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+        <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-192">Voir le fil d’Ariane</button>
+        <div class="fr-collapse" id="breadcrumb-192">
+          <ol class="fr-breadcrumb__list">
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ .Site.BaseURL }}">Accueil</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ relref . "participer" }}">Participer</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ relref . "administrations" }}">Administrations</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" aria-current="page">{{ .Title }}</a>
+            </li>
+          </ol>
+        </div>
+      </nav>
+      <h1 class="fr-mb-8v">{{ .Title }}</h1>
+      <div class="c-wysiwyg fr-mb-10v">
+        <div class="fr-callout">
+          <h4 class="fr-callout__title">Délais</h4>
+          <p class="fr-callout__text">L’appel à candidatures pour rejoindre la Xe promotion des Entrepreneurs d’intérêt général est ouvert jusqu’au JJ/MM/AAAA, pour un démarrage des projets au sein des administrations le JJ/MM/AAAA.</p>
+        </div>
+        <h2>Les 2 choses à faire pour postuler</h2>
+        <ul>
+          <li>Lire le <a href="#">cahier des charges de l’appel à projets</a></li>
+          <li>Déposer son dossier de candidature sur la <a href="#">plateforme Démarches Simplifiées</a> avant le JJ/MM/AAAA, XXhXX, sans oublier de joindre la <a href="#">fiche détaillée de réponse</a></li>
+        </ul>
+        <h2>Et maintenant, à vos agendas</h2>
+        <p class="fr-h5 fr-mb-3v u-color-primary">[Date - Date]</p>
+        <p>Répondez à l’appel à projets</p>
+        <p class="fr-h5 fr-mb-3v u-color-primary">[Date]</p>
+        <p>Pré-sélection des projets par la DINUM</p>
+        <p class="fr-h5 fr-mb-3v u-color-primary">[Date]</p>
+        <p>Jury de sélection des projets lauréats</p>
+        <p class="fr-h5 fr-mb-3v u-color-primary">[Date]</p>
+        <p>Annonce des lauréats, qui font ensuite un travail de cadrage méthodologique et technique accompagnés par la DINUM</p>
+        <p class="fr-h5 fr-mb-3v u-color-primary">[Date]</p>
+        <p>Pré-sélection des profils du numérique par la DINUM</p>
+        <p class="fr-h5 fr-mb-3v u-color-primary">[Date]</p>
+        <p>Jury de sélection des profils du numérique (EIG) pour vos projets</p>
+        <p class="fr-h5 fr-mb-3v u-color-primary">[Date]</p>
+        <p>Accueillez les EIG dans votre administration pour démarrer 10 mois d’expérimentation autour de votre projet et encourager la transformation numérique de votre service.</p>
+        <h2>Des questions ?</h2>
+        <ul>
+          <li>Trouvez des réponses dans notre <a href="#">foire aux questions</a></li>
+          <li>
+            Rejoignez nos webinaires de présentation de l'appel à candidatures :
+            <ol>
+              <li>Le XX/XX/XXX  de XXh à XXh <br><a href="#" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">S'inscrire</a></li>
+              <li>Le XX/XX/XXX  de XXh à XXh <br><a href="#" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">S'inscrire</a></li>
+            </ol>
+          </li>
+          <li><a href="#">Inscrivez-vous à nos "office hours du vendredi"</a> pour échanger 20 minutes sur vos projets avant le dépôt de vos candidatures</li>
+          <li>Contactez-nous : eig@data.gouv.fr</li>
+        </ul>
+        <h2>Côté communication</h2>
+        <ul>
+          <li>Inscrivez-vous à notre liste de diffusion</li>
+          <li>Partagez cet appel à projets avec des agents publics intéressés ! Télécharger la plaquette</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}

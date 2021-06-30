@@ -28,10 +28,10 @@
                   <div class="fr-header__tools-links">
                       <ul class="fr-links-group">
                           <li>
-                              <a class="fr-link fr-fi-arrow-right-line" href="https://entrepreneur-interet-general.etalab.gouv.fr/index.html">Participer</a>
+                              <a class="fr-link fr-fi-arrow-right-line" href="{{ relref . "participer" }}">Participer</a>
                           </li>
                           <li>
-                              <a class="fr-link fr-fi-arrow-right-line" href="{{ relref . "blog/_index.md" }}">Blog</a>
+                              <a class="fr-link fr-fi-arrow-right-line" href="{{ relref . "blog" }}">Blog</a>
                           </li>
                       </ul>
                   </div>
@@ -47,7 +47,7 @@
           <nav class="fr-nav" id="navigation-804" role="navigation" aria-label="Menu principal">
             <ul class="fr-nav__list">
                 <li class="fr-nav__item">
-                    <a class="fr-nav__link" href="#" target="_self">Programme</a>
+                    <a class="fr-nav__link" href="{{ relref . "program" }}" target="_self">Programme</a>
                 </li>
                 <li class="fr-nav__item">
                     <a class="fr-nav__link" href="/impact" target="_self">Impact</a>
@@ -57,7 +57,7 @@
                     <div class="fr-collapse fr-menu" id="menu-807">
                         <ul class="fr-menu__list">
                             <li>
-                                <a class="fr-nav__link" href="/talents" target="_self">Talents EIG</a>
+                                <a class="fr-nav__link" href="{{ relref . "talents" }}" target="_self">Talents EIG</a>
                             </li>
                             <li>
                                 <a class="fr-nav__link" href="#" target="_self">Agents publics</a>
@@ -66,10 +66,10 @@
                     </div>
                 </li>
                 <li class="fr-nav__item">
-                    <a class="fr-nav__link" href="/equipe" target="_self">Équipe</a>
+                    <a class="fr-nav__link" href="{{ relref . "team" }}" target="_self">Équipe</a>
                 </li>
                 <li class="fr-nav__item">
-                    <a class="fr-nav__link" href="#" target="_self">Participer</a>
+                    <a class="fr-nav__link" href="{{ relref . "participer" }}" target="_self">Participer</a>
                 </li>
             </ul>
           </nav>
