@@ -9,35 +9,25 @@
   <div class="fr-grid-row fr-grid-row--center">
     <div class="fr-col-12 fr-col-lg-10">
       <h1 class="fr-mb-8v">{{ .Title }}</h1>
-      {{ .Params.desc | markdownify }}
+      {{ partial "markdownify-block" .Params.desc }}
+      {{ with .Params.numbers }}
       <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
+        {{ range . }}
         <div class="fr-col-12 fr-col-md-6 fr-col-lg-4">
           <div class="c-card-number">
-            <div class="c-card-number__num">172</div>
-            <h3 class="fr-h2">Entrepreneurs d’intérêt général</h3>
-            <a href="#" class="fr-btn fr-btn--sm fr-btn--secondary">Découvrir les talents</a>
+            <div class="c-card-number__num">{{ .num }}</div>
+            <h3 class="fr-h2">{{ .title }}</h3>
+            {{ if ne .btnUrl "" }}
+            <a href="{{ .btnUrl }}" class="fr-btn fr-btn--sm fr-btn--secondary">{{ .btnTitle }}</a>
+            {{ end }}
           </div>
         </div>
-        <div class="fr-col-12 fr-col-md-6 fr-col-lg-4">
-          <div class="c-card-number">
-            <div class="c-card-number__num">86</div>
-            <h3 class="fr-h2">Défis d’intérêt général</h3>
-            <a href="#" class="fr-btn fr-btn--sm fr-btn--secondary">Parcourir les défis</a>
-          </div>
-        </div>
-        <div class="fr-col-12 fr-col-md-6 fr-col-lg-4">
-          <div class="c-card-number">
-            <div class="c-card-number__num">XX</div>
-            <h3 class="fr-h2">administrations impactées</h3>
-          </div>
-        </div>
+        {{ end }}
       </div>
-      <h2>Comment ça marche</h2>
-      <p class="fr-text--lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-      <div class="fr-mb-10v">
-        <img src="img/steps.png" alt="">
-      </div>
-      <h2>Les 3 phases du programme</h2>
+      {{ end }}
+      {{ partial "markdownify-block" .Params.how.desc }}
+      <h2>{{ .Params.steps.title }}</h2>
+      {{ range .Params.steps.list }}
       <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
         <div class="fr-col-12 fr-col-sm-4">
           <img src="img/phase1.png" alt="">
@@ -47,24 +37,7 @@
           <p class="fr-text--lead fr-mb-0"><span class="u-color-primary">Du JJ mois au JJ mois AAAA.</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
       </div>
-      <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
-        <div class="fr-col-12 fr-col-sm-4">
-          <img src="img/phase2.png" alt="">
-        </div>
-        <div class="fr-col-12 fr-col-sm-8">
-          <h3 class="fr-h4"><span class="fr-tag">Phase 2 | 3 mois</span> Consolider</h3>
-          <p class="fr-text--lead fr-mb-0"><span class="u-color-primary">Du JJ mois au JJ mois AAAA.</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        </div>
-      </div>
-      <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
-        <div class="fr-col-12 fr-col-sm-4">
-          <img src="img/phase3.png" alt="">
-        </div>
-        <div class="fr-col-12 fr-col-sm-8">
-          <h3 class="fr-h4"><span class="fr-tag">Phase 3 | 2 mois</span> Amplifier</h3>
-          <p class="fr-text--lead fr-mb-0"><span class="u-color-primary">Du JJ mois au JJ mois AAAA.</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        </div>
-      </div>
+      {{ end }}
       <h2 class="fr-mt-12v">Et après ?</h2>
       <p class="fr-text--lead">50% des talents du numérique restent dans l'administration. <br>90% des défis deviennent un projet qui perdure.</p>
       <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle c-section__agent c-section__agent--only fr-mb-12v">

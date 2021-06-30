@@ -13,33 +13,35 @@ numbers:
     btnTitle: ""
     btnUrl: ""
 steps:
-  - icon: img/phase1.png
-    step: Phase 1
-    duration: 5 mois
-    title: Concevoir
-    dates: Du JJ mois au JJ mois AAAA
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
-  - icon: img/phase2.png
-    step: Phase 2
-    duration: 3 mois
-    title: Consolider
-    dates: Du JJ mois au JJ mois AAAA
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
-  - dates: Du JJ mois au JJ mois AAAA
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
-    icon: img/phase3.png
-    step: Phase 3
-    duration: 2 mois
-    title: Amplifier
+  title: "Les 3 phases du programme"
+  list:
+    - icon: img/phase1.png
+      step: Phase 1
+      duration: 5 mois
+      title: Concevoir
+      dates: Du JJ mois au JJ mois AAAA
+      desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat.
+    - icon: img/phase2.png
+      step: Phase 2
+      duration: 3 mois
+      title: Consolider
+      dates: Du JJ mois au JJ mois AAAA
+      desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat.
+    - dates: Du JJ mois au JJ mois AAAA
+      desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat.
+      icon: img/phase3.png
+      step: Phase 3
+      duration: 2 mois
+      title: Amplifier
 layout: program
 url: /programme
 image: img/hero.jpg
