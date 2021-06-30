@@ -133,4 +133,20 @@ collections: # A list of collections the CMS should be able to edit
         name: "participate"
         fields:
           - {label: Titre, name: title, widget: text}
+
+      - file: "site/content/program.md"
+        label: "Programme"
+        name: "program"
+        fields:
+          - {label: Cover, name: image, widget: image}
+          - {label: Titre, name: title, widget: text}
+          - label: "Chiffres clés"
+            name: numbers
+            max: 3
+            widget: list
+            fields:
+              - {label: Nombre, name: num, widget: text}
+              - {label: Titre, name: title, widget: text}
+              - {label: "Bouton - Titre", name: btnTitle, widget: text}
+              - {label: "Bouton - URL", name: btnUrl, widget: text}
           
