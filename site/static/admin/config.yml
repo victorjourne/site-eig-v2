@@ -327,16 +327,16 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - { label: Titre, name: title, widget: text }
-              label: Liste
-              name: list
-              widget: list
-              fields:
-                - { label: Picto, name: icon, widget: image }
-                - { label: Phase, name: step, widget: string }
-                - { label: Durée, name: duration, widget: string }
-                - { label: Titre, name: title, widget: string }
-                - { label: Dates, name: dates, widget: string }
-                - { label: Description, name: desc, widget: text }
+              - label: Liste
+                name: list
+                widget: list
+                fields:
+                  - { label: Picto, name: icon, widget: image }
+                  - { label: Phase, name: step, widget: string }
+                  - { label: Durée, name: duration, widget: string }
+                  - { label: Titre, name: title, widget: string }
+                  - { label: Dates, name: dates, widget: string }
+                  - { label: Description, name: desc, widget: text }
 
           - label: "Et après"
             name: then

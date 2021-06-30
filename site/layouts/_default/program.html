@@ -30,11 +30,11 @@
       {{ range .Params.steps.list }}
       <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
         <div class="fr-col-12 fr-col-sm-4">
-          <img src="img/phase1.png" alt="">
+          <img src="{{ .icon }}" alt="">
         </div>
         <div class="fr-col-12 fr-col-sm-8">
-          <h3 class="fr-h4"><span class="fr-tag">Phase 1 | 5 mois</span> Concevoir</h3>
-          <p class="fr-text--lead fr-mb-0"><span class="u-color-primary">Du JJ mois au JJ mois AAAA.</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h3 class="fr-h4"><span class="fr-tag">{{ .step }} | {{ .duration }}</span> {{ .title }}</h3>
+          <p class="fr-text--lead fr-mb-0"><span class="u-color-primary">{{ .dates }}.</span> {{ .desc }}</p>
         </div>
       </div>
       {{ end }}
