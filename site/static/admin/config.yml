@@ -312,14 +312,13 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: Nombre, name: num, widget: string }
               - { label: Titre, name: title, widget: string }
-              - { label: "Bouton - Titre", name: btnTitle, widget: string }
-              - { label: "Bouton - URL", name: btnUrl, widget: string }
+              - { label: "Bouton - Titre", name: btnTitle, widget: string, required: false }
+              - { label: "Bouton - URL", name: btnUrl, widget: string, required: false }
               
           - label: "Comment ça marche"
             name: how
             widget: object
             fields:
-              - { label: Titre, name: title, widget: string }
               - { label: Description, name: desc, widget: markdown }
 
           - label: Phases
@@ -331,13 +330,12 @@ collections: # A list of collections the CMS should be able to edit
               - { label: Durée, name: duration, widget: string }
               - { label: Titre, name: title, widget: string }
               - { label: Dates, name: dates, widget: string }
-              - { label: Description, name: desc, widget: markdown }
+              - { label: Description, name: desc, widget: text }
 
           - label: "Et après"
             name: then
             widget: object
             fields:
-              - { label: Titre, name: title, widget: string }
               - { label: Description, name: desc, widget: markdown }
 
           - label: "Citation"
