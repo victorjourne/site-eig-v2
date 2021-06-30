@@ -13,74 +13,135 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/defis" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
-      - {label: "Administration", name: "who", widget: "string"}
-      - {label: "Thématiques", name: "themes", widget: "relation", collection: "themes", multiple: true, value_field: "title", search_fields: ["title"]}
-      - {label: "Promotions", name: "promos", widget: "relation", collection: "promos", multiple: true, value_field: "title", search_fields: ["title"]}
-      - {label: "Lieu", name: "town", widget: "string"}
-      - {label: "Date de publication", name: "date", widget: "datetime"}
-      - {label: "Expertises", name: "expertises", widget: "relation", collection: "expertises", multiple: true, value_field: "title", search_fields: ["title"]}
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "Contenu", name: "body", widget: "markdown"}
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Administration", name: "who", widget: "string" }
+      - {
+          label: "Thématiques",
+          name: "themes",
+          widget: "relation",
+          collection: "themes",
+          multiple: true,
+          value_field: "title",
+          search_fields: ["title"],
+        }
+      - {
+          label: "Promotions",
+          name: "promos",
+          widget: "relation",
+          collection: "promos",
+          multiple: true,
+          value_field: "title",
+          search_fields: ["title"],
+        }
+      - { label: "Lieu", name: "town", widget: "string" }
+      - { label: "Date de publication", name: "date", widget: "datetime" }
+      - {
+          label: "Expertises",
+          name: "expertises",
+          widget: "relation",
+          collection: "expertises",
+          multiple: true,
+          value_field: "title",
+          search_fields: ["title"],
+        }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "articles" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Articles" # Used in the UI, ie.: "New Post"
     label_singular: "Article"
     folder: "site/content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    filter: {field: "visible", value: true}
+    filter: { field: "visible", value: true }
     fields: # The fields each document in this collection have
-      - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Auteur", name: "author", widget: "string"}
-      - {label: "Date de publication", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "Catégories", name: "categories", widget: "relation", collection: "categories", multiple: true, value_field: "title", search_fields: ["title"]}
-      - {label: "Contenu", name: "body", widget: "markdown"}
-      - {label: "Visible", name: "visible", widget: hidden, default: true}
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Auteur", name: "author", widget: "string" }
+      - { label: "Date de publication", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
+      - {
+          label: "Catégories",
+          name: "categories",
+          widget: "relation",
+          collection: "categories",
+          multiple: true,
+          value_field: "title",
+          search_fields: ["title"],
+        }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+      - { label: "Visible", name: "visible", widget: hidden, default: true }
   - name: "personnes" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Personnes" # Used in the UI, ie.: "New Post"
     label_singular: "Personne"
     folder: "site/content/personnes" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Nom", name: "title", widget: "string"}
-      - {label: "Poste", name: "job", widget: "string"}
-      - {label: "Promotion", name: "promos", widget: "select", multiple: true, options: ["EIG 1", "EIG 2", "EIG 3", "EIG 4"]}
-      - {label: "Rôle", name: "role", widget: "select", options: [{label: "Participant", value: "participant"}, {label: "Agent du programme", value: "agent-programme"}, {label: "Agent de l’écosystème", value: "agent-ecosysteme"}]}
-      - {label: "Défi", name: "defi", widget: "relation", collection: "defis", value_field: "title", search_fields: ["title"], required: false}
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "Linkedin", name: "linkedin", widget: "string", required: false}
-      - {label: "Github", name: "github", widget: "string", required: false}
-      - {label: "Contenu", name: "body", widget: "markdown"}
+      - { label: "Nom", name: "title", widget: "string" }
+      - { label: "Poste", name: "job", widget: "string" }
+      - {
+          label: "Promotion",
+          name: "promos",
+          widget: "select",
+          multiple: true,
+          options: ["EIG 1", "EIG 2", "EIG 3", "EIG 4"],
+        }
+      - {
+          label: "Rôle",
+          name: "role",
+          widget: "select",
+          options:
+            [
+              { label: "Participant", value: "participant" },
+              { label: "Agent du programme", value: "agent-programme" },
+              { label: "Agent de l’écosystème", value: "agent-ecosysteme" },
+            ],
+        }
+      - {
+          label: "Défi",
+          name: "defi",
+          widget: "relation",
+          collection: "defis",
+          value_field: "title",
+          search_fields: ["title"],
+          required: false,
+        }
+      - { label: "Image", name: "image", widget: "image" }
+      - {
+          label: "Linkedin",
+          name: "linkedin",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Github", name: "github", widget: "string", required: false }
+      - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "themes" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Thématiques" # Used in the UI, ie.: "New Post"
     label_singular: "Thématique"
     folder: "site/content/themes" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Titre", name: "title", widget: "string"}
+      - { label: "Titre", name: "title", widget: "string" }
   - name: "expertises" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Expertises" # Used in the UI, ie.: "New Post"
     label_singular: "Expertise"
     folder: "site/content/expertises" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Titre", name: "title", widget: "string"}
+      - { label: "Titre", name: "title", widget: "string" }
   - name: "promos" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Promotions" # Used in the UI, ie.: "New Post"
     label_singular: "Promotion"
     folder: "site/content/promos" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Titre", name: "title", widget: "string"}
+      - { label: "Titre", name: "title", widget: "string" }
   - name: "categories" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Catégories" # Used in the UI, ie.: "New Post"
     label_singular: "Catégorie"
     folder: "site/content/categories" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Titre", name: "title", widget: "string"}
+      - { label: "Titre", name: "title", widget: "string" }
   - name: "pages"
     label: "Pages"
     files:
@@ -88,65 +149,202 @@ collections: # A list of collections the CMS should be able to edit
         label: "Homepage"
         name: "home"
         fields:
-          - {label: "Hero", name: "hero", widget: "object", fields: [{label: Title, name: title, widget: text}, {label: Bouton, name: btn, widget: object, required: false, fields: [{label: Title, name: title, widget: string, required: false}, {label: URL, name: url, widget: string, required: false}]}]}
-          - {label: Défis, name: defis, widget: object, fields: [{label: Sous-titre, name: sub, widget: string}, {label: Description, name: desc, widget: text}]}
-          - {label: Talents, name: talents, widget: object, fields: [{label: Sous-titre, name: sub, widget: string}, {label: Description, name: desc, widget: text}, {label: "Talents", name: "list", widget: "relation", multiple: true, max: 3, collection: "personnes", value_field: "title", search_fields: ["title"]}]}
-          - {label: Agents, name: agents, widget: object, fields: [{label: Sous-titre, name: sub, widget: string}, {label: Description, name: desc, widget: text}, {label: "Agents", name: "list", widget: "relation", multiple: true, max: 2, collection: "personnes", value_field: "title", search_fields: ["title"]}]}
-          - {label: Rejoindre, name: join, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Titre, name: title, widget: string}, {label: Sous-titre, name: sub, widget: string}]}
-          - {label: Médias, name: medias, widget: object, fields: [{label: Description, name: desc, widget: text}, {label: Tuiles, name: tiles, widget: list, fields: [{label: Title, name: title, widget: string}, {label: Image, name: image, widget: image}]}]}
+          - {
+              label: "Hero",
+              name: "hero",
+              widget: "object",
+              fields:
+                [
+                  { label: Title, name: title, widget: text },
+                  {
+                    label: Bouton,
+                    name: btn,
+                    widget: object,
+                    required: false,
+                    fields:
+                      [
+                        {
+                          label: Title,
+                          name: title,
+                          widget: string,
+                          required: false,
+                        },
+                        {
+                          label: URL,
+                          name: url,
+                          widget: string,
+                          required: false,
+                        },
+                      ],
+                  },
+                ],
+            }
+          - {
+              label: Défis,
+              name: defis,
+              widget: object,
+              fields:
+                [
+                  { label: Sous-titre, name: sub, widget: string },
+                  { label: Description, name: desc, widget: text },
+                ],
+            }
+          - {
+              label: Talents,
+              name: talents,
+              widget: object,
+              fields:
+                [
+                  { label: Sous-titre, name: sub, widget: string },
+                  { label: Description, name: desc, widget: text },
+                  {
+                    label: "Talents",
+                    name: "list",
+                    widget: "relation",
+                    multiple: true,
+                    max: 3,
+                    collection: "personnes",
+                    value_field: "title",
+                    search_fields: ["title"],
+                  },
+                ],
+            }
+          - {
+              label: Agents,
+              name: agents,
+              widget: object,
+              fields:
+                [
+                  { label: Sous-titre, name: sub, widget: string },
+                  { label: Description, name: desc, widget: text },
+                  {
+                    label: "Agents",
+                    name: "list",
+                    widget: "relation",
+                    multiple: true,
+                    max: 2,
+                    collection: "personnes",
+                    value_field: "title",
+                    search_fields: ["title"],
+                  },
+                ],
+            }
+          - {
+              label: Rejoindre,
+              name: join,
+              widget: object,
+              fields:
+                [
+                  { label: Image, name: image, widget: image },
+                  { label: Titre, name: title, widget: string },
+                  { label: Sous-titre, name: sub, widget: string },
+                ],
+            }
+          - {
+              label: Médias,
+              name: medias,
+              widget: object,
+              fields:
+                [
+                  { label: Description, name: desc, widget: text },
+                  {
+                    label: Tuiles,
+                    name: tiles,
+                    widget: list,
+                    fields:
+                      [
+                        { label: Title, name: title, widget: string },
+                        { label: Image, name: image, widget: image },
+                      ],
+                  },
+                ],
+            }
       - file: "site/content/personal-data.md"
         label: "Données personnelles"
         name: "personal-data"
         fields:
-          - {label: "Titre", name: title, widget: string}
-          - {label: "Contenu", name: "body", widget: "markdown"}
+          - { label: "Titre", name: title, widget: string }
+          - { label: "Contenu", name: "body", widget: "markdown" }
       - file: "site/content/cookies.md"
         label: "Gestion des cookies"
         name: "cookies"
         fields:
-          - {label: "Titre", name: title, widget: string}
-          - {label: "Contenu", name: "body", widget: "markdown"}
+          - { label: "Titre", name: title, widget: string }
+          - { label: "Contenu", name: "body", widget: "markdown" }
       - file: "site/content/impact.md"
         label: "Impact"
         name: "impact"
         fields:
-          - {label: Titre, name: title, widget: string}
-          - {label: Description, name: desc, widget: text}
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: desc, widget: text }
       - file: "site/content/team.md"
         label: "Equipe"
         name: "team"
         fields:
-          - {label: Titre, name: title, widget: string}
-          - {label: Description, name: desc, widget: text}
-          - {label: Intro programme, name: introProg, widget: text}
-          - {label: Intro écosystème, name: introEco, widget: text}
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: desc, widget: text }
+          - { label: Intro programme, name: introProg, widget: text }
+          - { label: Intro écosystème, name: introEco, widget: text }
 
       - file: "site/content/talents.md"
         label: "Talents"
         name: "talents"
         fields:
-          - {label: Titre, name: title, widget: string}
-          - {label: Description, name: desc, widget: text}
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: desc, widget: text }
 
       - file: "site/content/participer/_index.md"
         label: "Participer"
         name: "participate"
         fields:
-          - {label: Titre, name: title, widget: text}
+          - { label: Titre, name: title, widget: text }
 
       - file: "site/content/program.md"
         label: "Programme"
         name: "program"
         fields:
-          - {label: Cover, name: image, widget: image}
-          - {label: Titre, name: title, widget: text}
+          - { label: Cover, name: image, widget: image }
+          - { label: Titre, name: title, widget: text }
           - label: "Chiffres clés"
             name: numbers
             max: 3
             widget: list
             fields:
-              - {label: Nombre, name: num, widget: text}
-              - {label: Titre, name: title, widget: text}
-              - {label: "Bouton - Titre", name: btnTitle, widget: text}
-              - {label: "Bouton - URL", name: btnUrl, widget: text}
-          
+              - { label: Nombre, name: num, widget: string }
+              - { label: Titre, name: title, widget: string }
+              - { label: "Bouton - Titre", name: btnTitle, widget: string }
+              - { label: "Bouton - URL", name: btnUrl, widget: string }
+              
+          - label: "Comment ça marche"
+            name: how
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+
+          - label: Phases
+            name: steps
+            widget: list
+            fields:
+              - { label: Picto, name: icon, widget: image }
+              - { label: Phase, name: step, widget: string }
+              - { label: Durée, name: duration, widget: string }
+              - { label: Titre, name: title, widget: string }
+              - { label: Dates, name: dates, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+
+          - label: "Et après"
+            name: then
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+
+          - label: "Citation"
+            name: quote
+            widget: object
+            fields:
+              - { label: Photo, name: photo, widget: image }
+              - { label: Citation, name: quote, widget: string }
+              - { label: Nom, name: name, widget: string }
+              - { label: Description, name: desc, widget: string }
