@@ -44,8 +44,7 @@ layout: program
 url: /programme
 image: img/hero.jpg
 title: Pourquoi ce programme
-desc: >-
-  Lorem ipsum
+desc: Lorem ipsum dolor
 how:
   desc: >-
     ## Comment ça marche
