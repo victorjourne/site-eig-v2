@@ -16,10 +16,10 @@ steps:
   title: Les 3 phases du programme
   list:
     - icon: img/phase1.png
-      step: Phase 1222222
-      duration: 5 moismoismois
+      step: Phase 1
+      duration: 5 mois
       title: Concevoir
-      dates: Du 26/06/2021 au 20/08/2021
+      dates: Du JJ mois au JJ mois AAAA
       desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
@@ -28,7 +28,7 @@ steps:
       step: Phase 2
       duration: 3 mois
       title: Consolider
-      dates: Du 26 décembre au 24 février 2020
+      dates: Du JJ mois au JJ mois AAAA
       desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
