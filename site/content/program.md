@@ -68,7 +68,7 @@ then:
     50% des talents du numérique restent dans l'administration. \
     90% des défis deviennent un projet qui perdure.
 quote:
-  photo: img/christelle_ratignier-carbonneil.png
+  photo: img/prince-akachi-j1oscm_uhuq-unsplash.jpg
   quote: Même là où j’innovais, j’aimais à me sentir avant tout un continuateur.
   name: Marguerite Yourcenar
   desc: Mémoires d’Hadrien
