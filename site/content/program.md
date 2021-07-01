@@ -28,7 +28,7 @@ steps:
       step: Phase 2
       duration: 3 mois
       title: Consolider
-      dates: Du JJ mois au JJ mois AAAA
+      dates: Du 26 décembre au 24 février 2020
       desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
@@ -49,8 +49,7 @@ title: "Pourquoi ce programme ? "
 desc: >-
   Entrepreneurs d'intérêt général permet à des talents du numérique ou **«** EIG
   **»** d'intégrer des administrations, pour relever en 10 mois des défis qui
-  améliorent le service public. 
-
+  améliorent le service public. \
 
   Les méthodes utilisées par les **«** EIG **»** ont des effets déterminants pour transformer et acculturer les administrations et répondre aux attentes des citoyens.
 how:
