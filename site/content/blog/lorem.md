@@ -1,47 +1,60 @@
 ---
-title: Lorem
-description: En novembre 2019, la promotion 3 du programme EIG prenait fin.
-date: 2021-05-12T15:54:33.256Z
+title: Plus d’un an après, que deviennent les défis de la promotion 3 ?
 author: Thanh Ha Le, équipe EIG
+date: 2021-04-08T15:54:33.256Z
+description: En novembre 2019, la promotion 3 du programme EIG prenait fin.
+image: img/blogpost_eig3_2021-0.png
 categories:
   - Évaluation
-image: img/13_basegun_10.svg
+  - Open
 visible: true
 ---
+De janvier à novembre 2019, 32 EIG avaient rejoint l’administration à l’occasion de la promotion EIG 3. 18 spécialistes en data science, 9 développeurs et développeuses, 5 designers et 21 agents publics avaient combiné leurs expertises pour s’attaquer à 15 problématiques de politiques publiques comme la lutte contre les comportements financiers illicites, la lisibilité du droit du travail ou encore l’agriculture biologique.
 
-## Le contexte
+Près d’un an et demi après leur passage par le programme, où en sont ces projets ?
 
-Aujourd’hui, les forces de l’ordre (gendarmes, policiers et policières) saisissent 6 à 7 000 armes par an. Pour chaque catégorie d’armes identifiées, les agents mettent en place la procédure et envisagent les poursuites légales adaptées. 
+Dans la continuité d’un [webinaire](https://www.dailymotion.com/video/x7xtj58) organisé en novembre 2020, un an après la fin de la promotion, et du [bilan réalisé juste à la fin de la promotion](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2020/01/17/bilan-eig3.html), l’équipe de pilotage du programme a entrepris une nouvelle évaluation de la promotion 3, dont voici les résultats.
 
-## La problématique
+## **Des projets pérennisés**
 
-Cependant, la méthode actuelle d’identification des armes sur le terrain est chronophage, soumise à interprétation et génératrice d’erreurs. En effet, les agents procèdent de trois façons souvent combinées : 
+Tout au long du programme, les 15 projets avaient soigneusement préparé leur stratégie de pérennisation, appuyés par l’équipe de pilotage du programme, et leurs efforts ont porté leurs fruits : l’ensemble des projets se sont poursuivis au-delà des dix mois.
 
-* Ils et elles tentent des rapprochements visuels à partir de recherches internet/intranet autonomes
-* Ils et elles interrogent leurs collègues ou un armurier privé
-* Ils et elles consultent des experts au sein du Ministère de l’Intérieur (SCAE)
+![Deux graphiques en anneau sur l'état d'avancement des projets. Le premier graphique indique qu'en novembre 2019, 29% des projets de la promotion 3 étaient en production et 71% étaient en développement. Le second graphique indique qu'en mars 2021, 71% des projets étaient "en production, et des évolutions sont toujours apportées aux fonctionnalités" et 29% étaient en développement.](https://d33wubrfki0l68.cloudfront.net/8e4ba8adfb5394db6623c06368f0b56f04e8640e/f5b09/img/blog/blogpost_eig3_2021-1.png)
 
-La police judiciaire estime que 15 à 20% des armes saisies sont mal ou non identifiées, ce qui conduit à des absences de poursuites ou des poursuites pénales injustifiées.
+* 6 projets ont été mis en production après la fin de la promotion, pour porter le nombre total à 10 aujourd’hui, à l’image d’[Open Justice](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openjustice.html) (en décembre 2019) ou de [CibNav](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cibnav.html) (en janvier 2020 pour l’outil RapportNav et en mars 2021 pour l’outil CibNav). Le projet [Plume Exploration](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/plume.html) prévoit une mise en production mi-2021 avec une ambition forte : devenir le moteur de recherche fédéré de toutes les juridictions financières.
+* Ces 10 outils continuent à faire évoluer leurs fonctionnalités. Ainsi, le projet [Karfu’R](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/karfur.html) (devenu [réfugiés.info](https://refugies.info/)), mis en production en novembre 2019, prévoit de lancer une application mobile d’ici la fin de l’année.
+* Quatre projets sont toujours en développement, notamment freinés ou interrompus par la crise de la Covid-19.
 
-## Le terrain de jeu
+## **Des conditions de pérennisation multiples**
 
-Votre mission, si vous l’acceptez, sera de concevoir une application terrain qui permettra aux forces de l’ordre d’identifier instantanément une arme à partir de photos. Elle indiquera également la conduite à tenir adaptée. Au-delà de ce cas d’usage identifié, d’autres utilisations connexes d’une telle application (usage de particuliers, armuriers privés, forces de l’ordre européennes) sont à explorer avec l’aide de l’équipe projet.
+Le portage et la maintenance des projets se sont adaptés aux différents contextes et contraintes des administrations.
 
-#### Vos défis techniques
+![Deux graphiques "matrice de points" sur le portage administratif des projets. Le premier graphique indique qu'en novembre 2019, 11 projets de la promotion 3 étaient portés par l'administration d'accueil, 1 projet par l'administration d'accueil soutenue par un autre programme d'innovation et 1 projet par une autre administration. Le second graphique indique qu'en mars 2021, 9 projets étaient portés par l'administration d'accueil, 1 projet par l'administration d'accueil soutenue par un autre programme d'innovation et 4 projets par une autre administration.](https://d33wubrfki0l68.cloudfront.net/c94bbbeffda1b1ff1d9eceb1040fd9bcf51e0daf/4600a/img/blog/blogpost_eig3_2021-2.png)
 
-La solution devra :  
+10 projets continuent à être portés par l’administration d’accueil initiale, parfois en sollicitant un autre dispositif d’innovation (comme la méthode [beta.gouv.fr](https://beta.gouv.fr/)), quand 4 sont passés dans une autre administration.
 
-* fournir une réponse instantanée, avec un taux de confiance sur la classification obtenue
-* reposer sur une démarche UX, guidée par le Lead UX du laboratoire d’innovation
-* reposer sur un modèle d’intelligence artificielle entraîné
-* être accessible en mode service (API) 
+![Une carte proportionnelle. Elle indique qu'en mars 2021, 6 projets étaient maintenus par une équipe internalisée dans un service métier, 4 projets étaient maintenus par la direction des systèmes d'information, 2 projets étaient maintenus par un prestataire externe et 2 projets étaient maintenus autrement](https://d33wubrfki0l68.cloudfront.net/95a0c95a67f7ff019bed6d711dd959bc423312ae/aa1ee/img/blog/blogpost_eig3_2021-3.png)
 
-#### Votre impact 
+Concernant la maintenance, plusieurs cas de figure se détachent :
 
-L’application libèrera les forces de l’ordre d’une tâche laborieuse et leur permettra de se concentrer sur des actions métier à plus forte valeur ajoutée (enquêtes, poursuites, …), tout en réduisant le risque d’erreur. 
+* 6 projets sont aujourd’hui maintenus par une équipe internalisée dans un service métier, démontrant que l’interaction directe des spécialistes du numérique avec les équipes métiers pour expérimenter des solutions a convaincu. C’est notamment le cas d’[Open Justice](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openjustice.html), à la Cour de Cassation, où deux postes de data scientists ont été créés et un EIG est resté.
+* 4 sont pris en charge par la direction des systèmes d’information ([ADLER](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/adler.html), [ACOSS-Plateforme](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/acossplateforme.html), [Plume Exploration](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/plume.html), [DataJust](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datajust.html)).
+* [IA Flash](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/iaflash.html) et [Karfu’R](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/karfur.html) sont désormais maintenus par des prestataires externes. [Réfugiés.info](https://refugies.info/), issu de Karfu’R, a notamment été pérennisé à travers un marché public et mobilise maintenant une équipe constituée du designer EIG qui est resté, d’une développeuse et d’un « ambassadeur » de la solution.
 
-Les citoyens seront préservés des poursuites injustifiées liées aux erreurs de classification.  Ils seront également mieux informés sur les armes qu’ils détiennent, à travers une mise à disposition du service. 
+## **Les promotions se suivent et les EIG restent**
 
-*Les agents publics porteurs de ce projet sont à la recherche d’un ou une data scientist qui dispose d’une expertise en computer vision et d’un développeur ou une développeuse pour la conception d’API, la partie front et l’application mobile. Les profils idéaux seront très entrepreneuriaux, capables de penser d’autres usages.*
+![Deux infographies. La première infographie indique que 30% des EIG de la promotion 3 sont toujours en poste dans leur administration d'accueil, en tant que contractuels. La deuxième infographie indique que 40% des EIG de la promotion 3 travaillent toujours sur leur projet (contractuels et prestataires confondus)](https://d33wubrfki0l68.cloudfront.net/3c6b6afb6aabb6e513ccde22d67b879c6ea8ca9c/3b579/img/blog/blogpost_eig3_2021-4.png)
 
-## [Faire ses voeux](https://www.demarches-simplifiees.fr/commencer/aac-eig5-voeux)
+Des EIG ont été recrutés suite au programme, grâce au travail stratégique effectué par les mentors tout au long de l’année. L’implication au-delà des 10 mois peut également se faire de manière ponctuelle : pour [Explocode](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/explocode.html), un EIG travaille en prestation sur le projet à raison d’un jour par semaine.
+
+Cette évaluation révèle que les projets de 10 mois accompagnés par le programme se déploient sur un temps long. Cette implication des EIG et des agents publics dans la durée constitue un premier pas vers la réussite des projets de transformation numérique de l’État portés par le programme. Le suivi des projets passés par le programme nous tient à cœur et nous continuerons ainsi à conduire cette évaluation chaque année.
+
+## **Méthodologie de l’évaluation**
+
+Les données de cette évaluation proviennent d’un questionnaire rempli par les mentors de la promotion 3 entre le 14 janvier et le 3 mars 2021. Pour six défis, l’absence de réponse des mentors nous a amené à solliciter les EIG. Le défi EIG Link, dont les modalités sont particulières, n’a pas été inclus dans cette évaluation.
+
+Le questionnaire portait principalement sur l’état d’avancement, les enjeux, les opportunités et les échéances prochaines des projets. Pour cette évaluation, nous considérons les projets “en production” lorsque l’outil a bénéficié d’un lancement officiel et/ou a été intégré dans des processus de maintenance et de développements pérennes.
+
+Les données récoltées nous ont permis de dresser un état des lieux relativement clair de chaque projet. En revanche, notre vision sur les parcours des EIG est plus imprécise car elles et ils n’ont pas été directement interrogés. Par exemple, les données ne prennent pas en compte les EIG qui ont continué dans une autre administration. Nous incorporerons cet axe dans la prochaine évaluation.
+
+Les données de cette évaluation sont disponibles en [open data](https://www.data.gouv.fr/fr/datasets/programme-entrepreneurs-dinteret-general/).
