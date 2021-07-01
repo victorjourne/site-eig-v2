@@ -44,7 +44,7 @@ steps:
       title: Amplifier
 layout: program
 url: /programme
-image: img/andreas-gucklhorn-mawu2pojwfu-unsplash-1-.jpg
+image: img/leon-oalh2mojuuk-unsplash.jpg
 title: "Pourquoi ce programme ? "
 desc: >-
   Entrepreneurs d'intérêt général permet à des talents du numérique ou **«** EIG
