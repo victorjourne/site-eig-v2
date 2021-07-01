@@ -17,7 +17,7 @@ steps:
   list:
     - icon: img/phase1.png
       step: Phase 1222222
-      duration: 5 mois
+      duration: 5 moismoismois
       title: Concevoir
       dates: Du 26/06/2021 au 20/08/2021
       desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
