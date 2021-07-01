@@ -19,7 +19,7 @@ steps:
       step: Phase 1
       duration: 5 mois
       title: Concevoir
-      dates: Du JJ mois au JJ mois AAAA
+      dates: Du 26/06/2021 au 20/08/2021
       desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
