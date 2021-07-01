@@ -70,6 +70,8 @@ then:
 quote:
   photo: img/prince-akachi-j1oscm_uhuq-unsplash.jpg
   quote: Même là où j’innovais, j’aimais à me sentir avant tout un continuateur.
+    continuateur. continuateur. continuateur. continuateur. continuateur.
+    continuateur.
   name: Marguerite Yourcenar
   desc: Mémoires d’Hadrien
 ---
