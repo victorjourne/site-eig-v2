@@ -49,6 +49,12 @@
     }
 
     h1 {
+      color: var(--bf500);
+
+      @media (min-width: 48em) {
+        color: #fff;
+      }
+
       span {
         z-index: 10;
         position: relative;
