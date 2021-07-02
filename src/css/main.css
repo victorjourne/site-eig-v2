@@ -45,7 +45,6 @@ img {
   position: relative;
 
   &__title {
-    color: var(--bf500);
     padding-left: 60px;
 
     @media (min-width: 62em) {
