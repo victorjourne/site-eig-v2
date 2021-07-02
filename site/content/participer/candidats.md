@@ -8,7 +8,7 @@ head:
   sub: Participez de l'intérieur à la transformation numérique du service public !
   apply:
     title: Postuler
-    url: /postuler
+    url: /participer/postuler/
   call:
     title: Appel à candidature
     url: "#"
