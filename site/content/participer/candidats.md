@@ -1,5 +1,5 @@
 ---
-open: false
+open: true
 head:
   questions:
     - question: Vous voulez vous engager pour l'intérêt général ?
@@ -61,7 +61,8 @@ profiles:
   list:
     - Adeline Celier
     - Etienne Trucbidule
-    - Test
+    - Julie Dugardin
+  sub: Ils et elles sont devenus EIG
 conditions:
   title: Conditions
   desc: >-
