@@ -1,6 +1,6 @@
 <div class="fr-card fr-enlarge-link">
   <div class="fr-card__body">
-    <p class="fr-card__detail">{{ .Date.Format "02/01/2006" }} par {{ .Params.author }}</p>
+    <p class="fr-card__detail">{{ partial "date" .Date }} par {{ .Params.author }}</p>
     <h4 class="fr-card__title">
       <a href="{{ .Permalink }}" class="fr-card__link">{{ .Title }}</a>
     </h4>

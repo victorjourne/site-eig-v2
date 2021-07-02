@@ -134,7 +134,7 @@ img {
 }
 
 
-.fr-card--member {
+.fr-card {
   .fr-card__img {
     img {
       object-fit: cover;

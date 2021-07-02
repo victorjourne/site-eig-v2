@@ -21,7 +21,7 @@
       </nav>
       <h1>{{ .Title }}</h1>
       <div class="c-metas">
-        <div class="c-metas__author">{{ .Date.Format "02/01/2006" }} par {{ .Params.author }}</div>
+        <div class="c-metas__author">{{ partial "date" .Date }} par {{ .Params.author }}</div>
         <div class="c-metas__line">
           <ul class="fr-tags-group">
             {{ range (.GetTerms "categories") }}
