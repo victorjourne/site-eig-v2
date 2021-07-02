@@ -20,107 +20,81 @@
         </div>
       </nav>
       <h1 class="fr-mb-8v">{{ .Title }}</h1>
-      <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
-        <div class="fr-col-12 fr-col-md-6 fr-col-lg-4">
-          <div class="c-card-plus">
-            Vous voulez vous engager pour l'intérêt général ?
+      <div class="c-wysiwyg fr-mb-12v">
+        <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
+          {{ range .Params.head.questions }}
+          <div class="fr-col-12 fr-col-md-6 fr-col-lg-4">
+            <div class="c-card-plus">
+              {{ .question }}
+            </div>
           </div>
+          {{ end }}
         </div>
-        <div class="fr-col-12 fr-col-md-6 fr-col-lg-4">
-          <div class="c-card-plus">
-            Vous aimez les défis concrets ?
-          </div>
+        <h2 class="fr-h4">{{ .Params.head.sub }}</h2>
+        {{ if .Params.open }}
+        <div class="fr-mb-12v c-multi-btns">
+          <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
+          <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right">{{ .Params.head.call.title }}</a>
         </div>
-        <div class="fr-col-12 fr-col-md-6 fr-col-lg-4">
-          <div class="c-card-plus">
-            Vous avez l’esprit du collectif ?
-          </div>
-        </div>
-      </div>
-      <h2 class="fr-h4">Participez de l'intérieur à la transformation numérique du service public !</h2>
-      <div class="fr-mb-12v c-multi-btns">
-        <a href="{{ relref . "postuler" }}" class="fr-btn fr-btn--lg">Postuler</a>
-        <a href="#" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right">Appel à candidature</a>
-      </div>
-      <h2>EIG ça veut dire quoi ?</h2>
-      <div class="fr-callout fr-mb-12v">
-        <h4 class="fr-callout__title">EIG</h4>
-        <div class="fr-callout__text">
-          <p>[əiʒ] n. m. et n. f., épicène dérivé d’entreprendeur, XIIIe, au sens de personne qui crée, qui agit.</p>
-          <ol>
-            <li>Art de conjuguer le potentiel du numérique aux enjeux de l’intérêt général. </li>
-            <li>Membre d’un collectif mêlant compétences numériques, humour geek et appétence pour les valeurs d’ouverture.</li>
-            <li>Démarche alliant l’agilité et un goût prononcé pour les défis propres à l’administration, afin de créer de nouvelles solutions pour les usagers et les agents publics.</li>
-            <li>Néologisme employé par l’administration du XXIe siècle : « Il faut qu’on s’EIGise » ayant remplacé - le « moderniser le service public par le numérique » du XXe siècle</li>
-          </ol>
-        </div>
-      </div>
-      <h2>EIG, concrètement c'est quoi ?</h2>
-      <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
-        <div class="fr-col-12 fr-col-md-4 fr-col-xl-3">
-          <div class="c-card-alt fr-h5">Rejoindre une administration pour 10 mois</div>
-        </div>
-        <div class="fr-col-12 fr-col-md-4 fr-col-xl-3">
-          <div class="c-card-alt fr-h5">Faire équipe avec un ou deux autres profils tech, design ou en droit du numérique</div>
-        </div>
-        <div class="fr-col-12 fr-col-md-4 fr-col-xl-3">
-          <div class="c-card-alt fr-h5">Expérimenter autour de projets pour améliorer l’action publique</div>
-        </div>
-        <div class="fr-col-12 fr-col-md-4 fr-col-xl-3">
-          <div class="c-card-alt fr-h5">Entrer dans l'écosystème du numérique public (Etalab, DINUM,...)</div>
-        </div>
-      </div>
-      <h3>Profils</h3>
-      <p>Nous recherchons plusieurs types de profils, selon les expertises que nécessitent les défis Lorem ipsum dolor Loren lalala  Vivamus hendrerit, magna at ullamcorper venenatis :</p>
-      <ul>
-        <li>des développeurs et développeuses</li>
-        <li>des data scientists des data engineers</li>
-        <li>des géomaticiens et géomaticiennes</li>
-        <li>des designers</li>
-        <li>des juristes du numérique</li>
-      </ul>
-      <p>Et au-delà, des personnes qui veulent : transmettre une culture numérique à l’administration, s’engager dans l’open data et l’open source, participer à la mutualisation et à la réutilisation des produits et des données</p>
-      <h4 class="fr-h5 u-color-primary">Ils et elles sont devenus EIG</h4>
-      <div class="fr-grid-row fr-grid-row--gutters fr-mb-10v">
-        {{ range (where (where .Site.RegularPages "Type" "personnes") ".Params.role" "participant") | first 3 }}
-          <div class="fr-col-12 fr-col-sm-6 fr-col-md-4">
-            {{ .Render "li" }}
-          </div>
         {{ end }}
-      </div>
-      <h3>Conditions</h3>
-      <p>Nous proposons maecenas accumsan lobortis enim sit amet feugiat. Nulla facilisi. Praesent varius neque sit amet diam fringilla, ut commodo purus auctor :</p>
-      <ul>
-        <li>Un CDD de 10 mois dans une administration, du 13 septembre 2021 au 12 juillet 2022.</li>
-        <li>Un salaire 3 500 € jusqu’à 5 années d’expérience au total, 4 000 € au-delà de 5 années.</li>
-        <li>Une communauté d’experts et expertes avec l’appui technique et méthodologique des équipes d’Etalab et de la DINUM tout au long des 10 mois du programme.</li>
-      </ul>
-      <h2>Comment devenir EIG de la prochaine promotion ?</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-      <div class="fr-mb-10v">
-        <img src="img/steps.png" alt="">
-      </div>
-      <div class="c-wait fr-mb-6v">
-        <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle">
-          <div class="fr-col-12 fr-col-sm-3 fr-col-md-2 c-wait__icon">
-            <img src="img/hourglass.svg" alt="">
-          </div>
-          <div class="fr-col-12 fr-col-sm-9 fr-col-md-10">
-            <h3>L’appel à candidatures pour notre <br>promotion 6 n'est pas encore ouvert.</h3>
-            <p>Si vous êtes intéressés par une participation à la prochaine promotion, <a href="#">inscrivez-vous à notre liste de diffusion</a> ! Vous serez tenus au courant de toutes nos actualités.</p>
+        <h2>{{ .Params.def.title }}</h2>
+        <div class="fr-callout fr-mb-12v">
+          <h4 class="fr-callout__title">{{ .Params.def.info.title }}</h4>
+          <div class="fr-callout__text">
+            {{ .Params.def.info.desc | markdownify }}
           </div>
         </div>
-      </div>
-      <!-- <h3 class="fr-h6">Consultez à titre indicatif</h3>
-      <ul class="c-list-links">
-        <li><a class="fr-link fr-fi-download-line fr-link--lg fr-link--icon-right" href="#">La plaquette de l'appel à candidatures 2021</a></li>
-        <li><a class="fr-link fr-fi-download-line fr-link--lg fr-link--icon-right" href="#">Le règlement de l'appel à candidatures 2021</a></li>
-        <li><a class="fr-link fr-fi-download-line fr-link--lg fr-link--icon-right" href="#">Les fiches métiers pour les profils recherchés en 2021</a></li>
-        <li><a class="fr-link fr-fi-arrow-right-line fr-link--lg fr-link--icon-right" href="#">Notre foire aux questions</a></li>
-      </ul> -->
-      <div class="fr-mb-12v c-multi-btns">
-        <a href="{{ relref . "postuler" }}" class="fr-btn fr-btn--lg">Postuler</a>
-        <a href="#" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right">Appel à candidature</a>
+        <h2>{{ .Params.what.title }}</h2>
+        <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
+          {{ range .Params.what.defs }}
+          <div class="fr-col-12 fr-col-md-4 fr-col-xl-3">
+            <div class="c-card-alt fr-h5">{{ .def }}</div>
+          </div>
+          {{ end }}
+        </div>
+        <h3>{{ .Params.profiles.title }}</h3>
+        {{ .Params.profiles.desc | markdownify }}
+        <h4 class="fr-h5 u-color-primary">{{ .Params.profiles.sub }}</h4>
+        <div class="fr-grid-row fr-grid-row--gutters fr-mb-10v">
+          {{ $personnes := where (where .Site.Pages "Section" "personnes") ".Title" "in" .Params.profiles.list }}
+          {{ if ( gt ( len $personnes ) 0 ) }}
+            {{ range $personnes }}
+            <div class="fr-col-12 fr-col-sm-6 fr-col-md-4">
+              {{ .Render "li" }}
+            </div>
+            {{ end }}
+          {{ end }}
+        </div>
+        <h3>{{ .Params.conditions.title }}</h3>
+        {{ .Params.conditions.desc | markdownify }}
+        <h2>{{ .Params.how.title }}</h2>
+        {{ .Params.how.desc | markdownify }}
+        {{ if ne .Params.open }}
+        <div class="c-wait fr-mb-6v">
+          <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle">
+            <div class="fr-col-12 fr-col-sm-3 fr-col-md-2 c-wait__icon">
+              <img src="img/hourglass.svg" alt="">
+            </div>
+            <div class="fr-col-12 fr-col-sm-9 fr-col-md-10">
+              <h3>{{ .Params.wait.title }}</h3>
+              {{ partial "markdownify-block" .Params.wait.desc }}
+            </div>
+          </div>
+        </div>
+        {{ end }}
+        <!-- <h3 class="fr-h6">Consultez à titre indicatif</h3>
+        <ul class="c-list-links">
+          <li><a class="fr-link fr-fi-download-line fr-link--lg fr-link--icon-right" href="#">La plaquette de l'appel à candidatures 2021</a></li>
+          <li><a class="fr-link fr-fi-download-line fr-link--lg fr-link--icon-right" href="#">Le règlement de l'appel à candidatures 2021</a></li>
+          <li><a class="fr-link fr-fi-download-line fr-link--lg fr-link--icon-right" href="#">Les fiches métiers pour les profils recherchés en 2021</a></li>
+          <li><a class="fr-link fr-fi-arrow-right-line fr-link--lg fr-link--icon-right" href="#">Notre foire aux questions</a></li>
+        </ul> -->
+        {{ if .Params.open }}
+        <div class="fr-mb-12v c-multi-btns">
+          <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
+          <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right">{{ .Params.head.call.title }}</a>
+        </div>
+        {{ end }}
       </div>
     </div>
   </div>
