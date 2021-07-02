@@ -293,12 +293,6 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Titre, name: title, widget: string }
           - { label: Description, name: desc, widget: text }
 
-      - file: "site/content/participer/_index.md"
-        label: "Participer"
-        name: "participate"
-        fields:
-          - { label: Titre, name: title, widget: text }
-
       - file: "site/content/program.md"
         label: "Programme"
         name: "program"
@@ -352,3 +346,41 @@ collections: # A list of collections the CMS should be able to edit
               - { label: Citation, name: quote, widget: string }
               - { label: Nom, name: name, widget: string }
               - { label: Description, name: desc, widget: string }
+
+      - file: "site/content/participer/_index.md"
+        label: "Participer"
+        name: "participate"
+        fields:
+          - { label: Titre, name: title, widget: text }
+
+      - file: "site/content/participer/candidats.md"
+        label: "Candidats"
+        name: "candidates"
+        fields:
+          - { label: "Candidatures ouvertes", name: open, widget: boolean }
+          - { label: Titre, name: title, widget: string }
+          - label: "Haut de page"
+            name: head
+            widget: object
+            fields:
+              - label: "Questions"
+                name: questions
+                widget: list
+                fields:
+                  - { label: Question, name: question, widget: string }
+
+              - { label: "Sous-titre", name: sub, widget: string }
+              - label: "Bouton postuler"
+                name: apply
+                widget: object
+                fields:
+                  - { label: Titre, name: title, widget: string }
+                  - { label: URL, name: url, widget: string }
+
+              - label: "Bouton appel"
+                name: call
+                widget: object
+                fields:
+                  - { label: Titre, name: title, widget: string }
+                  - { label: URL, name: url, widget: string }
+
