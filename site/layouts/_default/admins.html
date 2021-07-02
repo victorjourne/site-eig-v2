@@ -19,86 +19,50 @@
           </ol>
         </div>
       </nav>
-      <h1 class="fr-mb-8v">{{ .Title }}</h1>
-      <p class="fr-text--lead fr-mb-6v">Parce que nous croyons qu’une transformation durable se fait de l’intérieur... Le programme Entrepreneurs d’intérêt général vous aide à intégrer des talents du numérique - chez vous !</p>
-      <div class="fr-mb-12v c-multi-btns">
-        <a href="{{ relref . "proposer" }}" class="fr-btn fr-btn--lg">Proposer un projet</a>
-        <a href="#" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right">Appel à projets</a>
-      </div>
-      <div class="c-wysiwyg">
-        <h2>Ce que le programme vous propose</h2>
-        <p>Nous recrutons des talents - ou "EIG" - pour relever des défis numériques dans votre administration, pour une période de 10 mois.</p>
-        <h2>Un soutien à 3 niveaux</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-        <h3 class="fr-h4">Recrutement</h3>
-        <p>Nous pilotons une procédure de recrutement accélérée, de bout en bout, en sourcant et sélectionnant des talents aux compétences rares : </p>
-        <ul>
-          <li>développeurs / développeuses</li>
-          <li>data scientists</li>
-          <li>ddata engineers</li>
-          <li>géomaticiens / géomaticiennes</li>
-          <li>designers</li>
-          <li>juristes du numérique</li>
-        </ul>
-        <h3 class="fr-h4">Co-financement</h3>
-        <p>Nous participons aux salaires des talents à hauteur de 30 %. Ils sont rémunérés 3 500 € ou 4 000 € nets par mois :</p>
-        <ul>
-          <li>70 % par l’administration d’accueil</li>
-          <li>30 % par le programme</li>
-        </ul>
-        <h3 class="fr-h4">Aide à l’innovation</h3>
-        <p>Aide à l’innovation</p>
-        <ul>
-          <li>séminaires collectifs</li>
-          <li>coaching par équipe</li>
-          <li>apprentissages en pair-à-pair</li>
-        </ul>
-        <h2>5 critères de sélection</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-        <h3 class="fr-h4"><span class="fr-tag">Critère 1</span> Besoin</h3>
-        <p>Un besoin clair, à fort impact, porté à un haut niveau hiérarchique par l’administration d’accueil.</p>
-        <h3 class="fr-h4"><span class="fr-tag">Critère 2</span> Définition</h3>
-        <p>Une problématique bien circonscrite, des talents du numérique cohérents.</p>
-        <h3 class="fr-h4"><span class="fr-tag">Critère 3</span> Engagement</h3>
-        <p>Motivation pour participer au programme, ouvrir le terrain d’expérimentation aux talents du numérique, et leur offrir de l’autonomie.</p>
-        <h3 class="fr-h4"><span class="fr-tag">Critère 4</span> Transformation</h3>
-        <p>De fortes capacités de transformation numérique de l’administration.</p>
-        <h3 class="fr-h4"><span class="fr-tag">Critère 5</span> Ouverture</h3>
-        <p>Des opportunités d’ouverture, de mutualisation et deréutilisation des outils produits et des données.</p>
-        <h2>Les étapes clés de la sélection</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco :</p>
-        <div class="fr-mb-4v">
-          <img src="img/steps2.png" alt="">
-        </div>
-        <ol>
-          <li>appel à projets</li>
-          <li>pré-sélection des projets par la DINUM</li>
-          <li>jury de sélection des projets</li>
-          <li>pré-sélection des candidats / talents du numérique</li>
-          <li>jury de sélection des candidats lauréats</li>
-          <li>démarrage de la nouvelle promotion</li>
-        </ol>
-        <div class="c-wait fr-mb-6v">
-          <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle">
-            <div class="fr-col-12 fr-col-sm-3 fr-col-md-2 c-wait__icon">
-              <img src="img/hourglass.svg" alt="">
-            </div>
-            <div class="fr-col-12 fr-col-sm-9 fr-col-md-10">
-              <h3>L’appel à candidatures pour notre <br>promotion 6 n'est pas encore ouvert.</h3>
-              <p class="fr-text--lead">Si vous êtes intéressés par une participation à la prochaine promotion, <a href="#">inscrivez-vous à notre liste de diffusion</a> ! Vous serez tenus au courant de toutes nos actualités.</p>
+      <div class="c-wysiwyg fr-mb-12v">
+        <h1 class="fr-mb-8v">{{ .Params.head.title }}</h1>
+        {{ partial "markdownify-block" .Params.head.desc }}
+        {{ if .Params.open }}
+          <div class="fr-mb-12v c-multi-btns">
+            <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
+            <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right">{{ .Params.head.call.title }}</a>
+          </div>
+          {{ end }}
+        <div class="c-wysiwyg">
+          {{ .Params.program | markdownify }}
+          <h2>{{ .Params.criteria.title }}</h2>
+          {{ partial "markdownify-block" .Params.criteria.desc }}
+          {{ range .Params.criteria.list }}
+          <h3 class="fr-h4"><span class="fr-tag">Critère {{ .num }}</span> {{ .name }}</h3>
+          <p>{{ .desc }}</p>
+          {{ end }}
+          {{ partial "markdownify-block" .Params.steps }}
+          {{ if not .Params.open }}
+          <div class="c-wait fr-mb-6v">
+            <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle">
+              <div class="fr-col-12 fr-col-sm-3 fr-col-md-2 c-wait__icon">
+                <img src="img/hourglass.svg" alt="">
+              </div>
+              <div class="fr-col-12 fr-col-sm-9 fr-col-md-10">
+                <h3>{{ .Params.wait.title }}</h3>
+                {{ partial "markdownify-block" .Params.wait.desc }}
+              </div>
             </div>
           </div>
-        </div>
-        <h3 class="fr-h6">Consultez à titre indicatif</h3>
-        <ul class="c-list-links">
-          <li><a class="fr-link fr-fi-download-line fr-link--lg fr-link--icon-right" href="#">La plaquette de l'appel à projets 2021</a></li>
-          <li><a class="fr-link fr-fi-download-line fr-link--lg fr-link--icon-right" href="#">Le cahier des charges de l'appel à projets 2021</a></li>
-          <li><a class="fr-link fr-fi-arrow-right-line fr-link--lg fr-link--icon-right" href="#">Notre foire aux questions</a></li>
-        </ul>
-        <p>Contactez-nous : eig@data.gouv.fr</p>
-        <div class="fr-mb-12v c-multi-btns">
-          <a href="{{ relref . "proposer" }}" class="fr-btn fr-btn--lg">Proposer un projet</a>
-          <a href="#" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right">Appel à projets</a>
+          {{ end }}
+          <!-- <h3 class="fr-h6">Consultez à titre indicatif</h3>
+          <ul class="c-list-links">
+            <li><a class="fr-link fr-fi-download-line fr-link--lg fr-link--icon-right" href="#">La plaquette de l'appel à projets 2021</a></li>
+            <li><a class="fr-link fr-fi-download-line fr-link--lg fr-link--icon-right" href="#">Le cahier des charges de l'appel à projets 2021</a></li>
+            <li><a class="fr-link fr-fi-arrow-right-line fr-link--lg fr-link--icon-right" href="#">Notre foire aux questions</a></li>
+          </ul>
+          <p>Contactez-nous : eig@data.gouv.fr</p> -->
+          {{ if .Params.open }}
+          <div class="fr-mb-12v c-multi-btns">
+            <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
+            <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right">{{ .Params.head.call.title }}</a>
+          </div>
+          {{ end }}
         </div>
       </div>
     </div>
