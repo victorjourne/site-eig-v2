@@ -374,13 +374,64 @@ collections: # A list of collections the CMS should be able to edit
                 name: apply
                 widget: object
                 fields:
-                  - { label: Titre, name: title, widget: string }
-                  - { label: URL, name: url, widget: string }
+                  - { label: Titre, name: title, widget: string, required: false }
+                  - { label: URL, name: url, widget: string, required: false }
 
               - label: "Bouton appel"
                 name: call
                 widget: object
                 fields:
-                  - { label: Titre, name: title, widget: string }
-                  - { label: URL, name: url, widget: string }
+                  - { label: Titre, name: title, widget: string, required: false }
+                  - { label: URL, name: url, widget: string, required: false }
 
+          - label: "Définition"
+            name: def
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - label: "Infos"
+                name: info
+                widget: object
+                fields:
+                  - { label: Titre, name: title, widget: string}
+                  - { label: Description, name: desc, widget: markdown }
+
+          - label: "C'est quoi"
+            name: what
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - label: "Définitions"
+                name: defs
+                widget: list
+                fields:
+                  - { label: Définition, name: def, widget: string }
+
+          - label: "Profils"
+            name: profiles
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+              - label: "Talents",
+                name: "list",
+                widget: "relation",
+                multiple: true,
+                max: 3,
+                collection: "personnes",
+                value_field: "title",
+                search_fields: ["title"],
+
+          - label: "Conditions"
+            name: conditions
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+
+          - label: "Devenir EIG"
+            name: how
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
