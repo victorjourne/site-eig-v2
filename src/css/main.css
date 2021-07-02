@@ -142,6 +142,9 @@ img {
   }
 }
 
+.fr-link--align {
+  margin-left: -0.75rem;
+}
 
 .fr-card--horizontal {
   .fr-card__img {
