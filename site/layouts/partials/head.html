@@ -18,13 +18,11 @@
   {{ end }}
 
 	<!-- Favicons -->
-	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-  <meta name="msapplication-TileColor" content="#2b5797">
-  <meta name="theme-color" content="#ffffff">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png"><!-- 180×180 -->
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <!-- si favicon.ico peut etre placé à la racine du serveur, retirer la ligne ci-dessous -->
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><!-- 32×32 -->
+  <link rel="manifest" href="/manifest.webmanifest" crossorigin="use-credentials">
 
 	<!-- Open Graph -->
 	<meta property="og:type" content="business.business">
