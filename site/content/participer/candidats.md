@@ -1,6 +1,5 @@
 ---
 open: false
-title: Candidats EIG
 head:
   questions:
     - question: Vous voulez vous engager pour l'intérêt général ?
@@ -38,6 +37,7 @@ what:
     - def: Expérimenter autour de projets pour améliorer l’action publique
     - def: Entrer dans l'écosystème du numérique public (Etalab, DINUM,...)
 layout: candidates
+title: Candidats EIG
 profiles:
   title: Profils
   desc: >-
@@ -84,4 +84,9 @@ how:
 
 
     ![](img/steps.png)
+wait:
+  title: L’appel à candidatures pour notre promotion 6 n'est pas encore ouvert.
+  desc: Si vous êtes intéressés par une participation à la prochaine promotion,
+    [inscrivez-vous à notre liste de diffusion](#) ! Vous serez tenus au courant
+    de toutes nos actualités.
 ---
