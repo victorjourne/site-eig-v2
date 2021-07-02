@@ -61,7 +61,8 @@ profiles:
   list:
     - Adeline Celier
     - Etienne Trucbidule
-    - Test
+    - Julie Dugardin
+  sub: Ils et elles sont devenus EIG
 conditions:
   title: Conditions
   desc: >-
