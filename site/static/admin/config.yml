@@ -474,7 +474,7 @@ collections: # A list of collections the CMS should be able to edit
             name: criteria
             widget: object
             fields:
-              - { label: Titre, name: title, widget: string, required: false }
+              - { label: Titre, name: title, widget: string }
               - { label: Description, name: desc, widget: markdown }
               - label: "Liste"
                 name: list
@@ -485,3 +485,9 @@ collections: # A list of collections the CMS should be able to edit
                   - { label: Description, name: desc, widget: text }
 
           - { label: Étapes, name: steps, widget: markdown }
+          - label: "Prochaine promotion"
+            name: wait
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: text }
+              - { label: Description, name: desc, widget: markdown }
