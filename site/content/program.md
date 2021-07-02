@@ -11,10 +11,10 @@ numbers:
     btnUrl: /impact
   - num: XX
     title: administrations impactées
-    btnTitle: ""
-    btnUrl: ""
+    btnTitle: Test
+    btnUrl: /talents
 steps:
-  title: "Les 3 phases du programme"
+  title: Les 3 phases du programme
   list:
     - icon: img/phase1.png
       step: Phase 1
@@ -45,9 +45,14 @@ steps:
       title: Amplifier
 layout: program
 url: /programme
-image: img/hero.jpg
-title: Pourquoi ce programme
-desc: Lorem ipsum dolor
+image: img/leon-oalh2mojuuk-unsplash.jpg
+title: "Pourquoi ce programme ? "
+desc: >-
+  Entrepreneurs d'intérêt général permet à des talents du numérique ou **«** EIG
+  **»** d'intégrer des administrations, pour relever en 10 mois des défis qui
+  améliorent le service public. \
+
+  Les méthodes utilisées par les **«** EIG **»** ont des effets déterminants pour transformer et acculturer les administrations et répondre aux attentes des citoyens.
 how:
   desc: >-
     ## Comment ça marche
@@ -64,8 +69,10 @@ then:
     50% des talents du numérique restent dans l'administration. \
     90% des défis deviennent un projet qui perdure.
 quote:
-  photo: img/01_urssafassur_10.svg
+  photo: img/prince-akachi-j1oscm_uhuq-unsplash.jpg
   quote: Même là où j’innovais, j’aimais à me sentir avant tout un continuateur.
+    continuateur. continuateur. continuateur. continuateur. continuateur.
+    continuateur.
   name: Marguerite Yourcenar
   desc: Mémoires d’Hadrien
 ---
