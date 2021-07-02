@@ -413,6 +413,14 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: Titre, name: title, widget: string }
               - { label: Description, name: desc, widget: markdown }
+              - label: "Talents"
+                name: "list"
+                widget: "relation"
+                multiple: true
+                max: 3
+                collection: "personnes"
+                value_field: "title"
+                search_fields: ["title"]
 
           - label: "Conditions"
             name: conditions
