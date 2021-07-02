@@ -117,4 +117,11 @@ steps: >-
   5. jury de sélection des candidats lauréats
 
   6. démarrage de la nouvelle promotion
+wait:
+  title: |-
+    L’appel à candidatures pour notre
+    promotion 6 n'est pas encore ouvert.
+  desc: Si vous êtes intéressés par une participation à la prochaine promotion,
+    [inscrivez-vous à notre liste de diffusion](#) ! Vous serez tenus au courant
+    de toutes nos actualités.
 ---
