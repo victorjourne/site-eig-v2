@@ -28,8 +28,8 @@ agents:
     tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit
     amet
   list:
-    - Stéphanie De Monaco
-    - Dolor Sit
+    - Adeline Celier
+    - Christelle Ratignier-Carbonneil
 join:
   image: img/push-promo.jpg
   sub: du programme Entrepreneurs d’intérêt général !
