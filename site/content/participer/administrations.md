@@ -1,11 +1,12 @@
 ---
 title: Administrations
 layout: admins
-open: false
+open: true
 head:
   desc: Parce que nous croyons qu’une transformation durable se fait de
     l’intérieur... Le programme Entrepreneurs d’intérêt général vous aide à
-    intégrer des talents du numérique - chez vous !
+    intégrer des talents du numérique - chez vous ! chez vous ! chez vous ! chez
+    vous ! chez vous ! chez vous !
   title: Administrations
   apply:
     title: Proposer un projet
