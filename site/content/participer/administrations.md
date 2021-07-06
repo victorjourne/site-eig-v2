@@ -1,14 +1,12 @@
 ---
 title: Administrations
 layout: admins
-open: true
+open: false
 head:
   desc: Parce que nous croyons qu’une transformation durable se fait de
     l’intérieur... Le programme Entrepreneurs d’intérêt général vous aide à
-    intégrer des talents du numérique - chez vous ! chez vous ! chez vous ! chez
-    vous ! chez vous ! chez vous !
-  title: Administrations Administrations Administrations Administrations
-    Administrations Administrations Administrations
+    intégrer des talents du numérique - chez vous !
+  title: Administrations
   apply:
     title: Proposer un projet
     url: /participer/proposer
@@ -49,15 +47,6 @@ program: "## Ce que le programme vous propose
 
   * juristes du numérique
 
-  * test
-
-  * test\ 
-
-  * test
-
-
-  ![test](img/smith-major-yq-nha0v2yu-unsplash.jpg)
-
 
   ### Co-financement
 
@@ -84,21 +73,14 @@ program: "## Ce que le programme vous propose
   * apprentissages en pair-à-pair"
 criteria:
   title: "5 critères de sélection sélection sélection sélection "
-  desc: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco.
-
-
-    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
   list:
-    - num: "12"
-      name: Besoin Besoin Besoin Besoin Besoin Besoin
-      desc: >-
-        Un besoin clair, à fort impact, porté à un haut niveau hiérarchique par
+    - num: "1"
+      name: Besoin
+      desc: Un besoin clair, à fort impact, porté à un haut niveau hiérarchique par
         l’administration d’accueil.
-
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
     - num: "2"
       name: Définition
       desc: Une problématique bien circonscrite, des talents du numérique cohérents.
@@ -109,20 +91,15 @@ criteria:
         l’autonomie.
     - num: "4"
       name: Transformation
-      desc: >-
-        De fortes capacités de transformation numérique de l’administration.
-
-        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+      desc: De fortes capacités de transformation numérique de l’administration.
     - num: "5"
       name: Ouverture
       desc: >-
         Des opportunités d’ouverture, de mutualisation et deréutilisation des
         outils produits et des données.
 
+
         At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-    - num: "6"
-      name: "Test "
-      desc: Test
 steps: >-
   ## Les étapes clés de la sélection
 
