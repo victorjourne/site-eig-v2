@@ -32,7 +32,7 @@
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:title" content="{{ .Title }}">
-  <meta property="twitter:image" content="{{ $.Site.BaseURL }}{{ if .Params.image }}{{ .Params.image }}{{ else }}img/og-image.jpg{{ end }}">
+  <meta property="twitter:image" content="{{ $.Site.BaseURL }}{{ if .Params.ogImage }}{{ .Params.ogImage }}{{ else if .Params.image }}{{ .Params.image }}{{ else }}img/og-image.jpg{{ end }}">
 
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
