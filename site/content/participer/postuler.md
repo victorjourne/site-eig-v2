@@ -42,9 +42,6 @@ questions: >-
 
   * Rejoignez nos webinaires de présentation de l'appel à candidatures :
 
-    1. Le XX/XX/XXX de XXh à XXh
-
-       {{< arrow-link url="https://www.google.fr" title="S'inscrire" target="true" >}}
 join:
   image: img/thumb-join.jpg
   title: Le programme vous plaît mais ce n'est pas le bon moment pour vous ?

@@ -25,44 +25,26 @@
       <h1 class="fr-mb-8v">{{ .Title }}</h1>
       <div class="c-wysiwyg fr-mb-10v">
         <div class="fr-callout">
-          <h4 class="fr-callout__title">Délais</h4>
-          <p class="fr-callout__text">L’appel à candidatures pour rejoindre la Xe promotion des Entrepreneurs d’intérêt général est ouvert jusqu’au JJ/MM/AAAA, pour un démarrage des projets au sein des administrations le JJ/MM/AAAA.</p>
+          <h4 class="fr-callout__title">{{ .Params.callout.title }}</h4>
+          <div class="fr-callout__text">{{ partial "markdownify-block" .Params.callout.desc }}</div>
         </div>
-        <h2>Les 3 choses à faire pour postuler</h2>
-        <ul>
-          <li>Lire le <a href="#">règlement</a> de l’appel à candidatures</li>
-          <li>Découvrir les <a href="#">fiches métiers et profils recherchés</a></li>
-          <li>Remplir le formulaire de candidature sur la <a href="#">plateforme Démarches Simplifiées</a> avant le dimanche 2 mai 2021, 23h59</li>
-        </ul>
-        <h2>Retrouvons-nous à chaque étape du processus de candidature</h2>
-        <p class="fr-h5 fr-mb-3v u-color-primary">[Date - Date]</p>
-        <p>Envoyez-nous votre candidature.</p>
-        <p class="fr-h5 fr-mb-3v u-color-primary">[Date]</p>
-        <p>Les projets à mener dans l’administration sont révélés. Si votre candidature est présélectionnée, vous nous indiquerez avant le JJ/MM/AAAA les projets sur lesquels vous souhaitez vous positionner, dans la limite de trois. En attendant de découvrir les projets dévoilés en mai, <a href="#">explorez les projets des années passées</a> et les <a href="#">parcours des anciens et anciennes EIG</a>.</p>
-        <p class="fr-h5 fr-mb-3v u-color-primary">[Date]</p>
-        <p>Passez un entretien de sélection en présence d’un jury composé d’agents publics, de membres d&apos;Etalab et de la direction interministérielle du numérique et de personnalités extérieures issues des mondes associatif, de la recherche et de l’entrepreneuriat.</p>
-        <p class="fr-h5 fr-mb-3v u-color-primary">[Date]</p>
-        <p>Démarrez votre projet d’amélioration du service public au sein d’une administration.</p>
-        <h2>Des questions ?</h2>
-        <ul>
-          <li>Trouvez des réponses dans notre <a href="#">foire aux questions</a></li>
-          <li>
-            Rejoignez nos webinaires de présentation de l'appel à candidatures :
-            <ol>
-              <li>Le XX/XX/XXX  de XXh à XXh <br><a href="#" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">S'inscrire</a></li>
-              <li>Le XX/XX/XXX  de XXh à XXh <br><a href="#" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">S'inscrire</a></li>
-            </ol>
-          </li>
-        </ul>
+        <h2>{{ .Params.how.title }}</h2>
+        {{ .Params.how.desc | markdownify }}
+        <h2>{{ .Params.steps.title }}</h2>
+        {{ range .Params.steps.dates }}
+        <p class="fr-h5 fr-mb-3v u-color-primary">{{ .date }}</p>
+        {{ partial "markdownify-block" .desc }}
+        {{ end }}
+        {{ .Params.questions | markdownify }}
         <div class="fr-card fr-card--horizontal fr-enlarge-link">
           <div class="fr-card__body">
             <h4 class="fr-card__title">
-              <a href="#" class="fr-card__link">Le programme vous plaît mais ce n'est pas le bon moment pour vous ?</a>
+              <a href="{{ .Params.join.link }}" class="fr-card__link">{{ .Params.join.title }}</a>
             </h4>
-            <p class="fr-card__desc">Vous pouvez vous inscrire à notre liste de diffusion pour rester au courant de l'actualité du programme.</p>
+            <p class="fr-card__desc">{{ .Params.join.desc }}</p>
           </div>
           <div class="fr-card__img">
-            <img src="img/thumb-join.jpg" class="fr-responsive-img" alt="" />
+            <img src="{{ .Params.join.image }}" class="fr-responsive-img" alt="" />
           </div>
         </div>
       </div>
