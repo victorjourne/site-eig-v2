@@ -235,9 +235,9 @@ collections: # A list of collections the CMS should be able to edit
               widget: object,
               fields:
                 [
-                  { label: Image, name: image, widget: image },
-                  { label: Titre, name: title, widget: string },
-                  { label: Sous-titre, name: sub, widget: string },
+                  { label: Image, name: image, widget: image, required: false },
+                  { label: Titre, name: title, widget: string, required: false },
+                  { label: Sous-titre, name: sub, widget: string, required: false },
                 ],
             }
           - {
