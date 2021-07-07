@@ -62,3 +62,8 @@ removePathAccents = true
     url = "/participer"
     identifier = "participate"
     weight = 5
+  [[menu.nav]]
+    name = "Contact"
+    url = "/contact"
+    identifier = "contact"
+    weight = 6

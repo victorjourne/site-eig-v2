@@ -186,3 +186,9 @@ img {
     }
   }
 }
+
+.fr-callout--contact {
+  @media (min-width: 62em) {
+    margin-top: 5rem;
+  }
+}
