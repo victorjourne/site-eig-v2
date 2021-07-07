@@ -23,6 +23,23 @@
         </div>
       </nav>
       <h1 class="fr-mb-8v">{{ .Title }}</h1>
+      <ul class="fr-accordions-group fr-mb-8v">
+        {{ range .Params.questions }}
+        <li>
+          <section class="fr-accordion">
+            <h3 class="fr-accordion__title">
+              <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-374">{{ .title }}</button>
+            </h3>
+            <div class="fr-collapse" id="accordion-374">
+              {{ partial "markdownify-block" .desc }}
+            </div>
+          </section>
+        </li>
+        {{ end }}
+        <div class="c-wysiwyg fr-mb-12v">
+          {{ partial "markdownify-block" .Params.contact }}
+        </div>
+      </ul>
     </div>
   </div>
 </div>
