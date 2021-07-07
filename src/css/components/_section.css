@@ -33,6 +33,10 @@
 
   &__agent-info {
     font-weight: bold;
+
+    a {
+      box-shadow: none;
+    }
   }
 
   &__agent {

@@ -10,9 +10,14 @@
   &__share {
     color: #000091;
     white-space: nowrap;
+    font-weight: bold;
 
     @media (min-width: 48em) {
       padding-left: 2rem;
+    }
+
+    .fr-link {
+      padding: 0.25rem;
     }
   }
 
