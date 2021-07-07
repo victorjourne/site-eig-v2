@@ -382,7 +382,7 @@ collections: # A list of collections the CMS should be able to edit
                 widget: object
                 fields:
                   - { label: Titre, name: title, widget: string, required: false }
-                  - { label: URL, name: url, widget: string, required: false }
+                  - { label: URL, name: url, widget: file, required: false }
 
           - label: "Définition"
             name: def
@@ -441,8 +441,8 @@ collections: # A list of collections the CMS should be able to edit
             name: wait
             widget: object
             fields:
-              - { label: Titre, name: title, widget: text }
-              - { label: Description, name: desc, widget: markdown }
+              - { label: Titre, name: title, widget: text, required: false }
+              - { label: Description, name: desc, widget: markdown, required: false }
 
       - file: "site/content/participer/candidats/postuler.md"
         label: "Postuler"
@@ -522,7 +522,7 @@ collections: # A list of collections the CMS should be able to edit
                 widget: object
                 fields:
                   - { label: Titre, name: title, widget: string, required: false }
-                  - { label: URL, name: url, widget: string, required: false }
+                  - { label: URL, name: url, widget: file, required: false }
 
           - { label: Programme, name: program, widget: markdown }
           - label: "Critères"
