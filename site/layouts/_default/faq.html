@@ -23,21 +23,6 @@
         </div>
       </nav>
       <h1 class="fr-mb-8v">{{ .Title }}</h1>
-      <div class="c-wysiwyg fr-mb-10v">
-        <div class="fr-callout">
-          <h4 class="fr-callout__title">{{ .Params.callout.title }}</h4>
-          <div class="fr-callout__text">{{ partial "markdownify-block" .Params.callout.desc }}</div>
-        </div>
-        <h2>{{ .Params.how.title }}</h2>
-        {{ .Params.how.desc | markdownify }}
-        <h2>{{ .Params.steps.title }}</h2>
-        {{ range .Params.steps.dates }}
-        <p class="fr-h5 fr-mb-3v u-color-primary">{{ .date }}</p>
-        {{ partial "markdownify-block" .desc }}
-        {{ end }}
-        {{ .Params.questions | markdownify }}
-        {{ .Params.com | markdownify }}
-      </div>
     </div>
   </div>
 </div>

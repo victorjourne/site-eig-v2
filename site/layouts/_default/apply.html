@@ -14,7 +14,7 @@
               <a class="fr-breadcrumb__link" href="{{ relref . "participer" }}">Participer</a>
             </li>
             <li>
-              <a class="fr-breadcrumb__link" href="{{ relref . "candidats" }}">Candidats</a>
+              <a class="fr-breadcrumb__link" href="{{ relref . "candidats" }}">{{ (site.GetPage "/participer/candidats").Title }}</a>
             </li>
             <li>
               <a class="fr-breadcrumb__link" aria-current="page">{{ .Title }}</a>

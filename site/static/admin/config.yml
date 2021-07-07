@@ -353,7 +353,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: Titre, name: title, widget: text }
 
-      - file: "site/content/participer/candidats.md"
+      - file: "site/content/participer/candidats/_index.md"
         label: "Candidats"
         name: "candidates"
         fields:
@@ -444,7 +444,7 @@ collections: # A list of collections the CMS should be able to edit
               - { label: Titre, name: title, widget: text }
               - { label: Description, name: desc, widget: markdown }
 
-      - file: "site/content/participer/postuler.md"
+      - file: "site/content/participer/candidats/postuler.md"
         label: "Postuler"
         name: "postuler"
         fields:
@@ -485,7 +485,7 @@ collections: # A list of collections the CMS should be able to edit
               - { label: Description, name: desc, widget: text }
               - { label: Lien, name: link, widget: string }
 
-      - file: "site/content/participer/administrations.md"
+      - file: "site/content/participer/administrations/_index.md"
         label: "Administrations"
         name: "admins"
         fields:
@@ -533,7 +533,7 @@ collections: # A list of collections the CMS should be able to edit
               - { label: Titre, name: title, widget: text }
               - { label: Description, name: desc, widget: markdown }
 
-      - file: "site/content/participer/proposer.md"
+      - file: "site/content/participer/administrations/proposer.md"
         label: "Proposer"
         name: "proposer"
         fields:
@@ -566,3 +566,15 @@ collections: # A list of collections the CMS should be able to edit
 
           - { label: Questions, name: questions, widget: markdown }
           - { label: Communication, name: com, widget: markdown }
+
+      - file: "site/content/participer/administrations/faq.md"
+        label: "FAQ - Candidats"
+        name: "candidats-faq"
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - label: "Questions"
+            name: questions
+            widget: list
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }

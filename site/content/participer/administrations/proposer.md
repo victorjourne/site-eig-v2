@@ -36,10 +36,9 @@ questions: >-
   ## Des questions ?
 
 
-  * Trouvez des réponses dans notre [foire aux questions](#)
+  * Trouvez des réponses dans notre [foire aux questions](/participer/administrations/faq)
 
   * Rejoignez nos webinaires de présentation de l'appel à candidatures :
-
     1. Le XX/XX/XXX de XXh à XXh
     2. Le XX/XX/XXX de XXh à XXh
   * [Inscrivez-vous à nos "office hours du vendredi"](#) pour échanger 20 minutes sur vos projets avant le dépôt de vos candidatures

@@ -9,7 +9,7 @@ head:
   title: Administrations
   apply:
     title: Proposer un projet
-    url: /participer/proposer
+    url: /participer/administrations/proposer
   call:
     title: Appel à projets
     url: "#"
