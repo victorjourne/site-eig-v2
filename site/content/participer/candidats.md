@@ -1,5 +1,5 @@
 ---
-open: true
+open: false
 head:
   questions:
     - question: Vous voulez vous engager pour l'intérêt général ?
@@ -7,15 +7,15 @@ head:
     - question: Vous avez l’esprit du collectif ?
   sub: Participez de l'intérieur à la transformation numérique du service public !
   apply:
-    title: Postuler
-    url: /participer/postuler/
+    title: ""
+    url: ""
   call:
-    title: Appel à candidature
-    url: "#"
+    title: ""
+    url: ""
 def:
   title: EIG ça veut dire quoi ?
   info:
-    title: EIG
+    title: EIG, ça veut dire quoi ?
     desc: >-
       \[əiʒ] n. m. et n. f., épicène dérivé d’entreprendeur, XIIIe, au sens de
       personne qui crée, qui agit.
@@ -57,10 +57,11 @@ profiles:
     * des juristes du numérique
 
 
-    Et au-delà, des personnes qui veulent : transmettre une culture numérique à l’administration, s’engager dans l’open data et l’open source, participer à la mutualisation et à la réutilisation des produits et des données
+    Et au-delà, des personnes qui veulent : transmettre une culture numérique à l’administration, s’engager dans l’open data et l’open source, participer à la mutualisation et à la réutilisation des produits et des données.
   list:
     - Adeline Celier
     - Etienne Trucbidule
+    - Christelle Ratignier-Carbonneil
     - Julie Dugardin
   sub: Ils et elles sont devenus EIG
 conditions:

@@ -1,7 +1,7 @@
 ---
 title: Administrations
 layout: admins
-open: false
+open: true
 head:
   desc: Parce que nous croyons qu’une transformation durable se fait de
     l’intérieur... Le programme Entrepreneurs d’intérêt général vous aide à
@@ -18,6 +18,8 @@ program: "## Ce que le programme vous propose
 
   Nous recrutons des talents - ou \"EIG\" - pour relever des défis numériques
   dans votre administration, pour une période de 10 mois.
+
+
 
 
   ## Un soutien à 3 niveaux
@@ -72,7 +74,7 @@ program: "## Ce que le programme vous propose
 
   * apprentissages en pair-à-pair"
 criteria:
-  title: 5 critères de sélection
+  title: "5 critères de sélection sélection sélection sélection "
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco.
@@ -94,8 +96,12 @@ criteria:
       desc: De fortes capacités de transformation numérique de l’administration.
     - num: "5"
       name: Ouverture
-      desc: Des opportunités d’ouverture, de mutualisation et deréutilisation des
+      desc: >-
+        Des opportunités d’ouverture, de mutualisation et deréutilisation des
         outils produits et des données.
+
+
+        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 steps: >-
   ## Les étapes clés de la sélection
 
