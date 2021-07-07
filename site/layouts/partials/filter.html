@@ -1,31 +1,36 @@
-<div class="fr-container">
-  <div class="fr-mb-10v fr-grid-row fr-grid-row--gutters">
-    <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
-      <label class="fr-label" for="expertises">Expertise</label>
-      <select class="fr-select js-filter" id="expertises">
-        <option value="*">Toutes</option>
-        {{ range (where .Site.RegularPages "Section" "expertises") }}
-        <option value="is-cat-{{ .Title | urlize }}">{{ .Title }}</option>
-        {{ end }}
-      </select>
-    </div>
-    <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
-      <label class="fr-label" for="promos">Promotion</label>
-      <select class="fr-select js-filter" id="promos">
-        <option value="*">Toutes</option>
-        {{ range (where .Site.RegularPages "Section" "promos") }}
-        <option value="is-promo-{{ .Title | urlize }}">{{ .Title }}</option>
-        {{ end }}
-      </select>
-    </div>
-    <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
-      <label class="fr-label" for="themes">Thématiques</label>
-      <select class="fr-select js-filter" id="themes">
-        <option value="*">Toutes</option>
-        {{ range (where .Site.RegularPages "Section" "themes") }}
-        <option value="is-theme-{{ .Title | urlize }}">{{ .Title }}</option>
-        {{ end }}
-      </select>
+<div class="fr-container fr-mb-10v c-filters">
+  <button class="fr-btn fr-btn--secondary" title="Toggle" aria-expanded="false" aria-controls="filters">
+    Filtrer
+  </button>
+  <div class="fr-collapse" id="filters">
+    <div class="fr-grid-row fr-grid-row--gutters">
+      <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+        <label class="fr-label" for="expertises">Expertise</label>
+        <select class="fr-select js-filter" id="expertises">
+          <option value="*">Toutes</option>
+          {{ range (where .Site.RegularPages "Section" "expertises") }}
+          <option value="is-cat-{{ .Title | urlize }}">{{ .Title }}</option>
+          {{ end }}
+        </select>
+      </div>
+      <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+        <label class="fr-label" for="promos">Promotion</label>
+        <select class="fr-select js-filter" id="promos">
+          <option value="*">Toutes</option>
+          {{ range (where .Site.RegularPages "Section" "promos") }}
+          <option value="is-promo-{{ .Title | urlize }}">{{ .Title }}</option>
+          {{ end }}
+        </select>
+      </div>
+      <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+        <label class="fr-label" for="themes">Thématiques</label>
+        <select class="fr-select js-filter" id="themes">
+          <option value="*">Toutes</option>
+          {{ range (where .Site.RegularPages "Section" "themes") }}
+          <option value="is-theme-{{ .Title | urlize }}">{{ .Title }}</option>
+          {{ end }}
+        </select>
+      </div>
     </div>
   </div>
 </div>

@@ -15,4 +15,19 @@
     top: -30px;
     right: 0;
   }
+
+  .fr-btn--secondary {
+    @media (min-width: 48em) {
+      display: none;
+    }
+  }
+
+  .fr-collapse {
+    @media (min-width: 48em) {
+      visibility: visible;
+      max-height: none;
+      display: block;
+      --collapse: 0;
+    }
+  }
 }
