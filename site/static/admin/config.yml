@@ -485,6 +485,20 @@ collections: # A list of collections the CMS should be able to edit
               - { label: Description, name: desc, widget: text }
               - { label: Lien, name: link, widget: string }
 
+      - file: "site/content/participer/candidats/faq.md"
+        label: "FAQ - Candidats"
+        name: "candidats-faq"
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - label: "Questions"
+            name: questions
+            widget: list
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+
+          - { label: Contact, name: contact, widget: markdown }
+
       - file: "site/content/participer/administrations/_index.md"
         label: "Administrations"
         name: "admins"
@@ -568,8 +582,8 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Communication, name: com, widget: markdown }
 
       - file: "site/content/participer/administrations/faq.md"
-        label: "FAQ - Candidats"
-        name: "candidats-faq"
+        label: "FAQ - Administrations"
+        name: "admins-faq"
         fields:
           - { label: Titre, name: title, widget: string }
           - label: "Questions"

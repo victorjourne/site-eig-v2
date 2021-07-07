@@ -1,5 +1,5 @@
 ---
-title: Foire aux questions Administrations
+title: Foire aux questions Candidats EIG
 layout: faq
 questions:
   - title: Lorem ipsum
