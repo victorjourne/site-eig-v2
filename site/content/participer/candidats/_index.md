@@ -7,11 +7,11 @@ head:
     - question: Vous avez l’esprit du collectif ?
   sub: Participez de l'intérieur à la transformation numérique du service public !
   apply:
-    title: "Postuler"
-    url: "/participer/candidats/postuler"
+    title: Postuler
+    url: /participer/candidats/postuler
   call:
-    title: "Lorem"
-    url: ""
+    title: Lorem
+    url: img/blank.pdf
 def:
   title: EIG ça veut dire quoi ?
   info:
