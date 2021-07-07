@@ -13,6 +13,7 @@ expertises:
   - Data Engineering
   - Data science
 image: img/10_cyberimpact_10.svg
+ogImage: img/og.png
 ---
 {{< dailymotion x81fgy3 >}}
 
