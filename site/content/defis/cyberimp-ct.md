@@ -3,6 +3,7 @@ title: CyberImpact
 description: Mieux comprendre les citoyens qui s’expriment dans l’espace cyber
   pour mieux les protéger
 who: Direction générale de la gendarmerie nationale (DGGN)
+place: Ministère de l'intérieur
 themes:
   - Sécurité
 promos:

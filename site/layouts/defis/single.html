@@ -36,7 +36,7 @@
             </ul>
             <p class="fr-mb-2v"><strong>{{ .Params.who }}</strong></p>
             <p class="c-project-head__meta fr-mb-1v">
-              <img src="img/icon-marker.svg" alt=""> {{ .Params.town }}
+              <img src="img/icon-marker.svg" alt=""> {{ if .Params.place }} {{ .Params.place }} | {{ end }} {{ .Params.town }}
             </p>
             <p class="c-project-head__meta">
               <img src="img/icon-team.svg" alt="">
