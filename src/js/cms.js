@@ -5,6 +5,7 @@ import CMS from "netlify-cms-app";
 import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../css/main.css";
 import dsfr from "!to-string-loader!css-loader!postcss-loader!sass-loader!../css/dsfr.css";
 import DailymotionShortcode from "./shortcodes/dailymotion";
+import ArrowLinkShortcode from "./shortcodes/arrow-link";
 
 // import HomePreview from "./cms-preview-templates/home";
 // import PostPreview from "./cms-preview-templates/post";
@@ -15,6 +16,7 @@ import DailymotionShortcode from "./shortcodes/dailymotion";
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewStyle(dsfr, { raw: true });
 CMS.registerEditorComponent(DailymotionShortcode);
+CMS.registerEditorComponent(ArrowLinkShortcode);
 // CMS.registerPreviewTemplate("home", HomePreview);
 // CMS.registerPreviewTemplate("post", PostPreview);
 // CMS.registerPreviewTemplate("products", ProductsPreview);
