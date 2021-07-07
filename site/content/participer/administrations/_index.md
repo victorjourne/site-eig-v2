@@ -12,7 +12,7 @@ head:
     url: /participer/administrations/proposer
   call:
     title: Appel à projets
-    url: "#"
+    url: img/blank.pdf
 program: "## Ce que le programme vous propose
 
 
