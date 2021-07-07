@@ -54,7 +54,7 @@
         </div>
         <h3>{{ .Params.profiles.title }}</h3>
         {{ .Params.profiles.desc | markdownify }}
-        <h4 class="fr-h5 u-color-primary">{{ .Params.profiles.sub }}</h4>
+        <h4 class="fr-h5 u-color-primary fr-mt-12v">{{ .Params.profiles.sub }}</h4>
         <div class="fr-grid-row fr-grid-row--gutters fr-mb-10v">
           {{ $personnes := where (where .Site.Pages "Section" "personnes") ".Title" "in" .Params.profiles.list }}
           {{ if ( gt ( len $personnes ) 0 ) }}

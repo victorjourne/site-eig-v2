@@ -31,7 +31,9 @@ img {
   background-color: #bff1f1;
 
   img {
-    object-fit: contain;
+    .fr-card:not(.fr-card--member) & {
+      object-fit: contain;
+    }
   }
 }
 
