@@ -14,7 +14,7 @@
               <a class="fr-breadcrumb__link" href="{{ relref . "participer" }}">Participer</a>
             </li>
             <li>
-              <a class="fr-breadcrumb__link" href="{{ relref . "administrations" }}">{{ (site.GetPage "/participer/administrations").Title }}</a>
+              <a class="fr-breadcrumb__link" href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a>
             </li>
             <li>
               <a class="fr-breadcrumb__link" aria-current="page">{{ .Title }}</a>
@@ -36,10 +36,10 @@
           </section>
         </li>
         {{ end }}
-        <div class="c-wysiwyg fr-mb-12v">
-          {{ partial "markdownify-block" .Params.contact }}
-        </div>
       </ul>
+      <div class="c-wysiwyg fr-mb-12v">
+        {{ partial "markdownify-block" .Params.contact }}
+      </div>
     </div>
   </div>
 </div>
