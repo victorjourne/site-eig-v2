@@ -6,7 +6,7 @@ place: Minitèèèèère
 themes:
   - Sécurité
 promos:
-  - EIG 1
+  - Promotion 2
 town: 75012 Paris
 date: 2021-05-12T15:54:33.256Z
 expertises:
