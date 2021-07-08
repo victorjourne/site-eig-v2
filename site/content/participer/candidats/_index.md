@@ -11,7 +11,7 @@ head:
     url: /participer/candidats/postuler
   call:
     title: Lorem
-    url: img/blank.pdf
+    url: img/document-é-sans-titre-copie.pdf
 def:
   title: EIG ça veut dire quoi ?
   info:
