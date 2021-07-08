@@ -62,7 +62,6 @@ profiles:
     - Adeline Celier
     - Etienne Trucbidule
     - Christelle Ratignier-Carbonneil
-    - Julie Dugardin
   sub: Ils et elles sont devenus EIG
 conditions:
   title: Conditions
