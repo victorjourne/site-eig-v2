@@ -2,6 +2,7 @@
 title: Basegun
 description: Identifier et classer instantanément une arme sur le terrain
 who: Ministère de l’Intérieur
+place: Minitèèèèère
 themes:
   - Sécurité
 promos:
