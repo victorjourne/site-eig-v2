@@ -31,9 +31,9 @@ agents:
     - Adeline Celier
     - Christelle Ratignier-Carbonneil
 join:
-  image: ""
-  sub: ""
-  title: ""
+  image: img/smith-major-yq-nha0v2yu-unsplash.jpg
+  sub: "du programme d'Entrepreneur d'intérêt général "
+  title: Rejoindre la promotion 6
   btn:
     title: Participer
     url: "#"
