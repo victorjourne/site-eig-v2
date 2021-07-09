@@ -1,5 +1,5 @@
 ---
-title: Proposer un projet
+title: "Proposer un projet projet projet projet "
 layout: project
 callout:
   title: Délais
