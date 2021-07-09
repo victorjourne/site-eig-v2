@@ -72,6 +72,7 @@ questions: >-
 
   * Trouvez des réponses dans notre [foire aux questions](/participer/candidats/faq)
 
+    {{< arrow-link url="https://entrepreneur-interet-general.etalab.gouv.fr/index.html" title="S'inscrire" target="true" >}}
   * Rejoignez nos webinaires de présentation de l'appel à candidatures :
 join:
   image: img/andreas-gucklhorn-mawu2pojwfu-unsplash-1-.jpg
