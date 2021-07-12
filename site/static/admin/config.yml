@@ -88,7 +88,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - { label: "Nom", name: "title", widget: "string" }
       - { label: "Poste", name: "job", widget: "string" }
-      - { label: Description, name: desc, widget: text }
+      - { label: Description, name: desc, widget: text, required: false }
       - {
           label: "Promotion",
           name: "promos",
