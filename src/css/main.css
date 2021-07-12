@@ -192,3 +192,8 @@ img {
     margin-top: 5rem;
   }
 }
+
+.fr-card a.fr-tag {
+  position: relative;
+  z-index: 2;
+}
