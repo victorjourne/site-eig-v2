@@ -38,6 +38,24 @@
       </div>
     </div>
   </div>
+  {{ $posts := where (where .Site.Pages "Section" "blog") ".Title" "in" .Params.related }}
+  {{ if ( gt ( len $posts ) 0 ) }}
+  <h2>À lire aussi</h2>
+  <div class="fr-grid-row fr-grid-row--gutters fr-mb-12v">
+    {{ range $posts }}
+    <div class="fr-col-12 fr-col-md-6">
+      <div class="fr-card fr-enlarge-link">
+        <div class="fr-card__body">
+          <p class="fr-card__detail">{{ partial "date" .Date }}</p>
+          <h4 class="fr-card__title">
+            <a href="{{ .Permalink }}" class="fr-card__link">{{ .Title }}</a>
+          </h4>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
 </div>
 
 {{ end }}
