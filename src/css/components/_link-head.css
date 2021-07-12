@@ -1,0 +1,13 @@
+.c-link-head {
+  margin-bottom: 1rem;
+
+  @media (min-width: 48em) {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    h4 {
+      margin-bottom: 0;
+    }
+  }
+}

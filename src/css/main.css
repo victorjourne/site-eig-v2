@@ -17,6 +17,7 @@
 @import './components/_card-number';
 @import './components/_wait';
 @import './components/_list-links';
+@import './components/_link-head';
 
 ul, ol {
   padding-left: 0;
