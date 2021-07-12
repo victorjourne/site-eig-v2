@@ -16,4 +16,10 @@ introEco: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
   commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
   esse cillum dolore eu fugiat nulla pariatur. - test écosystème
+join:
+  image: img/andreas-gucklhorn-mawu2pojwfu-unsplash-1-.jpg
+  title: Vous voulez rejoindre notre ecosystème, apporter un soutien aux défis,
+    devenir partenaire du programme ?
+  desc: Contactez-nous
+  link: "#"
 ---
