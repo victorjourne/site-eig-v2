@@ -39,12 +39,12 @@
   <div class="fr-card fr-card--horizontal fr-enlarge-link">
     <div class="fr-card__body">
       <h4 class="fr-card__title">
-        <a href="#" class="fr-card__link">Vous voulez rejoindre notre ecosystème, apporter un soutien aux défis, devenir partenaire du programme ?</a>
+        <a href="{{ .Params.join.link }}" class="fr-card__link">{{ .Params.join.title }}</a>
       </h4>
-      <p class="fr-card__desc">Contactez-nous</p>
+      <p class="fr-card__desc">{{ .Params.join.desc }}</p>
     </div>
     <div class="fr-card__img">
-      <img src="img/thumb-join.jpg" class="fr-responsive-img" alt="" />
+      <img src="{{ .Params.join.image }}" class="fr-responsive-img" alt="" />
     </div>
   </div>
 </div>
