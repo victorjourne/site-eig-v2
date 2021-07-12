@@ -70,6 +70,14 @@ collections: # A list of collections the CMS should be able to edit
           value_field: "title",
           search_fields: ["title"],
         }
+      - label: "Lire aussi"
+        name: "related"
+        widget: "relation"
+        multiple: true
+        max: 2
+        collection: "articles"
+        value_field: "title"
+        search_fields: ["title"]
       - { label: "Contenu", name: "body", widget: "markdown" }
       - { label: "Visible", name: "visible", widget: hidden, default: true }
   - name: "personnes" # Used in routes, ie.: /admin/collections/:slug/edit
