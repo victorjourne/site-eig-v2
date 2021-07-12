@@ -41,7 +41,9 @@
                     <textarea class="fr-input" rows="5" id="message" name="message"></textarea>
                   </div>
                   <button class="fr-btn" title="Envoyer le formulaire" type="submit">Envoyer</button>
-                  <p class="fr-text--lead fr-mt-8v">Si vous souhaitez être tenu·e au courant des prochains appels à projet (pour proposer un défi) ou appels à candidature (pour devenir EIG), vous pouvez vous inscrire à notre <a href="#">liste de diffusion</a>.</p>
+                  <div class="c-wysiwyg fr-mt-8v">
+                    {{ .Content }}
+                  </div>
                 </div>
               </fieldset>
             </div>

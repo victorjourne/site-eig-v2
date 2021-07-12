@@ -306,6 +306,12 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Titre", name: title, widget: string }
           - { label: "Contenu", name: "body", widget: "markdown" }
+      - file: "site/content/contact.md"
+        label: "Contact"
+        name: "contact"
+        fields:
+          - { label: "Titre", name: title, widget: string }
+          - { label: "Contenu", name: "body", widget: "markdown" }
       - file: "site/content/impact.md"
         label: "Impact"
         name: "impact"
