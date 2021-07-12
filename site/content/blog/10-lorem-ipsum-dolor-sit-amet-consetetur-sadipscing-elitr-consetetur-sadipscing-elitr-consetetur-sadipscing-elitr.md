@@ -7,6 +7,11 @@ image: img/andreas-gucklhorn-mawu2pojwfu-unsplash-1-.jpg
 categories:
   - Évaluation
   - Open
+related:
+  - 2 Lorem ipsum dolor sit amet, consetetur sadipscing elitr consetetur
+    sadipscing elitr consetetur sadipscing elitr
+  - 8 Lorem ipsum dolor sit amet, consetetur sadipscing elitr consetetur
+    sadipscing elitr consetetur sadipscing elitr
 visible: true
 ---
 # Lorem ipsum dolor sit amet,
