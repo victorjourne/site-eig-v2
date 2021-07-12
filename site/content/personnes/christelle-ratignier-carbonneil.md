@@ -1,6 +1,7 @@
 ---
 title: Christelle Ratignier-Carbonneil
 job: Mentor classique
+desc: Lorem ipsum
 promos:
   - EIG 3
   - EIG 2
