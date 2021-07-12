@@ -276,6 +276,30 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Titre", name: title, widget: string }
           - { label: "Contenu", name: "body", widget: "markdown" }
+      - file: "site/content/accessibilite.md"
+        label: "Accessibilité"
+        name: "accessibility"
+        fields:
+          - { label: "Titre", name: title, widget: string }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+      - file: "site/content/cgu.md"
+        label: "CGU"
+        name: "cgu"
+        fields:
+          - { label: "Titre", name: title, widget: string }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+      - file: "site/content/presse.md"
+        label: "Espace presse"
+        name: "press"
+        fields:
+          - { label: "Titre", name: title, widget: string }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+      - file: "site/content/plan.md"
+        label: "Plan du site"
+        name: "sitemap"
+        fields:
+          - { label: "Titre", name: title, widget: string }
+          - { label: "Contenu", name: "body", widget: "markdown" }
       - file: "site/content/cookies.md"
         label: "Gestion des cookies"
         name: "cookies"
