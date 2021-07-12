@@ -29,7 +29,7 @@
             {{ end }}
           </ul>
           <div class="c-metas__share">
-            Partager <a href="https://twitter.com/share?url={{ .Permalink | safeURL }}&text={{ .Title | safeURL }}" class="fr-link" target="_blank"><span class="fr-fi-twitter-fill"></span></a> <a href="mailto:?subject={{ .Title | safeURL }}" class="fr-link" target="_blank"><span class="fr-fi-mail-line"></span></a>
+            Partager <a href="https://twitter.com/share?url={{ .Permalink | safeURL }}&text={{ .Title | safeURL }}" class="fr-link" target="_blank"><span class="fr-fi-twitter-fill"></span></a> <a href="mailto:?subject={{ .Title | safeURL }}&body={{ .Permalink }}" class="fr-link" target="_blank"><span class="fr-fi-mail-line"></span></a>
           </div>
         </div>
       </div>
