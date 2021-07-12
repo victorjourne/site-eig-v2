@@ -20,13 +20,13 @@
       <div class="c-filters">
         <button class="fr-link fr-link--align" aria-expanded="false" aria-controls="filters">Filtres</button>
         <div class="fr-collapse c-filters__content" id="filters">
-          <button class="fr-link fr-fi-close-circle-line fr-link--icon-right c-filters__close" aria-controls="filters">Fermer</button>
           <ul class="fr-tags-group">
             {{ range .Site.Taxonomies.categories }}
             <li{{ if eq $pageTitle .Page.Title }} class="is-active"{{ end }}><a class="fr-tag" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
             {{ end }}
           </ul>
           <a class="fr-link fr-fi-close-circle-line fr-link--icon-left" href="{{ relref . "blog" }}">Réinitialiser les filtres</a>
+          <button class="fr-link fr-fi-close-circle-line fr-link--icon-left" aria-expanded="false" aria-controls="filters">Fermer</button>
         </div>
       </div>
       {{ $paginator := .Paginate .Pages }}

@@ -22,7 +22,7 @@
     }
   }
 
-  .fr-collapse {
+  .fr-collapse:not(#filters) {
     @media (min-width: 48em) {
       visibility: visible;
       max-height: none;
