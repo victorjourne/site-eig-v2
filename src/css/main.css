@@ -31,7 +31,7 @@ img {
   background-color: #bff1f1;
 
   img {
-    .fr-card:not(.fr-card--member) & {
+    .fr-card:not(.fr-card--member):not(.fr-card--horizontal) & {
       object-fit: contain;
     }
   }

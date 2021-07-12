@@ -295,6 +295,14 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Description, name: desc, widget: text }
           - { label: Intro programme, name: introProg, widget: text }
           - { label: Intro écosystème, name: introEco, widget: text }
+          - label: "Rejoindre"
+            name: join
+            widget: object
+            fields:
+              - { label: Image, name: image, widget: image }
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: text }
+              - { label: Lien, name: link, widget: string }
 
       - file: "site/content/talents.md"
         label: "Talents"
