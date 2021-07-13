@@ -5,7 +5,7 @@ url: /cgu
 ---
 ## Éditeur
 
-Ce site est édité par l'équipe du programme Entrepreneurs d'intérêt général, au sein de la direction interministérielle du numérique, un service du Premier ministre.
+Ce site est édité par l'équipe Entrepreneurs d'intérêt général, programme d’innovation numérique des Services du Premier Ministre porté par Etalab, à la Direction interministérielle du numérique.
 
 DINUM\
 20 avenue de Ségur\
