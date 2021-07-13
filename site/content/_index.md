@@ -12,7 +12,7 @@ defis:
   sub: Relever des défis d’intérêt général en 10 mois
   desc: >-
     De la justice à la santé, en passant par la culture, l'éducation, la
-    défense, les défis ont un dénominateur commun : 
+    défense, les défis ont un dénominateur commun :<br>
 
     transformer les services publics par la donnée
 talents:
