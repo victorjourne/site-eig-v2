@@ -13,9 +13,11 @@ expertises:
   - Design
 image: img/05_gdr-santé_10.svg
 ---
+La sous-direction des gens de mer assure le suivi des marins (réglementation du travail, conditions de travail, protection sociale, emploi…) et est responsable des formations professionnelles maritimes. Afin de simplifier les démarches, elle souhaite développer un outil pour moderniser et automatiser la délivrance des titres des marins professionnels.
+
 {{< dailymotion x82dxpt >}}
 
-La sous-direction des gens de mer assure le suivi des marins (réglementation du travail, conditions de travail, protection sociale, emploi…) et est responsable des formations professionnelles maritimes. Afin de simplifier les démarches, elle souhaite développer un outil pour moderniser et automatiser la délivrance des titres des marins professionnels.
+
 
 ## La problématique : des services multiples qui compliquent et rallongent la délivrance des brevets et certificats
 
