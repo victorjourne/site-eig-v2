@@ -21,5 +21,5 @@ join:
   title: Vous voulez rejoindre notre ecosystème, apporter un soutien aux défis,
     devenir partenaire du programme ?
   desc: Contactez-nous
-  link: "#"
+  link: https://develop--site-eig-v2.netlify.app/contact/
 ---
