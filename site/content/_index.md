@@ -12,7 +12,7 @@ defis:
   sub: Relever des défis d’intérêt général en 10 mois
   desc: >-
     De la justice à la santé, en passant par la culture, l'éducation, la
-    défense, les défis ont un dénominateur commun :<br>
+    défense, les défis ont un dénominateur commun :
 
     transformer les services publics par la donnée
 talents:
@@ -26,9 +26,9 @@ talents:
     - Sophie Machin
 agents:
   sub: Les agents publics
-  desc: Issus de tout type d'administration, quelle soit centrale, indépendante,
-    territoriale, de santé..., des agents publics créent et testent de nouveaux
-    possibles avec les talents ou « EIG ».
+  desc: "Issus de tout type d'administration, quelle soit centrale, indépendante,
+    territoriale, de santé..., des agents publics accueillent deux ou trois
+    talents ou « EIG » dans leurs services pour relever ensemble les défis. "
   list:
     - Adeline Celier
     - Christelle Ratignier-Carbonneil
