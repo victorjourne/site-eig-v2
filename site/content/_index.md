@@ -31,7 +31,7 @@ agents:
     - Adeline Celier
     - Christelle Ratignier-Carbonneil
 join:
-  image: img/linkedin-recrutement-copie.jpg
+  image: img/andreas-gucklhorn-mawu2pojwfu-unsplash-1-.jpg
   sub: "du programme d'Entrepreneur d'intérêt général "
   title: Rejoindre la promotion 6
   btn:
