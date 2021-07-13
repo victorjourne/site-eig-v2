@@ -3,16 +3,18 @@ title: Projets de la promotion 5
 hero:
   btn:
     title: Participer
-    url: eig.etalab.gouv.fr/participer/
+    url: "#"
   title: |-
     Entreprendre
     par le numérique 
     pour le service public
 defis:
   sub: Relever des défis d’intérêt général en 10 mois
-  desc: "De la justice à la santé, en passant par la culture, l'éducation, la
-    défense, les défis ont un dénominateur commun : transformer les services
-    publics par la donnée"
+  desc: >-
+    De la justice à la santé, en passant par la culture, l'éducation, la
+    défense, les défis ont un dénominateur commun : 
+
+    transformer les services publics par la donnée
 talents:
   sub: Les talents ou « EIG »
   desc: Durant 10 mois, des femmes et des hommes apportent toute leur expertise -
