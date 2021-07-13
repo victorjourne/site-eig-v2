@@ -70,8 +70,6 @@ then:
 quote:
   photo: img/aiony-haust-3tll_97hnjo-unsplash.jpg
   quote: Même là où j’innovais, j’aimais à me sentir avant tout un continuateur.
-    continuateur. continuateur. continuateur. continuateur. continuateur.
-    continuateur.
   name: Marguerite Yourcenar
   desc: Mémoires d’Hadrien
 menu: program
