@@ -3,8 +3,6 @@ title: Mentions légales
 layout: page
 url: /cgu
 ---
-# Mentions légales
-
 ## Éditeur
 
 Ce site est édité par l'équipe du programme Entrepreneurs d'intérêt général, au sein de la direction interministérielle du numérique, un service du Premier ministre.
