@@ -6,4 +6,4 @@ url: /contact
 ---
 *En cliquant sur Envoyer, vous acceptez que EIG conserve mes données personnelles transmises via ce formulaire. Ces données seront conservées uniquement dans le but de traiter ma demande, soit pour une durée XX mois. Voir notre politique de confidentialité.*
 
-Si vous souhaitez être tenu·e au courant des prochains appels à projet (pour proposer un défi) ou appels à candidature (pour devenir EIG), vous pouvez vous inscrire à notre [liste de diffusion](#).
+Si vous souhaitez être tenu·e au courant des prochains appels à projet (pour proposer un défi) ou appels à candidature (pour devenir EIG), vous pouvez vous inscrire à notre [liste de diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio).
