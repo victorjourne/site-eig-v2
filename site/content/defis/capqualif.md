@@ -13,6 +13,12 @@ expertises:
   - Design
 image: img/05_gdr-santé_10.svg
 ---
+
+
+{{< dailymotion x75m45 >}}
+
+
+
 La sous-direction des gens de mer assure le suivi des marins (réglementation du travail, conditions de travail, protection sociale, emploi…) et est responsable des formations professionnelles maritimes. Afin de simplifier les démarches, elle souhaite développer un outil pour moderniser et automatiser la délivrance des titres des marins professionnels.
 
 ## La problématique : des services multiples qui compliquent et rallongent la délivrance des brevets et certificats
@@ -41,8 +47,6 @@ Face à cette problématique, nous avons travaillé sur les solutions suivantes 
 Ce défi a été présenté lors du webinaire « Écologie et affaires maritimes » du mardi 12 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-1 "Rediffusion du webinaire").
 
 Rendez-vous sur la [page de présentation de l'appel à candidatures](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html "Présentation de l'appel à candidatures") pour retrouver la liste complète des webinaires.
-
-
 
 **20** Agents instructeurs mobilisés dans la démarche de conception
 
