@@ -9,7 +9,7 @@ hero:
     par le numérique 
     pour le service public
 defis:
-  sub: Relever des défis concrets du service public en 10 mois
+  sub: Relever des défis concrets du service public
   desc: >-
     De la justice à la santé, en passant par la culture, l'éducation, la
     défense, les défis ont un dénominateur commun :
