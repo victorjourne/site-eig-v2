@@ -11,7 +11,7 @@ head:
     title: Proposer un projet
     url: /participer/administrations/proposer
   call:
-    title: Appel à projets
+    title: Cahier des charges
     url: img/blank.pdf
 program: "## Ce que le programme vous propose
 
