@@ -9,12 +9,12 @@ hero:
     par le numérique 
     pour le service public
 defis:
-  sub: Relever des défis d’intérêt général en 10 mois
+  sub: Relever des défis concrets du service public en 10 mois
   desc: >-
     De la justice à la santé, en passant par la culture, l'éducation, la
     défense, les défis ont un dénominateur commun :
 
-    transformer les services publics par la donnée
+    transformer les services publics par le numérique
 talents:
   sub: Les talents ou « EIG »
   desc: Durant 10 mois, des femmes et des hommes apportent toute leur expertise -
