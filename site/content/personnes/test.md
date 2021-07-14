@@ -4,7 +4,7 @@ job: Evelyne
 desc: ""
 promos:
   - EIG 4
-role: agent-programme
+role: participant
 defi: e-PSHAD
 image: img/evelyne-duplessis.png
 linkedin: ""
