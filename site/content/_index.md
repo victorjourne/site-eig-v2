@@ -17,8 +17,8 @@ defis:
     transformer les services publics par le numérique
 talents:
   sub: Les talents ou « EIG »
-  desc: Durant 10 mois, des femmes et des hommes apportent toute leur expertise -
-    en développement, en data science, en design et en droit du numérique - à la
+  desc: Durant 10 mois, des femmes et des hommes apportent leur expertise - en
+    développement, en data science, en design et en droit du numérique - à la
     réussite de ces défis.
   list:
     - Adeline Celier
@@ -28,7 +28,7 @@ agents:
   sub: Les agents publics
   desc: "Issus de tout type d'administration, quelle soit centrale, indépendante,
     territoriale, de santé..., des agents publics accueillent deux ou trois
-    talents ou « EIG » dans leurs services pour relever ensemble les défis. "
+    « EIG » dans leurs services pour relever ensemble les défis. "
   list:
     - Adeline Celier
     - Christelle Ratignier-Carbonneil
