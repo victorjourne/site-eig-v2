@@ -20,7 +20,7 @@ steps:
       step: Phase 1
       duration: 5 mois
       title: Concevoir
-      dates: /
+      dates: Au démarrage
       desc: |-
         Lorem
         Test
@@ -28,12 +28,12 @@ steps:
       step: Phase 2
       duration: 3 mois
       title: Consolider
-      dates: /
+      dates: test
       desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
         commodo consequat.
-    - dates: /
+    - dates: Test
       desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
