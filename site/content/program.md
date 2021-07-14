@@ -8,32 +8,32 @@ numbers:
     title: Défis d’intérêt général
     btnTitle: Parcourir les défis
     btnUrl: /impact
-  - num: XX
+  - num: "80"
     title: administrations impactées
-    btnTitle: Test
-    btnUrl: /talents
+    btnTitle: Profils des agents publics
+    btnUrl: https://develop--site-eig-v2.netlify.app/agents
 steps:
-  title: Les 3 phases du programme
+  title: |
+    Les 3 phases du programme
   list:
     - icon: img/phase1.png
       step: Phase 1
       duration: 5 mois
       title: Concevoir
-      dates: Du JJ mois au JJ mois AAAA
-      desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat.
+      dates: Au démarrage
+      desc: |-
+        Lorem
+        Test
     - icon: img/phase2.png
       step: Phase 2
       duration: 3 mois
       title: Consolider
-      dates: Du JJ mois au JJ mois AAAA
+      dates: test
       desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
         commodo consequat.
-    - dates: Du JJ mois au JJ mois AAAA
+    - dates: Test
       desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
@@ -51,21 +51,25 @@ desc: >-
   **»** d'intégrer des administrations, pour relever en 10 mois des défis qui
   améliorent le service public. \
 
-  Les méthodes utilisées par les **«** EIG **»** ont des effets déterminants pour transformer et acculturer les administrations et répondre aux attentes des citoyens.
+  Les méthodes utilisées par les EIG ont des effets déterminants pour transformer et acculturer les administrations et répondre aux attentes des citoyens.
 how:
-  desc: >-
+  desc: |-
     ## Comment ça marche
 
+    Lorem ipsum dolor sit
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    test
 
+    test
 
     ![](img/steps.png)
 then:
   desc: |-
     ## Et après ?
 
-    50% des talents du numérique restent dans l'administration. \
+    #### **50%** des talents du numérique restent dans l'administration.
+
+    #### \
     90% des défis deviennent un projet qui perdure.
 quote:
   photo: img/aiony-haust-3tll_97hnjo-unsplash.jpg
