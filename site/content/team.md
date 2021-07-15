@@ -20,6 +20,6 @@ join:
   image: img/andreas-gucklhorn-mawu2pojwfu-unsplash-1-.jpg
   title: Vous voulez rejoindre notre ecosystème, apporter un soutien aux défis,
     devenir partenaire du programme ?
-  desc: Contactez-nous
+  desc: Contactez-nous Contactez-nous Contactez-nous Contactez-nous
   link: https://develop--site-eig-v2.netlify.app/contact/
 ---
