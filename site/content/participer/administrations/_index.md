@@ -16,10 +16,8 @@ head:
 program: "## Ce que le programme vous propose
 
 
-  Nous recrutons des talents - ou \"EIG\" - pour relever des défis numériques
-  dans votre administration, pour une période de 10 mois.
-
-
+  ##### Nous recrutons des talents - ou \"EIG\" - pour relever des défis
+  numériques dans votre administration, pour une période de 10 mois.
 
 
   ## Un soutien à 3 niveaux
