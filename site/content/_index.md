@@ -49,5 +49,5 @@ medias:
     - image: img/05_gdr-santé_10.svg
       title: "Test test "
     - title: "Forbes "
-      image: https://images.app.goo.gl/aRMf38HHJAYxm5S39
+      image: img/place_de_la_république_-_marianne.jpeg
 ---
