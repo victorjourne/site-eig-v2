@@ -10,11 +10,9 @@ hero:
     pour le service public
 defis:
   sub: Relever des défis concrets du service public
-  desc: >-
-    De la justice à la santé, en passant par la culture, l'éducation, la
-    défense, les défis ont un dénominateur commun :
-
-    transformer les services publics par le numérique
+  desc: "De la justice à la santé, en passant par la culture, l'éducation, la
+    défense, les défis ont un dénominateur commun : transformer les services
+    publics par le numérique"
 talents:
   sub: Les talents ou « EIG »
   desc: Durant 10 mois, des femmes et des hommes apportent leur expertise - en
@@ -49,5 +47,5 @@ medias:
     - image: img/05_gdr-santé_10.svg
       title: "Test test "
     - title: "Forbes "
-      image: img/place_de_la_république_-_marianne.jpeg
+      image: ttps://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/9/99/Place_de_la_R%25C3%25A9publique_-_Marianne.jpg&imgrefurl=https://commons.wikimedia.org/wiki/File:Place_de_la_R%25C3%25A9publique_-_Marianne.jpg&tbnid=QrI9mIj1p0NRnM&vet=1&docid=0KYnO_KOJW8hfM&w=3456&h=2304&source=sh/x/im
 ---
