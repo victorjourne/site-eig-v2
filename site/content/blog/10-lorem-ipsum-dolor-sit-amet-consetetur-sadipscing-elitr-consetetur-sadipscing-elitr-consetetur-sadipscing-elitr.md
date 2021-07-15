@@ -10,7 +10,7 @@ categories:
 related:
   - 2 Lorem ipsum dolor sit amet, consetetur sadipscing elitr consetetur
     sadipscing elitr consetetur sadipscing elitr
-  - 8 Lorem ipsum dolor sit amet, consetetur sadipscing elitr consetetur
+  - 5 Lorem ipsum dolor sit amet, consetetur sadipscing elitr consetetur
     sadipscing elitr consetetur sadipscing elitr
 visible: true
 ---
