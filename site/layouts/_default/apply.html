@@ -33,7 +33,7 @@
         <h2>{{ .Params.steps.title }}</h2>
         {{ range .Params.steps.dates }}
         <p class="fr-h5 fr-mb-3v u-color-primary">{{ .date }}</p>
-        {{ partial "markdownify-block" .desc }}
+        <div class="fr-mb-8v">{{ partial "markdownify-block" .desc }}</div>
         {{ end }}
         {{ .Params.questions | markdownify }}
         <div class="fr-card fr-card--horizontal fr-enlarge-link">
