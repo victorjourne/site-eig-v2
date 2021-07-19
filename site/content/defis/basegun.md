@@ -13,7 +13,7 @@ expertises:
   - Data science
   - Développement
 image: img/13_basegun_10.svg
-ogImage: img/13_basegun_10.svg
+ogImage: img/test-og.png
 ---
 {{< dailymotion x81fgiw >}}
 
