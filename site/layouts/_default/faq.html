@@ -24,13 +24,13 @@
       </nav>
       <h1 class="fr-mb-8v">{{ .Title }}</h1>
       <ul class="fr-accordions-group fr-mb-8v">
-        {{ range .Params.questions }}
+        {{ range $index, $question := .Params.questions }}
         <li>
           <section class="fr-accordion">
             <h3 class="fr-accordion__title">
-              <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-374">{{ .title }}</button>
+              <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-{{ $index }}">{{ .title }}</button>
             </h3>
-            <div class="fr-collapse" id="accordion-374">
+            <div class="fr-collapse" id="accordion-{{ $index }}">
               {{ partial "markdownify-block" .desc }}
             </div>
           </section>
