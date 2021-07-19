@@ -8,8 +8,8 @@ publish_mode: editorial_workflow
 
 collections: # A list of collections the CMS should be able to edit
   - name: "defis" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Projets" # Used in the UI, ie.: "New Post"
-    label_singular: "Projet"
+    label: "Défis" # Used in the UI, ie.: "New Post"
+    label_singular: "Défi"
     folder: "site/content/defis" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     filter: { field: "visible", value: true }
