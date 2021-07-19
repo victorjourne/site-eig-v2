@@ -9,37 +9,36 @@ hero:
     par le numérique 
     pour le service public
 defis:
-  sub: Relever des défis d’intérêt général en 10 mois
-  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit
-    amet
+  sub: Relever des défis concrets du service public
+  desc: "De la justice à la santé, en passant par la culture, l'éducation, la
+    défense, les défis ont un dénominateur commun : transformer les services
+    publics par le numérique"
 talents:
   sub: Les talents ou « EIG »
-  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit
-    amet
+  desc: Durant 10 mois, des femmes et des hommes apportent leur expertise - en
+    développement, en data science, en design et en droit du numérique - à la
+    réussite de ces défis.
   list:
     - Adeline Celier
     - Julie Dugardin
     - Sophie Machin
 agents:
   sub: Les agents publics
-  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit
-    amet
+  desc: "Issus de tout type d'administration, quelle soit centrale, indépendante,
+    territoriale, de santé..., des agents publics accueillent deux ou trois
+    « EIG » dans leurs services pour relever ensemble les défis. "
   list:
     - Adeline Celier
     - Christelle Ratignier-Carbonneil
 join:
-  image: img/smith-major-yq-nha0v2yu-unsplash.jpg
+  image: img/andreas-gucklhorn-mawu2pojwfu-unsplash-1-.jpg
   sub: "du programme d'Entrepreneur d'intérêt général "
   title: Rejoindre la promotion 6
   btn:
     title: Participer
     url: "#"
 medias:
-  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
+  desc: x
   tiles:
     - image: img/02_tristan_10.svg
       title: Test test test test test
@@ -47,4 +46,6 @@ medias:
       title: Test test test
     - image: img/05_gdr-santé_10.svg
       title: "Test test "
+    - title: "Forbes "
+      image: ttps://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/9/99/Place_de_la_R%25C3%25A9publique_-_Marianne.jpg&imgrefurl=https://commons.wikimedia.org/wiki/File:Place_de_la_R%25C3%25A9publique_-_Marianne.jpg&tbnid=QrI9mIj1p0NRnM&vet=1&docid=0KYnO_KOJW8hfM&w=3456&h=2304&source=sh/x/im
 ---

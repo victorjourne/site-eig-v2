@@ -1,7 +1,7 @@
 ---
 title: Administrations
 layout: admins
-open: true
+open: false
 head:
   desc: Parce que nous croyons qu’une transformation durable se fait de
     l’intérieur... Le programme Entrepreneurs d’intérêt général vous aide à
@@ -11,15 +11,13 @@ head:
     title: Proposer un projet
     url: /participer/administrations/proposer
   call:
-    title: Appel à projets
+    title: Cahier des charges
     url: img/blank.pdf
 program: "## Ce que le programme vous propose
 
 
-  Nous recrutons des talents - ou \"EIG\" - pour relever des défis numériques
-  dans votre administration, pour une période de 10 mois.
-
-
+  ##### Nous recrutons des talents - ou \"EIG\" - pour relever des défis
+  numériques dans votre administration, pour une période de 10 mois.
 
 
   ## Un soutien à 3 niveaux
@@ -30,7 +28,7 @@ program: "## Ce que le programme vous propose
   quis nostrud exercitation ullamco.
 
 
-  ### Recrutement
+  #### Recrutement
 
 
   Nous pilotons une procédure de recrutement accélérée, de bout en bout, en
@@ -50,7 +48,7 @@ program: "## Ce que le programme vous propose
   * juristes du numérique
 
 
-  ### Co-financement
+  #### Co-financement
 
 
   Nous participons aux salaires des talents à hauteur de 30 %. Ils sont
@@ -62,7 +60,7 @@ program: "## Ce que le programme vous propose
   * 30 % par le programme
 
 
-  ### Aide à l’innovation
+  #### Aide à l’innovation
 
 
   Aide à l’innovation

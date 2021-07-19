@@ -7,6 +7,10 @@ description: Test
 image: img/andreas-gucklhorn-mawu2pojwfu-unsplash-1-.jpg
 categories:
   - Évaluation
+related:
+  - 9 Lorem ipsum dolor sit amet, consetetur sadipscing elitr consetetur
+    sadipscing elitr consetetur sadipscing elitr
+  - Plus d’un an après, que deviennent les défis de la promotion 3 ?
 visible: true
 ---
 # Lorem ipsum dolor sit amet,
