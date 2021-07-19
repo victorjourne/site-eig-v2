@@ -32,13 +32,13 @@
         </div>
         <h2 class="fr-h4">{{ .Params.head.sub }}</h2>
         {{ if .Params.open }}
-        <div class="fr-mb-12v c-multi-btns">
+        <div class="fr-mb-18v c-multi-btns">
           <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
           <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right" target="_blank">{{ .Params.head.call.title }}</a>
         </div>
         {{ end }}
         <h2>{{ .Params.def.title }}</h2>
-        <div class="fr-callout fr-mb-12v">
+        <div class="fr-callout fr-mb-18v">
           <h4 class="fr-callout__title">{{ .Params.def.info.title }}</h4>
           <div class="fr-callout__text">
             {{ .Params.def.info.desc | markdownify }}
@@ -48,14 +48,14 @@
         <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
           {{ range .Params.what.defs }}
           <div class="fr-col-12 fr-col-md-4 fr-col-xl-3">
-            <div class="c-card-alt fr-h5">{{ .def }}</div>
+            <div class="c-card-alt fr-h5 fr-mb-0">{{ .def }}</div>
           </div>
           {{ end }}
         </div>
         <h3>{{ .Params.profiles.title }}</h3>
         {{ .Params.profiles.desc | markdownify }}
         <div class="c-link-head fr-mt-12v">
-          <h4 class="fr-h5 u-color-primary">{{ .Params.profiles.sub }}</h4>
+          <h4 class="fr-h5">{{ .Params.profiles.sub }}</h4>
           <a class="fr-btn fr-fi-arrow-right-line fr-btn--secondary" href="/talents"></a>
         </div>
         <div class="fr-grid-row fr-grid-row--gutters fr-mb-10v">
