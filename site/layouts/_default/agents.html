@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<div class="fr-container fr-mt-8v fr-mb-10v">
+  <h1>{{ .Params.title }}</h1>
+  <p class="fr-text--lead">
+    {{ .Params.desc }}
+  </p>
+  <div class="fr-grid-row fr-grid-row--gutters">
+    {{ range (where (where .Site.RegularPages "Type" "personnes") ".Params.role" "agent-public") }}
+      <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+        {{ .Render "li" }}
+      </div>
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}
