@@ -55,7 +55,7 @@
     <div class="c-section__head">
       <h2 class="fr-h3 fr-mb-2v">Qui</h2>
       <h3 class="fr-h1 fr-mb-4v">{{ .Params.talents.sub }}</h3>
-      <p>{{ .Params.defis.desc }}</p>
+      <p>{{ .Params.talents.desc }}</p>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
       {{ range $personnes }}
@@ -78,7 +78,7 @@
     <div class="c-section__head">
       <h2 class="fr-h3 fr-mb-2v">Et aussi</h2>
       <h3 class="fr-h1 fr-mb-4v">{{ .Params.agents.sub }}</h3>
-      <p>{{ .Params.defis.desc }}</p>
+      <p>{{ .Params.agents.desc }}</p>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters">
       {{ range $personnes }}
@@ -109,7 +109,6 @@
 {{ end }}
 
 {{ if ne .Params.join.title "" }}
-{{.Params.join.btn}}
 <div class="c-join">
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters">
