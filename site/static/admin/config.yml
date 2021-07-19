@@ -16,7 +16,12 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Administration", name: "who", widget: "string" }
-      - { label: "Établissement", name: "place", widget: "string", required: false }
+      - {
+          label: "Établissement",
+          name: "place",
+          widget: "string",
+          required: false,
+        }
       - {
           label: "Thématiques",
           name: "themes",
@@ -47,7 +52,12 @@ collections: # A list of collections the CMS should be able to edit
           search_fields: ["title"],
         }
       - { label: "Image", name: "image", widget: "image" }
-      - { label: "Image partage (1200x627)", name: "ogImage", widget: "image", required: false }
+      - {
+          label: "Image partage (1200x627)",
+          name: "ogImage",
+          widget: "image",
+          required: false,
+        }
       - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "articles" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Articles" # Used in the UI, ie.: "New Post"
@@ -247,8 +257,39 @@ collections: # A list of collections the CMS should be able to edit
               fields:
                 [
                   { label: Image, name: image, widget: image, required: false },
-                  { label: Titre, name: title, widget: string, required: false },
-                  { label: Sous-titre, name: sub, widget: string, required: false },
+                  {
+                    label: Titre,
+                    name: title,
+                    widget: string,
+                    required: false,
+                  },
+                  {
+                    label: Sous-titre,
+                    name: sub,
+                    widget: string,
+                    required: false,
+                  },
+                  {
+                    label: Bouton,
+                    name: btn,
+                    widget: object,
+                    required: false,
+                    fields:
+                      [
+                        {
+                          label: Title,
+                          name: title,
+                          widget: string,
+                          required: false,
+                        },
+                        {
+                          label: URL,
+                          name: url,
+                          widget: string,
+                          required: false,
+                        },
+                      ],
+                  },
                 ],
             }
           - {
@@ -356,9 +397,19 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: Nombre, name: num, widget: string }
               - { label: Titre, name: title, widget: string }
-              - { label: "Bouton - Titre", name: btnTitle, widget: string, required: false }
-              - { label: "Bouton - URL", name: btnUrl, widget: string, required: false }
-              
+              - {
+                  label: "Bouton - Titre",
+                  name: btnTitle,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: "Bouton - URL",
+                  name: btnUrl,
+                  widget: string,
+                  required: false,
+                }
+
           - label: "Comment ça marche"
             name: how
             widget: object
@@ -423,14 +474,24 @@ collections: # A list of collections the CMS should be able to edit
                 name: apply
                 widget: object
                 fields:
-                  - { label: Titre, name: title, widget: string, required: false }
+                  - {
+                      label: Titre,
+                      name: title,
+                      widget: string,
+                      required: false,
+                    }
                   - { label: URL, name: url, widget: string, required: false }
 
               - label: "Bouton appel"
                 name: call
                 widget: object
                 fields:
-                  - { label: Titre, name: title, widget: string, required: false }
+                  - {
+                      label: Titre,
+                      name: title,
+                      widget: string,
+                      required: false,
+                    }
                   - { label: URL, name: url, widget: file, required: false }
 
           - label: "Définition"
@@ -442,7 +503,7 @@ collections: # A list of collections the CMS should be able to edit
                 name: info
                 widget: object
                 fields:
-                  - { label: Titre, name: title, widget: string}
+                  - { label: Titre, name: title, widget: string }
                   - { label: Description, name: desc, widget: markdown }
 
           - label: "C'est quoi"
@@ -491,7 +552,12 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - { label: Titre, name: title, widget: text, required: false }
-              - { label: Description, name: desc, widget: markdown, required: false }
+              - {
+                  label: Description,
+                  name: desc,
+                  widget: markdown,
+                  required: false,
+                }
 
       - file: "site/content/participer/candidats/postuler.md"
         label: "Postuler"
@@ -563,14 +629,24 @@ collections: # A list of collections the CMS should be able to edit
                 name: apply
                 widget: object
                 fields:
-                  - { label: Titre, name: title, widget: string, required: false }
+                  - {
+                      label: Titre,
+                      name: title,
+                      widget: string,
+                      required: false,
+                    }
                   - { label: URL, name: url, widget: string, required: false }
 
               - label: "Bouton appel"
                 name: call
                 widget: object
                 fields:
-                  - { label: Titre, name: title, widget: string, required: false }
+                  - {
+                      label: Titre,
+                      name: title,
+                      widget: string,
+                      required: false,
+                    }
                   - { label: URL, name: url, widget: file, required: false }
 
           - { label: Programme, name: program, widget: markdown }

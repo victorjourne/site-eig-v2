@@ -109,6 +109,7 @@
 {{ end }}
 
 {{ if ne .Params.join.title "" }}
+{{.Params.join.btn}}
 <div class="c-join">
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters">
@@ -120,7 +121,9 @@
       <div class="fr-col-12 fr-col-md-7">
         <h2 class="fr-h1">{{ .Params.join.title }}</h2>
         <p class="fr-text--lead">{{ .Params.join.sub }}</p>
-        <a href="{{ relref . "participer" }}" class="fr-btn">Participer</a>
+        {{ if ne .Params.join.btn.title "" }}
+        <a href="{{ .Params.join.btn.url }}" class="fr-btn">{{ .Params.join.btn.title }}</a>
+        {{ end }}
       </div>
     </div>
   </div>
