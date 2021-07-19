@@ -107,6 +107,7 @@ collections: # A list of collections the CMS should be able to edit
           widget: "select",
           multiple: true,
           options: ["EIG 1", "EIG 2", "EIG 3", "EIG 4"],
+          required: false,
         }
       - {
           label: "Rôle",
