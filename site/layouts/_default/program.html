@@ -26,18 +26,22 @@
       </div>
       {{ end }}
       {{ partial "markdownify-block" .Params.how.desc }}
-      <h2>{{ .Params.steps.title }}</h2>
-      {{ range .Params.steps.list }}
-      <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
-        <div class="fr-col-12 fr-col-sm-4">
-          <img src="{{ .icon }}" alt="">
-        </div>
-        <div class="fr-col-12 fr-col-sm-8">
-          <h3 class="fr-h4"><span class="fr-tag">{{ .step }} | {{ .duration }}</span> {{ .title }}</h3>
-          <p class="fr-text--lead fr-mb-0"><strong class="u-color-primary">{{ .dates }}.</strong> {{ .desc }}</p>
-        </div>
-      </div>
-      {{ end }}
+      <h3>{{ .Params.steps.title }}</h3>
+    </div>
+  </div>
+  {{ range .Params.steps.list }}
+  <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
+    <div class="fr-col-12 fr-col-sm-4 fr-col-offset-lg-1 fr-col-lg-3">
+      <img src="{{ .icon }}" alt="">
+    </div>
+    <div class="fr-col-12 fr-col-sm-8 fr-col-lg-7">
+      <h3 class="fr-h4 fr-mb-3v is-step-title"><span class="fr-tag">{{ .step }} | {{ .duration }}</span> <br>{{ .title }}</h3>
+      <p class="fr-text--lead fr-mb-0"><strong class="u-color-primary">{{ .dates }}.</strong> {{ .desc }}</p>
+    </div>
+  </div>
+  {{ end }}
+  <div class="fr-grid-row  fr-grid-row--center">
+    <div class="fr-col-12 fr-col-lg-10">
       {{ partial "markdownify-block" .Params.then.desc }}
       <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle c-section__agent c-section__agent--only fr-mb-12v">
         <div class="fr-col-12 fr-col-md-3">

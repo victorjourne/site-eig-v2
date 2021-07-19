@@ -211,3 +211,19 @@ img {
     }
   }
 }
+
+.is-step-title {
+  .fr-tag {
+    margin-bottom: 0.5rem;
+
+    @media (min-width: 36em) {
+      margin-bottom: 0;
+    }
+  }
+
+  br {
+    @media (min-width: 36em) {
+      display: none;
+    }
+  }
+}
