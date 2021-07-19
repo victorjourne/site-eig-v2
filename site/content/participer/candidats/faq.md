@@ -35,6 +35,6 @@ questions:
   - desc: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
       eirmod tempor invidunt ut labore et
     title: "Test "
-contact: Test TestTest TestTest TestTest TestTest TestTest TestTest Test.
-  [Contactez-nous ](https://develop--site-eig-v2.netlify.app/contact/)
+contact: "**Test TestTest TestTest TestTest TestTest TestTest TestTest Test.**
+  [Contactez-nous ](https://develop--site-eig-v2.netlify.app/contact/)"
 ---
