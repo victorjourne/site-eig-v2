@@ -3,8 +3,7 @@ title: Adeline Celier
 job: Designer
 desc: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
   eirmod tempor "
-promos:
-  - EIG 4
+promos: null
 role: participant
 defi: Basegun
 image: img/adeline-celier-copie.jpeg
