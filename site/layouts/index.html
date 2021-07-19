@@ -33,7 +33,7 @@
     <div class="c-section__head">
       <h2 class="fr-h3 fr-mb-2v">La mission</h2>
       <h3 class="fr-h1 fr-mb-4v">{{ .Params.defis.sub }}</h3>
-      <p>{{ .Params.defis.desc }}</p>
+      <p>{{ replace .Params.defis.desc "\n" "<br />" | safeHTML }}</p>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
       {{ range first 3 ( where .Site.RegularPages "Type" "defis" ).ByDate }}
@@ -55,7 +55,7 @@
     <div class="c-section__head">
       <h2 class="fr-h3 fr-mb-2v">Qui</h2>
       <h3 class="fr-h1 fr-mb-4v">{{ .Params.talents.sub }}</h3>
-      <p>{{ .Params.talents.desc }}</p>
+      <p>{{ replace .Params.talents.desc "\n" "<br />" | safeHTML }}</p>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
       {{ range $personnes }}
@@ -78,7 +78,7 @@
     <div class="c-section__head">
       <h2 class="fr-h3 fr-mb-2v">Et aussi</h2>
       <h3 class="fr-h1 fr-mb-4v">{{ .Params.agents.sub }}</h3>
-      <p>{{ .Params.agents.desc }}</p>
+      <p>{{ replace .Params.agents.desc "\n" "<br />" | safeHTML }}</p>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters">
       {{ range $personnes }}
