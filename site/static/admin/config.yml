@@ -12,6 +12,7 @@ collections: # A list of collections the CMS should be able to edit
     label_singular: "Projet"
     folder: "site/content/defis" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    filter: { field: "visible", value: true }
     fields: # The fields each document in this collection have
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
@@ -59,6 +60,7 @@ collections: # A list of collections the CMS should be able to edit
           required: false,
         }
       - { label: "Contenu", name: "body", widget: "markdown" }
+      - { label: "Visible", name: "visible", widget: hidden, default: true }
   - name: "articles" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Articles" # Used in the UI, ie.: "New Post"
     label_singular: "Article"
@@ -353,8 +355,8 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Titre", name: title, widget: string }
           - { label: "Contenu", name: "body", widget: "markdown" }
-      - file: "site/content/impact.md"
-        label: "Impact"
+      - file: "site/content/defis/_index.md"
+        label: "Défis"
         name: "impact"
         fields:
           - { label: Titre, name: title, widget: string }

@@ -30,8 +30,8 @@ removePathAccents = true
     identifier = "program"
     weight = 1
   [[menu.nav]]
-    name = "Impact"
-    url = "/impact"
+    name = "Défis"
+    url = "/defis"
     identifier = "impact"
     weight = 2
   [[menu.nav]]
