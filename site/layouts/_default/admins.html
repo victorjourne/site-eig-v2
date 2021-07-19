@@ -21,7 +21,9 @@
       </nav>
       <div class="c-wysiwyg fr-mb-12v">
         <h1 class="fr-mb-8v">{{ .Params.head.title }}</h1>
-        {{ partial "markdownify-block" .Params.head.desc }}
+        <div class="fr-text--xl">
+          {{ partial "markdownify-block" .Params.head.desc }}
+        </div>
         {{ if .Params.open }}
           <div class="fr-mb-12v c-multi-btns">
             <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
@@ -34,7 +36,7 @@
           {{ partial "markdownify-block" .Params.criteria.desc }}
           {{ range .Params.criteria.list }}
           <h3 class="fr-h4"><span class="fr-tag">Critère {{ .num }}</span> {{ .name }}</h3>
-          <p>{{ .desc }}</p>
+          <p class="fr-mb-8v">{{ .desc }}</p>
           {{ end }}
           {{ partial "markdownify-block" .Params.steps }}
           {{ if not .Params.open }}
