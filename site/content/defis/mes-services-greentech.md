@@ -5,7 +5,7 @@ who: Commissariat Général au Développement Durable (CGDD)
 themes:
   - Ecologie
 promos:
-  - EIG 1
+  - Promotion 5
 town: 92055 La Défense
 date: 2021-05-12T15:48:32.602Z
 expertises:
