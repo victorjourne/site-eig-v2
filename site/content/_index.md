@@ -48,6 +48,4 @@ medias:
       title: Acteurs publics
     - image: img/usbek-rica.png
       title: Usbek & Rica
-    - title: "Forbes "
-      image: ttps://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/9/99/Place_de_la_R%25C3%25A9publique_-_Marianne.jpg&imgrefurl=https://commons.wikimedia.org/wiki/File:Place_de_la_R%25C3%25A9publique_-_Marianne.jpg&tbnid=QrI9mIj1p0NRnM&vet=1&docid=0KYnO_KOJW8hfM&w=3456&h=2304&source=sh/x/im
 ---
