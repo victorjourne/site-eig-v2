@@ -6,7 +6,7 @@ desc: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. "
 promos:
   - EIG 2
-role: agent-public
+role: agent-programme
 defi: CyberImpact
 image: img/jurica-koletic-7yvzyzeitc8-unsplash.jpg
 ---
