@@ -6,7 +6,7 @@ who: "Agence nationale de sécurité du médicament et des produits de santé (A
 themes:
   - Santé
 promos:
-  - EIG 1
+  - "Promotion 1 "
 town: 93200 Saint Denis
 date: 2021-05-12T15:38:22.176Z
 expertises:
