@@ -44,7 +44,7 @@ join:
   sub: "du programme d'Entrepreneur d'intérêt général "
   title: Rejoindre la promotion 6
   btn:
-    title: Participer
+    title: Test
     url: "#"
 medias:
   desc: x
