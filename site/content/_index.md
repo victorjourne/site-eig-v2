@@ -15,9 +15,11 @@ defis:
     publics par le numérique"
 talents:
   sub: Les talents ou « EIG »
-  desc: Durant 10 mois, des femmes et des hommes apportent leur expertise - en
-    développement, en data science, en design et en droit du numérique - à la
-    réussite de ces défis.
+  desc: >-
+    Durant 10 mois, des femmes et des hommes apportent leur expertise - en
+    développement, en data science, en design et en droit du numérique - 
+
+    à la réussite de ces défis.
   list:
     - Adeline Celier
     - Julie Dugardin
@@ -26,9 +28,12 @@ agents:
   sub: Les agents publics
   desc: >-
     Issus de tout type d'administration, quelle soit centrale, indépendante,
-    territoriale, de santé..., 
+    territoriale, de santé..., des agents publics accueillent deux ou trois
+    « EIG » 
 
-    des agents publics accueillent deux ou trois « EIG » dans leurs services pour relever ensemble les défis. 
+    dans leurs 
+
+    services pour relever ensemble les défis. 
   list:
     - Adeline Celier
     - Christelle Ratignier-Carbonneil
@@ -37,7 +42,7 @@ join:
   sub: "du programme d'Entrepreneur d'intérêt général "
   title: Rejoindre la promotion 6
   btn:
-    title: Participer
+    title: Test
     url: "#"
 medias:
   desc: x
