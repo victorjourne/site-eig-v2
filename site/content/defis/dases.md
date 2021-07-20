@@ -6,7 +6,7 @@ who: "Ministère de l’Education nationale, de la jeunesse et des sports "
 themes:
   - Education
 promos:
-  - EIG 1
+  - Promotion 3
 town: 75007 Paris
 date: 2021-05-20T14:27:22.365Z
 expertises:
