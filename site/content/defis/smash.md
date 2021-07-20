@@ -1,11 +1,13 @@
 ---
 title: SMASH
-description: "Anticiper les dépenses en personnel des hôpitaux et l’impact des réformes sur leur viabilité"
-who: Direction de la Recherche, des Études, de l’Évaluation et des Statistiques (DREES)
+description: Anticiper les dépenses en personnel des hôpitaux et l’impact des
+  réformes sur leur viabilité
+who: Direction de la Recherche, des Études, de l’Évaluation et des Statistiques
+  (DREES)
 themes:
   - Santé
 promos:
-  - EIG 1
+  - Promotion 3
 town: 75015 Paris
 date: 2021-05-12T14:35:06.836Z
 expertises:
