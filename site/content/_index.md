@@ -43,9 +43,9 @@ medias:
   desc: x
   tiles:
     - image: img/forbes.png
-      title: Forbes
+      title: Lire
     - image: img/acteurs-publics.png
-      title: Acteurs publics
+      title: Lire
     - image: img/usbek-rica.png
-      title: Usbek & Rica
+      title: Lire
 ---
