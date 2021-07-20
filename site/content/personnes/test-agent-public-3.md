@@ -1,5 +1,5 @@
 ---
-title: Test agent public 3
+title: Test agent public 4
 job: "Chef de projets digital "
 desc: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
   eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
@@ -7,7 +7,7 @@ desc: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
 promos:
   - EIG 1
 role: agent-public
-defi: CapQualif
+defi: "DaSES  "
 image: img/aiony-haust-3tll_97hnjo-unsplash.jpg
 ---
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
