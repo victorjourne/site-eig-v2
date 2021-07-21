@@ -1,7 +1,7 @@
 ---
 title: Administrations
 layout: admins
-open: false
+open: true
 head:
   desc: Parce que nous croyons qu’une transformation durable se fait de
     l’intérieur... Le programme Entrepreneurs d’intérêt général vous aide à
@@ -16,8 +16,8 @@ head:
 program: "## Ce que le programme vous propose
 
 
-  ##### Nous recrutons des talents - ou \"EIG\" - pour relever des défis
-  numériques dans votre administration, pour une période de 10 mois.
+  **Nous recrutons des talents - ou \"EIG\" - pour relever des défis
+  numériques dans votre administration, pour une période de 10 mois.**
 
 
   ## Un soutien à 3 niveaux
