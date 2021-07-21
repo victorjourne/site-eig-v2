@@ -40,12 +40,10 @@ questions: >-
 
   * Rejoignez nos webinaires de présentation de l'appel à candidatures :
 
-    1. Le XX/XX/XXX de XXh à XXh
-
-       {{< arrow-link url="https://develop--site-eig-v2.netlify.app/defis/" title="S'inscrire" target="false" >}}
-    2. Le XX/XX/XXX de XXh à XXh
-
-       {{< arrow-link url="https://www.santepubliquefrance.fr/" title="Inscrivez-vous" target="true" >}}
+    1. Le XX/XX/XXX de XXh à XXh\
+       [S'inscrire](https://www.demarches-simplifiees.fr/)
+    2. Le XX/XX/XXX de XXh à XXh\
+       [S'inscrire](https://www.demarches-simplifiees.fr/)
   * [Inscrivez-vous à nos "office hours du vendredi"](#) pour échanger 20 minutes sur vos projets avant le dépôt de vos candidatures
 
   * Contactez-nous : eig@data.gouv.fr
