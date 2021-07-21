@@ -40,8 +40,10 @@ questions: >-
 
   * Rejoignez nos webinaires de présentation de l'appel à candidatures :
 
-    1. Le XX/XX/XXX de XXh à XXh
-    2. Le XX/XX/XXX de XXh à XXh
+    1. Le XX/XX/XXX de XXh à XXh\
+       [S'inscrire](https://www.demarches-simplifiees.fr/)
+    2. Le XX/XX/XXX de XXh à XXh\
+       [S'inscrire](https://www.demarches-simplifiees.fr/)
   * [Inscrivez-vous à nos "office hours du vendredi"](#) pour échanger 20 minutes sur vos projets avant le dépôt de vos candidatures
 
   * Contactez-nous : eig@data.gouv.fr
