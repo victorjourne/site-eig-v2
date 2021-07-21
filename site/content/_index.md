@@ -38,7 +38,7 @@ join:
   title: Rejoindre la promotion 6
   btn:
     title: Participer
-    url: "#"
+    url: https://www.santepubliquefrance.fr/
 medias:
   desc: x
   tiles:
