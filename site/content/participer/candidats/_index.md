@@ -10,7 +10,7 @@ head:
     title: Postuler
     url: /participer/candidats/postuler
   call:
-    title: Lorem
+    title: Appel à candidature
     url: img/document-é-sans-titre-copie.pdf
 def:
   title: EIG ça veut dire quoi ?
@@ -32,8 +32,7 @@ what:
   title: EIG, concrètement c'est quoi ?
   defs:
     - def: Rejoindre une administration pour 10 mois
-    - def:
-        Faire équipe avec un ou deux autres profils tech, design ou en droit du
+    - def: Faire équipe avec un ou deux autres profils tech, design ou en droit du
         numérique
     - def: Expérimenter autour de projets pour améliorer l’action publique
     - def: Entrer dans l'écosystème du numérique public (Etalab, DINUM,...)
