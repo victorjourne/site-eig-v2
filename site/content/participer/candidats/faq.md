@@ -41,6 +41,15 @@ questions:
       certains en région. C'est pourquoi il est important d'indiquer si vous
       êtes mobiles lors de votre candidature.
     title: Où se situent les administrations d'accueil ?
+  - title: Puis-je participer à mon projet en télétravail, complètement ou
+      partiellement ?
+    desc: Le programme repose sur l'immersion dans les administrations d'accueil, et
+      de ce fait ne permet pas de télétravail complet. La possibilité de
+      télétravailler régulièrement varie selon les administrations et devra être
+      envisagée avec leur accord explicite, ainsi que celui des autres membres
+      de l'équipe. La plupart des administrations le permettent et l'encadrent,
+      mais il faudra que vous posiez la question aux porteurs de projet lors des
+      entretiens.
 contact: >-
   ### Vous n’avez pas trouvé de réponse à votre question ?
 
