@@ -44,7 +44,7 @@ steps:
       title: Amplifier
 layout: program
 url: /programme
-image: img/capture-d’écran-2021-07-23-à-11.17.49.jpg
+image: img/capture-d’écran-2021-07-23-à-11.16.34.jpg
 title: "Pourquoi ce programme ? "
 desc: >-
   Entrepreneurs d'intérêt général permet à des talents du numérique ou **«** EIG
