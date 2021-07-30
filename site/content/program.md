@@ -69,7 +69,6 @@ then:
 
     #### **50%** des talents du numérique restent dans l'administration.
 
-    #### \
     90% des défis deviennent un projet qui perdure.
 quote:
   photo: img/aiony-haust-3tll_97hnjo-unsplash.jpg
