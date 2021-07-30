@@ -29,14 +29,12 @@ steps:
       duration: 3 mois
       title: Consolider
       dates: test
-      desc:
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
         commodo consequat.
     - dates: Test
-      desc:
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
         commodo consequat.
@@ -46,7 +44,7 @@ steps:
       title: Amplifier
 layout: program
 url: /programme
-image: img/leon-oalh2mojuuk-unsplash.jpg
+image: img/capture-d’écran-2021-07-23-à-11.25.46.jpg
 title: "Pourquoi ce programme ? "
 desc: >-
   Entrepreneurs d'intérêt général permet à des talents du numérique ou **«** EIG
