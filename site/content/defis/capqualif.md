@@ -1,5 +1,5 @@
 ---
-title: CapQualif
+title: "CapQualif - test "
 description: Simplifier la remise des titres des marins professionnels
 who: " Administration de rattachement : Direction des affaires maritimes"
 themes:
