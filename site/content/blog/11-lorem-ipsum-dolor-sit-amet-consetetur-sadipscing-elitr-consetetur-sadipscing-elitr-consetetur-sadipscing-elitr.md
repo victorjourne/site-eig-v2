@@ -1,6 +1,6 @@
 ---
-title: 11 Lorem ipsum dolor sit amet, consetetur sadipscing elitr consetetur
-  sadipscing elitr consetetur sadipscing elitr
+title: TEST - 11 Lorem ipsum dolor sit amet, consetetur sadipscing elitr
+  consetetur sadipscing elitr consetetur sadipscing elitr
 author: Océane Chahbazian, Cheffe de projet
 date: 2021-06-08T14:12:34.669Z
 description: Test
@@ -10,6 +10,8 @@ categories:
   - Open
   - Test 2
   - Test 1
+related:
+  - "Entrepreneurs d’intérêt général : lauréats et défis de la 5ème promotion"
 visible: true
 ---
 # Lorem ipsum dolor sit amet,
