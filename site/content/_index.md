@@ -38,7 +38,7 @@ join:
   title: Rejoindre la promotion 6
   btn:
     title: Participer
-    url: "#"
+    url: https://www.google.fr/maps
 medias:
   desc: x
   tiles:
