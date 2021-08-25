@@ -1,5 +1,5 @@
 ---
-open: false
+open: true
 head:
   questions:
     - question: Vous voulez vous engager pour l'intérêt général ?
