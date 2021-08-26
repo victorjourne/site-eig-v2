@@ -9,9 +9,9 @@ promos:
 town: 75019 Paris
 date: 2021-05-12T15:49:55.984Z
 expertises:
-  - Data Engineering
   - Développement
   - Design
+  - Data engineering
 image: img/02_tristan_10.svg
 visible: true
 ---
