@@ -2,7 +2,7 @@
 title: Projets de la promotion 5
 hero:
   btn:
-    title: Participer
+    title: Participer.
     url: "#"
   title: |-
     Entreprendre
