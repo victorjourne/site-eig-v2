@@ -2,12 +2,12 @@
 title: Projets de la promotion 5
 hero:
   btn:
-    title: Participer.
+    title: Participer
     url: "#"
   title: |-
     Entreprendre
     par le numérique 
-    pour le service public.
+    pour le service public
 defis:
   sub: Relever des défis concrets du service public
   desc: "De la justice à la santé, en passant par la culture, l'éducation, la
