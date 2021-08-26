@@ -5,7 +5,7 @@ who: "Ministère de l’Intérieur "
 themes:
   - Citoyenneté
 promos:
-  - EIG 1
+  - Promotion 5
 town: 75008 Paris
 date: 2021-05-22T10:56:14.512Z
 expertises:
