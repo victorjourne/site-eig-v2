@@ -1,5 +1,5 @@
 ---
-title: Agents publics -test
+title: Agents publics
 layout: agents
 url: /agents
 desc: >-
