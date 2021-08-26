@@ -7,7 +7,7 @@ who: Direction de la Recherche, des Études, de l’Évaluation et des Statistiq
 themes:
   - Santé
 promos:
-  - Promotion 3
+  - Promotion 5
 town: 75015 Paris
 date: 2021-05-12T14:35:06.836Z
 expertises:
