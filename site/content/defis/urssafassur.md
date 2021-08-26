@@ -5,7 +5,7 @@ who: Urssaf Caisse nationale
 themes:
   - Protection sociale
 promos:
-  - EIG 1
+  - Promotion 5
 town: 93108 Montreuil
 date: 2021-05-12T15:51:27.913Z
 expertises:
