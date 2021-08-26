@@ -6,12 +6,12 @@ who: "Agence de la transition écologique (ADEME) "
 themes:
   - Ecologie
 promos:
-  - EIG 1
+  - Promotion 5
 town: 92120 Montrouge
 date: 2021-05-12T15:41:48.018Z
 expertises:
-  - Data Engineering
   - Juriste
+  - Data engineering
 image: img/04_batid_10.svg
 visible: true
 ---
