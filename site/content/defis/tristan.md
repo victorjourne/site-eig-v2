@@ -5,7 +5,7 @@ who: Ministère de la Justice
 themes:
   - Justice
 promos:
-  - EIG 1
+  - Promotion 5
 town: 75019 Paris
 date: 2021-05-12T15:49:55.984Z
 expertises:
