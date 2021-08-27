@@ -11,7 +11,7 @@ date: 2021-07-13T14:35:26.437Z
 expertises:
   - Développement
   - Design
-image: img/05_gdr-santé_10.svg
+image: img/eig4-capqualif.svg
 visible: true
 ---
 
