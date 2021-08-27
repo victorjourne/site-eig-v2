@@ -1,13 +1,12 @@
 ---
-title: Duplessis
-job: Evelyne
+title: Evelyne Duplessis
+job: Porteuse de projet
 desc: ""
-promos:
-  - EIG 4
-role: participant
+promos: null
+role: agent-public
 defi: e-PSHAD
 image: img/evelyne-duplessis.png
 linkedin: ""
 github: ""
 ---
-Juriste spécialisée en droit des contentieux, 16 ans d’expérience professionnelle enassurantiel maladie et risque professionnel.Pendant 6 ans Directrice Déléguée de l’ Informationnel à l’ANSM (notamment des sujetsrelatifs à la donnée),Evelyne Duplessis est Directeur Général Adjoint du Groupe UGECAM àla CNAM en charge notamment de l’accompagnement de la transformation numérique. Sesresponsabilités couvrent les activités d’appui au pilotage du Groupe
+Juriste spécialisée en droit des contentieux, 16 ans d’expérience professionnelle en assurantiel maladie et risque professionnel. Pendant 6 ans Directrice Déléguée de l’ Informationnel à l’ANSM (notamment des sujets relatifs à la donnée),Evelyne Duplessis est Directeur Général Adjoint du Groupe UGECAM à la CNAM en charge notamment de l’accompagnement de la transformation numérique.
