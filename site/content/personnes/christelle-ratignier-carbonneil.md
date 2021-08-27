@@ -1,20 +1,18 @@
 ---
 title: Christelle Ratignier-Carbonneil
 job: Mentor classique
-desc: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-  voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+desc: ""
 promos:
   - EIG 3
   - EIG 2
   - EIG 4
-role: participant
-defi: Décos
+role: agent-public
+defi: ""
 image: img/christelle_ratignier-carbonneil.png
 linkedin: https://www.linkedin.com/in/christelle-ratignier-carbonneil-8279a913b/
-github: https://www.linkedin.com/in/christelle-ratignier-carbonneil-8279a913b/
+github: ""
 ---
-hristelle Ratignier-Carbonneil, Docteur en immuno-hématologie, exerce entre 2002 et 2010 plusieurs fonctions en lien avec l’évaluation clinique des médicaments au sein de l’Agence française de sécurité sanitaire des produits de santé, devenue ANSM.
+Christelle Ratignier-Carbonneil, Docteur en immuno-hématologie, exerce entre 2002 et 2010 plusieurs fonctions en lien avec l’évaluation clinique des médicaments au sein de l’Agence française de sécurité sanitaire des produits de santé, devenue ANSM.
 
 En novembre 2010, elle rejoint le cabinet du ministre du travail, de l’emploi et de la santé, en tant que conseillère pour les produits et les industries de santé. Elle joue un rôle majeur dans la création du fonds d’indemnisation des victimes du Mediator, puis dans la rédaction de la loi relative au renforcement de la sécurité sanitaire du médicament et des produits de santé.
 
