@@ -5,12 +5,12 @@ who: Ministère de la Mer
 themes:
   - Santé
 promos:
-  - EIG 1
+  - Promotion 5
 town: 92055 La Défense
 date: 2021-05-20T14:22:09.650Z
 expertises:
-  - Data Engineering
   - Développement
+  - Data engineering
 image: img/11_seacurity_10.svg
 visible: true
 ---
