@@ -3,8 +3,6 @@ title: Christelle Ratignier-Carbonneil
 job: Mentor classique
 desc: ""
 promos:
-  - EIG 3
-  - EIG 2
   - EIG 4
 role: agent-public
 defi: ""
