@@ -17,9 +17,11 @@ defis:
     les défis ont un dénominateur commun : transformer les services publics par le numérique
 talents:
   sub: Les talents ou « EIG »
-  desc: Durant 10 mois, des femmes et des hommes apportent leur expertise - en
-    développement, en data science, en design et en droit du numérique - à la
-    réussite de ces défis.
+  desc: >-
+    Durant 10 mois, des femmes et des hommes apportent leur expertise - en
+    développement, en data science,
+
+    en design et en droit du numérique - à la réussite de ces défis.
   list:
     - Adeline Celier
     - Julie Dugardin
