@@ -5,7 +5,7 @@ who: Direction interministérielle du numérique (DINUM)
 themes:
   - Numérique public
 promos:
-  - EIG 1
+  - Promotion 5
 town: 75007 Paris
 date: 2021-05-21T19:07:47.411Z
 expertises:
