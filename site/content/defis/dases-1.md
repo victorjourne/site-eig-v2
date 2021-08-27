@@ -6,13 +6,13 @@ who: "Ministère de l’Education nationale, de la jeunesse et des sports "
 themes:
   - Education
 promos:
-  - Promotion 3
+  - Promotion 5
 town: 75007 Paris
 date: 2021-07-20T16:20:20.845Z
 expertises:
-  - Data Engineering
   - Design
   - Juriste
+  - Data engineering
 image: img/15_dases.svg
 visible: true
 ---
