@@ -1,11 +1,11 @@
 ---
-title: "CapQualif - test "
+title: "CapQualif "
 description: Simplifier la remise des titres des marins professionnels
 who: " Administration de rattachement : Direction des affaires maritimes"
 themes:
   - Service public
 promos:
-  - "Promotion 4 "
+  - Promotion 4
 town: "La Défense (92400) "
 date: 2021-07-13T14:35:26.437Z
 expertises:
