@@ -1,17 +1,17 @@
 ---
 title: Green Data for Health
-description: "Identifier les effets des facteurs environnementaux sur la santé par la donnée"
+description: Identifier les effets des facteurs environnementaux sur la santé par la donnée
 who: Commissariat Général au Développement Durable (CGDD)
 themes:
   - Santé-Environnement
 promos:
-  - EIG 1
+  - Promotion 5
 town: 92800 Puteaux
 date: 2021-05-12T15:03:46.040Z
 expertises:
-  - Data Engineering
   - Design
   - Juriste
+  - Data engineering
 image: img/06_gd4h_10.svg
 visible: true
 ---
