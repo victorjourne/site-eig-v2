@@ -7,12 +7,12 @@ place: Ministère de l'intérieur
 themes:
   - Sécurité
 promos:
-  - EIG 1
+  - Promotion 5
 town: 92130 Issy-les-Moulineaux
 date: 2021-05-12T14:54:41.173Z
 expertises:
-  - Data Engineering
   - Data science
+  - Data engineering
 image: img/10_cyberimpact_10.svg
 ogImage: img/og.png
 visible: true
