@@ -5,7 +5,7 @@ who: Direction générale des finances publiques (DGFiP)
 themes:
   - Service public
 promos:
-  - EIG 1
+  - Promotion 5
 town: 93160 Noisy-le-Grand
 date: 2021-05-12T15:02:33.005Z
 expertises:
