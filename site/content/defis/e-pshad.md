@@ -7,7 +7,7 @@ who: "Etablissement Public National Antoine Koenigswarter (EPNAK) + Caisse
 themes:
   - Formation
 promos:
-  - EIG 1
+  - Promotion 5
 town: "91000 Evry + 75020 Paris "
 date: 2021-05-12T14:59:52.765Z
 expertises:
