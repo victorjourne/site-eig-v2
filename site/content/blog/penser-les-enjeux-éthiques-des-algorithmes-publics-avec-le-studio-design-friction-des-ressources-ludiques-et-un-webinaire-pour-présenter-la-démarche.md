@@ -1,6 +1,7 @@
 ---
-title: "Penser les enjeux éthiques des algorithmes publics avec le studio Design
-  Friction : des ressources ludiques et un webinaire pour présenter la démarche"
+title: "TEST -Penser les enjeux éthiques des algorithmes publics avec le studio
+  Design Friction : des ressources ludiques et un webinaire pour présenter la
+  démarche"
 author: Soizic Pénicaud
 date: 2021-07-23T14:00:59.887Z
 description: En juin 2021, le studio Design Friction a mis en ligne
