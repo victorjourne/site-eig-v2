@@ -1,6 +1,6 @@
 ---
 title: Coraline Gillard
-job: Mentor
+job: Chargée de mission
 role: agent-programme
 image: img/coraline-gillard.jfif
 ---
