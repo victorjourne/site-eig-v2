@@ -1,5 +1,5 @@
 ---
-title: Beryl Koller
+title: Beryl Armand
 job: Développeuse
 role: participant
 defi: Basegun
