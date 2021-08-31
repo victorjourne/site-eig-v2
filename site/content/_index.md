@@ -31,10 +31,9 @@ agents:
   sub: Les agents publics
   desc: >-
     Issus de tout type d'administration, quelle soit centrale, indépendante,
-    territoriale, de santé..., des agents publics accueillent deux ou trois
-    « EIG » 
+    territoriale, de santé..., 
 
-    dans leurs services pour relever ensemble les défis. 
+    des agents publics accueillent deux ou trois « EIG » dans leurs services pour relever ensemble les défis. 
   list:
     - Adeline Celier
     - Christelle Ratignier-Carbonneil
