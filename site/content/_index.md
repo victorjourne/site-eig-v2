@@ -6,7 +6,6 @@ hero:
     url: ""
   title: |-
     Entreprendre
-    par le numérique 
     pour le service public
 defis:
   sub: Relever des défis concrets du service public
