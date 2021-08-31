@@ -8,10 +8,7 @@ categories:
   - Évaluation
   - Open
 related:
-  - 2 Lorem ipsum dolor sit amet, consetetur sadipscing elitr consetetur
-    sadipscing elitr consetetur sadipscing elitr
-  - 5 Lorem ipsum dolor sit amet, consetetur sadipscing elitr consetetur
-    sadipscing elitr consetetur sadipscing elitr
+  - Plus d’un an après, que deviennent les défis de la promotion 3 ?
 visible: true
 ---
 ![](img/linkedin_annoncepromo5.jpg)
