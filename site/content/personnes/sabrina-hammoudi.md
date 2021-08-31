@@ -1,6 +1,6 @@
 ---
 title: Sabrina Hammoudi
-job: Juriste
+job: Juriste du numérique
 role: participant
 defi: Green Data for Health
 image: img/sans-photo.png
