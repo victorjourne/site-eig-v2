@@ -4,7 +4,7 @@ hero:
   btn:
     title: Participer
     url: ""
-  title: |-
+  title: |
     Entreprendre
     pour le service public
 defis:
