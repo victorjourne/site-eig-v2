@@ -3,9 +3,9 @@ title: Administrations
 layout: admins
 open: false
 head:
-  desc: "#### Parce que nous croyons qu'une transformation durable se fait de
+  desc: Parce que nous croyons qu'une transformation durable se fait de
     l'intérieur... Le programme Entrepreneurs d'intérêt général vous aide à
-    intégrer des talents du numérique chez vous !"
+    intégrer des talents du numérique chez vous !
   title: Administrations
   apply:
     title: Proposer un projet
