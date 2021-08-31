@@ -3,7 +3,7 @@ title: Projets de la promotion 5
 hero:
   btn:
     title: Participer
-    url: "#"
+    url: https://develop--site-eig-v2.netlify.app/participer/
   title: |-
     Entreprendre
     par le numérique 
@@ -43,7 +43,7 @@ join:
   title: Rejoindre la promotion 6
   btn:
     title: Participer
-    url: https://www.google.fr/
+    url: https://develop--site-eig-v2.netlify.app/participer/
 medias:
   desc: x
   tiles:
