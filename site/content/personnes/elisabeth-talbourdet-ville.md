@@ -1,6 +1,6 @@
 ---
 title: Elisabeth Talbourdet-Ville
-job: Juriste
+job: Juriste du numérique
 role: participant
 defi: "BatID "
 image: img/sans-photo.png
