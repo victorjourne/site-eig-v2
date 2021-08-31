@@ -7,6 +7,10 @@ image: img/blogpost_eig3_2021-0.png
 categories:
   - Évaluation
   - Open
+related:
+  - "Penser les enjeux éthiques des algorithmes publics avec le studio Design
+    Friction : des ressources ludiques et un webinaire pour présenter la
+    démarche"
 visible: true
 ---
 De janvier à novembre 2019, 32 EIG avaient rejoint l’administration à l’occasion de la promotion EIG 3. 18 spécialistes en data science, 9 développeurs et développeuses, 5 designers et 21 agents publics avaient combiné leurs expertises pour s’attaquer à 15 problématiques de politiques publiques comme la lutte contre les comportements financiers illicites, la lisibilité du droit du travail ou encore l’agriculture biologique.
