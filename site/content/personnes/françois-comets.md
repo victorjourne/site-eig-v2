@@ -3,6 +3,7 @@ title: François Comets
 job: Mentor
 role: agent-programme
 image: img/f.comets-2021.jpg
+linkedin: "https://www.linkedin.com/in/francoiscomets/ "
 ---
 François Comets est consultant auprès du programme Entrepreneurs d’Intérêt Général.
 
