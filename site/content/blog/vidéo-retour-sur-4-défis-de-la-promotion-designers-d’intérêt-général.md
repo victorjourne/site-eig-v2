@@ -22,3 +22,5 @@ Les quatres défis présentés sont :
 * **[Maritux](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/maritux.html)** : Faciliter l’accès à une information marine de qualité - [Cécile Canel ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/cecile-canel.html)
 * **[Ombel](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-cgdd.html)** : Améliorer l’information environnementale du citoyen - [Marie Ramon-Daré ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/marie-ramon-dare.html)
 * **[Sequoia IGN](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-ign.html)** : Produire des données collaboratives géolocalisées - [Charlotte Marmet](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/charlotte-marmet.html)
+
+  {{< dailymotion x7xtjdr >}}
