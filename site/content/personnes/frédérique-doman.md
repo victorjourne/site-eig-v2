@@ -1,6 +1,6 @@
 ---
 title: Frédérique Doman
-job: Designeuse
+job: Designer
 role: agent-programme
 defi: EIG Link
 image: img/frédérique-doman.png
