@@ -18,9 +18,9 @@ En juin 2019 a été lancé Designers d’Intérêt Général, un programme exp�
 
 Les quatres défis présentés sont :
 
-* **[INPN Espaces](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/inpn-espaces.html)** : Informer les citoyens sur les espaces naturels autour de chez eux - [Jean-Edouard Sastre ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/jean-edouard-sastre.html)
-* **[Maritux](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/maritux.html)** : Faciliter l’accès à une information marine de qualité - [Cécile Canel ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/cecile-canel.html)
-* **[Ombel](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-cgdd.html)** : Améliorer l’information environnementale du citoyen - [Marie Ramon-Daré ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/marie-ramon-dare.html)
-* **[Sequoia IGN](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-ign.html)** : Produire des données collaboratives géolocalisées - [Charlotte Marmet](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/charlotte-marmet.html)
+* **[INPN Espaces](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/inpn-espaces.html)** : Informer les citoyens sur les espaces naturels autour de chez eux - [Jean-Edouard Sastre](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/jean-edouard-sastre.html)[ ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/jean-edouard-sastre.html)
+* **[Maritux](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/maritux.html)** : Faciliter l’accès à une information marine de qualité - [Cécile Canel](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/cecile-canel.html)[ ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/cecile-canel.html)
+* **[Ombel](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-cgdd.html)** : Améliorer l’information environnementale du citoyen - [Marie Ramon-Daré](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/marie-ramon-dare.html)[ ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/marie-ramon-dare.html)
+* **[Sequoia IGN](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-ign.html)** : Produire des données collaboratives géolocalisées - [Charlotte Marmet](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/charlotte-marmet.html)[](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/charlotte-marmet.html)
 
-  {{< dailymotion x7xtjdr >}}
+{{< dailymotion x7xtjdr >}}
