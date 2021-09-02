@@ -3,7 +3,7 @@ title: Elisabeth Fainstein
 job: Développeuse
 role: agent-programme
 defi: EIG Link
-image: img/sans-photo.png
+image: img/elisabeth-fainstein.png
 linkedin: https://www.linkedin.com/in/elisabeth-fainstein
 github: https://github.com/officierazarov
 ---
