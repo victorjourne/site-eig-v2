@@ -59,12 +59,12 @@ Au terme des dix mois du programme, les défis EIG se trouvent souvent à des st
 
 Malgré la diversité des scénarios, les mentors ont fait état de difficultés communes :
 
-* Le recrutement des EIG suite au programme peut s’avérer compliqué, à la fois du fait des difficultés à créer de nouveaux postes ou en raison de contraintes budgétaires (rémunération moins attractive pour les EIG qui restent que pendant le programme) ;
+* Le recrutement des EIG suite au programme peut s’avérer compliqué, à la fois du fait des difficultés à créer de nouveaux postes ou en raison de contraintes budgétaires (rémunération moins attractive pour les EIG qui restent que pendant le programme) 
 * La [pérennité des développements techniques](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/24/atelier-construction-plan-actions-avec-les-dsi.html) doit elle aussi être anticipée. Simon Karleskind raconte que la première version du site a été développé de manière extrêmement rapide. « *À l’arrivée de notre nouvelle développeuse, un travail important de refonte du code a été fait, notamment pour nous permettre de passer à l’échelle* », raconte-t-il.
 * Le rythme du programme implique que les mentors doivent souvent convaincre leur hiérarchie de poursuivre le projet alors qu’il a à peine commencé. Pour ce faire, les mentors insistent une nouvelle fois sur l’implication de toutes les parties prenantes dès le début du projet, pour obtenir des résultats tangibles le plus vite possible.
 * Les mentors ont enfin soulevé la question de la composition et de la taille des équipes, qui tendent à évoluer après la première année. On note notamment l’intégration dans les équipes de CartoBio et de Réfugiés.info de personnes chargées de déploiement, responsables de faire connaître l’outil.
 
-Là encore, les mentors (soutenus par l’équipe du programme à travers les sessions d’accompagnement mensuelles) jouent un rôle essentiel dans la réussite des projets, en anticipant et surmontant ces difficultés. C’est grâce à leur engagement que l’élan de transformation numérique impulsé par les EIG perdure
+Là encore, les mentors (soutenus par l’équipe du programme à travers les sessions d’accompagnement mensuelles) jouent un rôle essentiel dans la réussite des projets, en anticipant et surmontant ces difficultés. C’est grâce à leur engagement que l’élan de transformation numérique impulsé par les EIG perdure.
 
 ## Pour revoir la table-ronde :
 
