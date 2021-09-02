@@ -105,9 +105,10 @@ collections: # A list of collections the CMS should be able to edit
       - {
           label: "Promotion",
           name: "promos",
-          widget: "select",
-          multiple: true,
-          options: ["EIG 1", "EIG 2", "EIG 3", "EIG 4"],
+          widget: "relation",
+          collection: "promos",
+          value_field: "title",
+          search_fields: ["title"],
           required: false,
         }
       - {
