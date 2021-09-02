@@ -27,7 +27,8 @@ steps:
         en mai,[ explorez les projets des années passées](#) et les [parcours
         des anciens et anciennes EIG](#).
     - date: "[Date] - [Date]"
-      desc: Passez un entretien de sélection en présence d’un jury composé d’agents
+      desc:
+        Passez un entretien de sélection en présence d’un jury composé d’agents
         publics, de membres d'Etalab et de la direction interministérielle du
         numérique et de personnalités extérieures issues des mondes associatif,
         de la recherche et de l’entrepreneuriat.
@@ -37,10 +38,8 @@ steps:
 questions: >-
   ## Des questions ?
 
-
   * Trouvez des réponses dans notre [foire aux questions](/participer/candidats/faq)
 
-    {{< arrow-link url="https://entrepreneur-interet-general.etalab.gouv.fr/index.html" title="S'inscrire" target="true" >}}
   * Rejoignez nos webinaires de présentation de l'appel à candidatures :
 join:
   image: img/andreas-gucklhorn-mawu2pojwfu-unsplash-1-.jpg
