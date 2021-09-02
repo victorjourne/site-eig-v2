@@ -19,7 +19,7 @@ related:
   - "[Vidéo] Retour sur 4 défis de la promotion Designers d’Intérêt Général"
 visible: true
 ---
-« *Je ne peux que conseiller \[aux agents publics] de se lancer dans cette aventure* », a attesté Estelle Jond-Necand lors d’une table-ronde organisée par l’équipe EIG le 9 novembre dernier, pendant le Mois de l’Innovation Publique.
+« *Je ne peux que conseiller \[aux agents publics] de se lancer dans cette aventure* », a attesté Estelle Jond-Necand lors d’une table-ronde organisée par l’équipe EIG le 9 novembre dernier, pendant le Mois de l’Innovation Publique
 
 C’est bien l’aventure du programme Entrepreneurs d’Intérêt Général que l’équipe du programme a invité des agents publics mentors de la promotion EIG 3 à raconter, un an après la fin de la promotion en novembre 2019 :
 
