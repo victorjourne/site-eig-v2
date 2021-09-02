@@ -64,7 +64,7 @@ Malgré la diversité des scénarios, les mentors ont fait état de difficultés
 * Le rythme du programme implique que les mentors doivent souvent convaincre leur hiérarchie de poursuivre le projet alors qu’il a à peine commencé. Pour ce faire, les mentors insistent une nouvelle fois sur l’implication de toutes les parties prenantes dès le début du projet, pour obtenir des résultats tangibles le plus vite possible.
 * Les mentors ont enfin soulevé la question de la composition et de la taille des équipes, qui tendent à évoluer après la première année. On note notamment l’intégration dans les équipes de CartoBio et de Réfugiés.info de personnes chargées de déploiement, responsables de faire connaître l’outil.
 
-Là encore, les mentors (soutenus par l’équipe du programme à travers les sessions d’accompagnement mensuelles) jouent un rôle essentiel dans la réussite des projets, en anticipant et surmontant ces difficultés. C’est grâce à leur engagement que l’élan de transformation numérique impulsé par les EIG perdure.
+Là encore, les mentors (soutenus par l’équipe du programme à travers les sessions d’accompagnement mensuelles) jouent un rôle essentiel dans la réussite des projets, en anticipant et surmontant ces difficultés. C’est grâce à leur engagement que l’élan de transformation numérique impulsé par les EIG perdure
 
 ## Pour revoir la table-ronde :
 
