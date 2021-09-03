@@ -121,7 +121,7 @@
         <h2 class="fr-h1">{{ .Params.join.title }}</h2>
         <p class="fr-text--lead">{{ .Params.join.sub }}</p>
         {{ if ne .Params.join.btn.title "" }}
-        <a href="{{ .Params.join.btn.url }}" class="fr-btn">{{ .Params.join.btn.title }}</a>
+        <a href="{{ .Params.join.btn.url }}" class="fr-btn"{{ if .Params.join.btn.external }}target="_blank"{{ end }}>{{ .Params.join.btn.title }}</a>
         {{ end }}
       </div>
     </div>

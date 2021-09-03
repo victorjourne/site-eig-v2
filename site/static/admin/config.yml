@@ -304,6 +304,12 @@ collections: # A list of collections the CMS should be able to edit
                           widget: string,
                           required: false,
                         },
+                        {
+                          label: Externe,
+                          name: external,
+                          widget: boolean,
+                          required: false,
+                        },
                       ],
                   },
                 ],
