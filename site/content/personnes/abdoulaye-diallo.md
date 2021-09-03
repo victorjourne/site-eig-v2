@@ -1,10 +1,10 @@
 ---
 title: Abdoulaye Diallo
 job: Data Engineer
-promos: Promotion 3
+promos: Promotion 5
 role: participant
 defi: DataRH
-image: img/sans-photo.png
+image: img/abdoulaye-diallo.jpeg
 linkedin: https://www.linkedin.com/in/abdoulsn/
 github: https://github.com/abdoulsn
 ---
