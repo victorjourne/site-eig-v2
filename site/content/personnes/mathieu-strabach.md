@@ -1,6 +1,7 @@
 ---
 title: Mathieu Strabach
 job: Designer
+promos: Promotion 5
 role: participant
 defi: "DaSES  "
 image: img/sans-photo.png
