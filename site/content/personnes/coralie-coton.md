@@ -1,9 +1,10 @@
 ---
 title: Coralie Coton
 job: Designer
+promos: Promotion 5
 role: participant
 defi: Mes services Greentech
-image: img/sans-photo.png
+image: img/coralie-coton.jpg
 linkedin: https://www.linkedin.com/in/coralie-coton/
 github: ""
 ---
