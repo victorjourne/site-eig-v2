@@ -7,6 +7,12 @@ hero:
   title: |
     Entreprendre
     pour le service public
+intro:
+  desc: Le programme Entrepreneurs d'intérêt général sélectionne des spécialistes
+    de la tech, du design et du droit du numérique pour tester et expérimenter
+    de nouveaux possibles avec des agents de l’État.
+  title: Nous réunissons talents du numérique et agents publics pour relever des
+    défis d’intérêt général
 defis:
   sub: Relever des défis concrets du service public
   desc: >-
