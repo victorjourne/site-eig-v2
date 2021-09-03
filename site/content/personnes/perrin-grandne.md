@@ -1,9 +1,10 @@
 ---
 title: Perrin Grandne
 job: Data Engineer
+promos: Promotion 5
 role: participant
 defi: "DaSES  "
-image: img/sans-photo.png
+image: img/perrin-grandne.jpg
 linkedin: https://www.linkedin.com/in/grandne/
 github: https://github.com/pgrandne
 ---
