@@ -207,6 +207,16 @@ collections: # A list of collections the CMS should be able to edit
                 ],
             }
           - {
+              label: Introduction,
+              name: intro,
+              widget: object,
+              fields:
+                [
+                  { label: Titre, name: title, widget: string },
+                  { label: Description, name: desc, widget: text },
+                ],
+            }
+          - {
               label: Défis,
               name: defis,
               widget: object,
