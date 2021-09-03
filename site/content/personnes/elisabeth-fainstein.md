@@ -1,6 +1,7 @@
 ---
 title: Elisabeth Fainstein
 job: Développeuse
+promos: Promotion 5
 role: agent-programme
 defi: EIG Link
 image: img/elisabeth-fainstein.png
