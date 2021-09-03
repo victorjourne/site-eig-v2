@@ -1,9 +1,10 @@
 ---
 title: Alexandre Thomas
 job: Data Engineer
+promos: Promotion 5
 role: participant
 defi: CyberImpact
-image: img/sans-photo.png
+image: img/alexandre-thomas.jpg
 linkedin: https://www.linkedin.com/in/alexandrethm/
 github: https://github.com/alexandrethm
 ---
