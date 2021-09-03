@@ -1,8 +1,9 @@
 ---
 title: Corine Waroquiers
-job: Mentor
+job: Coordinatrice du programme
 role: agent-programme
 image: img/corine-waroquiers.png
+linkedin: https://www.linkedin.com/in/corinewaroquiers
 ---
 Corine Waroquiers est coordinatrice du programme Entrepreneurs d’Intérêt Général.
 
