@@ -1,9 +1,10 @@
 ---
 title: Alexis Lavie
 job: Développeur
+promos: Promotion 5
 role: participant
 defi: Décos
-image: img/sans-photo.png
+image: img/alexis-lavie.png
 linkedin: https://linkedin.com/in/alexislavie
 github: https://github.com/alxlve
 ---
