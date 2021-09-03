@@ -1,6 +1,7 @@
 ---
 title: Perrine Cribier-Delande
 job: Data Engineer
+promos: Promotion 5
 role: participant
 defi: "TRISTAN "
 image: img/sans-photo.png
