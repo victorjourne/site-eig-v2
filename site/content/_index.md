@@ -29,9 +29,9 @@ talents:
     - en développement, en data science, en design et en droit du numérique - 
     à la réussite de ces défis.
   list:
-    - Adeline Celier
     - Julie Dugardin
-    - Sophie Machin
+    - Anne-Lise Coudry
+    - Charly Dottin
 agents:
   sub: Les agents publics
   desc: >-
@@ -40,8 +40,8 @@ agents:
 
     des agents publics accueillent deux ou trois « EIG » dans leurs services pour relever ensemble les défis. 
   list:
-    - Adeline Celier
     - Christelle Ratignier-Carbonneil
+    - Christophe Cuq
 join:
   image: img/andreas-gucklhorn-mawu2pojwfu-unsplash-1-.jpg
   sub: "du programme d'Entrepreneur d'intérêt général "
