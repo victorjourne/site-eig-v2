@@ -1,6 +1,7 @@
 ---
 title: Mathieu Perez
 job: Développeur
+promos: Promotion 5
 role: participant
 defi: Fabrique Numérique
 image: img/sans-photo.png
