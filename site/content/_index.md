@@ -49,6 +49,7 @@ join:
   btn:
     title: Participer
     url: https://develop--site-eig-v2.netlify.app/participer/
+    external: true
 medias:
   desc: x
   tiles:
