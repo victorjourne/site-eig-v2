@@ -14,7 +14,6 @@ expertises:
 image: img/eig4-capqualif.svg
 visible: true
 ---
-
 La sous-direction des gens de mer assure le suivi des marins (réglementation du travail, conditions de travail, protection sociale, emploi…) et est responsable des formations professionnelles maritimes. Afin de simplifier les démarches, elle souhaite développer un outil pour moderniser et automatiser la délivrance des titres des marins professionnels.
 
 {{< dailymotion x82dxpt >}}
@@ -29,16 +28,16 @@ Actuellement, le processus de demande des titres est long et la délivrance de c
 
 Les enjeux sont les suivants :
 
-- permettre aux marins d’effectuer simplement une demande depuis leurs mobiles ou ordinateurs. L’objectif est également de rendre la procèdure plus transparente pour eux ;
-- automatiser l’instruction pour les titres simples dans un premier temps ;
-- permettre le traitement par les agents des titres plus complexes ;
-- permettre à l’administration de configurer les titres qui vont être délivrés automatiquement.
+* permettre aux marins d’effectuer simplement une demande depuis leurs mobiles ou ordinateurs. L’objectif est également de rendre la procèdure plus transparente pour eux ;
+* automatiser l’instruction pour les titres simples dans un premier temps ;
+* permettre le traitement par les agents des titres plus complexes ;
+* permettre à l’administration de configurer les titres qui vont être délivrés automatiquement.
 
 Face à cette problématique, nous avons travaillé sur les solutions suivantes :
 
-- **une interface de demande de titre pour le marin** ;
-- **l’automatisation de l’instruction pour deux titres simples** en piochant dans les données disponibles parmi les systèmes existants ;
-- **une interface qui permet de configurer les règles d’instruction** nécéssaires à l’automatisation.
+* **une interface de demande de titre pour le marin** ;
+* **l’automatisation de l’instruction pour deux titres simples** en piochant dans les données disponibles parmi les systèmes existants ;
+* **une interface qui permet de configurer les règles d’instruction** nécéssaires à l’automatisation.
 
 ## Webinaire
 
@@ -53,3 +52,5 @@ Rendez-vous sur la [page de présentation de l'appel à candidatures](https://en
 **2** Titres simples inclus dans la première version du produit
 
 ## Réalisations
+
+{{< dailymotion x82dxpt >}}
