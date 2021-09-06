@@ -1,6 +1,6 @@
 ---
 title: François Comets
-job: Mentor
+job: Chargé des opérations
 role: agent-programme
 image: img/f.comets-2021.jpg
 linkedin: "https://www.linkedin.com/in/francoiscomets/ "
