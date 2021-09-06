@@ -22,4 +22,9 @@ Participants
 * [Candidats](https://develop--site-eig-v2.netlify.app/participer/candidats/)
 * [Administrations](https://develop--site-eig-v2.netlify.app/participer/administrations/)
 
+  * [Proposer un projet](https://develop--site-eig-v2.netlify.app/participer/administrations/proposer/)
+  * [Cahier des charges](https://develop--site-eig-v2.netlify.app/img/blank.pdf)
+
 [Contact](https://develop--site-eig-v2.netlify.app/contact/)
+
+[Blog](https://develop--site-eig-v2.netlify.app/blog/)
