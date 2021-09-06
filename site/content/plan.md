@@ -9,21 +9,24 @@ url: /plan-du-site
 
 Participants
 
-* [Talents EIG](https://develop--site-eig-v2.netlify.app/talents/)
-* [Agents publics](https://develop--site-eig-v2.netlify.app/agents/)
+> [Talents EIG](https://develop--site-eig-v2.netlify.app/talents/)
+>
+> [Agents publics](https://develop--site-eig-v2.netlify.app/agents/)
 
 [Equipe](https://develop--site-eig-v2.netlify.app/equipe/)
 
-* L'équipe du programme
-* Ecosystème
+> L'équipe du programme
+>
+> Ecosystème
 
 [Participer](https://develop--site-eig-v2.netlify.app/participer/)
 
-* [Candidats](https://develop--site-eig-v2.netlify.app/participer/candidats/)
-* [Administrations](https://develop--site-eig-v2.netlify.app/participer/administrations/)
-
-> 1. [Proposer un projet](https://develop--site-eig-v2.netlify.app/participer/administrations/proposer/)
-> 2. [Cahier des charges](https://develop--site-eig-v2.netlify.app/img/blank.pdf)
+> [Candidats](https://develop--site-eig-v2.netlify.app/participer/candidats/)
+>
+> [Administrations](https://develop--site-eig-v2.netlify.app/participer/administrations/)
+>
+> * [Proposer un projet](https://develop--site-eig-v2.netlify.app/participer/administrations/proposer/)
+> * [Cahier des charges](https://develop--site-eig-v2.netlify.app/img/blank.pdf)
 
 [Contact](https://develop--site-eig-v2.netlify.app/contact/)
 
