@@ -3,7 +3,7 @@ title: Thomas Parisot
 job: Product manager
 promos: Promotion 5
 role: agent-programme
-defi: EIG Link
+defi: ""
 image: img/thomas-parisot.jpg
 linkedin: https://www.linkedin.com/in/tparisot/
 ---
