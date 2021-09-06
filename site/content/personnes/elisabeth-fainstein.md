@@ -3,7 +3,7 @@ title: Elisabeth Fainstein
 job: Développeuse
 promos: Promotion 5
 role: agent-programme
-defi: EIG Link
+defi: ""
 image: img/elisabeth-fainstein.png
 linkedin: https://www.linkedin.com/in/elisabeth-fainstein
 github: https://github.com/officierazarov
