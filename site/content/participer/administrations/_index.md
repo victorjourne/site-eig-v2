@@ -4,7 +4,7 @@ layout: admins
 open: false
 head:
   desc: Parce que nous croyons qu'une transformation durable se fait de
-    l'intérieur... Le programme Entrepreneurs d'intérêt général vous aide à
+    l'intérieur... le programme Entrepreneurs d'intérêt général vous aide à
     intégrer des outils et des talents dans vos administrations pour faire
     évoluer la qualité du service public.
   title: Administrations
@@ -101,15 +101,10 @@ steps: >-
   Pour rejoindre la prochaine promotion du programme vous êtes invités à répondre à notre prochain appel à projets. 
 
 
-  Le processus de sélection se fait en 3 étapes : 
-
-
-  1.
+  Le processus de sélection se fait en **3 étapes :** 
 
 
   ![](img/steps2.png)
-
-
 
 
   1. **Vous postulez** en répondant à l'appel à projets. 
@@ -119,7 +114,7 @@ steps: >-
   3. **Vous expérimentez** de nouveaux possibles avec votre équipe d'EIG et le soutien du programme
 
 
-  ![](img/steps2.png)
+  ![]()
 wait:
   title: |-
     L’appel à candidatures pour notre
