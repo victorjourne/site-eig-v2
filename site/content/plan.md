@@ -3,6 +3,8 @@ title: Plan du site
 layout: page
 url: /plan-du-site
 ---
+[Acceuil](https://develop--site-eig-v2.netlify.app/)
+
 [Programme](https://develop--site-eig-v2.netlify.app/programme/)
 
 [Défis](https://develop--site-eig-v2.netlify.app/defis/)
