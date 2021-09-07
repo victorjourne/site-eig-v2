@@ -20,22 +20,19 @@ steps:
       step: Phase 1
       duration: 5 mois
       title: Concevoir
-      dates: Gagner en efficacité dans la conduite des défis.
-      desc: Lors de séminaires, d'expéditions apprenantes, et de sessions de mentorat,
-        des experts et expertes d'Etalab, de la DINUM et plus largement de
-        l'écosystème du numérique public apportent un soutien à la carte pour
-        lancer rapidement un prototype, modéliser sa performance (créer des
-        indicateurs, ouvrir ou non ses données), faciliter l'appropriation
-        (gérer les résistances, fabriquer un argumentaire), trouver des alliés
-        dans l'administration.
+      dates: Pour commencer
+      desc: "Les experts vous conseillent pour gagner en efficacité : lancer
+        rapidement un prototype (cibler, tester, itérer), modéliser sa
+        performance (créer des indicateurs, ouvrir ou non ses données),
+        faciliter l'appropriation (gérer les résistances, fabriquer un
+        argumentaire), trouver des alliés dans l'administration..."
     - icon: img/phase2.png
       step: Phase 2
       duration: 3 mois
       title: Consolider
-      dates: "Mobiliser des ressources et des soutiens pour renforcer le potentiel des
-        défis. "
+      dates: Mobiliser des ressources et des soutiens
       desc: x
-    - dates: Pérenniser les défis et assurer leur performance.
+    - dates: Pérenniser les défis
       desc: x
       icon: img/phase3.png
       step: Phase 3
