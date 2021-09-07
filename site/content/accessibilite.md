@@ -9,15 +9,13 @@ A cette fin, il met en œuvre la stratégie et les actions suivantes : réalisat
 
 Cette déclaration d’accessibilité s’applique à https://eig.etalab.gouv.fr/
 
-
-
 ## État de conformité
 
 eig.data.gouv.fr n’est pas en conformité avec le référentiel général d’amélioration de l’accessibilité. 
 
 ## Test de conformité
 
-L’audit de conformité est en attente de réalisation
+L’audit de conformité est en attente de réalisation et des tests sont en cours. 
 
 ## Établissement de cette déclaration d'accessibilité
 
