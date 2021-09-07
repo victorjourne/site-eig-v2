@@ -3,7 +3,7 @@ title: Projets de la promotion 5
 hero:
   btn:
     title: Participer
-    url: ""
+    url: https://develop--site-eig-v2.netlify.app/participer/
   title: |+
     Entreprendre
     pour le service public
