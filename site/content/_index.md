@@ -37,7 +37,7 @@ agents:
     - Christelle Ratignier-Carbonneil
     - Christophe Cuq
 join:
-  image: img/programme-eig_acceuil.jpg
+  image: img/programme-eig_acceuil_auto_x2_light_ai-1-.jpg
   sub: "du programme d'Entrepreneur d'intérêt général "
   title: Rejoindre la promotion 6
   btn:
