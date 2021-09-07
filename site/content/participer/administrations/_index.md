@@ -27,7 +27,7 @@ program: >-
   #### Recrutement
 
 
-  Le programme offre une procédure de recrutement accélérée, de bout en bout, en sourçant et en sélectionnant des talents aux compétences rares :
+  Le programme offre une procédure de recrutement accélérée, de bout en bout, en sourçant et en sélectionnant des talents aux compétences rares - des "EIG" :
 
 
   * développeurs / développeuses
@@ -98,23 +98,28 @@ steps: >-
   ## Les étapes clés de la sélection
 
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco :
+  Pour rejoindre la prochaine promotion du programme vous êtes invités à répondre à notre prochain appel à projets. 
+
+
+  Le processus de sélection se fait en 3 étapes : 
+
+
+  1.
 
 
   ![](img/steps2.png)
 
 
-  1. appel à projets
 
-  2. pré-sélection des projets par la DINUM
 
-  3. jury de sélection des projets
+  1. **Vous postulez** en répondant à l'appel à projets. 
 
-  4. pré-sélection des candidats / talents du numérique
+  2. **Si votre projet est sélectionné, nous réunissons une équipe** de 2 ou 3 EIG pour relever le défi, en vous associant au processus de recrutement 
 
-  5. jury de sélection des candidats lauréats
+  3. **Vous expérimentez** de nouveaux possibles avec votre équipe d'EIG et le soutien du programme
 
-  6. démarrage de la nouvelle promotion
+
+  ![](img/steps2.png)
 wait:
   title: |-
     L’appel à candidatures pour notre
