@@ -2,11 +2,9 @@
 title: "Les talents ou « EIG » "
 layout: talents
 url: /talents
-desc: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. test 1
+desc: "Les EIG possèdent des expertises numériques très diverses : en
+  développement web, géomatique, statistique, datamining, data- science,
+  reconnaissance d’images, réseaux neuronaux, objets connectés, méthodes agiles,
+  ergonomie, design d’expérience utilisateur, design d’interface, design de
+  service, droit du numérique etc. Voici leurs parcours en quelques lignes."
 ---
