@@ -53,6 +53,9 @@ desc: >-
 
 
   En initiant des démarches d'exploration et d'émergence, l'ambition du programme est de développer une administration plus entrepreneuriale, tant dans ses méthodes que sa culture de travail.
+
+
+  Depuis 2016, les EIG et agents publics qui ont rejoint le programme ont eu des effets déterminants pour transformer les administrations et répondre aux attentes des citoyens.
 how:
   desc: |-
     ## Comment ça marche
