@@ -5,7 +5,8 @@ open: false
 head:
   desc: Parce que nous croyons qu'une transformation durable se fait de
     l'intérieur... Le programme Entrepreneurs d'intérêt général vous aide à
-    intégrer des talents du numérique chez vous !
+    intégrer des outils et des talents dans vos administrations pour faire
+    évoluer la qualité du service public.
   title: Administrations
   apply:
     title: Proposer un projet
@@ -13,26 +14,20 @@ head:
   call:
     title: Cahier des charges
     url: img/blank.pdf
-program: "## Ce que le programme vous propose
+program: >-
+  ## Ce que le programme vous propose
 
 
-  Nous recrutons des talents - ou \"EIG\" - pour relever des défis numériques
-  dans votre administration, pour une période de 10 mois.
+  Nous recrutons des talents - ou "EIG" - pour relever des défis numériques dans votre administration, pour une période de 10 mois.
 
 
   ## Un soutien à 3 niveaux
 
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco.
-
-
   #### Recrutement
 
 
-  Nous pilotons une procédure de recrutement accélérée, de bout en bout, en
-  sourcant et sélectionnant des talents aux compétences rares :
+  Le programme offre une procédure de recrutement accélérée, de bout en bout, en sourçant et en sélectionnant des talents aux compétences rares - des "EIG" :
 
 
   * développeurs / développeuses
@@ -43,7 +38,7 @@ program: "## Ce que le programme vous propose
 
   * géomaticiens / géomaticiennes
 
-  * \adesigners
+  * designers
 
   * juristes du numérique
 
@@ -51,8 +46,7 @@ program: "## Ce que le programme vous propose
   #### Co-financement
 
 
-  Nous participons aux salaires des talents à hauteur de 30 %. Ils sont
-  rémunérés 3 500 € ou 4 000 € nets par mois :
+  Nous participons aux salaires des talents à hauteur de 30 %. Ils sont rémunérés 3 500 € ou 4 000 € nets par mois :
 
 
   * 70 % par l’administration d’accueil
@@ -60,22 +54,26 @@ program: "## Ce que le programme vous propose
   * 30 % par le programme
 
 
-  #### Aide à l’innovation
+  #### Aide à l'innovation
 
 
-  Aide à l’innovation
+  Pour vous soutenir dans le pilotage de talents et de projets avec une compétence entrepreneuriale, trois dispositifs vous sont proposés :
 
 
-  * séminaires collectifs
+  * des séminaires collectifs
 
-  * coaching par équipe
+  * un coaching par équipe
 
-  * apprentissages en pair-à-pair"
+  * des apprentissages en pair-à-pair
 criteria:
-  title: "5 critères de sélection sélection sélection sélection "
-  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco.
+  title: "5 critères de sélection "
+  desc: >-
+    Chaque année, un appel à projets spécifique est ouvert à l’ensemble des
+    administrations publiques désireuses de proposer un projet numérique
+    innovant afin de pouvoir bénéficier d’une équipe d’EIG.
+
+
+    Pour être sélectionnés, les projets doivent répondre aux cinq critères suivants :
   list:
     - num: "1"
       name: Besoin
@@ -94,33 +92,34 @@ criteria:
       desc: De fortes capacités de transformation numérique de l’administration.
     - num: "5"
       name: Ouverture
-      desc: >-
-        Des opportunités d’ouverture, de mutualisation et deréutilisation des
+      desc: Des opportunités d’ouverture, de mutualisation et deréutilisation des
         outils produits et des données.
-
-
-        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 steps: >-
   ## Les étapes clés de la sélection
 
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco :
+  Pour rejoindre la prochaine promotion du programme vous êtes invités à répondre à notre prochain appel à projets. 
+
+
+  Le processus de sélection se fait en 3 étapes : 
+
+
+  1.
 
 
   ![](img/steps2.png)
 
 
-  1. appel à projets
 
-  2. pré-sélection des projets par la DINUM
 
-  3. jury de sélection des projets
+  1. **Vous postulez** en répondant à l'appel à projets. 
 
-  4. pré-sélection des candidats / talents du numérique
+  2. **Si votre projet est sélectionné, nous réunissons une équipe** de 2 ou 3 EIG pour relever le défi, en vous associant au processus de recrutement 
 
-  5. jury de sélection des candidats lauréats
+  3. **Vous expérimentez** de nouveaux possibles avec votre équipe d'EIG et le soutien du programme
 
-  6. démarrage de la nouvelle promotion
+
+  ![](img/steps2.png)
 wait:
   title: |-
     L’appel à candidatures pour notre
