@@ -20,7 +20,7 @@ steps:
       step: Phase 1
       duration: 5 mois
       title: Concevoir
-      dates: septembre-février
+      dates: Mi-septembre à février
       desc: Lancer rapidement son prototype (cibler, tester, itérer), modéliser sa
         performance (créer des indicateurs, ouvrir ou non ses données),
         faciliter l'appropriation (gérer les résistances, fabriquer un
@@ -29,11 +29,12 @@ steps:
       step: Phase 2
       duration: 3 mois
       title: Consolider
-      dates: mars-mai
-      desc: Mobiliser des ressources et des soutiens, trouver des alliés dans
-        l'administration...
-    - dates: juin-juillet
-      desc: Pérenniser les défis
+      dates: Mars à mai
+      desc: Mobiliser des ressources, trouver des alliés dans l'administration et dans
+        l'écosystème.
+    - dates: Juin à mi-juillet
+      desc: Assurer la continuité des défis, tant aux niveaux stratégiques,
+        techniques, opérationnels et RH.
       icon: img/phase3.png
       step: Phase 3
       duration: 2 mois
