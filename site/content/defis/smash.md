@@ -15,7 +15,6 @@ expertises:
 image: img/12_smash_10.svg
 visible: true
 ---
-
 {{< dailymotion x81fhbz >}}
 
 ## Le contexte
@@ -36,18 +35,16 @@ Venez vous attaquer à cette problématique d’actualité en développant un ou
 
 La solution :
 
-- traitera de gros volumes de données (décrivant l’emploi et les rémunérations de l’ensemble des personnels des établissements de santé)
-- permettra de simuler différentes hypothèses de comportement des salariés ou différentes réformes
-- sera utilisée à tous les échelons territoriaux, par des agents avec un niveau d’expertise très variable
+* traitera de gros volumes de données (décrivant l’emploi et les rémunérations de l’ensemble des personnels des établissements de santé)
+* permettra de simuler différentes hypothèses de comportement des salariés ou différentes réformes
+* sera utilisée à tous les échelons territoriaux, par des agents avec un niveau d’expertise très variable
 
 #### Votre impact 
 
 Grâce à vos propositions, il sera possible :
 
-- de prendre des décisions éclairées en matière de gestion des personnels, notamment dans le cadre du projet de loi de finance de la sécurité sociale
-- d’estimer et d’anticiper l’effet des réformes sur le budget des hôpitaux et leur sensibilité aux hypothèses posées de comportement des salariés
-- d’assurer un pilotage national, mais aussi régional et local (identifier les établissements en difficulté du fait de l’évolution de leur masse salariale, etc.).
+* de prendre des décisions éclairées en matière de gestion des personnels, notamment dans le cadre du projet de loi de finance de la sécurité sociale
+* d’estimer et d’anticiper l’effet des réformes sur le budget des hôpitaux et leur sensibilité aux hypothèses posées de comportement des salariés
+* d’assurer un pilotage national, mais aussi régional et local (identifier les établissements en difficulté du fait de l’évolution de leur masse salariale, etc.).
 
-_Les agents publics porteurs de ce projet sont à la recherche d’un ou une data scientist avec de bonnes compétences en pilotage de projet, et d’un ou une data scientist avec une expertise en programmation et en gestion de données volumineuses._
-
-## [Faire ses voeux](https://www.demarches-simplifiees.fr/commencer/aac-eig5-voeux)
+*Les agents publics porteurs de ce projet sont à la recherche d’un ou une data scientist avec de bonnes compétences en pilotage de projet, et d’un ou une data scientist avec une expertise en programmation et en gestion de données volumineuses.*
