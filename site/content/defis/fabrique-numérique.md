@@ -14,7 +14,6 @@ expertises:
 image: img/07_fabrique-numerique_10.svg
 visible: true
 ---
-
 ## Le contexte
 
 Avec 100 000 agents, la Direction générale des finances publiques (DGFiP) est présente sur l’ensemble du territoire français pour mener des missions très variées : gestion des recettes et dépenses de l’Etat et des collectivités territoriales, tenue des comptes publics, lutte contre la fraude fiscale, etc. Elle s’est engagée depuis plusieurs années dans de nombreux chantiers de modernisation pour être au plus près de ses usagers et de leurs besoins.
@@ -37,6 +36,4 @@ Vous qualifierez les besoins et développerez des solutions avec les usagers en 
 
 Grâce à cet accompagnement, des agents publics « intrapreneurs » seront en capacité de réaliser des projets innovants en expérimentant des solutions simples à fort impact. Vous contribuerez alors à améliorer le service rendu aux usagers ainsi que le travail des agents de la DGFiP tout en impulsant un élan de transformation numérique au sein de la structure.
 
-_Les agents publics de la Fabrique Numérique sont à la recherche d’un ou une UX designer maîtrisant l’ensemble de la chaîne de valeur (une expérience avec une composante accessibilité numérique serait un plus) et d’un développeur ou une développeuse avec une expertise DevOps. Les profils idéaux auront une appétence particulière pour la gestion de projet._
-
-## [Faire ses voeux](https://www.demarches-simplifiees.fr/commencer/aac-eig5-voeux)
+*Les agents publics de la Fabrique Numérique sont à la recherche d’un ou une UX designer maîtrisant l’ensemble de la chaîne de valeur (une expérience avec une composante accessibilité numérique serait un plus) et d’un développeur ou une développeuse avec une expertise DevOps. Les profils idéaux auront une appétence particulière pour la gestion de projet.*
