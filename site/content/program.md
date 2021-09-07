@@ -44,7 +44,7 @@ steps:
       title: Amplifier
 layout: program
 url: /programme
-image: img/site-eig_bannière-programme.jpg
+image: img/bootcamp9.jpg
 title: "Pourquoi ce programme ? "
 desc: >-
   Entrepreneurs d'intérêt général permet à des talents du numérique ou **«** EIG
