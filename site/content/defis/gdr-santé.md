@@ -16,7 +16,6 @@ expertises:
 image: img/05_gdr-santé_10.svg
 visible: true
 ---
-
 {{< dailymotion x81fh93 >}}
 
 ## Le contexte
@@ -37,21 +36,19 @@ Cette problématique vous parle ? Venez développer l’outil d’aide à la d�
 
 La solution :
 
-- permettra de bien orienter chaque dossier en assurant la détection des dossiers sensibles
-- reposera sur un algorithme d’aide à la décision/un modèle de machine learning
-- sera fondamentalement centrée utilisateurs et reposera sur l’animation d’une communauté de testeurs et futurs utilisateurs
+* permettra de bien orienter chaque dossier en assurant la détection des dossiers sensibles
+* reposera sur un algorithme d’aide à la décision/un modèle de machine learning
+* sera fondamentalement centrée utilisateurs et reposera sur l’animation d’une communauté de testeurs et futurs utilisateurs
 
 #### Votre impact 
 
 Grâce à vous, l’ANSM pourra :
 
-- apporter à chaque dossier l’expertise technique et scientifique adaptée au niveau de risque
-- proportionner les ressources d’expertise allouées à chaque dossier en fonction des enjeux de santé publique
-- apporter un traitement égal, à situation égale
-- garantir la cohérence des modes de traitement entre ses différentes directions
+* apporter à chaque dossier l’expertise technique et scientifique adaptée au niveau de risque
+* proportionner les ressources d’expertise allouées à chaque dossier en fonction des enjeux de santé publique
+* apporter un traitement égal, à situation égale
+* garantir la cohérence des modes de traitement entre ses différentes directions
 
 L’ensemble permettra de renforcer la confiance des citoyens dans l’expertise des autorités sanitaires.
 
-_Les agents publics porteurs de ce projet sont à la recherche d’un ou une UX designer, d’un ou une data scientist maîtrisant Python et disposant de connaissances en NLP et d’un développeur ou une développeuse full stack avec une bonne connaissance de Python et de React (Docker serait un plus)._
-
-## [Faire ses voeux](https://www.demarches-simplifiees.fr/commencer/aac-eig5-voeux)
+*Les agents publics porteurs de ce projet sont à la recherche d’un ou une UX designer, d’un ou une data scientist maîtrisant Python et disposant de connaissances en NLP et d’un développeur ou une développeuse full stack avec une bonne connaissance de Python et de React (Docker serait un plus).*
