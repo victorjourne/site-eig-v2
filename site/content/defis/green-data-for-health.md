@@ -15,7 +15,6 @@ expertises:
 image: img/06_gd4h_10.svg
 visible: true
 ---
-
 {{< dailymotion x81fh9n >}}
 
 ## Le contexte
@@ -34,11 +33,11 @@ Cette question vous tient à cœur ? Venez créer le dispositif qui permettra u
 
 La solution :
 
-- décrira les données environnementales pertinentes et disponibles pour être croisées avec des données de santé
-- facilitera la repérabilité et l’accès aux données environnementales
-- améliorera l’interopérabilité des données environnementales entre elles et avec des données de santé
-- prendra en compte les enjeux juridiques de mise à disposition et de sécurité des données
-- favorisera la synergie entre acteurs de l’écosystème recherche et l’expertise en Santé-Environnement
+* décrira les données environnementales pertinentes et disponibles pour être croisées avec des données de santé
+* facilitera la repérabilité et l’accès aux données environnementales
+* améliorera l’interopérabilité des données environnementales entre elles et avec des données de santé
+* prendra en compte les enjeux juridiques de mise à disposition et de sécurité des données
+* favorisera la synergie entre acteurs de l’écosystème recherche et l’expertise en Santé-Environnement
 
 #### Votre impact 
 
@@ -46,6 +45,4 @@ Grâce à ce dispositif, les chercheurs pourront accéder à des données dont i
 
 Ainsi, citoyens et décideurs seront mieux informés sur ces effets et pourront agir pour mieux protéger la santé de tous.
 
-_Les agents publics porteurs de ce projet sont à la recherche d’un ou une UX designer, d’un ou une data engineer et d’un ou une juriste du numérique._
-
-## [Faire ses voeux](https://www.demarches-simplifiees.fr/commencer/aac-eig5-voeux)
+*Les agents publics porteurs de ce projet sont à la recherche d’un ou une UX designer, d’un ou une data engineer et d’un ou une juriste du numérique.*
