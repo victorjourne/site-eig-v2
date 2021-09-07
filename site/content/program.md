@@ -20,24 +20,23 @@ steps:
       step: Phase 1
       duration: 5 mois
       title: Concevoir
-      dates: Au démarrage
-      desc: |-
-        Lorem
-        Test
+      dates: Gagner en efficacité dans la conduite des défis.
+      desc: Lors de séminaires, d'expéditions apprenantes, et de sessions de mentorat,
+        des experts et expertes d'Etalab, de la DINUM et plus largement de
+        l'écosystème du numérique public apportent un soutien à la carte pour
+        lancer rapidement un prototype, modéliser sa performance (créer des
+        indicateurs, ouvrir ou non ses données), faciliter l'appropriation
+        (gérer les résistances, fabriquer un argumentaire), trouver des alliés
+        dans l'administration.
     - icon: img/phase2.png
       step: Phase 2
       duration: 3 mois
       title: Consolider
-      dates: test
-      desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat.
-    - dates: Test
-      desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat.
+      dates: "Mobiliser des ressources et des soutiens pour renforcer le potentiel des
+        défis. "
+      desc: x
+    - dates: Pérenniser les défis et assurer leur performance.
+      desc: x
       icon: img/phase3.png
       step: Phase 3
       duration: 2 mois
@@ -67,12 +66,10 @@ how:
     Au cours de leur immersion dans l’administration, les EIG, qui sont en-dehors de la hiérarchie habituelle, sont amenés à proposer des modifications au défi envisagé initialement par les administrations d’accueil, et élaborent une feuille de route sur laquelle ils et elles itèrent avec les agents publics.
 
 
-    Le programme offre tout au long des 10 mois un appui méthodologique et une expertise entrepreneuriale adaptée au contexte de l'administration. 
+    Pour les accompagner dans la réussite de leurs défis, le programme offre tout au long des 10 mois un appui méthodologique et une expertise entrepreneuriale adaptée au contexte de l'administration. 
 
 
     \[Schéma complet des 3 phases]
-
-
 
 
     ![]()
