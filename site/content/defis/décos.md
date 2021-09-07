@@ -14,7 +14,6 @@ expertises:
 image: img/09_napoleon_10.svg
 visible: true
 ---
-
 {{< dailymotion x81fhdj >}}
 
 ## Le contexte
@@ -33,16 +32,14 @@ Votre mission, si vous l’acceptez, sera de développer l’outil qui permettra
 
 La solution :
 
-- dématérialisera de bout en bout l’attribution des distinctions honorifiques
-- intègrera des tableaux de bord de suivi des dossiers
-- permettra une remontée des lauréats qui peuvent prétendre à une promotion
-- sera résolument centrée utilisateurs
-- impliquera une formation des agents utilisateurs
+* dématérialisera de bout en bout l’attribution des distinctions honorifiques
+* intègrera des tableaux de bord de suivi des dossiers
+* permettra une remontée des lauréats qui peuvent prétendre à une promotion
+* sera résolument centrée utilisateurs
+* impliquera une formation des agents utilisateurs
 
 #### Votre impact 
 
 Grâce à vos propositions, le travail d’instruction d’un très grand nombre d’agents (en administrations centrales et dans une centaine de préfectures) sera simplifié, ce qui leur donnera davantage de temps pour étudier les dossiers en profondeur. L’outil conçu pourra être mutualisé et prendre à terme une dimension interministérielle.
 
-_Les agents publics porteurs de ce projet sont à la recherche d’un ou une UX designer et d’un développeur ou une développeuse full stack._
-
-## [Faire ses voeux](https://www.demarches-simplifiees.fr/commencer/aac-eig5-voeux)
+*Les agents publics porteurs de ce projet sont à la recherche d’un ou une UX designer et d’un développeur ou une développeuse full stack.*
