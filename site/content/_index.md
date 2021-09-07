@@ -37,7 +37,7 @@ agents:
     - Christelle Ratignier-Carbonneil
     - Christophe Cuq
 join:
-  image: img/andreas-gucklhorn-mawu2pojwfu-unsplash-1-.jpg
+  image: img/programme-eig_acceuil.jpg
   sub: "du programme d'Entrepreneur d'intérêt général "
   title: Rejoindre la promotion 6
   btn:
