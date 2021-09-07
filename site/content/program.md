@@ -1,10 +1,10 @@
 ---
 numbers:
-  - num: "172"
+  - num: "173"
     title: Entrepreneurs d’intérêt général
     btnTitle: Découvrir les talents
     btnUrl: /talents
-  - num: "86"
+  - num: "87"
     title: Défis d’intérêt général
     btnTitle: Parcourir les défis
     btnUrl: /defis
@@ -49,9 +49,10 @@ title: "Pourquoi ce programme ? "
 desc: >-
   Entrepreneurs d'intérêt général permet à des talents du numérique ou **«** EIG
   **»** d'intégrer des administrations, pour relever en 10 mois des défis qui
-  améliorent le service public. \
+  améliorent le service public. 
 
-  Les méthodes utilisées par les EIG ont des effets déterminants pour transformer et acculturer les administrations et répondre aux attentes des citoyens.
+
+  En initiant des démarches d'exploration et d'émergence, l'ambition du programme est de développer une administration plus entrepreneuriale, tant dans ses méthodes que sa culture de travail.
 how:
   desc: |-
     ## Comment ça marche
