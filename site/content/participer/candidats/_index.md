@@ -83,17 +83,20 @@ how:
     Le processus de sélection se fait en 4 étapes : 
 
 
+
+
+    ![](img/steps.png)
+
+
+
+
     1. **Vous postulez** au programme via un formulaire de candidature en ligne
 
-    2. **Si vous avez été pré-sélectionnés, vous votez** pour les défis que vous souhaitez relever
+    2. **Si vous êtes pré-sélectionnés, vous votez** pour les défis que vous souhaitez relever
 
     3. **Vous échangez avec un jury** composé d'agents publics et d'experts lors d'une audition pour relever un défi pour lequel vous avez voté
 
-    4. **Vous démarrez l'aventure des Entrepreneurs d'intérêt général** pendant 10 mois
-
-     
-
-    ![](img/steps.png)
+    4. **Vous rejoignez le programme Entrepreneurs d'intérêt général et une administration** pendant 10 mois
 wait:
   title: |-
     L’appel à candidatures pour notre
