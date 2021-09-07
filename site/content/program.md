@@ -20,20 +20,20 @@ steps:
       step: Phase 1
       duration: 5 mois
       title: Concevoir
-      dates: Pour commencer
-      desc: "Les experts vous conseillent pour gagner en efficacité : lancer
-        rapidement un prototype (cibler, tester, itérer), modéliser sa
+      dates: septembre-février
+      desc: Lancer rapidement son prototype (cibler, tester, itérer), modéliser sa
         performance (créer des indicateurs, ouvrir ou non ses données),
         faciliter l'appropriation (gérer les résistances, fabriquer un
-        argumentaire), trouver des alliés dans l'administration..."
+        argumentaire)...
     - icon: img/phase2.png
       step: Phase 2
       duration: 3 mois
       title: Consolider
-      dates: Mobiliser des ressources et des soutiens
-      desc: x
-    - dates: Pérenniser les défis
-      desc: x
+      dates: mars-mai
+      desc: Mobiliser des ressources et des soutiens, trouver des alliés dans
+        l'administration...
+    - dates: juin-juillet
+      desc: Pérenniser les défis
       icon: img/phase3.png
       step: Phase 3
       duration: 2 mois
@@ -64,9 +64,6 @@ how:
 
 
     Pour les accompagner dans la réussite de leurs défis, le programme offre tout au long des 10 mois un appui méthodologique et une expertise entrepreneuriale adaptée au contexte de l'administration. 
-
-
-    \[Schéma complet des 3 phases]
 
 
     ![]()
