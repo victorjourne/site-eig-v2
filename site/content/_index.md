@@ -45,7 +45,8 @@ join:
     url: https://develop--site-eig-v2.netlify.app/participer/
     external: true
 medias:
-  desc: x
+  desc: Parcourez les articles, tribunes, posts de blog sur le programme dans
+    l'espace presse
   tiles:
     - image: img/forbes.png
       title: Forbes
