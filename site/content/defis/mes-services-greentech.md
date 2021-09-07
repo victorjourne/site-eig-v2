@@ -15,7 +15,6 @@ expertises:
 image: img/03_mes-services-greentech_10.svg
 visible: true
 ---
-
 {{< dailymotion x81fhaf >}}
 
 ## Le contexte
@@ -38,14 +37,12 @@ Vous voulez voir fleurir l’écosystème Greentech français ? Venez développ
 
 La solution :
 
-- permettra, à partir d’une saisie détaillée du profil de l’entreprise, d’identifier automatiquement les meilleures ressources pour une veille efficace (textes réglementaires, jeux de données pertinents, aides publiques, marchés publics, contacts, études sectorielles, etc.)
-- sera résolument centrée utilisateurs
-- pourra intégrer API, moteur de recherche, ETL, webscrapping ou encore NLP/reconnaissance sémantique
+* permettra, à partir d’une saisie détaillée du profil de l’entreprise, d’identifier automatiquement les meilleures ressources pour une veille efficace (textes réglementaires, jeux de données pertinents, aides publiques, marchés publics, contacts, études sectorielles, etc.)
+* sera résolument centrée utilisateurs
+* pourra intégrer API, moteur de recherche, ETL, webscrapping ou encore NLP/reconnaissance sémantique
 
 #### Votre impact 
 
 L’outil conçu accélèrera la montée en compétences et le développement des startups et PME Greentech. Vous participerez donc activement aux politiques de la transition écologique. Par exemple, en aidant la startup Materr’Up (productrice de ciment et bétons d’argile) à diffuser largement sa solution en France, vous pourriez lui permettre de réduire les émissions de gaz à effet de serre du pays jusqu’à 2,5%.
 
-_Les agents publics porteurs de ce projet (eux-mêmes d’anciens entrepreneurs) sont à la recherche d’un ou une designer UX/UI, d’un ou une data scientist et d’un développeur ou une développeuse full-stack._
-
-## [Faire ses voeux](https://www.demarches-simplifiees.fr/commencer/aac-eig5-voeux)
+*Les agents publics porteurs de ce projet (eux-mêmes d’anciens entrepreneurs) sont à la recherche d’un ou une designer UX/UI, d’un ou une data scientist et d’un développeur ou une développeuse full-stack.*
