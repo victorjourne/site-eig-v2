@@ -4,9 +4,10 @@ hero:
   btn:
     title: Participer
     url: ""
-  title: |
+  title: |+
     Entreprendre
     pour le service public
+
 intro:
   desc: Le programme Entrepreneurs d'intérêt général sélectionne des spécialistes
     de la technologie, du design et du droit du numérique pour tester et
