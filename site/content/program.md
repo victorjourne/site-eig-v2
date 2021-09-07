@@ -66,7 +66,7 @@ how:
 
     test
 
-    ![](img/steps.png)
+    ![]()
 then:
   desc: |-
     ## Et après ?
