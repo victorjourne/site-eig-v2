@@ -57,14 +57,23 @@ desc: >-
 
   Depuis 2016, les EIG et agents publics qui ont rejoint le programme ont eu des effets déterminants pour transformer les administrations et répondre aux attentes des citoyens.
 how:
-  desc: |-
+  desc: >-
     ## Comment ça marche
 
-    Lorem ipsum dolor sit
 
-    test
+    Le programme fonctionne par promotions : une fois les défis des administrations sélectionnés par appel à projets, un appel à candidatures est organisé pour recruter les candidats - les EIG - qui rejoindront l’administration pendant 10 mois, en tant qu’agents contractuels. 
 
-    test
+
+    Au cours de leur immersion dans l’administration, les EIG, qui sont en-dehors de la hiérarchie habituelle, sont amenés à proposer des modifications au défi envisagé initialement par les administrations d’accueil, et élaborent une feuille de route sur laquelle ils et elles itèrent avec les agents publics.
+
+
+    Le programme offre tout au long des 10 mois un appui méthodologique et une expertise entrepreneuriale adaptée au contexte de l'administration. 
+
+
+    \[Schéma complet des 3 phases]
+
+
+
 
     ![]()
 then:
