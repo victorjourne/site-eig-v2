@@ -71,7 +71,7 @@ then:
 
     90% des défis deviennent un projet qui perdure.
 quote:
-  photo: img/aiony-haust-3tll_97hnjo-unsplash.jpg
+  photo: img/marguerite-yourcenar3.jpg
   quote: Même là où j’innovais, j’aimais à me sentir avant tout un continuateur.
   name: Marguerite Yourcenar
   desc: Mémoires d’Hadrien
