@@ -5,7 +5,7 @@ desc: ""
 promos: null
 role: agent-public
 defi: e-PSHAD
-image: img/evelyne-duplessis.png
+image: img/evelyne-duplessis_auto_x2_light_ai.jpg
 linkedin: ""
 github: ""
 ---
