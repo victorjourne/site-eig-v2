@@ -1,3 +1,3 @@
 ---
-title: Test - Promotion 6
+title: Test - Promotion 7
 ---
