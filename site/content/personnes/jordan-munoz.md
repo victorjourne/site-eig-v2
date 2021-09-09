@@ -3,7 +3,8 @@ title: Jordan Munoz
 job: Développeur
 promos: Promotion 5
 role: participant
-defi: GDR Santé
+defis:
+  - GDR Santé
 image: img/jordan-munoz.jpeg
 ---
 Développeur

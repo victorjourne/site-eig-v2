@@ -2,7 +2,8 @@
 title: Christophe Jacquot
 job: Mentor de haut niveau
 role: agent-public
-defi: CyberImpact
+defis:
+  - CyberImpact
 image: img/christophe-jacquot.jpg
 ---
 Ancien officier de gendarmerie et élève de l’école spéciale militaire de Saint-Cyr, le contrôleur général des Armées Christophe Jacquot est, depuis l’été 2020, chef du service de la transformation, jeune structure rattachée au directeur général de la gendarmerie nationale. Comme contrôleur général des Armées, il a exercé des responsabilités de très haut niveau en tant que responsable de la coordination interministérielle de la réglementation et du contrôle de l’Etat sur les matériels de guerre, chef du service de l’administration centrale au secrétariat général du ministère de la Justice et sousdirecteur, adjoint au chef du service des affaires européennes et internationales de ce même ministère. 

@@ -3,7 +3,8 @@ title: Félix Veith
 job: Data Engineer
 promos: Promotion 5
 role: participant
-defi: "BatID "
+defis:
+  - "BatID "
 image: img/felix-veith.jpg
 linkedin: https://www.linkedin.com/in/f%C3%A9lix-veith-energy-and-climate-engineer
 github: https://github.com/fe51

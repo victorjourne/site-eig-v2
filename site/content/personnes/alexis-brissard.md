@@ -3,7 +3,8 @@ title: Alexis Brissard
 job: Développeur
 promos: Promotion 5
 role: participant
-defi: Mes services Greentech
+defis:
+  - Mes services Greentech
 image: img/alexis-brissard.jpg
 linkedin: https://www.linkedin.com/in/alexis-brissard-775173aa/
 github: https://github.com/brissa-a

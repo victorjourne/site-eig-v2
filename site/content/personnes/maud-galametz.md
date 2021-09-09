@@ -3,7 +3,8 @@ title: Maud Galametz
 job: Data Scientist
 promos: Promotion 5
 role: participant
-defi: SMASH
+defis:
+  - SMASH
 image: img/maud-galametz.jpg
 linkedin: https://www.linkedin.com/in/maud-galametz-4943b2153/
 github: https://github.com/maudgalametz

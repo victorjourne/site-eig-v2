@@ -4,7 +4,8 @@ job: Data scientist
 desc: ""
 promos: Promotion 5
 role: participant
-defi: CyberImpact
+defis:
+  - CyberImpact
 image: img/antoine-mazieres.png
 linkedin: https://www.linkedin.com/in/mazieres/
 github: https://github.com/mazieres

@@ -3,7 +3,8 @@ title: Elisabeth Talbourdet-Ville
 job: Juriste du numérique
 promos: Promotion 5
 role: participant
-defi: "BatID "
+defis:
+  - "BatID "
 image: img/elisabeth-talbourdet-ville.jpg
 linkedin: https://www.linkedin.com/in/elisabeth-talbourdet-ville-b48ba689/
 ---

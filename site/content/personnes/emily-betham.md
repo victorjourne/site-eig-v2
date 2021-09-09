@@ -3,7 +3,8 @@ title: Emily Betham
 job: Designer
 promos: Promotion 5
 role: participant
-defi: Décos
+defis:
+  - Décos
 image: img/emily-betham.jpg
 linkedin: https://www.linkedin.com/in/emily-in-paris/
 ---

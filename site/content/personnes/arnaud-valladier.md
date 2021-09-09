@@ -3,7 +3,8 @@ title: Arnaud Valladier
 job: Data Scientist
 promos: Promotion 5
 role: participant
-defi: GDR Santé
+defis:
+  - GDR Santé
 image: img/arnaud-valladier.png
 linkedin: https://www.linkedin.com/in/arnaud-valladier/
 ---

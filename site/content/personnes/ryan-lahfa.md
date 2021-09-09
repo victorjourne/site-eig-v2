@@ -3,7 +3,8 @@ title: Ryan Lahfa
 job: Développeur
 promos: Promotion 5
 role: participant
-defi: "TRISTAN "
+defis:
+  - "TRISTAN "
 image: img/ryan-lahfa.jpg
 github: http://github.com/RaitoBezarius
 ---

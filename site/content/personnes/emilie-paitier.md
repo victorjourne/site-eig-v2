@@ -2,7 +2,8 @@
 title: Emilie Paitier
 job: Porteuse de projet
 role: agent-public
-defi: Décos
+defis:
+  - Décos
 image: img/placeholder_femme.png
 ---
 2006 à 2009 Chargée de mission politique de la ville - Préfecture du Cher 

@@ -3,7 +3,8 @@ title: Laurine Bois
 job: Juriste du numérique
 promos: Promotion 5
 role: participant
-defi: "DaSES  "
+defis:
+  - "DaSES  "
 image: img/laurine-bois.jpg
 linkedin: https://www.linkedin.com/in/laurine-bois-b1a571197/
 ---

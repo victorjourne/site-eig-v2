@@ -3,7 +3,8 @@ title: Charlotte Samson
 job: "Data scientist "
 promos: Promotion 5
 role: participant
-defi: Mes services Greentech
+defis: 
+  - Mes services Greentech
 image: img/charlotte-samson.jpg
 linkedin: https://www.linkedin.com/in/charlottesamson/
 ---

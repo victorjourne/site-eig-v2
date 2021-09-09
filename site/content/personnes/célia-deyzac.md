@@ -3,7 +3,8 @@ title: Célia Deyzac
 job: Designer
 promos: Promotion 5
 role: participant
-defi: UrssafassuR
+defis:
+  - UrssafassuR
 image: img/celia-deyzac.jpg
 linkedin: https://www.linkedin.com/in/celia-deyzac-interaction-designer/
 ---

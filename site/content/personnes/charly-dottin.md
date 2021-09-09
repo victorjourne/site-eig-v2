@@ -3,7 +3,8 @@ title: Charly Dottin
 job: "Designer "
 promos: Promotion 5
 role: participant
-defi: Green Data for Health
+defis: 
+  - Green Data for Health
 image: img/charly-dottin.png
 linkedin: https://www.linkedin.com/in/strategic-service-ux-designer-charly-dottin/
 ---

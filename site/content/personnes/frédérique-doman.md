@@ -3,7 +3,6 @@ title: Frédérique Doman
 job: Designer
 promos: Promotion 5
 role: agent-programme
-defi: ""
 image: img/frederique-doman.jpg
 linkedin: https://www.linkedin.com/in/fr%C3%A9d%C3%A9rique-doman-91264291
 ---

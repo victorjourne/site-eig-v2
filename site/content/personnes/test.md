@@ -4,7 +4,8 @@ job: Porteuse de projet
 desc: ""
 promos: null
 role: agent-public
-defi: e-PSHAD
+defis:
+  - e-PSHAD
 image: img/evelyne-duplessis_auto_x2_light_ai.jpg
 linkedin: ""
 github: ""

@@ -2,7 +2,8 @@
 title: Iana Ivanov
 job: Porteuse de projet
 role: agent-public
-defi: "TRISTAN "
+defis:
+  - "TRISTAN "
 image: img/ivanov-iana.jpg
 ---
 Experte dans la conception et la mise en place de systèmes décisionnels, après 15 ans passés dans le secteur privé, Iana Ivanov a été nommée en 2015 cheffe du domaine des applications décisionnelles et du Big Data au sein du Service du Numérique du Ministère de la Justice. 

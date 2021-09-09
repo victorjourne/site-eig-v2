@@ -2,7 +2,8 @@
 title: Alexandre Peruch
 job: Porteur de projet
 role: agent-public
-defi: CyberImpact
+defis: 
+  - CyberImpact
 image: img/alexandre-peruch.png
 ---
 Saint-cyrien de formation scientifique, le lieutenant-colonel Alexandre Peruch sera prochainement affecté au service de la transformation de la gendarmerie nationale en qualité d’adjoint au chef du département de l’évaluation et de la valorisation. Officier de gendarmerie depuis 2000, il a tenu de multiples postes à responsabilité opérationnelle au sein d’unités en charge de la sécurité publique et du rétablissement de l’ordre public. Il a exercé en outre-mer en tant que chef du bureau opérations-emploi à la gendarmerie de La Réunion et au sein de la garde républicaine en tant qu’adjoint au commandant du 2ème régiment d’infanterie à Paris. 

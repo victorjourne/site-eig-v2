@@ -3,7 +3,8 @@ title: Vedran Beric
 job: Designer
 promos: Promotion 5
 role: participant
-defi: DataRH
+defis:
+  - DataRH
 image: img/vedran-beric.jpg
 linkedin: https://www.linkedin.com/in/vedran-beric-26002155/
 ---

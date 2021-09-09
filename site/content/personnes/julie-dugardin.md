@@ -4,7 +4,6 @@ job: Designer
 promos:
   - EIG 4
 role: participant
-defi: ""
 image: img/julie-dugardin.jpg
 linkedin: https://www.linkedin.com/in/juliedugardin/
 ---

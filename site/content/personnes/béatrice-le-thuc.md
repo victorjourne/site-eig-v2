@@ -3,7 +3,8 @@ title: Béatrice Le Thuc
 job: "Designer "
 promos: Promotion 5
 role: participant
-defi: e-PSHAD
+defis: 
+  - e-PSHAD
 image: img/beatrice-lethuc.jpg
 linkedin: https://www.linkedin.com/in/beatricelethuc/
 ---

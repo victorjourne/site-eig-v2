@@ -125,7 +125,7 @@ collections: # A list of collections the CMS should be able to edit
         }
       - {
           label: "Défis",
-          name: "defi",
+          name: "defis",
           widget: "relation",
           multiple: true,
           collection: "defis",

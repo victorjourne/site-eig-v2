@@ -3,7 +3,8 @@ title: Beryl Armand
 job: Développeuse
 promos: Promotion 5
 role: participant
-defi: Basegun
+defis: 
+  - Basegun
 image: img/beryl-koller.jpg
 linkedin: https://www.linkedin.com/in/berylkoller/
 github: https://github.com/beryl-koller
