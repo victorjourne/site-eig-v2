@@ -67,7 +67,7 @@ how:
     Pour les accompagner dans la réussite de leurs défis, le programme offre tout au long des 10 mois un appui méthodologique et une expertise entrepreneuriale adaptée au contexte de l'administration. 
 
 
-    ![]()
+    ![](img/steps3.svg)
 then:
   desc: >-
     ## Et après ?

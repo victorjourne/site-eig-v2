@@ -85,7 +85,7 @@ how:
 
 
 
-    ![](img/steps.png)
+    ![](img/steps.svg)
 
 
 

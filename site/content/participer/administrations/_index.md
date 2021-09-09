@@ -104,7 +104,7 @@ steps: >-
   Le processus de sélection se fait en **3 étapes :** 
 
 
-  ![](img/steps2.png)
+  ![](img/steps2.svg)
 
 
   1. **Vous postulez** en répondant à l'appel à projets. 
