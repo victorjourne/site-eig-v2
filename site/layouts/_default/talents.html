@@ -5,9 +5,27 @@
   <p class="fr-text--lead">
     {{ .Params.desc }}
   </p>
-  <div class="fr-grid-row fr-grid-row--gutters">
+  <div class="fr-mb-10v c-filters">
+    <button class="fr-btn fr-btn--secondary" title="Toggle" aria-expanded="false" aria-controls="filters-defis">
+      Filtrer
+    </button>
+    <div class="fr-collapse" id="filters-defis">
+      <div class="fr-grid-row fr-grid-row--gutters">
+        <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+          <label class="fr-label" for="promos">Promotion</label>
+          <select class="fr-select js-filter" id="promos">
+            <option value="*">Toutes</option>
+            {{ range (where .Site.RegularPages "Section" "promos") }}
+            <option value="is-promo-{{ .Title | urlize }}">{{ .Title }}</option>
+            {{ end }}
+          </select>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="fr-grid-row fr-grid-row--gutters js-grid">
     {{ range (where (where .Site.RegularPages "Type" "personnes") ".Params.role" "participant") }}
-      <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+      <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3 is-promo-{{ .Params.promos | urlize }}">
         {{ .Render "li" }}
       </div>
     {{ end }}
