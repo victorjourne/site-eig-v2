@@ -42,8 +42,7 @@ profiles:
   title: Profils
   desc: >-
     Nous recherchons plusieurs types de profils, selon les expertises que
-    nécessitent les défis Lorem ipsum dolor Loren lalala Vivamus hendrerit,
-    magna at ullamcorper venenatis :
+    nécessitent les défis :
 
 
     * des développeurs et développeuses
@@ -65,25 +64,39 @@ profiles:
 conditions:
   title: Conditions
   desc: >-
-    Nous proposons maecenas accumsan lobortis enim sit amet feugiat. Nulla
-    facilisi. Praesent varius neque sit amet diam fringilla, ut commodo purus
-    auctor :
+    Intégrer le programme, c'est obtenir : 
 
 
-    * Un CDD de 10 mois dans une administration, du 13 septembre 2021 au 12 juillet 2022.
+    * Un CDD de 10 mois dans une administration
 
-    * Un salaire 3 500 € jusqu’à 5 années d’expérience au total, 4 000 € au-delà de 5 années.
+    * Un salaire 3 500 € jusqu’à 5 années d’expérience au total, 4 000 € au-delà de 5 années
 
-    * Une communauté d’experts et expertes avec l’appui technique et méthodologique des équipes d’Etalab et de la DINUM tout au long des 10 mois du programme.
+    * L'accès à une communauté d’experts et expertes avec l’appui technique et méthodologique des équipes d’Etalab et de la DINUM tout au long des 10 mois du programme
 how:
   title: Comment devenir EIG de la prochaine promotion ?
   desc: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco.
+    Pour rejoindre le programme et ainsi relever un défi dans une
+    administration, il vous faudra répondre à notre prochain appel à
+    candidatures. 
+
+
+    Le processus de sélection se fait en 4 étapes : 
+
+
 
 
     ![](img/steps.png)
+
+
+
+
+    1. **Vous postulez** au programme via un formulaire de candidature en ligne
+
+    2. **Si vous êtes pré-sélectionnés, vous votez** pour les défis que vous souhaitez relever
+
+    3. **Vous échangez avec un jury** composé d'agents publics et d'experts lors d'une audition pour relever un défi pour lequel vous avez voté
+
+    4. **Vous rejoignez le programme Entrepreneurs d'intérêt général et une administration** pendant 10 mois
 wait:
   title: |-
     L’appel à candidatures pour notre

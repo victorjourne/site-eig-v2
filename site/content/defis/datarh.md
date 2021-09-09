@@ -15,7 +15,6 @@ expertises:
 image: img/14_datarh_10.svg
 visible: true
 ---
-
 {{< dailymotion x81fh1e >}}
 
 ## Le contexte
@@ -34,21 +33,19 @@ L’ARS ARA souhaite créer un outil qui intègrera et structurera l’ensemble 
 
 La solution :
 
-- commencera avec la consolidation de la base de données sociales prescrite par la loi, avant d’être alimentée avec d’autres données RH
-- facilitera le croisement des données et permettra de développer facilement des indicateurs, des analyses et des projections, en fonction des besoins
-- proposera un moyen simple pour partager des données avec les partenaires internes (agents, managers, organisations syndicales) et externes (professionnels et établissements de santé et médicosociaux, écoles, médecine du travail, etc.)
-- présente un enjeu important de sensibilisation des parties prenantes et des utilisateurs finaux à la culture de la donnée
+* commencera avec la consolidation de la base de données sociales prescrite par la loi, avant d’être alimentée avec d’autres données RH
+* facilitera le croisement des données et permettra de développer facilement des indicateurs, des analyses et des projections, en fonction des besoins
+* proposera un moyen simple pour partager des données avec les partenaires internes (agents, managers, organisations syndicales) et externes (professionnels et établissements de santé et médicosociaux, écoles, médecine du travail, etc.)
+* présente un enjeu important de sensibilisation des parties prenantes et des utilisateurs finaux à la culture de la donnée
 
 #### Votre impact 
 
 Grâce à vos propositions, il sera possible de :
 
-- simplifier le travail des agents impliqués dans la compilation et l’utilisation de données, et leur permettre de se consacrer davantage à la réalisation d’analyses ou d’études prospectives
-- piloter plus efficacement le capital humain de l’ARS ARA (en identifiant les besoins de recrutement, en mobilités, les services en difficultés à venir, etc.)
-- initier, par l’ouverture des données, un travail collaboratif sur les politiques RH et de santé avec les agents, les managers de l’Agence, les partenaires sociaux, etc.
+* simplifier le travail des agents impliqués dans la compilation et l’utilisation de données, et leur permettre de se consacrer davantage à la réalisation d’analyses ou d’études prospectives
+* piloter plus efficacement le capital humain de l’ARS ARA (en identifiant les besoins de recrutement, en mobilités, les services en difficultés à venir, etc.)
+* initier, par l’ouverture des données, un travail collaboratif sur les politiques RH et de santé avec les agents, les managers de l’Agence, les partenaires sociaux, etc.
 
 L’outil conçu pourra être mutualisé et profiter aux dix-sept autres agences régionales de santé.
 
-_Les porteurs de ce projet sont à la recherche d’un ou une data engineer et d’un ou une UX designer. Les profils idéaux auront une bonne capacité de cadrage, d’exploration et seront particulièrement proactifs._
-
-## [Faire ses voeux](https://www.demarches-simplifiees.fr/commencer/aac-eig5-voeux)
+*Les porteurs de ce projet sont à la recherche d’un ou une data engineer et d’un ou une UX designer. Les profils idéaux auront une bonne capacité de cadrage, d’exploration et seront particulièrement proactifs.*

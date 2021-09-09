@@ -2,13 +2,13 @@
 title: Les défis d’intérêt général
 menu: impact
 layout: impact
-desc: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+desc: >+
+  Chaque année, un appel à projets est ouvert à l’ensemble des administrations
+  publiques désireuses de proposer un projet numérique innovant afin de pouvoir
+  bénéficier d’une équipe de talents du numérique - ou « EIG ».
 
 
+  Découvrez ici les « défis » relevés par 5 promotions d'EIG et d'agents publics.
 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Test  3
 visible: false
 ---

@@ -16,7 +16,6 @@ expertises:
 image: img/15_dases.svg
 visible: true
 ---
-
 {{< dailymotion x81fgzk >}}
 
 ## Le contexte
@@ -37,10 +36,10 @@ Ce projet, baptisé Data Space Education and Skills (DaSES), vise à faire émer
 
 Vous aurez pour mission :
 
-- d’établir une cartographie des données d’éducation à collecter par la plateforme (champs de la vie scolaire, des usages, des compétences, etc.)
-- de définir les conditions d’échange et de partage des données (architecture des données, interopérabilité des données, mécanisme de gouvernance, modalités de contractualisation, de consentement, etc.)
-- d’organiser le processus de collecte, d’anonymisation et de pseudonymisation des données
-- de formaliser et développer de premiers cas d’usage (modélisation des tendances d’orientation, développement de l’adaptive learning, comparaisons territoriales et internationales pour identifier les bonnes pratiques, etc.)
+* d’établir une cartographie des données d’éducation à collecter par la plateforme (champs de la vie scolaire, des usages, des compétences, etc.)
+* de définir les conditions d’échange et de partage des données (architecture des données, interopérabilité des données, mécanisme de gouvernance, modalités de contractualisation, de consentement, etc.)
+* d’organiser le processus de collecte, d’anonymisation et de pseudonymisation des données
+* de formaliser et développer de premiers cas d’usage (modélisation des tendances d’orientation, développement de l’adaptive learning, comparaisons territoriales et internationales pour identifier les bonnes pratiques, etc.)
 
 Un premier cas d’usage concernera la constitution de jeux de données de voix d’apprenants qui permettront d’entraîner un moteur d’intelligence artificielle pour l’apprentissage des langues. Dans ce cadre, vous travaillerez sur le modèle d’échange de données, la mécanique de l’espace de données, l’architecture et les modèles de contrat permettant d’assurer l’engagement des parties prenantes.
 
@@ -48,13 +47,11 @@ Un premier cas d’usage concernera la constitution de jeux de données de voix 
 
 Le Data Space Education and Skills ouvrira le champ des possibles en permettant :
 
-- aux élèves de disposer, à terme, d’un environnement personnalisé d’apprentissage et de dispositifs d’aide dans leur orientation
-- aux professeurs de connaître les besoins spécifiques de chacun des élèves et d’adapter leur accompagnement dans ce sens
-- aux décideurs de mieux suivre les politiques publiques mises en place et de les affiner
-- aux entreprises de la filière EdTech de mieux évaluer l’impact de leurs solutions et de cerner les besoins de leurs usagers
+* aux élèves de disposer, à terme, d’un environnement personnalisé d’apprentissage et de dispositifs d’aide dans leur orientation
+* aux professeurs de connaître les besoins spécifiques de chacun des élèves et d’adapter leur accompagnement dans ce sens
+* aux décideurs de mieux suivre les politiques publiques mises en place et de les affiner
+* aux entreprises de la filière EdTech de mieux évaluer l’impact de leurs solutions et de cerner les besoins de leurs usagers
 
 L’ensemble concourra vers un accompagnement des élèves, des étudiants et des citoyens au plus près de leurs besoins en formation.
 
-_Les porteurs de ce projet sont à la recherche d’un ou une data engineer, d’un ou une UX/UI designer et d’un ou une juriste du numérique, spécialiste de la contractualisation des espaces de données._
-
-## [Faire ses voeux](https://www.demarches-simplifiees.fr/commencer/aac-eig5-voeux)
+*Les porteurs de ce projet sont à la recherche d’un ou une data engineer, d’un ou une UX/UI designer et d’un ou une juriste du numérique, spécialiste de la contractualisation des espaces de données.*

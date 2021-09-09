@@ -16,7 +16,6 @@ expertises:
 image: img/08_epshad_10.svg
 visible: true
 ---
-
 {{< dailymotion x81fh2t >}}
 
 ## Le contexte
@@ -35,21 +34,19 @@ Vous voulez résoudre ce problème ? Venez développer une plateforme numérique
 
 La solution :
 
-- comportera trois volets : pédagogie, formation à distance et accompagnement médicosocial
-- intègrera un éventail de fonctionnalités adaptées à ces publics (cartographie des offres, outils de suivi de parcours et d’auto-évaluation, échanges entre pairs, etc.)
-- sera construite à partir d’un socle existant, la Plateforme d’Accompagnement à Distance de l’EPNAK, qui pourra être challengé
-- sera résolument centrée utilisateurs et accordera une importance toute particulière à l’accessibilité
+* comportera trois volets : pédagogie, formation à distance et accompagnement médicosocial
+* intègrera un éventail de fonctionnalités adaptées à ces publics (cartographie des offres, outils de suivi de parcours et d’auto-évaluation, échanges entre pairs, etc.)
+* sera construite à partir d’un socle existant, la Plateforme d’Accompagnement à Distance de l’EPNAK, qui pourra être challengé
+* sera résolument centrée utilisateurs et accordera une importance toute particulière à l’accessibilité
 
 #### Votre impact 
 
 Votre travail et votre engagement permettront de :
 
-- développer le « pouvoir d’agir » des personnes en situation de handicap sur leur parcours, qui pourront personnaliser leurs accompagnements de manière souple
-- leur donner accès à une offre élargie, sans limites territoriales
-- proposer les services spécialisés de réadaptation professionnelle au plus grand nombre
+* développer le « pouvoir d’agir » des personnes en situation de handicap sur leur parcours, qui pourront personnaliser leurs accompagnements de manière souple
+* leur donner accès à une offre élargie, sans limites territoriales
+* proposer les services spécialisés de réadaptation professionnelle au plus grand nombre
 
 pour in fine, renforcer les chances d’insertion professionnelle des personnes en situation de handicap.
 
-_Les agents publics porteurs de ce projet sont à la recherche d’un ou une UX designer et de deux développeurs ou développeuses web full stack. Les profils devront avoir une forte sensibilité à l’accessibilité (une expérience associée serait un grand plus)._
-
-## [Faire ses voeux](https://www.demarches-simplifiees.fr/commencer/aac-eig5-voeux)
+*Les agents publics porteurs de ce projet sont à la recherche d’un ou une UX designer et de deux développeurs ou développeuses web full stack. Les profils devront avoir une forte sensibilité à l’accessibilité (une expérience associée serait un grand plus).*

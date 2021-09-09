@@ -1,6 +1,6 @@
 ---
 title: "Talents du numérique et agents publics : préparez-vous à rejoindre notre
-  prochaine promotion ! test"
+  prochaine promotion ! "
 layout: participate
 menu: participate
 ---
