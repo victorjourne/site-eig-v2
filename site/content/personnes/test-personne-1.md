@@ -4,7 +4,7 @@ job: test
 desc: Test
 promos: Test - Promotion 6
 role: agent-public
-defi:
+defis:
   - "CapQualif "
   - CyberImpact
   - Décos
