@@ -124,9 +124,10 @@ collections: # A list of collections the CMS should be able to edit
             ],
         }
       - {
-          label: "Défi",
+          label: "Défis",
           name: "defi",
           widget: "relation",
+          multiple: true,
           collection: "defis",
           value_field: "title",
           search_fields: ["title"],
