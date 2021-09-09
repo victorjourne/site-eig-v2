@@ -3,7 +3,7 @@ title: Test personne
 job: test
 desc: Test
 promos: Test - Promotion 6
-role: agent-programme
+role: agent-public
 defi:
   - "CapQualif "
   - CyberImpact
