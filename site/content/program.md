@@ -21,10 +21,11 @@ steps:
       duration: 5 mois
       title: Concevoir
       dates: Mi-septembre à février
-      desc: Lancer rapidement son prototype (cibler, tester, itérer), modéliser sa
-        performance (créer des indicateurs, ouvrir ou non ses données),
-        faciliter l'appropriation (gérer les résistances, fabriquer un
-        argumentaire)...
+      desc: Explorer, mener des recherches utilisateur, puis lancer rapidement son
+        prototype (cibler, tester, itérer), modéliser sa performance (créer des
+        indicateurs, ouvrir ou non ses données), tester et recevoir des retours
+        (revue code et design), faciliter l'appropriation (gérer les
+        résistances, fabriquer un argumentaire)...
     - icon: img/phase2.png
       step: Phase 2
       duration: 3 mois
