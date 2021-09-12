@@ -1,6 +1,6 @@
 ---
 title: "Emmanuel Ronot "
-job: Mentor de haut niveau
+job: Sponsor
 role: agent-public
 defis:
   - e-PSHAD
