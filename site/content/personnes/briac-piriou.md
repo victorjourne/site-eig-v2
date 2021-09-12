@@ -1,6 +1,6 @@
 ---
 title: Briac Piriou
-job: Mentor de haut niveau
+job: Sponsor
 role: agent-public
 defis:
   - Fabrique Numérique
