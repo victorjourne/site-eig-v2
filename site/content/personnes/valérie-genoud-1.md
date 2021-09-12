@@ -1,6 +1,9 @@
 ---
 title: Valérie Genoud
 job: Porteuse de projet
+desc: Valérie a rejoint l'Agence régionale de santé Rhône-Alpes en 2015 où elle
+  est nommée déléguée départementale de l’Isère, puis directrice déléguée aux
+  ressources humaines au sein du secrétariat général.
 role: agent-public
 defis:
   - DataRH
