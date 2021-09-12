@@ -1,6 +1,6 @@
 ---
 title: Eric Virard
-job: Mentor de haut niveau
+job: Sponsor
 role: agent-public
 defis:
   - DataRH
