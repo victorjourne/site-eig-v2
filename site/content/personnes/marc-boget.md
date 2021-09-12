@@ -1,6 +1,6 @@
 ---
 title: Marc Boget
-job: Mentor de haut niveau
+job: Sponsor
 role: agent-public
 defis:
   - Basegun
