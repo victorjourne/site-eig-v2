@@ -1,6 +1,6 @@
 ---
 title: Carole Leclerc
-job: Mentor de haut niveau
+job: Sponsor
 role: agent-public
 defis:
   - UrssafassuR
