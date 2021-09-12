@@ -25,17 +25,17 @@ talents:
     développement, en data science, en design et en droit du numérique - à la
     réussite de ces défis.
   list:
-    - Julie Dugardin
     - Anne-Lise Coudry
     - Charly Dottin
+    - Charlotte Samson
 agents:
   sub: Les agents publics
   desc: "Issus de tout type d'administration, qu'elle soit centrale, indépendante,
     territoriale, de santé..., des agents publics accueillent deux ou trois
     « EIG » dans leurs services pour relever ensemble les défis. "
   list:
-    - Christelle Ratignier-Carbonneil
     - Christophe Cuq
+    - Valérie Genoud
 join:
   image: img/programme-eig_acceuil_auto_x2_light_ai-1-.jpg
   sub: "du programme d'Entrepreneur d'intérêt général "
