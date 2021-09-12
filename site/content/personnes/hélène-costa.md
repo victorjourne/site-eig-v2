@@ -1,6 +1,6 @@
 ---
 title: Hélène Costa
-job: Mentor de haut niveau
+job: Sponsor
 role: agent-public
 defis:
   - Mes services Greentech
