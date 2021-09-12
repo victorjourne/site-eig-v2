@@ -1,7 +1,7 @@
 ---
 title: Administrations
 layout: admins
-open: false
+open: true
 head:
   desc: Parce que nous croyons qu'une transformation durable se fait de
     l'intérieur... le programme Entrepreneurs d'intérêt général vous aide à
