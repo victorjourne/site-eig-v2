@@ -120,6 +120,7 @@ wait:
     L’appel à candidatures pour notre
     promotion 6 n'est pas encore ouvert.
   desc: Si vous êtes intéressés par une participation à la prochaine promotion,
-    [inscrivez-vous à notre liste de diffusion](#) ! Vous serez tenus au courant
-    de toutes nos actualités.
+    [inscrivez-vous à notre liste de
+    diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio)
+    ! Vous serez tenus au courant de toutes nos actualités.
 ---
