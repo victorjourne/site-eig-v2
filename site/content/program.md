@@ -31,7 +31,7 @@ steps:
       duration: 3 mois
       title: Consolider
       dates: Mars à mai
-      desc: Assurer l'ouverture des codes et de la donnée, mener des tests
+      desc: Poursuivre l'ouverture des codes et de la donnée, mener des tests
         utilisateurs et l'évaluation UX des produits, assurer l'accessibilité et
         l'ergonomie des interfaces, documenter les défis, mobiliser des
         ressources, trouver des alliés dans l'administration et dans
