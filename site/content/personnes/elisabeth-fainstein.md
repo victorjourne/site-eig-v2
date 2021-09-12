@@ -1,6 +1,6 @@
 ---
 title: Elisabeth Fainstein
-job: Développeuse
+job: Coach Développeuse
 promos: Promotion 5
 role: agent-programme
 image: img/elisabeth-fainstein.png
