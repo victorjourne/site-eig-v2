@@ -111,7 +111,7 @@ steps: >-
 
   2. **Si votre projet est sélectionné, nous réunissons une équipe** de 2 ou 3 EIG pour relever le défi, en vous associant au processus de recrutement 
 
-  3. **Vous expérimentez** de nouveaux possibles avec votre équipe d'EIG et le soutien du programme
+  3. **Vous expérimentez** de nouvelles solutions avec votre équipe d'EIG et le soutien du programme
 
 
   ![]()
