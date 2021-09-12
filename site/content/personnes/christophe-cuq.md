@@ -1,7 +1,7 @@
 ---
 title: Christophe Cuq
 job: Porteur de projet
-desc: Christophe CUQ est chargé de missions à la Direction Innovation et Digital
+desc: Christophe est chargé de missions à la Direction Innovation et Digital
   (DID) de l’Urssaf Caisse nationale.
 promos: Promotion 5
 role: agent-public
