@@ -1,6 +1,6 @@
 ---
 title: Christophe Jacquot
-job: Mentor de haut niveau
+job: Sponsor
 role: agent-public
 defis:
   - CyberImpact
