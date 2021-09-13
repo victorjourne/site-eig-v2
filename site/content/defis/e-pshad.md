@@ -30,7 +30,7 @@ Jusqu’alors, les personnes en situation de handicap devaient se déplacer, par
 
 Le défi consiste en la création d’une plateforme numérique d’accompagnement à distance pour les personnes en situation de handicap dans leur parcours de réadaptation professionnelle.
 
-#### Vos défis techniques
+#### Les défis techniques
 
 La solution :
 
@@ -39,7 +39,7 @@ La solution :
 * sera construite à partir d’un socle existant, la Plateforme d’Accompagnement à Distance de l’EPNAK, qui pourra être challengé
 * sera résolument centrée utilisateurs et accordera une importance toute particulière à l’accessibilité
 
-#### Votre impact 
+#### L'impact 
 
 L'outil créé permettra de :
 
