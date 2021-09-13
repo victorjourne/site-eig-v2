@@ -1,8 +1,8 @@
 ---
 title: Anne Moutel-Seiller
-job: Mentor de haut niveau
+job: Sponsor
 role: agent-public
-defis: 
+defis:
   - e-PSHAD
 image: img/anne-moutel-seiller.png
 ---

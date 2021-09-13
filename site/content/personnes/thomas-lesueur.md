@@ -1,6 +1,6 @@
 ---
 title: Thomas Lesueur
-job: Mentor de haut niveau
+job: Sponsor
 role: agent-public
 defis:
   - Green Data for Health

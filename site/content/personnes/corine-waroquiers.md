@@ -1,6 +1,6 @@
 ---
 title: Corine Waroquiers
-job: Coordinatrice du programme
+job: Responsable du programme
 role: agent-programme
 image: img/corine-waroquiers.png
 linkedin: https://www.linkedin.com/in/corinewaroquiers

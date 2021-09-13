@@ -21,20 +21,28 @@ steps:
       duration: 5 mois
       title: Concevoir
       dates: Mi-septembre à février
-      desc: Lancer rapidement son prototype (cibler, tester, itérer), modéliser sa
-        performance (créer des indicateurs, ouvrir ou non ses données),
-        faciliter l'appropriation (gérer les résistances, fabriquer un
-        argumentaire)...
+      desc: Explorer, mener des recherches utilisateur, puis lancer rapidement son
+        prototype (cibler, tester, itérer), modéliser sa performance (créer des
+        indicateurs, ouvrir ou non ses données), tester et recevoir des retours
+        (revue code et design), faciliter l'appropriation (gérer les
+        résistances, fabriquer un argumentaire)...
     - icon: img/phase2.png
       step: Phase 2
       duration: 3 mois
       title: Consolider
       dates: Mars à mai
-      desc: Mobiliser des ressources, trouver des alliés dans l'administration et dans
+      desc: Poursuivre l'ouverture des codes et de la donnée, mener des tests
+        utilisateurs et l'évaluation UX des produits, assurer l'accessibilité et
+        l'ergonomie des interfaces, documenter les défis, mobiliser des
+        ressources, trouver des alliés dans l'administration et dans
         l'écosystème.
     - dates: Juin à mi-juillet
       desc: Assurer la continuité des défis, tant aux niveaux stratégiques,
-        techniques, opérationnels et RH.
+        techniques, opérationnels et RH (transfert de compétences, aspects
+        contractuels et budgétaires), consolider les indicateurs de performance,
+        développer les opportunités d'ouverture (briques techniques, codes,
+        données, design...), de mutualisation et de réplication des outils et
+        des données.
       icon: img/phase3.png
       step: Phase 3
       duration: 2 mois

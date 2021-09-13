@@ -1,7 +1,7 @@
 ---
 title: Administrations
 layout: admins
-open: false
+open: true
 head:
   desc: Parce que nous croyons qu'une transformation durable se fait de
     l'intérieur... le programme Entrepreneurs d'intérêt général vous aide à
@@ -111,7 +111,7 @@ steps: >-
 
   2. **Si votre projet est sélectionné, nous réunissons une équipe** de 2 ou 3 EIG pour relever le défi, en vous associant au processus de recrutement 
 
-  3. **Vous expérimentez** de nouveaux possibles avec votre équipe d'EIG et le soutien du programme
+  3. **Vous expérimentez** de nouvelles solutions avec votre équipe d'EIG et le soutien du programme
 
 
   ![]()
@@ -120,6 +120,7 @@ wait:
     L’appel à candidatures pour notre
     promotion 6 n'est pas encore ouvert.
   desc: Si vous êtes intéressés par une participation à la prochaine promotion,
-    [inscrivez-vous à notre liste de diffusion](#) ! Vous serez tenus au courant
-    de toutes nos actualités.
+    [inscrivez-vous à notre liste de
+    diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio)
+    ! Vous serez tenus au courant de toutes nos actualités.
 ---

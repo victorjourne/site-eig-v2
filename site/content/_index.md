@@ -20,22 +20,22 @@ defis:
     défense, les défis ont un dénominateur commun : transformer les services
     publics par le numérique"
 talents:
-  sub: Les talents ou « EIG »
+  sub: Les talents - ou « EIG »
   desc: Durant 10 mois, des femmes et des hommes apportent leur expertise - en
     développement, en data science, en design et en droit du numérique - à la
     réussite de ces défis.
   list:
-    - Julie Dugardin
     - Anne-Lise Coudry
     - Charly Dottin
+    - Charlotte Samson
 agents:
   sub: Les agents publics
-  desc: "Issus de tout type d'administration, quelle soit centrale, indépendante,
+  desc: "Issus de tout type d'administration, qu'elle soit centrale, indépendante,
     territoriale, de santé..., des agents publics accueillent deux ou trois
     « EIG » dans leurs services pour relever ensemble les défis. "
   list:
-    - Christelle Ratignier-Carbonneil
     - Christophe Cuq
+    - Valérie Genoud
 join:
   image: img/programme-eig_acceuil_auto_x2_light_ai-1-.jpg
   sub: "du programme d'Entrepreneur d'intérêt général "
