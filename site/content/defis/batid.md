@@ -30,23 +30,21 @@ Malheureusement, le croisement difficile entre les différentes bases de donnée
 
 ## Le terrain de jeu
 
-Votre mission, si vous l’acceptez, sera de créer un identifiant unique du bâtiment qui deviendra une véritable donnée pivot pour croiser les jeux de données pertinents entre eux.
+Le défi consiste en la création d'un identifiant unique du bâtiment qui deviendra une véritable donnée pivot pour croiser les jeux de données pertinents entre eux.
 
 #### Vos défis techniques
 
 La solution :
 
-* impliquera la construction d’une base de données commune à toutes les bases de données pertinentes, afin d’organiser les flux entre celles-ci
-* nécessitera un travail juridique autour de l’accès à la donnée
+* implique la construction d’une base de données commune à toutes les bases de données pertinentes, afin d’organiser les flux entre celles-ci
+* nécessite un travail juridique autour de l’accès à la donnée
 * découlera sur une mise en œuvre politique, pour laquelle il faudra étudier les opportunités réglementaires, les évolutions des textes de lois à envisager, etc.
 * permettra de connaître, pour chaque bâtiment, des informations importantes et de qualité (type de logement, matériaux, étiquette énergétique, type de chauffage, etc.)
 
 #### Votre impact 
 
-Par la création de cet identifiant unique du bâtiment, vous ouvrirez le champ des possibles :
+Par la création de cet identifiant unique du bâtiment, nous ouvrirons le champ des possibles :
 
 * suivi fin des travaux menés sur les bâtiments, et donc de la politique publique en matière de rénovation énergétique
 * ajustement « en temps réel » des mesures prises dans ce domaine
 * utilisation possible dans le cadre des appels aux services de secours, des demandes d’aides publiques ou encore l’organisation de la vie publique locale (gestion des déchets, services publics, etc.)
-
-*Les agents publics porteurs de ce projet et sont à la recherche d’un ou une data engineer et d’un ou une juriste du numérique.*
