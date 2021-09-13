@@ -27,9 +27,9 @@ Le capital humain de l’ARS ARA est actuellement suivi à l’aide de différen
 
 ## Le terrain de jeu
 
-L’ARS ARA souhaite créer un outil qui intègrera et structurera l’ensemble de ses données RH. Une fois ce socle constitué, les EIG Talents exploreront les exploitations possibles en développant des applicatifs autour de cas d’usage comme l’organisation du travail.
+L’ARS ARA souhaite créer un outil qui intègrera et structurera l’ensemble de ses données RH. Une fois ce socle constitué, les EIG exploreront les exploitations possibles en développant des applicatifs autour de cas d’usage comme l’organisation du travail.
 
-#### Vos défis techniques
+#### Les défis techniques
 
 L’outil créé :
 
@@ -38,9 +38,9 @@ L’outil créé :
 * proposera un moyen simple pour partager des données avec les partenaires internes (agents, managers, organisations syndicales) et externes (professionnels et établissements de santé et médicosociaux, écoles, médecine du travail, etc.)
 * présente un enjeu important de sensibilisation des parties prenantes et des utilisateurs finaux à la culture de la donnée
 
-#### Votre impact 
+#### L'impact 
 
-Grâce aux propositions des EIG Talents, il sera possible de :
+Grâce aux propositions des EIG, il sera possible de :
 
 * simplifier le travail des agents impliqués dans la compilation et l’utilisation de données, et leur permettre de se consacrer davantage à la réalisation d’analyses ou d’études prospectives
 * piloter plus efficacement le capital humain de l’ARS ARA (en identifiant les besoins de recrutement, en mobilités, les services en difficultés à venir, etc.)
