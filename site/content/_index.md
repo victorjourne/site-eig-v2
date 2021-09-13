@@ -9,8 +9,7 @@ hero:
     pour le service public
 
 intro:
-  desc:
-    Le programme Entrepreneurs d'intérêt général sélectionne des spécialistes
+  desc: Le programme Entrepreneurs d'intérêt général sélectionne des spécialistes
     de la technologie, du design et du droit du numérique pour tester et
     expérimenter de nouveaux possibles avec des agents de l’État.
   title: Nous réunissons talents du numérique et agents publics pour relever des
@@ -31,8 +30,7 @@ talents:
     - Charlotte Samson
 agents:
   sub: Les agents publics
-  desc:
-    "Issus de tout type d'administration, qu'elle soit centrale, indépendante,
+  desc: "Issus de tout type d'administration, qu'elle soit centrale, indépendante,
     territoriale, de santé..., des agents publics accueillent deux ou trois
     « EIG » dans leurs services pour relever ensemble les défis. "
   list:
@@ -52,7 +50,7 @@ medias:
   tiles:
     - image: img/forbes.png
       title: Forbes
-      link: https://www.google.fr
+      link: ""
     - image: img/acteurs-publics.png
       title: Acteurs publics
     - image: img/usbek-rica.png
