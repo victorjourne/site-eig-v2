@@ -28,7 +28,7 @@ Jusqu’alors, les personnes en situation de handicap devaient se déplacer, par
 
 ## Le terrain de jeu
 
-Vous voulez résoudre ce problème ? Venez développer une plateforme numérique d’accompagnement à distance pour les personnes en situation de handicap dans leur parcours de réadaptation professionnelle.
+Le défi consiste en la création d’une plateforme numérique d’accompagnement à distance pour les personnes en situation de handicap dans leur parcours de réadaptation professionnelle.
 
 #### Vos défis techniques
 
@@ -41,12 +41,10 @@ La solution :
 
 #### Votre impact 
 
-Votre travail et votre engagement permettront de :
+L'outil créé permettra de :
 
 * développer le « pouvoir d’agir » des personnes en situation de handicap sur leur parcours, qui pourront personnaliser leurs accompagnements de manière souple
 * leur donner accès à une offre élargie, sans limites territoriales
 * proposer les services spécialisés de réadaptation professionnelle au plus grand nombre
 
 pour in fine, renforcer les chances d’insertion professionnelle des personnes en situation de handicap.
-
-*Les agents publics porteurs de ce projet sont à la recherche d’un ou une UX designer et de deux développeurs ou développeuses web full stack. Les profils devront avoir une forte sensibilité à l’accessibilité (une expérience associée serait un grand plus).*
