@@ -28,7 +28,7 @@ Malgré ce volume, peu de particuliers pensent à vérifier la « régularité�
 
 L’Urssaf Caisse nationale souhaite développer un service en ligne qui permettra aux particuliers de vérifier la régularité et la situation des prestataires envisagés pour la réalisation de leurs travaux à domicile.
 
-#### Vos défis techniques
+#### Les défis techniques
 
 La solution :
 
@@ -38,14 +38,12 @@ La solution :
 * sera résolument centrée utilisateurs
 * s’inscrira dans une démarche d’ouverture du code et des données
 
-#### Votre impact 
+#### L'impact 
 
-Imaginez : demain, Mme Terrieur sollicite plusieurs entrepreneurs pour la rénovation de son installation électrique. Alors qu’elle s’apprête à choisir Mme Sansiret, elle utilise le service que vous aurez conçu et constate l’« irrégularité » de cette dernière.
+Imaginons : demain, Mme Terrieur sollicite plusieurs entrepreneurs pour la rénovation de son installation électrique. Alors qu’elle s’apprête à choisir Mme Sansiret, elle utilise le service que les EIG auront conçu et constate l’« irrégularité » de cette dernière.
 
 * Mme Terrieur décide alors de faire appel à un autre entrepreneur, M. Branche dont la situation régulière lui permet de lui confier ce chantier sereinement ;
 * L’entrepreneur M. Branche constate que de plus en plus de particuliers se préoccupent de la régularité des prestataires, ce qui le conforte à exercer son activité « en règle », au bénéfice d’une concurrence juste et loyale ;
 * L’entrepreneure Mme Sansiret prend conscience de la nécessité de régulariser sa situation.
 
 L’Urssaf pourra également procéder à un meilleur recouvrement des cotisations pour la sécurité sociale et lutter plus efficacement contre la fraude et le travail dissimulé.
-
-*L’équipe projet est à la recherche d’un ou une UX designer et d’un ou une développeuse full-stack (en capacité de développer des API).*
