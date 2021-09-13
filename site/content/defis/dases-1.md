@@ -32,7 +32,7 @@ Le défi consiste en la création d'une plateforme qui permettra d’échanger e
 
 Ce projet, baptisé Data Space Education and Skills (DaSES), vise à faire émerger un écosystème européen de la donnée d’éducation et des compétences et s’inscrit dans la [stratégie européenne GAIA-X](https://www.data-infrastructure.eu/GAIAX/Navigation/EN/Home/home.html).
 
-#### Vos défis techniques
+#### Les défis techniques
 
 L’objectif de l’outil est :
 
@@ -41,9 +41,9 @@ L’objectif de l’outil est :
 * d’organiser le processus de collecte, d’anonymisation et de pseudonymisation des données
 * de formaliser et développer de premiers cas d’usage (modélisation des tendances d’orientation, développement de l’adaptive learning, comparaisons territoriales et internationales pour identifier les bonnes pratiques, etc.)
 
-Un premier cas d’usage concernera la constitution de jeux de données de voix d’apprenants qui permettront d’entraîner un moteur d’intelligence artificielle pour l’apprentissage des langues. Dans ce cadre, les EIG Talents travailleront sur le modèle d’échange de données, la mécanique de l’espace de données, l’architecture et les modèles de contrat permettant d’assurer l’engagement des parties prenantes.
+Un premier cas d’usage concernera la constitution de jeux de données de voix d’apprenants qui permettront d’entraîner un moteur d’intelligence artificielle pour l’apprentissage des langues. Dans ce cadre, les EIG travailleront sur le modèle d’échange de données, la mécanique de l’espace de données, l’architecture et les modèles de contrat permettant d’assurer l’engagement des parties prenantes.
 
-#### Votre impact 
+#### L'impact 
 
 Le Data Space Education and Skills ouvrira le champ des possibles en permettant :
 
