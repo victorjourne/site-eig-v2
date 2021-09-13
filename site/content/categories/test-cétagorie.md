@@ -1,3 +1,3 @@
 ---
-title: Test - cétagorie
+title: Test - catégorie
 ---
