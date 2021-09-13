@@ -53,7 +53,9 @@
           {{ end }}
         </div>
         <h3>{{ .Params.profiles.title }}</h3>
-        {{ .Params.profiles.desc | markdownify }}
+        <div class="u-text-lg">
+          {{ .Params.profiles.desc | markdownify }}
+        </div>
         <div class="c-link-head">
           <h4 class="fr-h5">{{ .Params.profiles.sub }}</h4>
           <a class="fr-btn fr-fi-arrow-right-line fr-btn--secondary" href="/talents"></a>
@@ -69,9 +71,13 @@
           {{ end }}
         </div>
         <h3>{{ .Params.conditions.title }}</h3>
-        {{ .Params.conditions.desc | markdownify }}
+        <div class="u-text-lg">
+          {{ .Params.conditions.desc | markdownify }}
+        </div>
         <h2>{{ .Params.how.title }}</h2>
-        {{ .Params.how.desc | markdownify }}
+        <div class="u-text-lg">
+          {{ .Params.how.desc | markdownify }}
+        </div>
         {{ if not .Params.open }}
         <div class="c-wait fr-mb-6v">
           <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle">
@@ -80,7 +86,9 @@
             </div>
             <div class="fr-col-12 fr-col-sm-9 fr-col-md-10">
               <h3>{{ .Params.wait.title }}</h3>
-              {{ partial "markdownify-block" .Params.wait.desc }}
+              <div class="u-text-lg">
+                {{ partial "markdownify-block" .Params.wait.desc }}
+              </div>
             </div>
           </div>
         </div>

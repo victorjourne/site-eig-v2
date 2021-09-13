@@ -30,7 +30,7 @@
             <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right" target="_blank">{{ .Params.head.call.title }}</a>
           </div>
           {{ end }}
-        <div class="c-wysiwyg">
+        <div class="c-wysiwyg u-text-lg">
           {{ .Params.program | markdownify }}
           <h2>{{ .Params.criteria.title }}</h2>
           {{ partial "markdownify-block" .Params.criteria.desc }}
