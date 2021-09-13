@@ -36,7 +36,7 @@ La police judiciaire estime que 15 à 20% des armes saisies sont mal ou non iden
 
 Le défi consiste en la création d'une application terrain qui permettra aux forces de l’ordre d’identifier instantanément une arme à partir de photos. Elle indiquera également la conduite à tenir adaptée. Au-delà de ce cas d’usage identifié, d’autres utilisations connexes d’une telle application (usage de particuliers, armuriers privés, forces de l’ordre européennes) sont à explorer avec l’aide de l’équipe projet.
 
-#### Vos défis techniques
+#### Les défis techniques
 
 La solution doit :
 
@@ -45,7 +45,7 @@ La solution doit :
 * reposer sur un modèle d’intelligence artificielle entraîné
 * être accessible en mode service (API)
 
-#### Votre impact 
+#### L'impact 
 
 L’application libèrera les forces de l’ordre d’une tâche laborieuse et leur permettra de se concentrer sur des actions métier à plus forte valeur ajoutée (enquêtes, poursuites, …), tout en réduisant le risque d’erreur.
 
