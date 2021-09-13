@@ -50,6 +50,7 @@ medias:
   tiles:
     - image: img/forbes.png
       title: Forbes
+      link: https://www.google.fr
     - image: img/acteurs-publics.png
       title: Acteurs publics
     - image: img/usbek-rica.png
