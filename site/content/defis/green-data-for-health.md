@@ -29,7 +29,7 @@ Les bases de données environnementales existantes, particulièrement riches, ne
 
 Le défi consiste en la création d'un dispositif qui permettra une meilleure mobilisation de la donnée environnementale pour des croisements avec des données de santé par les acteurs de la recherche et de l’expertise.
 
-#### Vos défis techniques
+#### Les défis techniques
 
 La solution :
 
@@ -39,7 +39,7 @@ La solution :
 * prendra en compte les enjeux juridiques de mise à disposition et de sécurité des données
 * favorisera la synergie entre acteurs de l’écosystème recherche et l’expertise en Santé-Environnement
 
-#### Votre impact 
+#### L'impact 
 
 Grâce à ce dispositif, les chercheurs pourront accéder à des données dont ils ignoraient jusqu’alors l’existence et économiser un temps précieux sur leur traitement. Cela permettra d’accélérer la production de connaissances concernant l’impact de l’environnement sur la santé.
 
