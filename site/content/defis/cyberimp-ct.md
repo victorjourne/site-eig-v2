@@ -31,7 +31,7 @@ Malheureusement, ces interfaces ne sont pas corrélées, créant un éparpilleme
 
 Prenant place au sein des équipes de la Gendarmerie nationale, le défi consiste en la création d'un outil qui permettra d’abord de rapatrier les données des interfaces numériques et de les homogénéiser, pour ensuite les suivre, les exploiter et les visualiser de manière pertinente.
 
-#### Vos défis techniques
+#### Les défis techniques
 
 La solution :
 
@@ -39,7 +39,7 @@ La solution :
 * proposera des data-visualisations correspondant aux besoins métier qui auront été identifiés : un premier cas d’usage concernera la cartographie des besoins des usagers des services en ligne de la Gendarmerie nationale, pour vérifier la pertinence de l’offre proposée.
 * sera conçue avec les designers et développeurs internes
 
-#### Votre impact 
+#### L'impact 
 
 L’outil conçu ouvrira le champ des possibles pour les gendarmes qui pourront :
 
