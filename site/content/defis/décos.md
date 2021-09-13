@@ -26,7 +26,7 @@ Aujourd’hui, la gestion des distinctions honorifiques est assurée à partir d
 
 ## Le terrain de jeu
 
-Votre mission, si vous l’acceptez, sera de développer l’outil qui permettra de gérer simplement l’ensemble des procédures liées aux distinctions honorifiques : de l’instruction des candidatures à la gestion des lauréats ainsi que leur promotion aux grades supérieurs.
+Le défi consiste en la création d’un outil qui permettra de gérer simplement l’ensemble des procédures liées aux distinctions honorifiques : de l’instruction des candidatures à la gestion des lauréats ainsi que leur promotion aux grades supérieurs.
 
 #### Vos défis techniques
 
@@ -40,6 +40,4 @@ La solution :
 
 #### Votre impact 
 
-Grâce à vos propositions, le travail d’instruction d’un très grand nombre d’agents (en administrations centrales et dans une centaine de préfectures) sera simplifié, ce qui leur donnera davantage de temps pour étudier les dossiers en profondeur. L’outil conçu pourra être mutualisé et prendre à terme une dimension interministérielle.
-
-*Les agents publics porteurs de ce projet sont à la recherche d’un ou une UX designer et d’un développeur ou une développeuse full stack.*
+Grâce aux propositions des EIG Talents, le travail d’instruction d’un très grand nombre d’agents (en administrations centrales et dans une centaine de préfectures) sera simplifié, ce qui leur donnera davantage de temps pour étudier les dossiers en profondeur. L’outil conçu pourra être mutualisé et prendre à terme une dimension interministérielle.
