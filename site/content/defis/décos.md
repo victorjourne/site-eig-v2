@@ -40,4 +40,4 @@ La solution :
 
 #### Votre impact 
 
-Grâce aux propositions des EIG Talents, le travail d’instruction d’un très grand nombre d’agents (en administrations centrales et dans une centaine de préfectures) sera simplifié, ce qui leur donnera davantage de temps pour étudier les dossiers en profondeur. L’outil conçu pourra être mutualisé et prendre à terme une dimension interministérielle.
+Grâce aux propositions des EIG, le travail d’instruction d’un très grand nombre d’agents (en administrations centrales et dans une centaine de préfectures) sera simplifié, ce qui leur donnera davantage de temps pour étudier les dossiers en profondeur. L’outil conçu pourra être mutualisé et prendre à terme une dimension interministérielle.
