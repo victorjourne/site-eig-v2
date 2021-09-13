@@ -30,7 +30,7 @@ Aujourd’hui, les demandes sont réceptionnées et hiérarchisées par des éva
 
 ## Le terrain de jeu
 
-Cette problématique vous parle ? Venez développer l’outil d’aide à la décision qui permettra de détecter les risques et enjeux associés à chaque nouvelle demande reçue par l’ANSM, et de proposer le mode de traitement le plus adapté.
+Le défi consiste en la création d’un outil d’aide à la décision qui permettra de détecter les risques et enjeux associés à chaque nouvelle demande reçue par l’ANSM, et de proposer le mode de traitement le plus adapté.
 
 #### Vos défis techniques
 
@@ -42,7 +42,7 @@ La solution :
 
 #### Votre impact 
 
-Grâce à vous, l’ANSM pourra :
+Grâce à l'outil créé, l’ANSM pourra :
 
 * apporter à chaque dossier l’expertise technique et scientifique adaptée au niveau de risque
 * proportionner les ressources d’expertise allouées à chaque dossier en fonction des enjeux de santé publique
@@ -50,5 +50,3 @@ Grâce à vous, l’ANSM pourra :
 * garantir la cohérence des modes de traitement entre ses différentes directions
 
 L’ensemble permettra de renforcer la confiance des citoyens dans l’expertise des autorités sanitaires.
-
-*Les agents publics porteurs de ce projet sont à la recherche d’un ou une UX designer, d’un ou une data scientist maîtrisant Python et disposant de connaissances en NLP et d’un développeur ou une développeuse full stack avec une bonne connaissance de Python et de React (Docker serait un plus).*
