@@ -28,7 +28,7 @@ Aujourd’hui, la gestion des distinctions honorifiques est assurée à partir d
 
 Le défi consiste en la création d’un outil qui permettra de gérer simplement l’ensemble des procédures liées aux distinctions honorifiques : de l’instruction des candidatures à la gestion des lauréats ainsi que leur promotion aux grades supérieurs.
 
-#### Vos défis techniques
+#### Les défis techniques
 
 La solution :
 
@@ -38,6 +38,6 @@ La solution :
 * sera résolument centrée utilisateurs
 * impliquera une formation des agents utilisateurs
 
-#### Votre impact 
+#### L'impact 
 
 Grâce aux propositions des EIG, le travail d’instruction d’un très grand nombre d’agents (en administrations centrales et dans une centaine de préfectures) sera simplifié, ce qui leur donnera davantage de temps pour étudier les dossiers en profondeur. L’outil conçu pourra être mutualisé et prendre à terme une dimension interministérielle.
