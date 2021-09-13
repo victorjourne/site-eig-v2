@@ -29,9 +29,9 @@ Actuellement, beaucoup de décisions relatives à la gestion des personnels hosp
 
 ## Le terrain de jeu
 
-Venez vous attaquer à cette problématique d’actualité en développant un outil de simulation de la masse salariale des hôpitaux publics qui permettra d’établir des projections de dépenses en personnel.
+Le défi consiste en la création d'un outil de simulation de la masse salariale des hôpitaux publics qui permettra d’établir des projections de dépenses en personnel.
 
-#### Vos défis techniques
+#### Les défis techniques
 
 La solution :
 
@@ -39,12 +39,10 @@ La solution :
 * permettra de simuler différentes hypothèses de comportement des salariés ou différentes réformes
 * sera utilisée à tous les échelons territoriaux, par des agents avec un niveau d’expertise très variable
 
-#### Votre impact 
+#### L'impact 
 
-Grâce à vos propositions, il sera possible :
+Grâce à l'outil créé, il sera possible :
 
 * de prendre des décisions éclairées en matière de gestion des personnels, notamment dans le cadre du projet de loi de finance de la sécurité sociale
 * d’estimer et d’anticiper l’effet des réformes sur le budget des hôpitaux et leur sensibilité aux hypothèses posées de comportement des salariés
 * d’assurer un pilotage national, mais aussi régional et local (identifier les établissements en difficulté du fait de l’évolution de leur masse salariale, etc.).
-
-*Les agents publics porteurs de ce projet sont à la recherche d’un ou une data scientist avec de bonnes compétences en pilotage de projet, et d’un ou une data scientist avec une expertise en programmation et en gestion de données volumineuses.*
