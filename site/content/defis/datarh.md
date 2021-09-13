@@ -27,11 +27,11 @@ Le capital humain de l’ARS ARA est actuellement suivi à l’aide de différen
 
 ## Le terrain de jeu
 
-L’ARS ARA souhaite créer un outil qui intègrera et structurera l’ensemble de ses données RH. Une fois ce socle constitué, vous explorerez les exploitations possibles en développant des applicatifs autour de cas d’usage comme l’organisation du travail.
+L’ARS ARA souhaite créer un outil qui intègrera et structurera l’ensemble de ses données RH. Une fois ce socle constitué, les EIG Talents exploreront les exploitations possibles en développant des applicatifs autour de cas d’usage comme l’organisation du travail.
 
 #### Vos défis techniques
 
-La solution :
+L’outil créé :
 
 * commencera avec la consolidation de la base de données sociales prescrite par la loi, avant d’être alimentée avec d’autres données RH
 * facilitera le croisement des données et permettra de développer facilement des indicateurs, des analyses et des projections, en fonction des besoins
@@ -40,12 +40,10 @@ La solution :
 
 #### Votre impact 
 
-Grâce à vos propositions, il sera possible de :
+Grâce aux propositions des EIG Talents, il sera possible de :
 
 * simplifier le travail des agents impliqués dans la compilation et l’utilisation de données, et leur permettre de se consacrer davantage à la réalisation d’analyses ou d’études prospectives
 * piloter plus efficacement le capital humain de l’ARS ARA (en identifiant les besoins de recrutement, en mobilités, les services en difficultés à venir, etc.)
 * initier, par l’ouverture des données, un travail collaboratif sur les politiques RH et de santé avec les agents, les managers de l’Agence, les partenaires sociaux, etc.
 
 L’outil conçu pourra être mutualisé et profiter aux dix-sept autres agences régionales de santé.
-
-*Les porteurs de ce projet sont à la recherche d’un ou une data engineer et d’un ou une UX designer. Les profils idéaux auront une bonne capacité de cadrage, d’exploration et seront particulièrement proactifs.*
