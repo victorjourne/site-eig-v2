@@ -50,9 +50,10 @@ medias:
   tiles:
     - image: img/forbes.png
       title: Forbes
-      link: https://www.google.fr
+      link: https://www.forbes.fr/entrepreneurs/entrepreneurs-dinteret-general-comment-entreprendre-pour-ameliorer-le-service-public/
     - image: img/acteurs-publics.png
       title: Acteurs publics
+      link: https://www.acteurspublics.fr/articles/la-cinquieme-promotion-des-entrepreneurs-dinteret-general-souvre-a-de-nouveaux-profils
     - image: img/usbek-rica.png
       title: Usbek & Rica
 ---
