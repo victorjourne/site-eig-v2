@@ -11,7 +11,7 @@ numbers:
   - num: "80"
     title: administrations impactées
     btnTitle: Profils des agents publics
-    btnUrl: https://develop--site-eig-v2.netlify.app/agents
+    btnUrl: https://eig.etalab.gouv.fr/agents
 steps:
   title: |
     Les 3 phases du programme
@@ -21,7 +21,8 @@ steps:
       duration: 5 mois
       title: Concevoir
       dates: Mi-septembre à février
-      desc: Explorer, mener des recherches utilisateur, puis lancer rapidement son
+      desc:
+        Explorer, mener des recherches utilisateur, puis lancer rapidement son
         prototype (cibler, tester, itérer), modéliser sa performance (créer des
         indicateurs, ouvrir ou non ses données), tester et recevoir des retours
         (revue code et design), faciliter l'appropriation (gérer les
