@@ -32,7 +32,7 @@ Aujourd’hui, les demandes sont réceptionnées et hiérarchisées par des éva
 
 Le défi consiste en la création d’un outil d’aide à la décision qui permettra de détecter les risques et enjeux associés à chaque nouvelle demande reçue par l’ANSM, et de proposer le mode de traitement le plus adapté.
 
-#### Vos défis techniques
+#### Les défis techniques
 
 La solution :
 
@@ -40,7 +40,7 @@ La solution :
 * reposera sur un algorithme d’aide à la décision/un modèle de machine learning
 * sera fondamentalement centrée utilisateurs et reposera sur l’animation d’une communauté de testeurs et futurs utilisateurs
 
-#### Votre impact 
+#### L'impact 
 
 Grâce à l'outil créé, l’ANSM pourra :
 
