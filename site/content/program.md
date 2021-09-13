@@ -69,6 +69,8 @@ desc: >-
   * le numérique accessible
 
 
+
+
   Depuis 2016, les EIG et agents publics qui ont rejoint le programme ont eu des effets déterminants pour transformer les administrations et répondre aux attentes des citoyens.
 how:
   desc: >-
