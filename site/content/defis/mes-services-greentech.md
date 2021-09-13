@@ -31,9 +31,9 @@ Cette méconnaissance suscite des erreurs pouvant se traduire en occasions perdu
 
 ## Le terrain de jeu
 
-Vous voulez voir fleurir l’écosystème Greentech français ? Venez développer le portail extranet qui permettra aux acteurs de cet écosystème d’accéder simplement à toutes les ressources dont ils ont besoin pour leur développement.
+Le défi consiste en la création d'un portail extranet qui permettra aux acteurs de cet écosystème d’accéder simplement à toutes les ressources dont ils ont besoin pour leur développement.
 
-#### Vos défis techniques
+#### Les défis techniques
 
 La solution :
 
@@ -41,8 +41,6 @@ La solution :
 * sera résolument centrée utilisateurs
 * pourra intégrer API, moteur de recherche, ETL, webscrapping ou encore NLP/reconnaissance sémantique
 
-#### Votre impact 
+#### L'impact 
 
-L’outil conçu accélèrera la montée en compétences et le développement des startups et PME Greentech. Vous participerez donc activement aux politiques de la transition écologique. Par exemple, en aidant la startup Materr’Up (productrice de ciment et bétons d’argile) à diffuser largement sa solution en France, vous pourriez lui permettre de réduire les émissions de gaz à effet de serre du pays jusqu’à 2,5%.
-
-*Les agents publics porteurs de ce projet (eux-mêmes d’anciens entrepreneurs) sont à la recherche d’un ou une designer UX/UI, d’un ou une data scientist et d’un développeur ou une développeuse full-stack.*
+L’outil conçu accélèrera la montée en compétences et le développement des startups et PME Greentech. Les EIG participent donc activement aux politiques de la transition écologique. Par exemple, en aidant la startup Materr’Up (productrice de ciment et bétons d’argile) à diffuser largement sa solution en France, ils et elles lui permettent de réduire les émissions de gaz à effet de serre du pays jusqu’à 2,5%.
