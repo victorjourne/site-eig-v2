@@ -26,18 +26,18 @@ Cependant, ces souffrances humaines restent encore mal connues : il n’existe 
 
 ## Le terrain de jeu
 
-Le Ministère de la Mer souhaite créer une base de données des accidents du travail et des maladies professionnelles dans le secteur maritime, à mettre à disposition sur [data.gouv.fr](https://www.data.gouv.fr/fr/). Une fois ce socle constitué, vous explorerez les exploitations possibles en vous attaquant à des cas d’usage priorisés.
+Le Ministère de la Mer souhaite créer une base de données des accidents du travail et des maladies professionnelles dans le secteur maritime, à mettre à disposition sur [data.gouv.fr](https://www.data.gouv.fr/fr/). Une fois ce socle constitué, les EIG exploreront les exploitations possibles en vous attaquant à des cas d’usage priorisés.
 
-#### Vos défis techniques
+#### Les défis techniques
 
 La solution :
 
 * s’appuiera sur une collecte/remontée des données organisée de manière pérenne
 * facilitera le croisement et l’exploitation des données
 * nécessitera une investigation juridique (RGPD, sécurité des données, anonymisation, etc.)
-* reposera dans une grande mesure sur vos propositions
+* reposera dans une grande mesure sur les propositions des EIG 
 
-#### Votre impact 
+#### L'impact 
 
 Cette base de données ouvrira le champ des possibles en permettant :
 
@@ -45,5 +45,3 @@ Cette base de données ouvrira le champ des possibles en permettant :
 * de mesurer concrètement l’impact des politiques publiques mises en place et de les adapter finement : contrôle renforcé sur certaines activités ou certains navires, mesures de prévention, évolutions législatives, etc.
 
 pour, à terme, pouvoir diminuer le nombre d’accidents du travail et de maladies professionnelles dans le secteur maritime.
-
-*Les porteurs de ce projet sont à la recherche d’un développeur ou une développeuse front-end et d’un ou une data engineer. Les profils idéaux auront une bonne capacité de cadrage, d’exploration et seront particulièrement proactifs.*
