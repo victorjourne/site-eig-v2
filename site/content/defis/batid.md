@@ -32,7 +32,7 @@ Malheureusement, le croisement difficile entre les différentes bases de donnée
 
 Le défi consiste en la création d'un identifiant unique du bâtiment qui deviendra une véritable donnée pivot pour croiser les jeux de données pertinents entre eux.
 
-#### Vos défis techniques
+#### Les défis techniques
 
 La solution :
 
@@ -41,7 +41,7 @@ La solution :
 * découlera sur une mise en œuvre politique, pour laquelle il faudra étudier les opportunités réglementaires, les évolutions des textes de lois à envisager, etc.
 * permettra de connaître, pour chaque bâtiment, des informations importantes et de qualité (type de logement, matériaux, étiquette énergétique, type de chauffage, etc.)
 
-#### Votre impact 
+#### L'impact 
 
 Par la création de cet identifiant unique du bâtiment, nous ouvrirons le champ des possibles :
 
