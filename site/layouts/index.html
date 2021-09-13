@@ -138,9 +138,13 @@
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
       {{ range $index, $tile := .Params.medias.tiles }}
       <div class="fr-col-6 fr-col-sm-3 fr-col-lg-2">
-        <div class="fr-tile">
+        <div class="fr-tile fr-enlarge-link">
           <div class="fr-tile__body">
-            <h4 class="fr-tile__title">{{ $tile.title }}</h4>
+            <h4 class="fr-tile__title">
+              {{ with $tile.link }}<a href="{{ . }}" class="fr-tile__link" target="_blank">{{ end }}
+                {{ $tile.title }}
+              {{ with $tile.link }}</a>{{ end }}
+            </h4>
           </div>
           <div class="fr-tile__img">
             <img src="{{ $tile.image }}" class="fr-responsive-img" alt="" />

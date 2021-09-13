@@ -330,6 +330,12 @@ collections: # A list of collections the CMS should be able to edit
                       [
                         { label: Title, name: title, widget: string },
                         { label: Image, name: image, widget: image },
+                        {
+                          label: Lien,
+                          name: link,
+                          widget: string,
+                          required: false,
+                        },
                       ],
                   },
                 ],
