@@ -29,7 +29,7 @@ Malheureusement, ces interfaces ne sont pas corrélées, créant un éparpilleme
 
 ## Le terrain de jeu
 
-Intégrez les équipes de la Gendarmerie nationale pour créer un outil qui permettra d’abord de rapatrier les données des interfaces numériques et de les homogénéiser, pour ensuite les suivre, les exploiter et les visualiser de manière pertinente.
+Prenant place au sein des équipes de la Gendarmerie nationale, le défi consiste en la création d'un outil qui permettra d’abord de rapatrier les données des interfaces numériques et de les homogénéiser, pour ensuite les suivre, les exploiter et les visualiser de manière pertinente.
 
 #### Vos défis techniques
 
@@ -49,5 +49,3 @@ L’outil conçu ouvrira le champ des possibles pour les gendarmes qui pourront 
 * réagir à des signaux faibles (mouvements de foule, panique numérique, diffusion en masse de rumeurs erronées, etc.) et à tous types de crise (climatique, écologique, sanitaire, etc.)
 
 L’ensemble concourra vers une meilleure protection des citoyens.
-
-*Les agents publics porteurs de ce projet sont à la recherche d’un ou une data engineer (des compétences en scrapping seraient un plus) et d’un ou une data scientist avec une expertise sur les données web.*
