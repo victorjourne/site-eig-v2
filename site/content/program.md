@@ -57,7 +57,16 @@ desc: >-
   améliorent le service public. 
 
 
-  En initiant des démarches d'exploration et d'émergence, l'ambition du programme est de développer une administration plus entrepreneuriale, tant dans ses méthodes que sa culture de travail.
+  En initiant des démarches d'exploration et d'émergence, l'ambition du programme est de développer une administration plus entrepreneuriale, tant dans ses méthodes que sa culture de travail. Ses valeurs cardinales sont : 
+
+
+  * l’esprit entrepreneurial 
+
+  * l’open-data et l’open-source 
+
+  * le numérique éco-responsable 
+
+  * le numérique accessible
 
 
   Depuis 2016, les EIG et agents publics qui ont rejoint le programme ont eu des effets déterminants pour transformer les administrations et répondre aux attentes des citoyens.
