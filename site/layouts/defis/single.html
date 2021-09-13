@@ -45,7 +45,7 @@
           </div>
         </div>
       </div>
-      {{ $personnes := where (where .Site.Pages "Section" "personnes") ".Params.defi" .Title }}
+      {{ $personnes := where (where .Site.Pages "Section" "personnes") ".Params.defis" "intersect" (slice .Title) }}
       {{ if ( gt ( len $personnes ) 0 ) }}
       <h2>L’équipe</h2>
       <div class="fr-mb-12v">
