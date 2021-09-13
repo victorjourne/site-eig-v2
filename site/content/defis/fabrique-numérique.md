@@ -24,14 +24,14 @@ Des irritants et des demandes d’évolution sont constamment remontés par les 
 
 ## Le terrain de jeu
 
-En intégrant la Fabrique Numérique (incubateur de la DGFiP) les EIG accompagneront des projets numériques à fort impact (des startups d’Etat) visant à résoudre les irritants les plus importants.
+En intégrant la Fabrique Numérique (incubateur de la DGFiP) les EIG accompagnent des projets numériques à fort impact (des startups d’Etat) visant à résoudre les irritants les plus importants.
 
 Un appel à candidatures a été lancé auprès des agents de la DGFiP pour faire remonter plus formellement des initiatives internes. Certains passeront en investigation pour aboutir à de premières incubations courant octobre 2021.
 
-#### Vos défis techniques
+#### Les défis techniques
 
 Les EIG qualifieront les besoins et développeront des solutions avec les usagers en prenant part aux phases de conception, de prototypage et de consolidation avec la réalisation d’un MVP. Véritables coachs, ils diffuseront de nouvelles approches et méthodes de travail au sein de la DGFiP.
 
-#### Votre impact 
+#### L'impact 
 
 Grâce à cet accompagnement, des agents publics « intrapreneurs » seront en capacité de réaliser des projets innovants en expérimentant des solutions simples à fort impact. Les EIG contribueront alors à améliorer le service rendu aux usagers ainsi que le travail des agents de la DGFiP tout en impulsant un élan de transformation numérique au sein de la structure.
