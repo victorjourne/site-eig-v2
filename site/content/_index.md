@@ -42,7 +42,7 @@ join:
   title: Rejoindre la promotion 6
   btn:
     title: Participer
-    url: https://develop--site-eig-v2.netlify.app/participer/
+    url: /participer/
     external: true
 medias:
   desc: Parcourez les articles, tribunes, posts de blog sur le programme dans
