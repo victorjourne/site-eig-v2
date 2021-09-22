@@ -4,6 +4,7 @@ description: Comprendre les dynamiques culturelles territoriales
 who: Ministère de la Culture
 themes:
   - Numérique public
+  - Culture
 promos:
   - Promotion 4
 town: Paris (75001)
