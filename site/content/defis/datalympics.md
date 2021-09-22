@@ -28,12 +28,12 @@ Le défi consiste en la création d’une base de données qui permettra le cont
 
 Le défi comporte plusieurs enjeux techniques :
 
-* la documentation d’un schéma de données ;
-* la prise en compte de données de différents types et natures, produites en masse par diverses administrations ;
-* la constitution d’un jeu de données requêtable ;
-* la mise à jour automatique des données grâce aux API ;
-* la consolidation, le croisement et l’enrichissement des différentes données budgétaires, comptables et de commandes publiques ;
-* la cartographie des données disponibles permettant l’étude de l’impact socio-économique des dépenses liées à l’organisation des JOP2024.
+> * la documentation d’un schéma de données ;
+> * la prise en compte de données de différents types et natures, produites en masse par diverses administrations ;
+> * la constitution d’un jeu de données requêtable ;
+> * la mise à jour automatique des données grâce aux API ;
+> * la consolidation, le croisement et l’enrichissement des différentes données budgétaires, comptables et de commandes publiques ;
+> * la cartographie des données disponibles permettant l’étude de l’impact socio-économique des dépenses liées à l’organisation des JOP2024.
 
 Dans un second temps, les EIG pourront proposer des outils facilitant l’accès et la consultation de ces données.
 
