@@ -1,6 +1,6 @@
 ---
 numbers:
-  - num: "173"
+  - num: "172"
     title: Entrepreneurs d’intérêt général
     btnTitle: Découvrir les talents
     btnUrl: /talents
@@ -21,8 +21,7 @@ steps:
       duration: 5 mois
       title: Concevoir
       dates: Mi-septembre à février
-      desc:
-        Explorer, mener des recherches utilisateur, puis lancer rapidement son
+      desc: Explorer, mener des recherches utilisateur, puis lancer rapidement son
         prototype (cibler, tester, itérer), modéliser sa performance (créer des
         indicateurs, ouvrir ou non ses données), tester et recevoir des retours
         (revue code et design), faciliter l'appropriation (gérer les
