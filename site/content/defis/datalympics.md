@@ -3,7 +3,7 @@ title: Datalympics
 description: Contribuer à la transparence des fonds publics engagés pour les JOP 2024
 who: Direction du budget
 themes:
-  - Numérique public
+  - Sport
 promos:
   - Promotion 4
 town: Paris (75012)
