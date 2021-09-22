@@ -50,3 +50,5 @@ L’Agence Nationale de Sécurité du Médicament (ANSM) ainsi que l’Institut 
 Une ouverture grand public est prévue, après consultation avec les autres acteurs de la santé.
 
 ## Suite du défi
+
+{{< dailymotion x82dxrq >}}
