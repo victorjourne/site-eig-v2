@@ -31,36 +31,36 @@ L’enjeu est donc de rendre accessible la donnée autour du médicament auprès
 
 DataMed est un outil à destination du grand public et des professionnels de santé. Il agrège en un seul espace, accessible depuis le site de l’ANSM,  plusieurs types de données, dont des données exclusives à l’ANSM. Il intègre notamment deux grandes familles de données :
 
-* sur les ruptures de stocks de médicaments, de la direction de l’inspection ;
-* sur les effets indésirables et les erreurs médicamenteuses, ainsi que sur le bon usage du médicament, de la direction de la surveillance.
+> * sur les ruptures de stocks de médicaments, de la direction de l’inspection ;
+> * sur les effets indésirables et les erreurs médicamenteuses, ainsi que sur le bon usage du médicament, de la direction de la surveillance.
 
 L’accès aux informations autour des médicaments se veut rapide, intuitif et pédagogique.
 
 **Le défi s’est articulé autour de deux grands axes :**
 
-* aider à affiner la stratégie d’ouverture des données de l’ANSM à travers la création d’un Data Office ;
-* développer les outils pour lui permettre de publier ses données et d’innover afin d’améliorer l’information du public sur le médicament.
+> * aider à affiner la stratégie d’ouverture des données de l’ANSM à travers la création d’un Data Office ;
+> * développer les outils pour lui permettre de publier ses données et d’innover afin d’améliorer l’information du public sur le médicament.
 
 **La création du Data Office a permis de :**
 
-* définir le fonctionnement de l’équipe, ses activités clés, ses cibles, son évolution, ainsi que sa pérennisation ;
-* avoir une cohérence globale dans l’exploitation des données (cadrage, définition des usages-besoins-freins, étude de l’appétence, la viabilité et la faisabilité, inscription à la feuille de route de développement) ;
-* positionner les projets d’exploitation des données de l’ANSM au sein des différents pôles de l’Agence ;
-* impliquer les parties prenantes externes - professionnels de santé et patients - et internes - agents et management - pour un travail transverse et pluridisciplinaire.
+> * définir le fonctionnement de l’équipe, ses activités clés, ses cibles, son évolution, ainsi que sa pérennisation ;
+> * avoir une cohérence globale dans l’exploitation des données (cadrage, définition des usages-besoins-freins, étude de l’appétence, la viabilité et la faisabilité, inscription à la feuille de route de développement) ;
+> * positionner les projets d’exploitation des données de l’ANSM au sein des différents pôles de l’Agence ;
+> * impliquer les parties prenantes externes - professionnels de santé et patients - et internes - agents et management - pour un travail transverse et pluridisciplinaire.
 
 **La création de cette plateforme des données de santé a demandé de faire monter en qualité les données afin de permettre leur publication, via les actions suivantes :**
 
-* nettoyer les données ;
-* centraliser les données via l’utilisation d’un référentiel commun ;
-* croiser différentes bases de données pour renforcer la capacité d’exploitation et d’information ;
-* automatiser la mise à disposition de ces données détenues par l’ANSM ;
-* réaliser des analyses avec visualisation des données pour restituer l’information de manière simple et accompagnée ;
-* améliorer l’accès et la compréhension des données pour les patients et les professionnels de santé ;
-* adapter la représentation des données selon une charte graphique issue de l’ADN de l’ANSM.
+> * nettoyer les données ;
+> * centraliser les données via l’utilisation d’un référentiel commun ;
+> * croiser différentes bases de données pour renforcer la capacité d’exploitation et d’information ;
+> * automatiser la mise à disposition de ces données détenues par l’ANSM ;
+> * réaliser des analyses avec visualisation des données pour restituer l’information de manière simple et accompagnée ;
+> * améliorer l’accès et la compréhension des données pour les patients et les professionnels de santé ;
+> * adapter la représentation des données selon une charte graphique issue de l’ADN de l’ANSM.
 
 Outre les réalisations techniques, une grande partie de **la mission des EIG a été d’acculturer les directions concernées à des outils et méthodes qui permettront à l’Agence de poursuivre le travail d’ouverture des données.**
 
-> « La collaboration de l’ANSM avec les EIG est un maillon essentiel pour atteindre notre objectif d’être toujours plus accessibles à nos publics, ce qui passe aussi par une mise à disposition facilitée de nos données. Le projet DataMed ouvre la voie à de nouvelles perspectives pour l’ANSM comme pour son environnement. » – Patrick Maison, conseiller scientifique de l’ANSM, en charge du projet
+> « *La collaboration de l’ANSM avec les EIG est un maillon essentiel pour atteindre notre objectif d’être toujours plus accessibles à nos publics, ce qui passe aussi par une mise à disposition facilitée de nos données. Le projet DataMed ouvre la voie à de nouvelles perspectives pour l’ANSM comme pour son environnement.* » – Patrick Maison, conseiller scientifique de l’ANSM, en charge du projet
 
 ## Réalisations
 
