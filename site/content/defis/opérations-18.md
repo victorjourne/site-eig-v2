@@ -27,7 +27,7 @@ L’enjeu a été d’exploiter ces données au mieux, à la fois pendant les op
 
 ## Le défi : créer un outil permettant de visualiser, en temps réel, les moyens opérationnels engagés et les capacités opérationnelles encore disponibles
 
-Le défi a consisté en la création d’un outil d’aide à la décision pour les responsables des opérations. Il permet de fournir un état exhaustif, en temps réel, des ressources humaines et matérielles engagées sur les interventions. L’outil s’appuie sur les flux d’évenements existants qui sont diffusés lors de création d’interventions et de changements de status de véhicules.
+Le défi a consisté en la création d’un outil d’aide à la décision pour les responsables des opérations. Il permet de fournir un état exhaustif, en temps réel, des ressources humaines et matérielles engagées sur les interventions. L’outil s’appuie sur les flux d’évènements existants qui sont diffusés lors de création d’interventions et de changements de statuts de véhicules.
 
 La solution permet :
 
