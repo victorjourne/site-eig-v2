@@ -4,7 +4,7 @@ description: Simplifier la remise des titres des marins professionnels
 who: Direction des affaires maritimes
 themes:
   - Ressources humaines
-  - Numérique public
+  - Formation
 promos:
   - Promotion 4
 town: La Défense (92400)
