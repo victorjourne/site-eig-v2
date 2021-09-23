@@ -27,7 +27,7 @@ L’enjeu a été d’exploiter ces données au mieux, à la fois pendant les op
 
 ## Le défi : créer un outil permettant de visualiser, en temps réel, les moyens opérationnels engagés et les capacités opérationnelles encore disponibles
 
-Le défi a consisté en la création d’un outil d’aide à la décision pour les responsables des opérations. Il permet de fournir un état exhaustif, en temps réel, des ressources humaines et matérielles engagées sur les interventions. L’outil s’appuie sur les flux d’évenements existants qui sont diffusés lors de création d’interventions et de changements de status de véhicules.
+Le défi a consisté en la création d’un outil d’aide à la décision pour les responsables des opérations. Il permet de fournir un état exhaustif, en temps réel, des ressources humaines et matérielles engagées sur les interventions. L’outil s’appuie sur les flux d’évènements existants qui sont diffusés lors de création d’interventions et de changements de statuts de véhicules.
 
 La solution permet :
 
@@ -40,4 +40,4 @@ L’outil d’analyse a posteriori des données des interventions n’a pas pu �
 
 Ce défi a été présenté lors du webinaire « Gestion de crise » du mercredi 13 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-2 "Rediffusion du webinaire").
 
-Rendez-vous sur la page de présentation de l'appel à candidatures pour retrouver la liste complète des webinaires
+Rendez-vous sur la page de présentation de l'appel à candidatures pour retrouver la liste complète des webinaires.
