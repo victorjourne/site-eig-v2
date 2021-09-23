@@ -25,8 +25,8 @@ Afin de mener à bien ses missions, la HAS collabore quotidiennement avec des ex
 
 À ce jour, la HAS s’appuie sur deux sources de données pour analyser les liens d’intérêts financiers :
 
-* les [déclarations publiques d’intérêts](https://dpi.sante.gouv.fr/dpi-public-webapp/app/consultation/accueil) [](https://dpi.sante.gouv.fr/dpi-public-webapp/app/consultation/accueil)DPI) renseignées par les experts ;
-* la [base Transparence-santé](https://www.transparence.sante.gouv.fr/flow/main;jsessionid=B548CE0D257DC619125024538838EEDD?execution=e1s1) (TS) renseignée par les industriels.
+> * les [déclarations publiques d’intérêts](https://dpi.sante.gouv.fr/dpi-public-webapp/app/consultation/accueil) [](https://dpi.sante.gouv.fr/dpi-public-webapp/app/consultation/accueil)DPI) renseignées par les experts ;
+> * la [base Transparence-santé](https://www.transparence.sante.gouv.fr/flow/main;jsessionid=B548CE0D257DC619125024538838EEDD?execution=e1s1) (TS) renseignée par les industriels.
 
 Les données contenues dans Transparence Santé sont cependant très difficiles à exploiter et ne sont pas toujours de bonne qualité. Cela engendre un travail manuel fastidieux et un risque d’erreur sur le traitement des liens d’intérêts (précision, exhaustivité, qualité de l’analyse, etc.).
 
@@ -36,10 +36,10 @@ Face à cette problématique, ADEX propose une application web permettant d’in
 
 Les principaux enjeux du projet ADEX sont de :
 
-* Faciliter l’identification des **liens d’intérêts financiers** des professionnels de santé
-* Faciliter l’**export** et le partage de l’analyse des liens d’intérêts faite par l’utilisateur
-* Intégration dans les **process intra-HAS**
-* **Ouverture** de l’outil à l’extérieur de la HAS
+> * Faciliter l’identification des **liens d’intérêts financiers** des professionnels de santé
+> * Faciliter l’**export** et le partage de l’analyse des liens d’intérêts faite par l’utilisateur
+> * Intégration dans les **process intra-HAS**
+> * **Ouverture** de l’outil à l’extérieur de la HAS
 
 ## Suite du défi
 
