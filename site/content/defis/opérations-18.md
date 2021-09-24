@@ -40,4 +40,4 @@ L’outil d’analyse a posteriori des données des interventions n’a pas pu �
 
 Ce défi a été présenté lors du webinaire « Gestion de crise » du mercredi 13 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-2 "Rediffusion du webinaire").
 
-Rendez-vous sur la page de présentation de l'appel à candidatures pour retrouver la liste complète des webinaires
+Rendez-vous sur la page de présentation de l'appel à candidatures pour retrouver la liste complète des webinaires.
