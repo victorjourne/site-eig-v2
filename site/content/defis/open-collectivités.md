@@ -60,4 +60,4 @@ Ce défi a été présenté lors du webinaire « Transparence des politiques pub
 
 Rendez-vous sur la page de présentation de l'appel à candidatures pour retrouver la liste complète des webinaires.
 
-{{< arrow-link url="https://www.open-collectivites.fr/" title="Trouver une collectivité" target="undefined" >}}
+{{< arrow-link url="https://www.open-collectivites.fr/" title="Trouver une collectivité" target="true" >}}
