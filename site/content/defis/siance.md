@@ -47,21 +47,21 @@ Des indicateurs calculés sur la base des informations extraites des lettres de 
 
 ## Les étapes clefs
 
-* **Recherche utilisateur**: nous avons été à la rencontre des inspecteurs dans les directions régionales (qui suivent des établissements) et dans les directions nationales (qui suivent des problématiques).
-* **Apprentissage**: nous avons entraîné un algorithme de *machine learning* (NLP) pour classer de manière dite “supervisée” les sections des lettres de suite en fonction des problématiques qu’elles abordaient. Une *ontologie* (classification des problématiques de l’ASN, *typologie*) avait été déterminée en amont du défi par les inspecteurs.
-* **Production et consolidation de données**: notre processus d’ingestion des données traite les lettres de suite, les événements significatifs et les croise avec des informations externes (API sirene de l’INSEE, etc.).
-* **Harmonisation de 20 ans de données**: nous avons produit trois référentiels métiers qui répertorient les installations nucléaires, et les problématiques d’inspections afin de les harmoniser.
-* **Construction d’interfaces**: nous avons produit 6 écrans principaux qui répondent aux différents besoins des inspecteurs: “Préparer une inspection”, “Rechercher un document”, “Observer un document annoté par l’apprentissage”, “Planifier le programme d’inspection”, “Administrer le portail” (site, processus d’ingestion, apprentissage), “Évaluer une problématique de recherche”.
-* **Opérationnalisation**: dès le premier mois, nous avons déployé l’outil en production et en pré-production afin de bénéficier des retours des inspecteurs, d’adapter notre outil en continu et communiquer sur son existence.
-* **Liens avec d’autres institutions**: nous avons effectué de multiples présentations du projet SIANCE à des homologues étrangers de l’ASN et à des services du ministère de la Transition Écologique.
+> * **Recherche utilisateur**: nous avons été à la rencontre des inspecteurs dans les directions régionales (qui suivent des établissements) et dans les directions nationales (qui suivent des problématiques).
+> * **Apprentissage**: nous avons entraîné un algorithme de *machine learning* (NLP) pour classer de manière dite “supervisée” les sections des lettres de suite en fonction des problématiques qu’elles abordaient. Une *ontologie* (classification des problématiques de l’ASN, *typologie*) avait été déterminée en amont du défi par les inspecteurs.
+> * **Production et consolidation de données**: notre processus d’ingestion des données traite les lettres de suite, les événements significatifs et les croise avec des informations externes (API sirene de l’INSEE, etc.).
+> * **Harmonisation de 20 ans de données**: nous avons produit trois référentiels métiers qui répertorient les installations nucléaires, et les problématiques d’inspections afin de les harmoniser.
+> * **Construction d’interfaces**: nous avons produit 6 écrans principaux qui répondent aux différents besoins des inspecteurs: “Préparer une inspection”, “Rechercher un document”, “Observer un document annoté par l’apprentissage”, “Planifier le programme d’inspection”, “Administrer le portail” (site, processus d’ingestion, apprentissage), “Évaluer une problématique de recherche”.
+> * **Opérationnalisation**: dès le premier mois, nous avons déployé l’outil en production et en pré-production afin de bénéficier des retours des inspecteurs, d’adapter notre outil en continu et communiquer sur son existence.
+> * **Liens avec d’autres institutions**: nous avons effectué de multiples présentations du projet SIANCE à des homologues étrangers de l’ASN et à des services du ministère de la Transition Écologique.
 
 ## Suite du défi
 
 Pierre-Étienne Devineau a été prolongé jusqu’en décembre 2021 pour terminer l’industrialisation du projet. Durant ce temps il compte :
 
-* développer un outil pour faciliter l’analyse des indicateurs de sûreté nucléaires dûs par EDF
-* terminer l’interface d’annotation
-* publier le code source de l’application
-* améliorer les performances de l’algorithme d’apprentissage automatique
-* créer une API pour échanger avec PIREX, un outil d’analyse complémentaire de SIANCE développé par l’institut de radioprotection et de sûreté nucléaire (institut public expert intervenant avec l’ASN)
-* publier en *open data* le référentiel des installations nucléaires civiles
+> * développer un outil pour faciliter l’analyse des indicateurs de sûreté nucléaires dûs par EDF
+> * terminer l’interface d’annotation
+> * publier le code source de l’application
+> * améliorer les performances de l’algorithme d’apprentissage automatique
+> * créer une API pour échanger avec PIREX, un outil d’analyse complémentaire de SIANCE développé par l’institut de radioprotection et de sûreté nucléaire (institut public expert intervenant avec l’ASN)
+> * publier en *open data* le référentiel des installations nucléaires civiles
