@@ -47,4 +47,4 @@ La création d’une communauté de pratiques est un axe essentiel du défi. L�
 
 Ce défi a été présenté lors du webinaire « Open source, mutualisation d'outils et mémoire de l'administration » du mardi 19 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-5 "Rediffusion du webinaire").
 
-Rendez-vous sur la [page de présentation de l'appel à candidatures](https://damp-basin-47015.herokuapp.com/candidature-eig.html "Présentation de l'appel à candidatures") pour retrouver la liste complète des webinaires.
+Rendez-vous sur la page de présentation de l'appel à candidatures pour retrouver la liste complète des webinaires.
