@@ -2,7 +2,7 @@
 title: Nicolas Singellos
 job: Porteur de projet
 promos: Promotion 4
-role: agent-programme
+role: agent-public
 defis:
   - CapQualif
 image: img/nicolas-singellos.jpg
