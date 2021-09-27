@@ -59,3 +59,7 @@ MonitorFish est aujourd’hui utilisé au quotidien par les équipes du CNSP et 
 Ce défi a été présenté lors du webinaire « Énergie et environnement » du jeudi 14 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-3 "Rediffusion du webinaire").
 
 Rendez-vous sur la page de présentation de l'appel à candidatures pour retrouver la liste complète des webinaires.
+
+## Réalisations
+
+{{< dailymotion x82dypk >}}
