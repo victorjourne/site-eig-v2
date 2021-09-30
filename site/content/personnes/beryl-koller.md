@@ -1,9 +1,9 @@
 ---
-title: Beryl Armand
+title: "Beryl Koller "
 job: Développeuse
 promos: Promotion 5
 role: participant
-defis: 
+defis:
   - Basegun
 image: img/beryl-koller.jpg
 linkedin: https://www.linkedin.com/in/berylkoller/
