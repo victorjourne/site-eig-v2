@@ -4,7 +4,7 @@ job: Chargé des opérations
 role: agent-programme
 image: img/boris-bayard-photo.jpg
 ---
-Boris Bayard est chargé des opérations du programme Entrepreneurs d'Intérêt Général.
+Boris Bayard est chargé des opérations du programme Entrepreneurs d'Intérêt Général
 
 Passionné par le secteur public et sa modernisation, l'entreprenariat et l'innovation, Boris a accompagné des administrations publiques comme consultant pendant plusieurs années, après des stages dans le milieu culturel et humanitaire.
 
