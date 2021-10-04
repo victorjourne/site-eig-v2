@@ -4,6 +4,7 @@ description: Transformer les métiers des juridictions financières
 who: Cour des comptes
 themes:
   - Numérique public
+  - Finance
 promos:
   - Promotion 3
 town: Paris
