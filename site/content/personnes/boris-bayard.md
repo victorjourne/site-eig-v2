@@ -10,4 +10,4 @@ Passionné par le secteur public et sa modernisation, l'entreprenariat et l'inno
 
 Boris est diplômé de l'EDHEC et s'est formé aux sciences économiques à l'Université de Lille, ainsi qu'à l'histoire et à la philosophie à l'Université Paris Nanterre.
 
-Il est fan de musique (il a été longtemps bénévole au Festival de musique de La Chaise-Dieu), d'escalade (il ne dit jamais non à une soirée à Arkose) et de littérature française (il essaie de finir toutes les œuvres de Proust, Balzac et Huysmans !).
+Il est amateur de musique, d'escalade, de photographie, et de littérature française.
