@@ -35,3 +35,5 @@ Pajemploi est une offre de service du réseau des Urssaf qui permet par exemple�
 ## Rétrospective
 
 Assurer l’accès aux droits des citoyennes et citoyens, l’exemple du défi ACOSS-Plateforme
+
+{{< dailymotion x7o1567 >}}
