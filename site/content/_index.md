@@ -50,9 +50,10 @@ medias:
   tiles:
     - image: img/forbes.png
       title: Forbes
-      link: ""
-    - image: img/acteurs-publics.png
+      link: https://www.forbes.fr/entrepreneurs/entrepreneurs-dinteret-general-comment-entreprendre-pour-ameliorer-le-service-public/
+    - image: img/logo-les-echos.png
       title: Acteurs publics
+      link: https://start.lesechos.fr/travailler-mieux/metiers-reconversion/salaries-dans-la-tech-ils-ont-quitte-le-prive-pour-innover-dans-le-secteur-public-1352864
     - image: img/usbek-rica.png
       title: Usbek & Rica
 ---
