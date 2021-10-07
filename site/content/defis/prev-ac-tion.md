@@ -32,16 +32,16 @@ Le Ministère de la Mer souhaite créer une base de données des accidents du tr
 
 La solution :
 
-* s’appuiera sur une collecte/remontée des données organisée de manière pérenne
-* facilitera le croisement et l’exploitation des données
-* nécessitera une investigation juridique (RGPD, sécurité des données, anonymisation, etc.)
-* reposera dans une grande mesure sur les propositions des EIG 
+> * s’appuiera sur une collecte/remontée des données organisée de manière pérenne
+> * facilitera le croisement et l’exploitation des données
+> * nécessitera une investigation juridique (RGPD, sécurité des données, anonymisation, etc.)
+> * reposera dans une grande mesure sur les propositions des EIG 
 
 #### L'impact 
 
 Cette base de données ouvrira le champ des possibles en permettant :
 
-* de mieux connaître les accidents du travail et les maladies professionnelles dans le secteur maritime (pathologies les plus fréquentes, etc.) et de suivre leur incidence dans le temps
-* de mesurer concrètement l’impact des politiques publiques mises en place et de les adapter finement : contrôle renforcé sur certaines activités ou certains navires, mesures de prévention, évolutions législatives, etc.
+> * de mieux connaître les accidents du travail et les maladies professionnelles dans le secteur maritime (pathologies les plus fréquentes, etc.) et de suivre leur incidence dans le temps
+> * de mesurer concrètement l’impact des politiques publiques mises en place et de les adapter finement : contrôle renforcé sur certaines activités ou certains navires, mesures de prévention, évolutions législatives, etc.
 
 pour, à terme, pouvoir diminuer le nombre d’accidents du travail et de maladies professionnelles dans le secteur maritime.
