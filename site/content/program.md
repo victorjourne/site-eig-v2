@@ -92,7 +92,7 @@ then:
     ## Et après ?
 
 
-    Pour les EIG, le programme offre une trajectoire de carrière permettant de mettre leurs compétences au service de l'intérêt général. Après 10 mois d'immersion au coeur des métiers de l'administration, **plus de 50% des EIG choisissent de rester dans le secteur public**.
+    Pour les EIG, le programme offre une trajectoire de carrière permettant de mettre leurs compétences au service de l'intérêt général. Après 10 mois d'immersion au coeur des métiers de l'administration, **60% des EIG choisissent de rester dans le secteur public**.
 
 
     Pour les agents publics, le programme permet d'intégrer des outils et des talents durablement dans leurs services pour faire évoluer la qualité du service public. **90% des défis relevés lors du programme perdurent** ensuite dans les administrations qui les ont menés.
