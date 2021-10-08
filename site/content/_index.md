@@ -54,6 +54,9 @@ medias:
     - image: img/logo-les-echos.png
       title: Les Echos Start
       link: https://start.lesechos.fr/travailler-mieux/metiers-reconversion/salaries-dans-la-tech-ils-ont-quitte-le-prive-pour-innover-dans-le-secteur-public-1352864
-    - image: img/usbek-rica.png
-      title: Usbek & Rica
+    - image: img/acteurs-publics.png
+      title: Acteurs Publics
+      link: "
+        https://www.acteurspublics.fr/articles/la-feminisation-du-numerique-de-l\
+        etat-passe-par-les-profils-atypiques"
 ---
