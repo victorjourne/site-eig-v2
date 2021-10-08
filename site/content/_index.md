@@ -30,9 +30,10 @@ talents:
     - Charlotte Samson
 agents:
   sub: Les agents publics
-  desc: "Issus de tout type d'administration, qu'elle soit centrale, indépendante,
-    territoriale, de santé..., des agents publics accueillent deux ou trois
-    « EIG » dans leurs services pour relever ensemble les défis. "
+  desc: "Issus de tout type d'administration, qu'elle soit centrale de l'Etat,
+    d'un de ses opérateurs ou agences, territoriale, de santé..., des agents
+    publics accueillent deux ou trois « EIG » dans leurs services pour relever
+    ensemble les défis. "
   list:
     - Christophe Cuq
     - Valérie Genoud
