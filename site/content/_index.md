@@ -38,7 +38,7 @@ agents:
     - Christophe Cuq
     - Valérie Genoud
 join:
-  image: img/programme-eig_acceuil_auto_x2_light_ai-1-.jpg
+  image: img/photo-de-nadim.jfif
   sub: "du programme d'Entrepreneur d'intérêt général "
   title: Rejoindre la promotion 6
   btn:
