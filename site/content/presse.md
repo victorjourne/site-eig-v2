@@ -11,6 +11,10 @@ url: /espace-presse
 
 ###### 8 novembre 2021 — [Le programme “Entrepreneurs d’intérêt général” consolidé au sein du budget 2020](https://www.acteurspublics.fr/articles/le-programme-entrepreneurs-dinteret-general-consolide-au-sein-du-budget-2020)
 
+## Forbes
+
+###### 28 mars 2021 — [Entrepreneurs d’intérêt général : comment entreprendre pour améliorer le service public ?](https://www.forbes.fr/entrepreneurs/entrepreneurs-dinteret-general-comment-entreprendre-pour-ameliorer-le-service-public/)
+
 ## Le Monde informatique 
 
 ###### 3 mars 2021 — [L'Etat recrute 50 informaticiens pour des défis d'intérêt général](https://www.lemondeinformatique.fr/actualites/lire-l-etat-recrute-50-informaticiens-pour-des-defis-d-interet-general-82154.html)
