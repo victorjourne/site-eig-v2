@@ -247,3 +247,10 @@ img {
     }
   }
 }
+
+.fr-tag {
+  &--fix-center {
+    position: relative;
+    top: -2px;
+  }
+}

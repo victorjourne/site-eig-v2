@@ -35,7 +35,7 @@
           <h2>{{ .Params.criteria.title }}</h2>
           {{ partial "markdownify-block" .Params.criteria.desc }}
           {{ range .Params.criteria.list }}
-          <h3 class="fr-h4"><span class="fr-tag">Critère {{ .num }}</span> {{ .name }}</h3>
+          <h3 class="fr-h4"><span class="fr-tag fr-tag--fix-center">Critère {{ .num }}</span> {{ .name }}</h3>
           <p class="fr-mb-8v">{{ .desc }}</p>
           {{ end }}
           {{ partial "markdownify-block" .Params.steps }}
