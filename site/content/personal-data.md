@@ -16,3 +16,7 @@ Services du Premier Ministre
 A l'attention du délégué à la protection des données (DPD)
 56 rue de Varenne
 75007 Paris
+
+
+
+[TEST LIEN PDF](/img/document-sans-titre.pdf)
