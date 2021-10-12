@@ -7,6 +7,21 @@ export default class Grid {
     this.$filters = document.querySelectorAll(".js-filter");
 
     this.setupIsotope();
+    this.setupToggle();
+  }
+
+  setupToggle() {
+    document.querySelectorAll(".js-toggle").forEach((button) => {
+      button.addEventListener("click", () => {
+        if (button.classList.contains("fr-mt-4v")) {
+          button.classList.remove("fr-mt-4v");
+          button.textContent = "Afficher plus";
+        } else {
+          button.classList.add("fr-mt-4v");
+          button.textContent = "Afficher moins";
+        }
+      });
+    });
   }
 
   setupIsotope() {
