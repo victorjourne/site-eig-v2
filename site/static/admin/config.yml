@@ -133,6 +133,15 @@ collections: # A list of collections the CMS should be able to edit
           search_fields: ["title"],
           required: false,
         }
+      - {
+          label: "Expertises",
+          name: "expertises",
+          widget: "relation",
+          collection: "expertises",
+          multiple: true,
+          value_field: "title",
+          search_fields: ["title"],
+        }
       - { label: "Image", name: "image", widget: "image" }
       - {
           label: "Linkedin",
