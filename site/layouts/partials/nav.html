@@ -50,6 +50,14 @@
               {{ range .Site.Menus.nav }}
                 {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
                 {{ $active = or $active (eq .Identifier $current.Params.menu) }}
+                {{ $active = or $active (and (eq .Name "Défis") (eq $current.Section "defis")) }}
+                {{ $active = or $active (and (eq .Name "Participants") (eq $current.RelPermalink "/talents/")) }}
+                {{ $active = or $active (and (eq .Name "Participants") (eq $current.RelPermalink "/agents/")) }}
+                {{ $active = or $active (and (eq .Name "Participants") (eq $current.Section "personnes")) }}
+                {{ $active = or $active (and (eq .Name "Participer") (eq $current.RelPermalink "/participer/candidats/")) }}
+                {{ $active = or $active (and (eq .Name "Participer") (eq $current.RelPermalink "/participer/candidats/postuler/")) }}
+                {{ $active = or $active (and (eq .Name "Participer") (eq $current.RelPermalink "/participer/administrations/")) }}
+                {{ $active = or $active (and (eq .Name "Participer") (eq $current.RelPermalink "/participer/administrations/proposer/")) }}
                 {{ if .HasChildren }}
                 <li class="fr-nav__item">
                   <button class="fr-nav__btn" aria-expanded="false" aria-controls="menu-807"{{ if $active }} aria-current="true"{{ end }}>{{ .Name }}</button>
