@@ -33,6 +33,11 @@
                 <p class="fr-tag">{{ . }}</p>
               </li>
               {{ end }}
+              {{ range $index, $promos := .Params.promos }}
+              <li>
+                <p class="fr-tag">{{ . }}</p>
+              </li>
+              {{ end }}
             </ul>
             <p class="fr-mb-2v"><strong>{{ .Params.who }}</strong></p>
             <p class="c-project-head__meta fr-mb-1v">
