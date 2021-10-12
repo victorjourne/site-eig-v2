@@ -3,33 +3,34 @@ title: Plan du site
 layout: page
 url: /plan-du-site
 ---
-[Acceuil](https://develop--site-eig-v2.netlify.app/)
 
-[Programme](https://develop--site-eig-v2.netlify.app/programme/)
+[Acceuil](https://eig.etalab.gouv.fr/)
 
-[Défis](https://develop--site-eig-v2.netlify.app/defis/)
+[Programme](https://eig.etalab.gouv.fr/programme/)
+
+[Défis](https://eig.etalab.gouv.fr/defis/)
 
 Participants
 
-> [Talents EIG](https://develop--site-eig-v2.netlify.app/talents/)
+> [Talents EIG](https://eig.etalab.gouv.fr/talents/)
 >
-> [Agents publics](https://develop--site-eig-v2.netlify.app/agents/)
+> [Agents publics](https://eig.etalab.gouv.fr/agents/)
 
-[Equipe](https://develop--site-eig-v2.netlify.app/equipe/)
+[Equipe](https://eig.etalab.gouv.fr/equipe/)
 
 > L'équipe du programme
 >
 > Ecosystème
 
-[Participer](https://develop--site-eig-v2.netlify.app/participer/)
+[Participer](https://eig.etalab.gouv.fr/participer/)
 
-> [Candidats](https://develop--site-eig-v2.netlify.app/participer/candidats/)
+> [Candidats](https://eig.etalab.gouv.fr/participer/candidats/)
 >
-> [Administrations](https://develop--site-eig-v2.netlify.app/participer/administrations/)
+> [Administrations](https://eig.etalab.gouv.fr/participer/administrations/)
 >
-> * [Proposer un projet](https://develop--site-eig-v2.netlify.app/participer/administrations/proposer/)
-> * [Cahier des charges](https://develop--site-eig-v2.netlify.app/img/blank.pdf)
+> - [Proposer un projet](https://eig.etalab.gouv.fr/participer/administrations/proposer/)
+> - [Cahier des charges](https://eig.etalab.gouv.fr/img/blank.pdf)
 
-[Contact](https://develop--site-eig-v2.netlify.app/contact/)
+[Contact](https://eig.etalab.gouv.fr/contact/)
 
-[Blog](https://develop--site-eig-v2.netlify.app/blog/)
+[Blog](https://eig.etalab.gouv.fr/blog/)

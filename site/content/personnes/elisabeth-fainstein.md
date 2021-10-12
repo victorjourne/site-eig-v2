@@ -3,6 +3,8 @@ title: Elisabeth Fainstein
 job: Coach Développeuse
 promos: Promotion 5
 role: agent-programme
+defis:
+  - CapQualif
 image: img/elisabeth-fainstein.png
 linkedin: https://www.linkedin.com/in/elisabeth-fainstein
 github: https://github.com/officierazarov

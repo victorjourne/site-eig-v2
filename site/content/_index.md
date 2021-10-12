@@ -3,7 +3,7 @@ title: Projets de la promotion 5
 hero:
   btn:
     title: Participer
-    url: https://develop--site-eig-v2.netlify.app/participer/
+    url: https://eig.etalab.gouv.fr/participer/
   title: |+
     Entreprendre
     pour le service public
@@ -30,19 +30,20 @@ talents:
     - Charlotte Samson
 agents:
   sub: Les agents publics
-  desc: "Issus de tout type d'administration, qu'elle soit centrale, indépendante,
-    territoriale, de santé..., des agents publics accueillent deux ou trois
-    « EIG » dans leurs services pour relever ensemble les défis. "
+  desc: "Issus de tout type d'administration, qu'elle soit centrale de l'Etat,
+    d'un de ses opérateurs ou agences, territoriale, de santé..., des agents
+    publics accueillent deux ou trois « EIG » dans leurs services pour relever
+    ensemble les défis. "
   list:
     - Christophe Cuq
     - Valérie Genoud
 join:
-  image: img/programme-eig_acceuil_auto_x2_light_ai-1-.jpg
+  image: img/photo-de-nadim.jfif
   sub: "du programme d'Entrepreneur d'intérêt général "
   title: Rejoindre la promotion 6
   btn:
     title: Participer
-    url: https://develop--site-eig-v2.netlify.app/participer/
+    url: https://eig.etalab.gouv.fr/participer/
     external: true
 medias:
   desc: Parcourez les articles, tribunes, posts de blog sur le programme dans
@@ -51,9 +52,12 @@ medias:
     - image: img/forbes.png
       title: Forbes
       link: https://www.forbes.fr/entrepreneurs/entrepreneurs-dinteret-general-comment-entreprendre-pour-ameliorer-le-service-public/
+    - image: img/logo-les-echos.png
+      title: Les Echos Start
+      link: https://start.lesechos.fr/travailler-mieux/metiers-reconversion/salaries-dans-la-tech-ils-ont-quitte-le-prive-pour-innover-dans-le-secteur-public-1352864
     - image: img/acteurs-publics.png
-      title: Acteurs publics
-      link: https://www.acteurspublics.fr/articles/la-cinquieme-promotion-des-entrepreneurs-dinteret-general-souvre-a-de-nouveaux-profils
-    - image: img/usbek-rica.png
-      title: Usbek & Rica
+      title: Acteurs Publics
+      link: "
+        https://www.acteurspublics.fr/articles/la-feminisation-du-numerique-de-l\
+        etat-passe-par-les-profils-atypiques"
 ---

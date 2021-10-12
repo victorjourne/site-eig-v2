@@ -1,6 +1,6 @@
 ---
 numbers:
-  - num: "173"
+  - num: "172"
     title: Entrepreneurs d’intérêt général
     btnTitle: Découvrir les talents
     btnUrl: /talents
@@ -11,7 +11,7 @@ numbers:
   - num: "80"
     title: administrations impactées
     btnTitle: Profils des agents publics
-    btnUrl: https://develop--site-eig-v2.netlify.app/agents
+    btnUrl: https://eig.etalab.gouv.fr/agents
 steps:
   title: |
     Les 3 phases du programme
@@ -92,7 +92,7 @@ then:
     ## Et après ?
 
 
-    Pour les EIG, le programme offre une trajectoire de carrière permettant de mettre leurs compétences au service de l'intérêt général. Après 10 mois d'immersion au coeur des métiers de l'administration, **plus de 50% des EIG choisissent de rester dans le secteur public**.
+    Pour les EIG, le programme offre une trajectoire de carrière permettant de mettre leurs compétences au service de l'intérêt général. Après 10 mois d'immersion au coeur des métiers de l'administration, **60% des EIG choisissent de rester dans le secteur public**.
 
 
     Pour les agents publics, le programme permet d'intégrer des outils et des talents durablement dans leurs services pour faire évoluer la qualité du service public. **90% des défis relevés lors du programme perdurent** ensuite dans les administrations qui les ont menés.

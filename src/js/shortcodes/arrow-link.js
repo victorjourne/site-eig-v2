@@ -30,6 +30,6 @@ export default {
       return `{{< arrow-link url="${obj.url}" title="${obj.title}" target="${obj.target}" >}}`;
   },
   toPreview: function(obj) {
-      return `<a href="${obj.url}" class="fr-link fr-fi-arrow-right-line fr-link--icon-right" target="${obj.target ? '_blank' : '_self'}">${obj.title}</a>`;
+      return `<a href="${obj.url}" class="fr-link fr-fi-arrow-right-line fr-link--icon-right" target="${obj.target}">${obj.title}</a>`;
   },
 }

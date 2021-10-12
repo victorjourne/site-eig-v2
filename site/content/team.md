@@ -14,5 +14,5 @@ join:
   title: Vous voulez rejoindre notre ecosystème, apporter un soutien aux défis,
     devenir partenaire du programme ?
   desc: "Contactez-nous "
-  link: https://develop--site-eig-v2.netlify.app/contact/
+  link: https://eig.etalab.gouv.fr/contact/
 ---
