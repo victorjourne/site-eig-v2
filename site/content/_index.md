@@ -43,7 +43,7 @@ join:
   btn:
     title: Participer
     url: /participer/
-    external: true
+    external: false
 medias:
   desc: Parcourez les articles, tribunes, posts de blog sur le programme dans
     l'espace presse
