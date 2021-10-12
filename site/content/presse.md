@@ -11,6 +11,10 @@ url: /espace-presse
 
 ###### 8 novembre 2021 — [Le programme “Entrepreneurs d’intérêt général” consolidé au sein du budget 2020](https://www.acteurspublics.fr/articles/le-programme-entrepreneurs-dinteret-general-consolide-au-sein-du-budget-2020)
 
+## Le Monde informatique 
+
+###### 3 mars 2021 — [L'Etat recrute 50 informaticiens pour des défis d'intérêt général](https://www.lemondeinformatique.fr/actualites/lire-l-etat-recrute-50-informaticiens-pour-des-defis-d-interet-general-82154.html)
+
 ## Les Échos Start
 
 ###### 7 octobre 2021 — [Ils ont quitté le secteur de la tech pour entreprendre dans le public](https://start.lesechos.fr/travailler-mieux/metiers-reconversion/salaries-dans-la-tech-ils-ont-quitte-le-prive-pour-innover-dans-le-secteur-public-1352864)
