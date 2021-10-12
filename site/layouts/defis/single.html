@@ -26,7 +26,7 @@
           </div>
           <div class="fr-col-12 fr-col-lg-9">
             <h1 class="c-project-head__title">{{ .Title }}</h1>
-            <p class="fr-h4 fr-mb-2v">{{ .Description }}</p>
+            <p class="fr-h4 fr-mb-2v">{{ replace .Description "\n" "<br />" | safeHTML }}</p>
             <ul class="fr-tags-group fr-mb-2v">
               {{ range $index, $themes := .Params.themes }}
               <li>
