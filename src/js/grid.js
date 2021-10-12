@@ -34,6 +34,15 @@ export default class Grid {
 
     this.isotope = new Isotope($isotope, {
       layoutMode: "fitRows",
+      getSortData: {
+        name: ".fr-card__link",
+        promo: "[data-promo]",
+      },
+      sortAscending: {
+        promo: false,
+        name: true,
+      },
+      sortBy: ["promo", "name"],
     });
 
     // document.querySelector('.js-filter').addEventListener('change', (e) => {
