@@ -43,8 +43,8 @@ join:
   title: Rejoindre la promotion 6
   btn:
     title: Participer
-    url: https://eig.etalab.gouv.fr/participer/
-    external: true
+    url: /participer/
+    external: false
 medias:
   desc: Parcourez les articles, tribunes, posts de blog sur le programme dans
     l'espace presse
