@@ -44,7 +44,7 @@ join:
   btn:
     title: Participer
     url: https://eig.etalab.gouv.fr/participer/
-    external: true
+    external: false
 medias:
   desc: Parcourez les articles, tribunes, posts de blog sur le programme dans
     l'espace presse
