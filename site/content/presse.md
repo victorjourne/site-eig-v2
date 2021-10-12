@@ -14,3 +14,7 @@ url: /espace-presse
 ## Les Échos Start
 
 ###### 7 octobre 2021 — [Ils ont quitté le secteur de la tech pour entreprendre dans le public](https://start.lesechos.fr/travailler-mieux/metiers-reconversion/salaries-dans-la-tech-ils-ont-quitte-le-prive-pour-innover-dans-le-secteur-public-1352864)
+
+## Next Inpact
+
+###### 11 octobre 2021 — [La Dinum vise la parité en 2022](https://www.nextinpact.com/lebrief/48394/la-dinum-vise-parite-en-2022)
