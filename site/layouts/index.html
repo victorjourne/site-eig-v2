@@ -30,10 +30,14 @@
 
 <div class="c-section">
   <div class="fr-container">
-    <div class="c-section__head">
-      <h2 class="fr-h3 fr-mb-2v">La mission</h2>
-      <h3 class="fr-h1 fr-mb-4v">{{ .Params.defis.sub }}</h3>
-      <p>{{ replace .Params.defis.desc "\n" "<br />" | safeHTML }}</p>
+    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+      <div class="fr-col-12 fr-col-lg-10 fr-col-xl-9">
+        <div class="c-section__head">
+          <h2 class="fr-h3 fr-mb-2v">La mission</h2>
+          <h3 class="fr-h1 fr-mb-4v">{{ .Params.defis.sub }}</h3>
+          <p>{{ replace .Params.defis.desc "\n" "<br />" | safeHTML }}</p>
+        </div>
+      </div>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
       {{ range first 3 ( where .Site.RegularPages "Type" "defis" ).ByDate }}
@@ -52,10 +56,14 @@
 {{ if ( gt ( len $personnes ) 0 ) }}
 <div class="c-section c-section--white">
   <div class="fr-container">
-    <div class="c-section__head">
-      <h2 class="fr-h3 fr-mb-2v">Qui</h2>
-      <h3 class="fr-h1 fr-mb-4v">{{ .Params.talents.sub }}</h3>
-      <p>{{ replace .Params.talents.desc "\n" "<br />" | safeHTML }}</p>
+    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+      <div class="fr-col-12 fr-col-lg-10 fr-col-xl-9">
+        <div class="c-section__head">
+          <h2 class="fr-h3 fr-mb-2v">Qui</h2>
+          <h3 class="fr-h1 fr-mb-4v">{{ .Params.talents.sub }}</h3>
+          <p>{{ replace .Params.talents.desc "\n" "<br />" | safeHTML }}</p>
+        </div>
+      </div>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
       {{ range $personnes }}
@@ -75,10 +83,14 @@
 {{ if ( gt ( len $personnes ) 0 ) }}
 <div class="c-section c-section--blue">
   <div class="fr-container">
-    <div class="c-section__head">
-      <h2 class="fr-h3 fr-mb-2v">Et aussi</h2>
-      <h3 class="fr-h1 fr-mb-4v">{{ .Params.agents.sub }}</h3>
-      <p>{{ replace .Params.agents.desc "\n" "<br />" | safeHTML }}</p>
+    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+      <div class="fr-col-12 fr-col-lg-10 fr-col-xl-9">
+        <div class="c-section__head">
+          <h2 class="fr-h3 fr-mb-2v">Et aussi</h2>
+          <h3 class="fr-h1 fr-mb-4v">{{ .Params.agents.sub }}</h3>
+          <p>{{ replace .Params.agents.desc "\n" "<br />" | safeHTML }}</p>
+        </div>
+      </div>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters">
       {{ range $personnes }}
@@ -131,9 +143,13 @@
 
 <div class="c-section c-section--white fr-mb-10v">
   <div class="fr-container">
-    <div class="c-section__head">
-      <h2 class="fr-h3 fr-mb-2v">Dans les médias</h2>
-      <p>{{ .Params.medias.desc }}</p>
+    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+      <div class="fr-col-12 fr-col-lg-10 fr-col-xl-9">
+        <div class="c-section__head">
+          <h2 class="fr-h3 fr-mb-2v">Dans les médias</h2>
+          <p>{{ .Params.medias.desc }}</p>
+        </div>
+      </div>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
       {{ range $index, $tile := .Params.medias.tiles }}
