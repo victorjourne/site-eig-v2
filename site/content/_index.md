@@ -26,8 +26,7 @@ talents:
     réussite de ces défis.
   list:
     - Anne-Lise Coudry
-    - Charly Dottin
-    - Charlotte Samson
+    - TEST - Adeline Celier
 agents:
   sub: Les agents publics
   desc: "Issus de tout type d'administration, qu'elle soit centrale de l'Etat,
