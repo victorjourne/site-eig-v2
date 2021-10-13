@@ -27,6 +27,7 @@ talents:
   list:
     - Anne-Lise Coudry
     - TEST - Adeline Celier
+    - Alexandre Bastide
 agents:
   sub: Les agents publics
   desc: "Issus de tout type d'administration, qu'elle soit centrale de l'Etat,
@@ -35,7 +36,7 @@ agents:
     ensemble les défis. "
   list:
     - Christophe Cuq
-    - Valérie Genoud
+    - TEST - Adeline Celier
 join:
   image: img/photo-de-nadim.jfif
   sub: "du programme d'Entrepreneur d'intérêt général "
