@@ -15,7 +15,7 @@ expertises:
 image: img/eig2-archifiltre.svg
 visible: true
 ---
-**[Démonstration](https://archifiltre.fabrique.social.gouv.fr/)**
+{{< arrow-link url="https://archifiltre.fabrique.social.gouv.fr/" title="Démonstration" target="true" >}}
 
 Les archives sont comme un arbre : rassemblées en un endroit, elles ont de multiples ramifications qui mènent logiquement aux documents que l’on recherche. Dans ce monde d’arborescences, les archives des ministères sociaux constituent un enjeu de taille : tout (documents officiels, fiches, notes, mails…) doit être trié afin de conserver les documents à opposer en cas de réclamation. Or la multiplication des outils informatiques a contribué à la multiplication à la fois des données et des formats, rendant l’archivage encore plus compliqué.
 
