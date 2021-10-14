@@ -14,6 +14,10 @@ expertises:
 image: img/eig3-open-chronic.svg
 visible: true
 ---
+{{< arrow-link url="https://gitlab.com/healthdatahub" title="Code source" target="true" >}}
+
+
+
 La [Direction de la recherche, des études, de l’évaluation et des statistiques (DREES)](http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/) du Ministère des Solidarités et de la Santé souhaite construire une base de données des parcours de soin des malades chroniques et faciliter, pour les agences et établissements de santé, le développement d’une variété d’outils, notamment pour mieux comprendre les variabilités de prise en charge des malades et mieux coordonner les différents professionnels de santé (ville/hôpital).
 
 ## Open Chronic : faciliter l’exploitation du SNDS pour améliorer la prise en charge des maladies chroniques
