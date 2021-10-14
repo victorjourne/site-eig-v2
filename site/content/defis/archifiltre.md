@@ -17,6 +17,8 @@ visible: true
 ---
 {{< arrow-link url="https://archifiltre.fabrique.social.gouv.fr/" title="Démonstration" target="true" >}}
 
+{{< arrow-link url="https://github.com/jeanbaptisteassouad/archifiltre" title="Code source" target="true" >}}
+
 Les archives sont comme un arbre : rassemblées en un endroit, elles ont de multiples ramifications qui mènent logiquement aux documents que l’on recherche. Dans ce monde d’arborescences, les archives des ministères sociaux constituent un enjeu de taille : tout (documents officiels, fiches, notes, mails…) doit être trié afin de conserver les documents à opposer en cas de réclamation. Or la multiplication des outils informatiques a contribué à la multiplication à la fois des données et des formats, rendant l’archivage encore plus compliqué.
 
 **Avec Archifiltre, les ministères sociaux ont décidé de faire leur data révolution !** Ils veulent ainsi assurer un traitement fiable et pérenne de leurs archives - tailler leur arbre en quelque sorte.
