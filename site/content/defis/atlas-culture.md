@@ -63,8 +63,9 @@ La mission des EIG prolongée de juillet à décembre 2021 avec au programme :
 
 # Réalisations
 
-#### [Restitution défi](site/static/img/restitution-atlas-culture-202106.pdf)
+{{< arrow-link url="site/static/img/restitution-atlas-culture-202106.pdf" title="Restitution défi" target="true" >}}
 
-> * [Code source ouvert du Github](https://github.com/liviaribeiro/atlasculture)
+{{< arrow-link url="https://github.com/liviaribeiro/atlasculture" title="Code source ouvert sur Github" target="true" >}}
+
 > * Site web Atlas Culture des territoires (bientôt disponible)
 > * Lien vers les jeux de données de l'Atlas en ligne sur [data.culture.gouv.fr](http://data.culture.gouv.fr/)
