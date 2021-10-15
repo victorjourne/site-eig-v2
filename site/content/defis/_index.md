@@ -8,6 +8,7 @@ desc: >+
   bénéficier d’une équipe de talents du numérique - ou « EIG ».
 
 
+
   Découvrez ici les « défis » relevés par 5 promotions d'EIG et d'agents publics.
 
 visible: false
