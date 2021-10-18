@@ -61,11 +61,11 @@ La mission des EIG prolongée de juillet à décembre 2021 avec au programme :
 > * l'amélioration de l’outil cartographique avec la contribution d’une promotion d’étudiants en géographie
 > * la préparation de l'internalisation au sein du ministère
 
-# Réalisations
+# Restitution
 
 {{< arrow-link url="site/static/img/restitution-atlas-culture-202106-1-.pdf" title="Réalisation défi" target="true" >}}
 
 {{< arrow-link url="https://github.com/liviaribeiro/atlasculture" title="Code source ouvert sur Github" target="true" >}}
 
 > * Site web Atlas Culture des territoires (bientôt disponible)
-> * Lien vers les jeux de données de l'Atlas en ligne sur [data.culture.gouv.fr](http://data.culture.gouv.fr/)
+> * Lien vers les jeux de données de l'Atlas bientôt disponible
