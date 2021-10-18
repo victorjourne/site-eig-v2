@@ -68,4 +68,4 @@ La mission des EIG prolongée de juillet à décembre 2021 avec au programme :
 {{< arrow-link url="https://github.com/liviaribeiro/atlasculture" title="Code source ouvert sur Github" target="true" >}}
 
 > * Site web Atlas Culture des territoires (bientôt disponible)
-> * Lien vers les jeux de données de l'Atlas bientôt disponible
+> * Lien vers les jeux de données de l'Atlas (bientôt disponible)
