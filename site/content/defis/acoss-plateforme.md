@@ -26,7 +26,8 @@ visible: true
 
 Chaque année, le réseau de l’Union de recouvrement des cotisations de sécurité sociale et d’allocations familiales (Urssaf) recouvre pour le compte de l’Agence centrale des organismes de sécurité sociale (ACOSS) près de 500 milliards d’euros, auprès de 9,7 millions de cotisants au nom d’environ 900 partenaires.
 
-Le périmètre national de cette mission permet à l’ACOSS de disposer d’une véritable mine de données. Jusqu’à présent, l’Agence l’exploitait en proposant, par exemple, des analyses statistiques très qualitatives sur l’emploi. Aujourd’hui, consciente du potentiel de valorisation de ces données, elle souhaite développer de nouveaux services pour toutes ses parties prenantes : partenaires de la sécurité sociale, secteur privé, particuliers…
+> * Le périmètre national de cette mission permet à l’ACOSS de disposer d’une véritable mine de données. Jusqu’à présent, l’Agence l’exploitait en proposant, par exemple, des analyses statistiques très qualitatives sur l’emploi. 
+> * Aujourd’hui, consciente du potentiel de valorisation de ces données, elle souhaite développer de nouveaux services pour toutes ses parties prenantes : partenaires de la sécurité sociale, secteur privé, particuliers…
 
 ### Le défi : proposer de nouveaux services pour améliorer l’expérience utilisateur des particuliers employeurs et des salariés à domicile.
 
