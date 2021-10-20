@@ -15,7 +15,7 @@ url: /espace-presse
 
 **1 septembre 2021**
 
-[Administrations, digitalisez-vous!](site/static/img/2021_09_01net-le-mag_rentrée-des-eig.pdf)
+[Administrations, digitalisez-vous!](img/2021_09_01net-le-mag_rentrée-des-eig.pdf)
 
 **3 février 2021** 
 
