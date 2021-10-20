@@ -1,3 +1,3 @@
 ---
-title: Défis DIG
+title: Promotion 3 - DIG
 ---
