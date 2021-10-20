@@ -3,9 +3,9 @@ title: Anne-Lise Coudry
 job: Développeuse
 promos: Promotion 5
 role: participant
-defis: 
+defis:
   - Prev-AC-Tion
-image: img/annelise-coudry.png
+image: img/annelise-coudry-min.png
 linkedin: www.linkedin.com/in/anne-lise-coudry
 github: https://github.com/Anne-Lise
 ---
