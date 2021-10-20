@@ -13,6 +13,10 @@ url: /espace-presse
 
 [La féminisation du numérique de l’État passe par les “profils atypiques”](https://www.acteurspublics.fr/articles/la-feminisation-du-numerique-de-letat-passe-par-les-profils-atypiques)
 
+**1 septembre 2021**
+
+[Administrations, digitalisez-vous!](site/static/img/2021_09_01net-le-mag_rentrée-des-eig.pdf)
+
 **3 février 2021** 
 
 [La cinquième promotion des “Entrepreneurs d’intérêt général” s’ouvre à de nouveaux profils](https://www.acteurspublics.fr/articles/la-cinquieme-promotion-des-entrepreneurs-dinteret-general-souvre-a-de-nouveaux-profils)
