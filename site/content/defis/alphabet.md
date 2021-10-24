@@ -11,7 +11,7 @@ town: Paris
 date: 2021-10-24T14:34:24.036Z
 expertises:
   - Design
-image: img/alphabet.png
+image: img/eig1-default-1-.svg
 visible: true
 ---
 L’Éducation nationale rassemble 30 académies, 97 directions départementales, 62 000 établissements et 1,2 million d’agents. Ceux-ci ont des besoins communs : choisir une date de réunion avec des collègues, générer une visioconférence pour une réunion, se concerter pour choisir un manuel scolaire, prendre des notes ensemble… Pourtant, les services numériques sont le plus souvent proposés à l’échelle des académies et ne sont pas partagés à l’ensemble des agents de l’Éducation nationale. En résultent des disparités d’expérience entre les territoires, et des difficultés à travailler ensemble au delà de son académie.
