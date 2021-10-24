@@ -5,7 +5,7 @@ who: Ministère des Armées
 themes:
   - Sécurité
 promos:
-  - Défis DIG
+  - Promotion 3 - DIG
 town: Paris
 date: 2021-10-17T09:42:47.429Z
 expertises:
