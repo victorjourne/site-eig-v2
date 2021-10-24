@@ -33,9 +33,9 @@ Pour réaliser ces nombreuses actions, souder la promotion EIG3, et assurer l’
 
 Deux EIG seront intégrés à l’équipe d’Etalab afin d’accompagner la promotion EIG3 :
 
-* **Animation du collectif** : participation au programme d’accompagnement de la promotion, mise en place de nouveaux formats d’interactions et d’apprentissages entre les EIG et auprès des administrations ;
-* **Soutien méthodologique et technique des défis** : méthodes de travail agile, suivi des projets tout au long de leur réalisation, aide à la pérennisation et à l’ouverture (données et codes) ;
-* **Accompagnement sur les ressources techniques à mobiliser (données, hébergement, SI, etc.)** et développement d’outils pour le collectif.
+> * **Animation du collectif** : participation au programme d’accompagnement de la promotion, mise en place de nouveaux formats d’interactions et d’apprentissages entre les EIG et auprès des administrations ;
+> * **Soutien méthodologique et technique des défis** : méthodes de travail agile, suivi des projets tout au long de leur réalisation, aide à la pérennisation et à l’ouverture (données et codes) ;
+> * **Accompagnement sur les ressources techniques à mobiliser (données, hébergement, SI, etc.)** et développement d’outils pour le collectif.
 
 Les EIG Link seront présents aux côtés de la promotion à toutes les étapes de la réalisation des défis, et apporteront leur soutien lors des moments charnières : établissement de la feuille de route technique initiale, sensibilisation à la recherche utilisateurs/produit, réorientations éventuelles, pérennisation des solutions mises en place, dans une logique d’ouverture des données et du code, aide à la documentation, etc.
 
