@@ -103,7 +103,7 @@
           </div>
           <div class="fr-col-12 fr-col-lg-8">
             <p class="fr-tag">{{ .Params.defi }}</p>
-            <p class="fr-mt-3v fr-mb-4v">{{ .Params.desc }}</p>
+            <p class="fr-mt-3v fr-mb-4v">{{ replace .Params.desc "\n" "<br />" | safeHTML }}</p>
             <div class="c-section__agent-info">
               <p class="fr-text--lg fr-mb-0"><a href="{{ .RelPermalink }}">{{ .Title }}</a>,</p>
               <p>{{ .Params.job }}</p>

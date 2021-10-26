@@ -3,7 +3,7 @@
 <div class="fr-container fr-mt-8v fr-mb-10v">
   <h1>{{ .Params.title }}</h1>
   <p class="fr-text--lead">
-    {{ .Params.desc }}
+    {{ replace .Params.desc "\n" "<br />" | safeHTML }}
   </p>
 </div>
 
