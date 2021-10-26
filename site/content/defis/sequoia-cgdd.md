@@ -44,6 +44,6 @@ Etant complémentaire du site institutionnel du Ministère (MTES) - centré sur 
 
 ## Réalisations
 
-{{< arrow-link url="img/sequoia_rechercheux_compressed.pdf" title="Recherche utilisateur" target="true" >}}
+![](img/sequoiacgdd_mappingbesoins_2020-1.png)
 
 {{< arrow-link url="img/sequoiacgdd_synthese_rechercheutilisateur_2020_compressed.pdf" title="Recherche utilisateur: synthèse " target="true" >}}
