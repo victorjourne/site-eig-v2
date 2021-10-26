@@ -46,5 +46,3 @@ Ils auront par ailleurs l’occasion de participer aux autres activités d’Eta
 ## Réalisations
 
 {{< arrow-link url="https://www.etalab.gouv.fr/" title="Découvrir Etalab" target="true" >}}
-
-s
