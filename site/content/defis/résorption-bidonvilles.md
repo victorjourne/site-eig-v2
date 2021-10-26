@@ -34,10 +34,10 @@ Plus d’informations sur le projet : [resorption-bidonvilles.beta.gouv.fr](htt
 
 Le designer renforce une équipe pluridisciplinaire composée d’un développeur, d’un coach et d’un intrapreneur de la Dihal. Le défi consiste à :
 
-* clarifier les attentes et les besoins des différents types d’utilisateurs ;
-* définir des parcours utilisateurs clairs. Ces parcours devront prendre en compte les différents types d’utilisateurs en fonction du niveau de confidentialité des données ;
-* co-construction des maquettes fonctionnelles avec l’équipe et les parties prenantes ;
-* créer un parcours spécifique pour le grand public à des fins d’information citoyenne.
+> * clarifier les attentes et les besoins des différents types d’utilisateurs ;
+> * définir des parcours utilisateurs clairs. Ces parcours devront prendre en compte les différents types d’utilisateurs en fonction du niveau de confidentialité des données ;
+> * co-construction des maquettes fonctionnelles avec l’équipe et les parties prenantes ;
+> * créer un parcours spécifique pour le grand public à des fins d’information citoyenne.
 
 ## Réalisations
 
