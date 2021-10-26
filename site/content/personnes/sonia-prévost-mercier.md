@@ -2,7 +2,8 @@
 title: Sonia Prévost Mercier
 job: Développeuse
 desc: ""
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: participant
 defis:
   - UrssafassuR

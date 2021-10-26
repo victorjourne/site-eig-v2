@@ -5,7 +5,8 @@ desc: |-
   TEST 
 
   TEST 
-promos: "Promotion 1 "
+promos:
+  - "Promotion 1 "
 role: participant
 defis:
   - Atlas Culture

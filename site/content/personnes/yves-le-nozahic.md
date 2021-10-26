@@ -1,7 +1,8 @@
 ---
 title: Yves Le Nozahic
 job: Porteur de projet
-promos: Promotion 4
+promos:
+  - Promotion 4
 role: agent-public
 defis:
   - CapQualif

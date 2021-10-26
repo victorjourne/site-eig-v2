@@ -26,8 +26,8 @@
       <div class="c-talent fr-mb-8v">
         <div class="fr-grid-row fr-grid-row--gutters">
           <div class="fr-col-12 fr-col-lg-7">
-            {{ if ne .Params.promos "" }}
-            <div class="fr-mb-2v">{{ .Params.promos }}</div>
+            {{ with .Params.promos }}
+            <div class="fr-mb-2v">{{ delimit . ", " }}</div>
             {{ end }}
             <h1 class="fr-mb-2v">{{ .Title }}</h1>
             <div class="fr-h4 fr-mb-2v">{{ .Params.job }}</div>

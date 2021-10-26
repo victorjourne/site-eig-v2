@@ -1,7 +1,8 @@
 ---
 title: Thaïs Coutinho
 job: Designer
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: participant
 defis:
   - GDR Santé

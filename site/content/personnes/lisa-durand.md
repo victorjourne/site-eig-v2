@@ -2,7 +2,8 @@
 title: Lisa Durand
 job: Développeuse
 desc: ""
-promos: Promotion 4
+promos:
+  - Promotion 4
 role: participant
 defis:
   - Envinorma

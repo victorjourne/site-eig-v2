@@ -1,7 +1,8 @@
 ---
 title: Thomas Brosset
 job: Développeur
-promos: Promotion 4
+promos:
+  - Promotion 4
 role: participant
 defis:
   - ADEX

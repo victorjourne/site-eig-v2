@@ -1,7 +1,8 @@
 ---
 title: Pengfei Liu
 job: Data engineer
-promos: Promotion 4
+promos:
+  - Promotion 4
 role: participant
 defis:
   - SSP Datalab

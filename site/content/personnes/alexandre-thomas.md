@@ -1,7 +1,8 @@
 ---
 title: Alexandre Thomas
 job: Data Engineer
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: participant
 defis: 
   - CyberImpact

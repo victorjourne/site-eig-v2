@@ -1,7 +1,8 @@
 ---
 title: "Nadim Bel Lallahom "
 job: Designer
-promos: Promotion 4
+promos:
+  - Promotion 4
 role: participant
 defis:
   - France Transition

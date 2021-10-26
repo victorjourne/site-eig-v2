@@ -1,7 +1,8 @@
 ---
 title: Pierre-Étienne Devineau
 job: Data scientist
-promos: Promotion 4
+promos:
+  - Promotion 4
 role: participant
 defis:
   - SIANCE

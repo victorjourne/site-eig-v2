@@ -1,7 +1,8 @@
 ---
 title: Sébastien Touzé
 job: Développeur
-promos: Promotion 3
+promos:
+  - Promotion 3
 role: participant
 defis:
   - CibNav

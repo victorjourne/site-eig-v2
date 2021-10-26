@@ -1,7 +1,8 @@
 ---
 title: Charly Dottin
 job: "Designer "
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: participant
 defis: 
   - Green Data for Health

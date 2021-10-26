@@ -1,7 +1,8 @@
 ---
 title: Anne-Lise Coudry
 job: Développeuse
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: participant
 defis: 
   - Prev-AC-Tion

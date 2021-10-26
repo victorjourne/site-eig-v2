@@ -1,7 +1,8 @@
 ---
 title: Frédéric Comte
 job: Porteur de projet
-promos: Promotion 4
+promos:
+  - Promotion 4
 role: agent-public
 defis:
   - SSP Datalab

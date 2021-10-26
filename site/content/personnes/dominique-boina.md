@@ -1,7 +1,8 @@
 ---
 title: Dominique Boina
 job: "Porteuse de projet "
-promos: Promotion 4
+promos:
+  - Promotion 4
 role: agent-public
 defis:
   - SIANCE

@@ -1,7 +1,8 @@
 ---
 title: Hélène Jonin
 job: Développeuse
-promos: Promotion 4
+promos:
+  - Promotion 4
 role: participant
 defis:
   - SEDAccord

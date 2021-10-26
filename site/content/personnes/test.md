@@ -2,7 +2,6 @@
 title: Evelyne Duplessis
 job: Porteuse de projet
 desc: ""
-promos: null
 role: agent-public
 defis:
   - e-PSHAD

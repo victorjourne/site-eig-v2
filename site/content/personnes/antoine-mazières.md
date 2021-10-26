@@ -2,7 +2,8 @@
 title: Antoine Mazières
 job: Data scientist
 desc: ""
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: participant
 defis:
   - CyberImpact

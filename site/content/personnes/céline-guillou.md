@@ -1,7 +1,8 @@
 ---
 title: Céline Guillou
 job: Porteuse de projet
-promos: Promotion 4
+promos:
+  - Promotion 4
 role: agent-public
 defis:
   - MonitorFish

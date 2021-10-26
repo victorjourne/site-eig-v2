@@ -1,7 +1,8 @@
 ---
 title: Lívia Ribeiro
 job: Développeuse
-promos: Promotion 4
+promos:
+  - Promotion 4
 role: participant
 defis:
   - Atlas Culture

@@ -1,7 +1,8 @@
 ---
 title: Frédérique Doman
 job: Coach Designer
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: agent-programme
 image: img/frederique-doman.jpg
 linkedin: https://www.linkedin.com/in/fr%C3%A9d%C3%A9rique-doman-91264291

@@ -1,7 +1,8 @@
 ---
 title: "Beryl Koller "
 job: Développeuse
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: participant
 defis:
   - Basegun

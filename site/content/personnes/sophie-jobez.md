@@ -1,7 +1,8 @@
 ---
 title: Sophie Jobez
 job: Développeuse
-promos: Promotion 4
+promos:
+  - Promotion 4
 role: participant
 defis:
   - DataMed

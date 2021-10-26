@@ -1,7 +1,8 @@
 ---
 title: Thomas Parisot
 job: Coach Product manager
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: agent-programme
 image: img/thomas-parisot.jpg
 linkedin: https://www.linkedin.com/in/tparisot/

@@ -1,7 +1,8 @@
 ---
 title: Victor Journé
 job: Data scientist
-promos: Promotion 3
+promos:
+  - Promotion 3
 role: participant
 defis:
   - IA Flash

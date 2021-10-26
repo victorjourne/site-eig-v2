@@ -1,7 +1,8 @@
 ---
 title: Javier Cuadrado Manteca
 job: Développeur
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: participant
 defis:
   - e-PSHAD

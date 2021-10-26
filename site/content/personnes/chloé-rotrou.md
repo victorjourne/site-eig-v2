@@ -1,7 +1,8 @@
 ---
 title: Chloé Rotrou
 job: "Designer "
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: participant
 defis: 
   - "TRISTAN "

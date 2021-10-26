@@ -1,7 +1,8 @@
 ---
 title: Soufiane Lamrissi
 job: Développeur
-promos: Promotion 3
+promos:
+  - Promotion 3
 role: participant
 defis:
   - Karfu’R

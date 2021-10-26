@@ -1,7 +1,8 @@
 ---
 title: Gilles Gonon
 job: Data Scientist
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: participant
 defis:
   - SMASH

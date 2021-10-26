@@ -1,7 +1,8 @@
 ---
 title: Ryan Lahfa
 job: Développeur
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: participant
 defis:
   - "TRISTAN "

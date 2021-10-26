@@ -1,7 +1,8 @@
 ---
 title: Constance de Quatrebarbes
 job: Data Engineer
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: participant
 defis:
   - Green Data for Health

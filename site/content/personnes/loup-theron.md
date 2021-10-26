@@ -1,7 +1,8 @@
 ---
 title: Loup Theron
 job: Développeur
-promos: Promotion 4
+promos:
+  - Promotion 4
 role: participant
 defis:
   - MonitorFish

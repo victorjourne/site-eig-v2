@@ -1,7 +1,8 @@
 ---
 title: Charlotte Samson
 job: "Data scientist "
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: participant
 defis: 
   - Mes services Greentech

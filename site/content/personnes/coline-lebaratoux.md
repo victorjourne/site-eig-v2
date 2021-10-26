@@ -1,7 +1,8 @@
 ---
 title: Coline Lebaratoux
 job: Designer
-promos: Promotion 3
+promos:
+  - Promotion 3
 role: participant
 defis:
   - ACOSS-Plateforme

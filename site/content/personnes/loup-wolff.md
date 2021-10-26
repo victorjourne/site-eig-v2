@@ -1,7 +1,8 @@
 ---
 title: Loup Wolff
 job: Porteur de projet
-promos: Promotion 4
+promos:
+  - Promotion 4
 role: participant
 defis:
   - Atlas Culture

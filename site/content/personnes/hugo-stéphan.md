@@ -1,7 +1,8 @@
 ---
 title: Hugo Stéphan
 job: Designer
-promos: Promotion 3
+promos:
+  - Promotion 3
 role: participant
 defis:
   - Karfu’R

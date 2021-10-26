@@ -1,7 +1,8 @@
 ---
 title: Philippe Galvan
 job: Data Engineer
-promos: Promotion 5
+promos:
+  - Promotion 5
 role: participant
 defis:
   - Prev-AC-Tion

@@ -1,7 +1,8 @@
 ---
 title: Alexandre Bastide
 job: Porteur de projet
-promos: Promotion 5
+promos: 
+  - Promotion 5
 role: agent-public
 defis:
   - Décos

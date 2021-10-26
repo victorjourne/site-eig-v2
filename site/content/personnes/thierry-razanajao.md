@@ -1,7 +1,8 @@
 ---
 title: Thierry Razanajao
 job: Data scientist
-promos: Promotion 3
+promos:
+  - Promotion 3
 role: participant
 defis:
   - DataReg
