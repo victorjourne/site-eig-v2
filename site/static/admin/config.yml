@@ -152,6 +152,7 @@ collections: # A list of collections the CMS should be able to edit
         }
       - { label: "Github", name: "github", widget: "string", required: false }
       - { label: "Contenu", name: "body", widget: "markdown" }
+      - { label: "Poids (Utilisé pour l'ordre d'affichage. Les plus elevés sont affichés en premier)", name: "weight", widget: "number", value_type: "int" }
   - name: "themes" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Thématiques" # Used in the UI, ie.: "New Post"
     label_singular: "Thématique"
