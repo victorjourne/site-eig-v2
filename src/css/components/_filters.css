@@ -27,6 +27,7 @@
       visibility: visible;
       max-height: none;
       display: block;
+      overflow: visible;
       --collapse: 0;
     }
   }
