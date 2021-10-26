@@ -41,4 +41,6 @@ Le designer renforce une équipe pluridisciplinaire composée d’un développeu
 
 ## Réalisations
 
+{{< arrow-link url="site/static/img/resorptionbidonvilles_panorama_problematiqueparcours_nov2019.pdf" title="Panorama de la problématique et des parcours" target="true" >}}
+
 {{< arrow-link url="img/resorptionbidonvilles_syntheses_aout2019_compressed.pdf" title="Synthèse des entretiens utilisateurs" target="true" >}}
