@@ -19,13 +19,13 @@ visible: true
 
 Actuellement, 65% des français se déclarent intéressés par une information fiable et « officielle » sur les sujets liés à l’environnement et au développement durable (Etude Nov. 2019 Cocedal - CGDD). Or, La présence en ligne des acteurs publics sur ces sujets est éclatée entre des dizaines de sites, pour la plupart méconnus. Le Commissariat Général au Développement Durable (CGDD), qui produit de l’information, a vocation à alimenter le dialogue environnemental entre l’Etat et ses citoyens. L’information environnementale peut prendre des formes variées (études, données chiffrées, données géolocalisées, etc.) et s’adresser à des publics multiples (experts, décideurs publics, grand public). Afin de faciliter l’appropriation de cette information et de favoriser son enrichissement, le CGDD a lancé une refonte des dispositifs de diffusion. Ainsi, la designer a rejoint l’équipe projet du CGDD pour répondre à la problématique suivante : **Comment valoriser la connaissance du CGDD et plus généralement de la sphère publique en matière d’environnement et de développement durable, pour la rendre accessible au plus grand nombre par le biais d’un point d’accès national à l’information (PAN) ?** (cf. Obligation de la convention d’Aarhus pour un accès simplifié à l’information environnementale)
 
+![**Comment valoriser la connaissance du CGDD et plus généralement de la sphère publique en matière d’environnement et de développement durable, pour la rendre accessible au plus grand nombre par le biais d’un point d’accès national à l’information (PAN) ?**](img/sequoia_casusages.png "Cas d'usages")
+
 ## Le défi, concevoir le portail public de l’information environnementale et de développement durable.
 
 Depuis 2018, une dizaine d’ateliers de co-conception ont été menés en interne au CGDD pour qualifier les cibles et leurs besoins. À l’arrivée de la designer UX, une phase de recherche utilisateurs - dont un étude quantitative sur un panel de 2 000 usagers, des entretiens usagers et plusieurs ateliers d’intelligence collective ont été menés. Une dizaine de personae ont été établis définissant les besoins des futurs usagers en terme d’information et de services afin de leur offrir des parcours complets et cohérents.
 
 La conception, de la direction artistique à la mise en production du portail, fut réalisée en collaboration avec un prestataire, qui a notamment apporté une expertise sur l’accessibilité et l’éco-conception web - valeurs portées par l’équipe projet.
-
-![Comment valoriser la connaissance du CGDD et plus généralement de la sphère publique en matière d’environnement et de développement durable, pour la rendre accessible au plus grand nombre par le biais d’un point d’accès national à l’information (PAN) ?**](img/sequoia_casusages.png "Cas d'usages")
 
 ### Ombel.gouv.fr, une inspiration venue de la nature.
 
