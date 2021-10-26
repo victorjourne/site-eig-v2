@@ -25,8 +25,8 @@ Depuis 2016, l’Espace Collaboratif en ligne de l’Institut national de l’in
 
 Le défi s’est articulé autour de deux axes, et a reposé notamment sur la mobilisation des différentes communautés d’utilisateurs en partenariat avec l’IGN.
 
-* Un axe de conception, afin de repenser les services de production et de diffusion collaborative de données géolocalisées via des cas d’usage.
-* Un axe de recherche et réflexion pour accélérer le passage au collaboratif pour positionner l’IGN comme fédérateur dans l’écosystème de l’information géographique. Cet aspect couvre une réflexion plus macro sur le collaboratif.
+> * Un axe de conception, afin de repenser les services de production et de diffusion collaborative de données géolocalisées via des cas d’usage.
+> * Un axe de recherche et réflexion pour accélérer le passage au collaboratif pour positionner l’IGN comme fédérateur dans l’écosystème de l’information géographique. Cet aspect couvre une réflexion plus macro sur le collaboratif.
 
 ## Réalisations
 
