@@ -25,3 +25,5 @@ Les deux designers auront pour mission de concevoir une “plateforme Handicap�
 ### Réalisations
 
 {{< arrow-link url="https://github.com/entrepreneur-interet-general/verslecolepourtous" title="Documentation du projet" target="true" >}}
+
+{{< arrow-link url="img/verslecolepourtous_synthese_042020_compressed.pdf" title="Présentation du défi et de ses grandes étapes de conception" target="true" >}}
