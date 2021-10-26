@@ -19,6 +19,7 @@ export default class TAC {
       "cookieName": "tarteaucitron", /* Cookie name */
   
       "orientation": "bottom", /* Banner position (top - bottom - middle - popup) */
+      "bodyPosition": "top",
   
       "groupServices": false, /* Group services by category */
   
