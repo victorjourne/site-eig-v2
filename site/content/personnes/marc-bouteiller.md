@@ -1,7 +1,7 @@
 ---
 title: "Marc Bouteiller "
 job: Designer
-promos: Défis DIG
+promos: Promotion 3 - DIG
 role: participant
 defis:
   - AchaDef
