@@ -6,6 +6,6 @@ role: participant
 defis:
   - ID numérique
 image: img/placeholder_femme.png
-linkedin: https://www.linkedin.com/in/jeremiebaboukhian/
+linkedin: ""
 ---
 La description de ce profil est en cours de rédaction et sera disponible prochainement.
