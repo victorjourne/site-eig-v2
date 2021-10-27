@@ -1,7 +1,7 @@
 ---
 title: Stéphane Petit
 job: Porteur de projet
-promos: Défis DIG
+promos: Promotion 3 - DIG
 role: agent-public
 defis:
   - AchaDef
