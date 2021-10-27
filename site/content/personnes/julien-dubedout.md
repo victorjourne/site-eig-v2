@@ -1,7 +1,7 @@
 ---
 title: "Julien Dubedout "
 job: Designer
-promos: Défis DIG
+promos: Promotion 3 - DIG
 role: participant
 defis:
   - App 112
