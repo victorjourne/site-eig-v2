@@ -1,7 +1,7 @@
 ---
 title: Marie Ramon-Daré
 job: Porteuse de projet
-promos: Promotion 3 - DIG
+promos: Promotion 5
 role: agent-public
 defis:
   - Mes services Greentech
