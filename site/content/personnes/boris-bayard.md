@@ -2,7 +2,10 @@
 title: Boris Bayard
 job: Chargé des opérations
 role: agent-programme
+expertises:
+  - Design
 image: img/boris-bayard-photo.jpg
+weight: -2
 ---
 Boris Bayard est chargé des opérations du programme Entrepreneurs d'Intérêt Général.
 
