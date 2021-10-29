@@ -5,8 +5,12 @@ desc: >-
   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
 
   sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
-promos: 
+promos:
   - Promotion 4
+  - Promotion 5
+  - Promotion 2
+  - Promotion 3
+  - "Promotion 1 "
 role: participant
 defis:
   - MonitorFish
