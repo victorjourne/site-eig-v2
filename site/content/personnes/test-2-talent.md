@@ -4,6 +4,8 @@ job: Test
 promos:
   - Promotion 2
 role: participant
+defis:
+  - TEST - ACOSS-Plateforme
 expertises:
   - Data engineering
 image: img/aiony-haust-3tll_97hnjo-unsplash.jpg
