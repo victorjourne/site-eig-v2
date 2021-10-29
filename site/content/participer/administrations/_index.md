@@ -32,6 +32,9 @@ program: >-
   > * Découvrez les [projets réalisés par notre dernière promotion](https://www.dailymotion.com/playlist/x75m45)
 
 
+  {{< dailymotion x82dyby >}}
+
+
   Vous avez déjà un projet ou souhaitez explorer des idées avec notre équipe :
 
 
