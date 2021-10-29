@@ -5,7 +5,7 @@ promos: Promotion 3 - DIG
 role: participant
 defis:
   - ID numérique
-image: img/placeholder_homme.png
+image: img/placeholder_homme.svg
 linkedin: https://www.linkedin.com/in/jeremiebaboukhian/
 ---
 "J’interviens auprès des entrepreneurs et des institutions sur la stratégie et sur le design de produits digitaux ou de communications. J’aime concevoir des systèmes graphiques et des expériences pour les médias, les services publics et les sociétés innovantes. Je travaille avec Télérama, La Ruche qui dit Oui!, Engie, Louis Vuitton, la ministère de la Culture/Cnap, Withings… 
