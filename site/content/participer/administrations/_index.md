@@ -33,17 +33,17 @@ program: >-
   Le programme offre une procédure de recrutement accélérée, de bout en bout, en sourçant et en sélectionnant des talents aux compétences rares - des "EIG" :
 
 
-  * développeurs / développeuses
+  > * développeurs / développeuses
 
-  * data scientists
+  > * data scientists
 
-  * data engineers
+  > * data engineers
 
-  * géomaticiens / géomaticiennes
+  > * géomaticiens / géomaticiennes
 
-  * designers
+  > * designers
 
-  * juristes du numérique
+  > * juristes du numérique
 
 
   #### Co-financement
@@ -52,9 +52,9 @@ program: >-
   Nous participons aux salaires des talents à hauteur de 30 %. Ils sont rémunérés 3 500 € ou 4 000 € nets par mois :
 
 
-  * 70 % par l’administration d’accueil
+  > * 70 % par l’administration d’accueil
 
-  * 30 % par le programme
+  > * 30 % par le programme
 
 
   #### Aide à l'innovation
@@ -63,11 +63,11 @@ program: >-
   Pour vous soutenir dans le pilotage de talents et de projets avec une compétence entrepreneuriale, trois dispositifs vous sont proposés :
 
 
-  * des séminaires collectifs
+  > * des séminaires collectifs
 
-  * un coaching par équipe
+  > * un coaching par équipe
 
-  * des apprentissages en pair-à-pair
+  > * des apprentissages en pair-à-pair
 criteria:
   title: "5 critères de sélection "
   desc: >-
