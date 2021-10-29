@@ -1,5 +1,5 @@
 ---
-title: Basegun
+title: TEST - Basegun
 description: Identifier et classer instantanément une arme sur le terrain
 who: Ministère de l’Intérieur
 place: ""
@@ -7,6 +7,8 @@ themes:
   - Sécurité
 promos:
   - Promotion 5
+  - Promotion 3
+  - Promotion 2
 town: 75012 Paris
 date: 2021-05-12T15:54:33.256Z
 expertises:
