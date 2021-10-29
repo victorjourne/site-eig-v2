@@ -24,6 +24,9 @@ program: >-
   ## Un soutien à 3 niveaux
 
 
+  ![Mentions "recrutement", "financement" et "aide à l'innovation"](img/admin_soutienx3_vecto.svg "Un soutien à 3 niveaux")
+
+
   #### Recrutement
 
 
