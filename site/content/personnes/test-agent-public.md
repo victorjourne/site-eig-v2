@@ -1,7 +1,7 @@
 ---
 title: TEST - Agent public
 job: Test
-role: participant
+role: agent-public
 defis:
   - TEST - ACOSS-Plateforme
 expertises:
