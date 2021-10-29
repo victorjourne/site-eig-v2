@@ -6,7 +6,7 @@ role: agent-public
 defis:
   - "DaSES  "
   - CoachÉlèves
-image: img/placeholder_homme.png
+image: img/placeholder_homme.svg
 ---
 « Je suis chef de la mission d’incubation des projets numérique (Numéri’lab) depuis 2014. Auparavant, j’ai été coordinateur de la concertation nationale sur le numérique (de novembre 2014 à mai 2015). Je pilote des programmes et des actions d’étude/recherche de la Direction du numérique pour l’éducation :
 
