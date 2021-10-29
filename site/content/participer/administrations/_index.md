@@ -15,6 +15,32 @@ head:
     title: Cahier des charges
     url: img/blank.pdf
 program: >-
+  ## LANCEMENT DE NOTRE FUTUR APPEL A PROJET LE 10 JANVIER 2022
+
+
+  Le prochain **appel à projets** ouvert à toute administration publique désireuse d’être soutenue pour mener des projets d’innovation numérique sera ouvert le **10 janvier 2021** sur ce site internet. Les administrations auront jusqu’au **14 mars 2022** pour déposer leurs projets.
+
+
+  Le processus de sélection des projets et de recrutement des futurs EIG aura lieu d’avril à juin 2022, pour un démarrage de la future promotion le 12 septembre 2022.
+
+
+   Pour en savoir plus :
+
+
+  > * Consultez la plaquette de l’appel à projets 2022
+
+  > * Découvrez les [projets réalisés par notre dernière promotion](https://www.dailymotion.com/playlist/x75m45)
+
+
+  Vous avez déjà un projet ou souhaitez explorer des idées avec notre équipe :
+
+
+  > * Contactez-nous: [eig@data.gouv.fr](eig@data.gouv.fr) 
+
+
+  Inscrivez-vous sur notre [liste de diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio) pour être tenus au courant de l’ouverture de l’appel à projets et de nos événements de présentation.
+
+
   ## Ce que le programme vous propose
 
 
