@@ -27,7 +27,7 @@ program: >-
    Pour en savoir plus :
 
 
-  > * Consultez la plaquette de l’appel à projets 2022
+  > * Consultez la [plaquette de l’appel à projets 2022](img/eig-plaquette-appel-à-projets-2022.pdf)
 
   > * Découvrez les [projets réalisés par notre dernière promotion](https://www.dailymotion.com/playlist/x75m45)
 
