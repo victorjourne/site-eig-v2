@@ -5,6 +5,7 @@ promos: "Promotion 1 "
 role: participant
 defis:
   - MCC - Inventaire des orgues
+  - EIG2 Link
 image: img/bastien-guerry.png
 linkedin: ""
 github: https://github.com/bzg
