@@ -5,6 +5,7 @@ promos: Promotion 3
 role: participant
 defis:
   - Open Chronic
+  - Lab Santé
 image: img/phileas-condemine.png
 github: https://github.com/phileas-condemine
 ---
