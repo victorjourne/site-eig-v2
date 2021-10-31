@@ -1,5 +1,5 @@
 ---
-title: EIG Link
+title: EIG3 Link
 description: Accompagner un collectif numérique d’intérêt général au sein de l’État
 who: Services du Premier ministre, direction interministérielle du numérique et
   du système d’information et de communication de l’État, Etalab
