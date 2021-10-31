@@ -1,7 +1,7 @@
 ---
 title: Bastien Guerry
 job: Développeur
-promos: Promotion 2
+promos: "Promotion 1 "
 role: participant
 defis:
   - MCC - Inventaire des orgues
