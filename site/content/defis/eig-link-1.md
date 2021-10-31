@@ -1,5 +1,5 @@
 ---
-title: EIG Link
+title: EIG4 Link
 description: Assurer la réussite de la promotion EIG 4
 who: Direction interministérielle du numérique
 themes:
