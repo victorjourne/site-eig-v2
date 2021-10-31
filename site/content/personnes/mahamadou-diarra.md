@@ -5,7 +5,7 @@ promos: Promotion 5
 role: agent-public
 defis:
   - Décos
-image: img/placeholder_homme.png
+image: img/placeholder_homme.svg
 ---
 Diplômes : University of Florida ; I.E.P. Paris master affaires publiques. 
 
