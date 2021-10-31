@@ -3,7 +3,8 @@ title: Mathilde Bras
 job: Accompagnement
 promos: Promotion 2
 role: agent-public
-defis: []
+defis:
+  - EIG2 Link
 image: img/mathilde_bras.jpg
 github: https://github.com/MathildeBras
 ---
