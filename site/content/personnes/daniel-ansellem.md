@@ -1,7 +1,7 @@
 ---
 title: Daniel Ansellem
 job: Porteur de projet
-promos: Promotion 2
+promos: Promotion 3
 role: agent-public
 defis:
   - MI - cartAV
