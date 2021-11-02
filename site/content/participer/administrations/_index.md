@@ -29,7 +29,10 @@ program: >-
 
   > * Consultez la [plaquette de l’appel à projets 2022](img/eig-plaquette-appel-à-projets-2022.pdf)
 
-  > * Découvrez les [projets réalisés par notre dernière promotion](https://www.dailymotion.com/playlist/x75m45)
+  > * Découvrez les [projets réalisés par notre dernière promotion](x64z39u)
+
+
+  {{< dailymotion x64z39u >}}
 
 
   Vous avez déjà un projet ou souhaitez explorer des idées avec notre équipe :
