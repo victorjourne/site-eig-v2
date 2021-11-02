@@ -5,6 +5,7 @@ promos: Promotion 2
 role: agent-public
 defis:
   - EIG2 Link
+  - EIG3 Link
 image: img/mathilde_bras.jpg
 github: https://github.com/MathildeBras
 ---
