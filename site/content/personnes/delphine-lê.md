@@ -1,7 +1,7 @@
 ---
 title: Delphine Lê
 job: Porteuse de projets
-promos: Promotion 2
+promos: Promotion 3
 role: agent-public
 defis:
   - Hopkins
