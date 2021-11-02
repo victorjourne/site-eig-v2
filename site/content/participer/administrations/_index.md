@@ -32,9 +32,6 @@ program: >-
   > * Découvrez les [projets réalisés par notre dernière promotion](x64z39u)
 
 
-  {{< dailymotion x64z39u >}}
-
-
   Vous avez déjà un projet ou souhaitez explorer des idées avec notre équipe :
 
 
