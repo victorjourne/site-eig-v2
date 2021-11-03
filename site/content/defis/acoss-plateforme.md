@@ -8,8 +8,7 @@ who: Agence centrale des organismes de sécurité sociale (ACOSS)
 themes:
   - Service public
 promos:
-  - Promotion 5
-  - Promotion 3
+  - "Promotion 1 "
 town: 93100 Montreuil
 date: 2021-09-30T14:05:02.160Z
 expertises:
