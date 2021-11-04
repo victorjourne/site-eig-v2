@@ -60,4 +60,7 @@ medias:
       link: "
         https://www.acteurspublics.fr/articles/la-feminisation-du-numerique-de-l\
         etat-passe-par-les-profils-atypiques"
+    - link: https://usbeketrica.com/fr/article/le-manoir-de-verre-comment-la-tech-traite-t-elle-les-femmes-developpeuses-ou-data-scientists
+      title: Usbek & Rica
+      image: img/u-b.png
 ---
