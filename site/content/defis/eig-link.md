@@ -5,6 +5,7 @@ who: Services du Premier ministre, direction interministérielle du numérique e
   du système d’information et de communication de l’État, Etalab
 themes:
   - Numérique public
+  - Accompagnement
 promos:
   - Promotion 3
 town: Paris
