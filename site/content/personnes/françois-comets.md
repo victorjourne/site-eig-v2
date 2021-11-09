@@ -2,8 +2,11 @@
 title: François Comets
 job: Chargé des opérations
 role: agent-programme
+expertises:
+  - Juriste
 image: img/f.comets-2021.jpg
 linkedin: "https://www.linkedin.com/in/francoiscomets/ "
+weight: 2
 ---
 François Comets est consultant auprès du programme Entrepreneurs d’Intérêt Général.
 
