@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: develop
+  branch: master
   repo: LaNetscouade/site-eig-v2
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
@@ -152,7 +152,13 @@ collections: # A list of collections the CMS should be able to edit
         }
       - { label: "Github", name: "github", widget: "string", required: false }
       - { label: "Contenu", name: "body", widget: "markdown" }
-      - { label: "Poids (Menu)", name: "weight", widget: "number", value_type: "int", required: false }
+      - {
+          label: "Poids (Menu)",
+          name: "weight",
+          widget: "number",
+          value_type: "int",
+          required: false,
+        }
   - name: "themes" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Thématiques" # Used in the UI, ie.: "New Post"
     label_singular: "Thématique"
