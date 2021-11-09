@@ -1,10 +1,7 @@
 ---
-title: TEST - Adeline Celier
+title: Adeline Celier
 job: Designer
-desc: >-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
-
-  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+desc: ""
 promos:
   - Promotion 4
   - Promotion 5
