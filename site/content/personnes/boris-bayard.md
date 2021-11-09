@@ -5,7 +5,7 @@ role: agent-programme
 expertises:
   - Design
 image: img/boris-bayard-photo.jpg
-weight: -1
+weight: 2
 ---
 Boris Bayard est chargé des opérations du programme Entrepreneurs d'Intérêt Général.
 
