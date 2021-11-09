@@ -5,7 +5,7 @@ who: Bibliothèque nationale de France
 themes:
   - Culture
 promos:
-  - "Promotion 1 "
+  - Promotion 1
 town: Paris
 date: 2021-10-27T13:45:53.461Z
 expertises:
@@ -13,6 +13,7 @@ expertises:
 image: img/eig1-default-1-.svg
 visible: true
 ---
+
 La Bibliothèque nationale de France, c’est une collection de plus de 15 millions d’ouvrages qui s’accroît de 670 000 nouveaux livres par an. Un trésor pour la France, mais un véritable casse-tête pour les catalogueurs qui doivent régulièrement mettre à jour leurs bases de données et diffuser des ressources difficiles à indexer aux institutions partenaires.
 
 **Utiliser les métadonnées pour mieux cataloguer et mieux valoriser notre patrimoine papier.**

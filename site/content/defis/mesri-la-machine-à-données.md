@@ -5,7 +5,7 @@ who: Ministère de l’Enseignement Supérieur, de la Recherche et de l’Innova
 themes:
   - Numérique public
 promos:
-  - "Promotion 1 "
+  - Promotion 1
 town: Paris
 date: 2021-10-27T14:02:12.482Z
 expertises:
@@ -14,6 +14,7 @@ expertises:
 image: img/eig1-default-1-.svg
 visible: true
 ---
+
 {{< arrow-link url="https://github.com/entrepreneur-interet-general/Merge-Machine" title="Code source" target="true" >}}
 
 De nombreuses bases de données sont construites à la main, et les informations saisies ne se conforment pas aux référentiels existants. Par exemple, les noms des établissements scolaires pourront différer d’une base de données à l’autre. Comment nettoyer les données sans faire de la « reprise de données » manuelle ?

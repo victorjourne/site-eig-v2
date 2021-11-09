@@ -5,7 +5,7 @@ who: Agence Française de Développement
 themes:
   - Service public
 promos:
-  - "Promotion 1 "
+  - Promotion 1
 town: Paris
 date: 2021-10-24T14:41:15.346Z
 expertises:
@@ -14,6 +14,7 @@ expertises:
 image: img/eig1-default-1-.svg
 visible: true
 ---
+
 Quand l’Agence Française de Développement (AFD) cherche à construire une route, il lui faut des informations de base, comme le nombre de personnes qui habitent sur le tracé. Si dans certains pays ces informations ne sont pas disponibles, elles peuvent néanmoins être facilement calculées à partir de données ouvertes.
 
 **Mettre les données ouvertes au service de projets de développement, tel était le défi à relever.**

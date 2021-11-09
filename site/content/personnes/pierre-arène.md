@@ -1,12 +1,14 @@
 ---
 title: Pierre Arène
 job: Porteur de projet
-promos: Promotion 3 - DIG
+promos:
+  - Promotion 3 - DIG
 role: agent-public
 defis:
   - ProxiRH
 image: img/placeholder_homme.svg
 ---
+
 Administrateur général, Pierre Arène est le secrétaire général de l’académie de Lyon. Il est chargé, sous l’autorité du recteur, de l’administration de l’académie. Il assure notamment la coordination de l’ensemble des services académiques du rectorat et des directions des services départementaux de l’éducation nationale (DSDEN) et accompagne les évolutions du système éducatif.
 
 Titulaire d’un DEA d’administration publique (1991) et d’une maîtrise en GRH dans le secteur public (2006), Pierre Arène a débuté son parcours professionnel comme conseiller principal d’éducation dans différents établissements des académies de Nice et Aix Marseille. En 2000, il devient conseiller d’administration scolaire et universitaire et exerce différentes responsabilités administratives tant en académie (Dijon- chef de la division des personnels enseignants) qu’en administration centrale (2003-2007- chef de bureau puis adjoint à la sous- direction des personnels enseignants du 2nd degré). En 2007 il est nommé administrateur civil au tour extérieur et détaché dans l’emploi de secrétaire général d’académie à Besançon (2008-2010) puis Strasbourg (2010-2012). Depuis 2012, il exerce ses fonctions de SGA dans l’académie de Lyon.

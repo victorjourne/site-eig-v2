@@ -6,7 +6,7 @@ themes:
   - Numérique public
   - Finance
 promos:
-  - "Promotion 1 "
+  - Promotion 1
 town: Paris
 date: 2021-10-27T13:48:51.035Z
 expertises:
@@ -14,6 +14,7 @@ expertises:
 image: img/eig1-default-1-.svg
 visible: true
 ---
+
 {{< arrow-link url="https://github.com/entrepreneur-interet-general/api-ccomptes" title="Code source" target="true" >}}
 
 C’est à la Cour des comptes que les institutions publiques rendent des comptes sur leur gestion de l’argent public. Qu’elle soit saisie ou qu’elle se saisisse elle-même, la Cour des comptes produit un grand nombre de rapports. Destinés à la fois aux institutions concernées et aux citoyens, ces rapports ne sont pourtant disponibles qu’en PDF, un format peu exploitable par des citoyens curieux.

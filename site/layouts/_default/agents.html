@@ -25,6 +25,7 @@
   </div>
   <div class="fr-grid-row fr-grid-row--gutters js-grid">
     {{ range (where (where .Site.RegularPages "Type" "personnes") ".Params.role" "agent-public") }}
+      {{ printf .Title}}
       <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3 {{ range $index, $promos := .Params.promos }}{{ if gt $index 0 }} {{ end }}is-promo-{{ . | urlize }}{{ end }}">
         {{ .Render "li" }}
       </div>

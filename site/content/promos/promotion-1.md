@@ -1,3 +1,3 @@
 ---
-title: "Promotion 1 "
+title: Promotion 1
 ---

@@ -6,7 +6,7 @@ themes:
   - Numérique public
   - Culture
 promos:
-  - "Promotion 1 "
+  - Promotion 1
 town: Paris
 date: 2021-10-27T13:56:21.872Z
 expertises:
@@ -14,6 +14,7 @@ expertises:
 image: img/eig1-default-1-.svg
 visible: true
 ---
+
 {{< arrow-link url="https://inventaire-des-orgues.fr/" title="Démonstration" target="true" >}}
 
 {{< arrow-link url="https://github.com/bzg/indexes" title="Code source" target="true" >}}

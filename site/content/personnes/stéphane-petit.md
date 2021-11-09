@@ -1,12 +1,14 @@
 ---
 title: Stéphane Petit
 job: Porteur de projet
-promos: Promotion 3 - DIG
+promos:
+  - Promotion 3 - DIG
 role: agent-public
 defis:
   - AchaDef
 image: img/stephane-petit.png
 ---
+
 « Comme beaucoup de fils de commerçants, j’ai passé de très nombreuses vacances à travailler avec mes parents. L’occasion de comprendre très jeune le fonctionnement d’une entreprise et l’importance du rôle des clients et des fournisseurs. Ils constituent deux catégories d’interlocuteurs distinctes qui contribuent, chacune à leur manière, au développement de l’entreprise.
 
 Conquérir et conserver la confiance de l’un et de l’autre est le point commun de ces acteurs. Mais le commerçant ne s’adressera pas à chacun d’eux de la même manière, devenant tour à tour le fournisseur de l’un et le client de l’autre dans la quête de satisfaction.

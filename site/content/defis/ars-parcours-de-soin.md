@@ -5,7 +5,7 @@ who: Secrétariat général des ministères sociaux
 themes:
   - Service public
 promos:
-  - "Promotion 1 "
+  - Promotion 1
 town: Paris
 date: 2021-10-26T21:27:13.438Z
 expertises:
@@ -13,6 +13,7 @@ expertises:
 image: img/eig1-default-1-.svg
 visible: true
 ---
+
 Un patient atteint d’une maladie cardiovasculaire a besoin d’une prise en charge spécifique : des médecins et des institutions spécialisées, une certaine fréquence de consultation et de soin, des médicaments spéciaux… Ces parcours de soin sont difficiles à appréhender, mais comprendre leurs spécificités est indispensable pour offrir une offre adaptée.
 
 **La solution : exploiter le Système national de données de santé (SNDS) pour visualiser les parcours de soin de patients atteints de maladies chroniques et améliorer les politiques publiques de santé en Occitanie.**

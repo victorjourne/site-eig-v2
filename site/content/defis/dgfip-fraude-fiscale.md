@@ -6,7 +6,7 @@ themes:
   - Finance
   - Numérique public
 promos:
-  - "Promotion 1 "
+  - Promotion 1
 town: Paris
 date: 2021-10-27T13:52:59.685Z
 expertises:
@@ -14,6 +14,7 @@ expertises:
 image: img/eig1-default-1-.svg
 visible: true
 ---
+
 Monsieur Dupont habite en France mais il travaille au Luxembourg. Contrairement aux résidents fiscaux français percevant leurs revenus en France, il doit calculer et déclarer lui-même les revenus qu’il perçoit. Sur l’honneur… Pourtant, depuis l’été 2016, plusieurs pays de l’OCDE ont mis en place un système d’échange automatisé des informations (EAI) pour les revenus des résidents fiscaux d’un pays travaillant à l’étranger (salaires, retraites, etc.).
 
 **Mettre les données au service de la justice fiscale.**

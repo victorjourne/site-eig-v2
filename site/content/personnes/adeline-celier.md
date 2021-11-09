@@ -10,7 +10,7 @@ promos:
   - Promotion 5
   - Promotion 2
   - Promotion 3
-  - "Promotion 1 "
+  - Promotion 1
 role: participant
 defis:
   - MonitorFish

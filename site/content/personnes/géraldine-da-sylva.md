@@ -1,12 +1,14 @@
 ---
 title: Géraldine Da Sylva
 job: Porteuse de projet
-promos: Promotion 3 - DIG
+promos:
+  - Promotion 3 - DIG
 role: agent-public
 defis:
   - Ma famille ici
 image: img/geraldine-da-sylva.png
 ---
+
 Après 18 années en cabinet de conseil et réalisation IT, dont 3 ans sur Service-Public.fr et FranceConnect, Géraldine rejoint avec enthousiasme la fonction publique.
 
 Actuellement cheffe de produit et UX sur Service-Public.fr, à la Direction de l’Information Légale et Administrative, Géraldine travaille au sein d’une équipe mixte, pluridisciplinaire et engagée sur les sujets d’inclusion, d’accessibilité et de guidage des usagers dans leurs démarches administratives.

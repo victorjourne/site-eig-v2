@@ -5,7 +5,7 @@ who: Ministère de l’Intérieur
 themes:
   - Sécurité
 promos:
-  - "Promotion 1 "
+  - Promotion 1
 town: Paris
 date: 2021-10-27T14:04:42.183Z
 expertises:
@@ -13,6 +13,7 @@ expertises:
 image: img/eig1-default-1-.svg
 visible: true
 ---
+
 {{< arrow-link url="https://github.com/entrepreneur-interet-general/cartav" title="Code source" target="true" >}}
 
 Tous les jours, les forces de l’ordre interviennent sur le terrain. Qu’il s’agisse de verbalisations ou de compte-rendu d’accidents, elles font remonter une quantité impressionnante de données qu’elles ne peuvent pas elles-mêmes exploiter. Pourtant, elles peuvent servir à définir des profils d’accidents et à décider d’actions à mettre en œuvre pour les éviter.

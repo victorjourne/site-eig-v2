@@ -6,7 +6,7 @@ themes:
   - Sécurité
   - Numérique public
 promos:
-  - "Promotion 1 "
+  - Promotion 1
 town: Paris
 date: 2021-10-27T14:10:19.967Z
 expertises:
@@ -14,6 +14,7 @@ expertises:
 image: img/eig1-default-1-.svg
 visible: true
 ---
+
 {{< arrow-link url="https://matchid.io/" title="Démonstration" target="true" >}}
 
 De nombreuses personnes décédées continuent à conduire. Du moins du point de vue du Fichier National des Permis de Conduire (SNPC), qui n’invalide pas automatiquement un permis si son possesseur décède. Cela pose à la fois des problèmes de sécurité quand ces permis sont utilisés par des conducteurs vivants et un problème de statistiques routières.

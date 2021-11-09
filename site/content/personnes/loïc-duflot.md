@@ -1,7 +1,8 @@
 ---
 title: Loïc Duflot
 job: Porteur de projet
-promos: Promotion 3
+promos: 
+  - Promotion 3
 role: agent-public
 defis:
   - DataReg
