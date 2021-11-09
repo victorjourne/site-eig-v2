@@ -1,5 +1,5 @@
 ---
-title: TEST - ACOSS-Plateforme
+title: ACOSS-Plateforme
 description: |-
   Simplifier les démarches des cotisants
 
