@@ -15,6 +15,32 @@ head:
     title: Cahier des charges
     url: img/blank.pdf
 program: >-
+  ## LANCEMENT DE NOTRE FUTUR APPEL A PROJET LE 10 JANVIER 2022
+
+
+  Le prochain appel à projets ouvert à toute administration publique désireuse d’être soutenue pour mener des projets d’innovation numérique sera ouvert le **10 janvier 2021** sur ce site internet. Les administrations auront jusqu’au **14 mars 2022** pour déposer leurs projets.
+
+
+  Le processus de sélection des projets et de recrutement des futurs EIG aura lieu d’**avril à juin 2022**, pour un démarrage de la future promotion le **12 septembre 2022**.
+
+
+   Pour en savoir plus :
+
+
+  > * Consultez la [plaquette de l’appel à projets 2022](img/eig-plaquette-appel-à-projets-2022.pdf)
+
+  > * Découvrez les [projets réalisés par notre dernière promotion](x64z39u)
+
+
+  Vous avez déjà un projet ou souhaitez explorer des idées avec notre équipe :
+
+
+  > * Contactez-nous: [eig@data.gouv.fr](eig@data.gouv.fr) 
+
+
+  Inscrivez-vous sur notre [liste de diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio) pour être tenus au courant de l’ouverture de l’appel à projets et de nos événements de présentation.
+
+
   ## Ce que le programme vous propose
 
 
@@ -24,23 +50,26 @@ program: >-
   ## Un soutien à 3 niveaux
 
 
+  ![Mentions "recrutement", "financement" et "aide à l'innovation"](img/admin_soutienx3_vecto.svg "Un soutien à 3 niveaux")
+
+
   #### Recrutement
 
 
   Le programme offre une procédure de recrutement accélérée, de bout en bout, en sourçant et en sélectionnant des talents aux compétences rares - des "EIG" :
 
 
-  * développeurs / développeuses
+  > * développeurs / développeuses
 
-  * data scientists
+  > * data scientists
 
-  * data engineers
+  > * data engineers
 
-  * géomaticiens / géomaticiennes
+  > * géomaticiens / géomaticiennes
 
-  * designers
+  > * designers
 
-  * juristes du numérique
+  > * juristes du numérique
 
 
   #### Co-financement
@@ -49,9 +78,9 @@ program: >-
   Nous participons aux salaires des talents à hauteur de 30 %. Ils sont rémunérés 3 500 € ou 4 000 € nets par mois :
 
 
-  * 70 % par l’administration d’accueil
+  > * 70 % par l’administration d’accueil
 
-  * 30 % par le programme
+  > * 30 % par le programme
 
 
   #### Aide à l'innovation
@@ -60,11 +89,11 @@ program: >-
   Pour vous soutenir dans le pilotage de talents et de projets avec une compétence entrepreneuriale, trois dispositifs vous sont proposés :
 
 
-  * des séminaires collectifs
+  > * des séminaires collectifs
 
-  * un coaching par équipe
+  > * un coaching par équipe
 
-  * des apprentissages en pair-à-pair
+  > * des apprentissages en pair-à-pair
 criteria:
   title: "5 critères de sélection "
   desc: >-

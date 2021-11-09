@@ -6,6 +6,7 @@ promos:
 role: participant
 defis:
   - Green Data for Health
+  - BNF - catalogage
 image: img/constance-quatrebarbes.png
 linkedin: https://linkedin.com/in/4barbes
 github: https://github.com/c24b/

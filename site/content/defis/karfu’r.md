@@ -28,14 +28,14 @@ Alors que de nombreux acteurs se mobilisent - chercheurs, collectivités territo
 
 Depuis mars 2018, la Délégation interministérielle à l’accueil et à l’intégration des réfugiés, à travers le Lab’R, cherche à répondre à cette problématique. Parmi ses trois instances, **la plateforme numérique Agi’R** a pour mission de mettre en réseau les acteurs afin de mieux diffuser l’information et d’accompagner les réfugiés dans leurs démarches. Le défi Karfu’R s’intègrerait dans l’initiative Agi’R.
 
-## Le défi aider les réfugiés dans leurs démarches en développant une plateforme d’information adaptée à la diversité culturelle
+## Le défi: aider les réfugiés dans leurs démarches en développant une plateforme d’information adaptée à la diversité culturelle
 
 Au sein du Lab’R, et en se basant sur la plateforme Agi’R, le défi Karfu’R poursuivra deux objectifs :
 
-> * **le développement d’une plateforme mulilingue**, qui recensera l’ensemble des initiatives d’information et d’accompagnement des personnes réfugiées (activités associatives, initiatives citoyennes, actions de l’Etat ou des collectivités). Trois types d’utilisateurs : **les personnes réfugiées**, afin qu’elles puissent connaître où s’informer et pourquoi, **les acteurs accompagnant les réfugiés**, afin qu’ils puissent orienter les réfugiés selon leurs besoins, et enfin **les citoyens** désireux de s’engager dans une association dans leur territoire.
+> * **le développement d’une plateforme multilingue**, qui recensera l’ensemble des initiatives d’information et d’accompagnement des personnes réfugiées (activités associatives, initiatives citoyennes, actions de l’Etat ou des collectivités). Trois types d’utilisateurs : **les personnes réfugiées**, afin qu’elles puissent connaître où s’informer et pourquoi, **les acteurs accompagnant les réfugiés**, afin qu’ils puissent orienter les réfugiés selon leurs besoins, et enfin **les citoyens** désireux de s’engager dans une association dans leur territoire.
 > * **la simplification des démarches administratives des réfugiés**. Sur le modèle de plateformes comme [Mes Aides](https://mes-aides.gouv.fr/) ou [la boussole des droits](https://boussole.jeunes.gouv.fr/), il s’agira de proposer, en concertation avec les acteurs impliqués dans le Lab’R, le développement de nouveaux services pour faciliter les démarches des réfugiés (ouverture de droits sociaux, accès au logement ou à l’emploi, etc.).
 
-*[Le Lab’R](http://accueil-integration-refugies.fr/le-labr/) est une mise en réseau des acteurs de l’accueil et de l’intégration des réfugiés. Il est composé de trois instances : La Fabrique (un groupe de travail innovant qui réunit un petit groupe motivé autour d’un théme précis avec un type de livrable défini à l’avance -MOOC, infographie…), L’Agora (une réunion annuelle qui permet des rencontres informelles et l’émergence de synergies) et la plateforme Agi’R.*
+*[Le Lab’R](http://accueil-integration-refugies.fr/le-labr/) est une mise en réseau des acteurs de l’accueil et de l’intégration des réfugiés. Il est composé de trois instances : La Fabrique (un groupe de travail innovant qui réunit un petit groupe motivé autour d’un thème précis avec un type de livrable défini à l’avance -MOOC, infographie…), L’Agora (une réunion annuelle qui permet des rencontres informelles et l’émergence de synergies) et la plateforme Agi’R.*
 
 ## Rétrospective
 

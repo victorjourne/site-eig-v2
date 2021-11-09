@@ -6,7 +6,7 @@ promos:
 role: agent-public
 defis:
   - Décos
-image: img/placeholder_homme.png
+image: img/placeholder_homme.svg
 ---
 
 2015 à 2017 : contractuel à la DRH du ministère de l’intérieur scolarité à l'IRA de METZ suite réussite concours

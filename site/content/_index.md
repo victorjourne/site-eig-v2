@@ -9,7 +9,8 @@ hero:
     pour le service public
 
 intro:
-  desc: Le programme Entrepreneurs d'intérêt général sélectionne des spécialistes
+  desc:
+    Le programme Entrepreneurs d'intérêt général sélectionne des spécialistes
     de la technologie, du design et du droit du numérique pour tester et
     expérimenter de nouveaux possibles avec des agents de l’État.
   title: Nous réunissons talents du numérique et agents publics pour relever des
@@ -43,7 +44,7 @@ join:
   title: Rejoindre la promotion 6
   btn:
     title: Participer
-    url: /participer/
+    url: https://eig.etalab.gouv.fr/participer/
     external: false
 medias:
   desc: Parcourez les articles, tribunes, posts de blog sur le programme dans
@@ -55,9 +56,7 @@ medias:
     - image: img/logo-les-echos.png
       title: Les Echos Start
       link: https://start.lesechos.fr/travailler-mieux/metiers-reconversion/salaries-dans-la-tech-ils-ont-quitte-le-prive-pour-innover-dans-le-secteur-public-1352864
-    - image: img/acteurs-publics.png
-      title: Acteurs Publics
-      link: "
-        https://www.acteurspublics.fr/articles/la-feminisation-du-numerique-de-l\
-        etat-passe-par-les-profils-atypiques"
+    - link: https://usbeketrica.com/fr/article/le-manoir-de-verre-comment-la-tech-traite-t-elle-les-femmes-developpeuses-ou-data-scientists
+      title: Usbek & Rica
+      image: img/u-b.png
 ---

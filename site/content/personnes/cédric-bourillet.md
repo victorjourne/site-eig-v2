@@ -6,6 +6,6 @@ promos:
 role: agent-public
 defis:
   - Envinorma
-image: img/placeholder_homme.png
+image: img/placeholder_homme.svg
 ---
 La description de ce profil est en cours de rédaction et sera disponible prochainement.
