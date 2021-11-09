@@ -2,12 +2,7 @@
 title: Adeline Celier
 job: Designer
 desc: ""
-promos:
-  - Promotion 4
-  - Promotion 5
-  - Promotion 2
-  - Promotion 3
-  - Promotion 1
+promos: []
 role: participant
 defis:
   - MonitorFish
