@@ -2,8 +2,11 @@
 title: Corine Waroquiers
 job: Responsable du programme
 role: agent-programme
+expertises:
+  - Juriste
 image: img/corine-waroquiers.png
 linkedin: https://www.linkedin.com/in/corinewaroquiers
+weight: 1
 ---
 Corine Waroquiers est coordinatrice du programme Entrepreneurs d’Intérêt Général.
 
