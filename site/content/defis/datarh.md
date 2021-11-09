@@ -19,6 +19,8 @@ visible: true
 
 {{< arrow-link url="img/les-entrepreneurs-d-intérêt-général-recrutent-un.e-data-scientist-pour-le-projet-datarh.pdf" title="Découvrir l'offre" target="true" >}}
 
+
+
 {{< dailymotion x81fh1e >}}
 
 ## Le contexte
