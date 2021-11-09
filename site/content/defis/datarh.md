@@ -17,7 +17,7 @@ visible: true
 ---
 ## Les Entrepreneurs d’intérêt général d’Etalab recrutent un.e Data Scientist en CDD de 6 mois pour le projet DataRH porté par l’Agence Régionale de Santé d’Auvergne-Rhône-Alpes.
 
-
+{{< arrow-link url="img/les-entrepreneurs-d-intérêt-général-recrutent-un.e-data-scientist-pour-le-projet-datarh.pdf" title="Découvrir l'offre" target="true" >}}
 
 {{< dailymotion x81fh1e >}}
 
