@@ -19,10 +19,6 @@ visible: true
 
 {{< arrow-link url="img/les-entrepreneurs-d-intérêt-général-recrutent-un.e-data-scientist-pour-le-projet-datarh.pdf" title="Découvrir l'offre" target="true" >}}
 
-
-
-{{< dailymotion x81fh1e >}}
-
 ## Le contexte
 
 Depuis plusieurs années, la Direction des ressources humaines de l’Agence régionale de santé Auvergne-Rhône-Alpes (ARS ARA) envisage une transformation numérique sous le prisme de la donnée. Un changement législatif, qui prescrit la mise à disposition d’une base de données sociales (parcours professionnels, formation, rémunération, etc.) pour les partenaires internes (agents, managers, organisations syndicales) vient accélérer cette démarche.
@@ -30,6 +26,8 @@ Depuis plusieurs années, la Direction des ressources humaines de l’Agence ré
 ## La problématique
 
 Le capital humain de l’ARS ARA est actuellement suivi à l’aide de différentes applications non connectées (solutions de paie, outils de gestion du temps et des activités, etc.). Cet éparpillement des données RH a, jusqu’à aujourd’hui, fortement compliqué leur exploitation.
+
+{{< dailymotion x81fh1e >}}
 
 ## Le terrain de jeu
 
