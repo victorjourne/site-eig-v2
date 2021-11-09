@@ -3,10 +3,13 @@ title: Constance de Quatrebarbes
 job: Data Engineer
 promos:
   - Promotion 5
+  - Promotion 1
 role: participant
 defis:
   - Green Data for Health
   - BNF - catalogage
+expertises:
+  - Data engineering
 image: img/constance-quatrebarbes.png
 linkedin: https://linkedin.com/in/4barbes
 github: https://github.com/c24b/
