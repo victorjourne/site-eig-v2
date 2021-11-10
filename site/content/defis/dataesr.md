@@ -1,5 +1,5 @@
 ---
-title: " DataESR"
+title: DataESR
 description: Révéler tout le potentiel des données de la recherche
 who: Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation,
   Département des outils d’aide à la décision

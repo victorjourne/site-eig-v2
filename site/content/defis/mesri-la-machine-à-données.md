@@ -1,5 +1,5 @@
 ---
-title: " MESRI - La machine à données"
+title: MESRI - La machine à données
 description: Automatiser le nettoyage de bases de données
 who: Ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation
 themes:

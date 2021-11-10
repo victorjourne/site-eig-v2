@@ -1,5 +1,5 @@
 ---
-title: "BatID "
+title: BatID
 description: "Faciliter le suivi de la politique publique en matière de
   rénovation énergétique des bâtiments "
 who: "Agence de la transition écologique (ADEME) "

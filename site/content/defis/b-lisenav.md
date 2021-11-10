@@ -1,5 +1,5 @@
 ---
-title: " b@liseNAV"
+title: b@liseNAV
 description: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
 who: Service Hydrographique et Océanographique de la Marine (SHOM)
 themes:

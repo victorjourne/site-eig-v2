@@ -1,5 +1,5 @@
 ---
-title: " Recrues"
+title: Recrues
 description: Favoriser le recrutement à la Gendarmerie nationale
 who: Direction Générale de la Gendarmerie nationale (DGGN)
 place: ""

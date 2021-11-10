@@ -37,7 +37,7 @@ Cet outil facilitera la prise de décision du chef opérationnel.
 NEOTac permettra de :
 
 > * **Proposer un dispositif d’intervention** : à partir des premiers éléments de l’urgence (nature de l’événement, lieu, heure des faits…), de la géolocalisation des patrouilles, des données du trafic en temps réel ainsi que des ressources opérationnelles disponibles dans les unités et directement employables, l’application proposera au chef opérationnel un dispositif d’intervention détaillé qu’il pourra adapter.
-> * **Informer les équipes** : une fois le dispositif adapté ou validé par le chef opérationnel, les ordres d’engagement avec les informations utiles seront transmis directement aux unités de sécurité publique. En effet, l’application sera installée sur l’ensemble des terminaux connectés NEOGend qui équipent tous les gendarmes. 
+> * **Informer les équipes** : une fois le dispositif adapté ou validé par le chef opérationnel, les ordres d’engagement avec les informations utiles seront transmis directement aux unités de sécurité publique. En effet, l’application sera installée sur l’ensemble des terminaux connectés NEOGend qui équipent tous les gendarmes.
 
 À terme, cet outil augmentera l’efficacité des dispositifs mis en place et donc les chances de succès des interventions.
 

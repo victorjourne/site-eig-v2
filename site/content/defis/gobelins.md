@@ -1,5 +1,5 @@
 ---
-title: " Gobelins"
+title: Gobelins
 description: Révéler les richesses du Mobilier National
 who: Ministère de la Culture, Direction générale de la création artistique,
   Service du Mobilier National

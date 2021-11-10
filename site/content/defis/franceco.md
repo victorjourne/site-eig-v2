@@ -1,5 +1,5 @@
 ---
-title: " FranceCo"
+title: FranceCo
 description: Contribuer à la réussite de FranceConnect
 who: Direction interministérielle du numérique (DINUM),
 themes:

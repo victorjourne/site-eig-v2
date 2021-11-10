@@ -1,5 +1,5 @@
 ---
-title: "TRISTAN "
+title: TRISTAN
 description: Aider les magistrats dans la préparation de leurs audiences
 who: Ministère de la Justice
 themes:

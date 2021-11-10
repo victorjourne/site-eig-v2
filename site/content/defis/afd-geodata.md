@@ -1,5 +1,5 @@
 ---
-title: " AFD - Geodata"
+title: AFD - Geodata
 description: Mettre les données ouvertes au service de projets de développement
 who: Agence Française de Développement
 themes:

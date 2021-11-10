@@ -1,5 +1,5 @@
 ---
-title: " RembourSanté"
+title: RembourSanté
 description: Améliorer la compréhension des remboursements de l’assurance
   maladie sur le compte Ameli
 who: Caisse Nationale d’Assurance Maladie

@@ -1,5 +1,5 @@
 ---
-title: " Social Connect"
+title: Social Connect
 description: Repérer et mettre en réseau l’innovation sociale dans les territoir
 who: Services du Premier Ministre, Commissariat général à l’égalité des
   territoires, Carrefour des innovations sociales
