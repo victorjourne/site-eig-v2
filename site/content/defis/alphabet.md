@@ -14,6 +14,8 @@ expertises:
 image: img/eig1-default-1-.svg
 visible: true
 ---
+{{< arrow-link url="https://apps.education.fr/" title="Plateforme en ligne" target="true" >}}
+
 L’Éducation nationale rassemble 30 académies, 97 directions départementales, 62 000 établissements et 1,2 million d’agents. Ceux-ci ont des besoins communs : choisir une date de réunion avec des collègues, générer une visioconférence pour une réunion, se concerter pour choisir un manuel scolaire, prendre des notes ensemble… Pourtant, les services numériques sont le plus souvent proposés à l’échelle des académies et ne sont pas partagés à l’ensemble des agents de l’Éducation nationale. En résultent des disparités d’expérience entre les territoires, et des difficultés à travailler ensemble au delà de son académie.
 
 À défaut de coordination entre académies, les outils numériques sont donc souvent mis à disposition en doublons et en silos. Cette situation ne permet pas d’optimiser les coûts et l’allocation des ressources qui pourraient être utilisées pour alimenter une démarche d’amélioration de l’expérience utilisateur. Les agents se tournent alors vers des solutions grand public plus simples et plus efficientes malgré les problèmes de maîtrise des données personnelles que cela peut engendrer.
