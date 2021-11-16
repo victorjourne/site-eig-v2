@@ -14,7 +14,6 @@ expertises:
 image: img/eig1-default-1-.svg
 visible: true
 ---
-
 {{< arrow-link url="https://inventaire-des-orgues.fr/" title="Démonstration" target="true" >}}
 
 {{< arrow-link url="https://github.com/bzg/indexes" title="Code source" target="true" >}}
@@ -30,3 +29,5 @@ Bastien a développé un site web collaboratif rassemblant les données publique
 10 mois après : retour d’expérience sur l’aventure EIG.
 
 {{< dailymotion x64z39q >}}
+
+{{< arrow-link url="https://www.culture.gouv.fr/Actualites/Une-encyclopedie-participative-pour-les-orgues-de-France" title="Une encyclopédie participative pour les orgues de France — Découvrir l'article " target="true" >}}
