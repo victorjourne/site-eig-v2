@@ -6,7 +6,9 @@ promos:
 role: participant
 defis:
   - Open Chronic
-image: img/viktor-jarry.png
+expertises:
+  - Data science
+image: img/viktor-jarry.jpg
 linkedin: https://www.linkedin.com/in/viktor-jarry-b2998690/
 github: https://github.com/vjarry
 ---
