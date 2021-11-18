@@ -10,7 +10,7 @@ town: Paris
 date: 2021-10-26T09:13:15.911Z
 expertises:
   - Design
-image: img/eig1-default-1-.svg
+image: img/inpn-espaces.svg
 visible: true
 ---
 ### La problématique
