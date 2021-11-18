@@ -10,7 +10,7 @@ town: Paris
 date: 2021-10-24T14:38:38.088Z
 expertises:
   - Design
-image: img/eig1-default-1-.svg
+image: img/franceco.svg
 visible: true
 ---
 ### La problématique
