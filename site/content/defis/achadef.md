@@ -10,7 +10,7 @@ town: Paris
 date: 2021-10-17T09:42:47.429Z
 expertises:
   - Design
-image: img/eig1-default-1-.svg
+image: img/achadef.svg
 visible: true
 ---
 ### La problématique
