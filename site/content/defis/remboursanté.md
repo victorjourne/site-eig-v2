@@ -12,7 +12,7 @@ town: Paris
 date: 2021-10-26T09:58:28.222Z
 expertises:
   - Design
-image: img/eig1-default-1-.svg
+image: img/remboursante.svg
 visible: true
 ---
 ### La problématique
