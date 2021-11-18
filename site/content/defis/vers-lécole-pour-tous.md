@@ -11,7 +11,7 @@ town: Clermont-Ferrand
 date: 2021-10-26T09:33:13.458Z
 expertises:
   - Design
-image: img/eig1-default-1-.svg
+image: img/vers-ecole-pour-tous.svg
 visible: true
 ---
 ### La problématique
