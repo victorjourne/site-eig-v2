@@ -12,7 +12,7 @@ town: Paris
 date: 2021-10-26T12:22:55.743Z
 expertises:
   - Design
-image: img/eig1-default-1-.svg
+image: img/sequoia.svg
 visible: true
 ---
 ### La problématique, rationaliser pour mieux sensibiliser/informer.
