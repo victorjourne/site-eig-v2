@@ -11,7 +11,7 @@ town: Paris
 date: 2021-10-26T09:18:47.759Z
 expertises:
   - Design
-image: img/eig1-default-1-.svg
+image: img/maritux.svg
 visible: true
 ---
 ### La problématique
