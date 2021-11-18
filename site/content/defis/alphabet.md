@@ -11,7 +11,7 @@ town: Paris
 date: 2021-10-24T14:34:24.036Z
 expertises:
   - Design
-image: img/eig1-default-1-.svg
+image: img/alphabet.svg
 visible: true
 ---
 {{< arrow-link url="https://apps.education.fr/" title="Plateforme en ligne" target="true" >}}
