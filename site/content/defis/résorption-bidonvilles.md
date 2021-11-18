@@ -11,7 +11,7 @@ town: Paris
 date: 2021-10-26T12:00:55.637Z
 expertises:
   - Design
-image: img/eig1-default-1-.svg
+image: img/resorptionbidonvilles.svg
 visible: true
 ---
 La [Délégation interministérielle à l’hébergement et l’accès au logement (Dihal)](https://www.gouvernement.fr/presentation-de-la-dihal) souhaite consolider le pilotage de la politique de résorption des bidonvilles aux niveaux national et local afin d’agir plus et mieux grâce un partage de l’information et des solutions qui fonctionnent.
