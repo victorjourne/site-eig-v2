@@ -12,7 +12,7 @@ town: Paris
 date: 2021-10-26T13:19:07.185Z
 expertises:
   - Design
-image: img/eig1-default-1-.svg
+image: img/vigicrux.svg
 visible: true
 ---
 ### La problématique
