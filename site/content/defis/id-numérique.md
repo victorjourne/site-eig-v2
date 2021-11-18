@@ -10,7 +10,7 @@ town: Paris
 date: 2021-10-26T08:08:07.978Z
 expertises:
   - Design
-image: img/eig1-default-1-.svg
+image: img/id-numerique.svg
 visible: true
 ---
 ### La problématique
