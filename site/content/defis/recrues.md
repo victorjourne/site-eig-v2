@@ -12,7 +12,7 @@ town: Paris
 date: 2021-10-26T09:54:02.701Z
 expertises:
   - Design
-image: img/eig1-default-1-.svg
+image: img/recrues.svg
 visible: true
 ---
 ### La problématique
