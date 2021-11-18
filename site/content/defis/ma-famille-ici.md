@@ -10,7 +10,7 @@ town: Paris
 date: 2021-10-26T09:16:12.654Z
 expertises:
   - Design
-image: img/eig1-default-1-.svg
+image: img/mafamilleici.svg
 visible: true
 ---
 ### La problématique
