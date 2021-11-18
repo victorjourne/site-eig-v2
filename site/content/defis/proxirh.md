@@ -11,7 +11,7 @@ town: Lyon
 date: 2021-10-26T09:51:53.015Z
 expertises:
   - Design
-image: img/eig1-default-1-.svg
+image: img/proxirh.svg
 visible: true
 ---
 ## La problématique
