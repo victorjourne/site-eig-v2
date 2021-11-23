@@ -4,8 +4,10 @@ job: "Designer "
 promos:
   - Promotion 5
 role: participant
-defis: 
-  - "TRISTAN "
+defis:
+  - TRISTAN
+expertises:
+  - Design
 image: img/chloe-rotrou.png
 linkedin: https://www.linkedin.com/in/chlo%C3%A9-rotrou-pointhuit8/
 ---
