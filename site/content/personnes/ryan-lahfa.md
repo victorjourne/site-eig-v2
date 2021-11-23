@@ -5,7 +5,9 @@ promos:
   - Promotion 5
 role: participant
 defis:
-  - "TRISTAN "
+  - TRISTAN
+expertises:
+  - Développement
 image: img/ryan-lahfa.jpg
 github: http://github.com/RaitoBezarius
 ---
