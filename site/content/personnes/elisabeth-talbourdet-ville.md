@@ -5,7 +5,9 @@ promos:
   - Promotion 5
 role: participant
 defis:
-  - "BatID "
+  - BatID
+expertises:
+  - Juriste
 image: img/elisabeth-talbourdet-ville.jpg
 linkedin: https://www.linkedin.com/in/elisabeth-talbourdet-ville-b48ba689/
 ---
