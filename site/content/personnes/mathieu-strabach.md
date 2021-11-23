@@ -5,7 +5,9 @@ promos:
   - Promotion 5
 role: participant
 defis:
-  - "DaSES  "
+  - DaSES
+expertises:
+  - Design
 image: img/mathieu-s.png
 linkedin: https://www.linkedin.com/in/mathieu-strabach
 ---
