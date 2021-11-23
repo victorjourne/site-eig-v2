@@ -1,5 +1,5 @@
 ---
-title: e-PSHAD
+title: ePSHAD
 description: Accompagner les personnes en situation de handicap dans leur
   parcours de réadaptation professionnelle
 who: "Etablissement Public National Antoine Koenigswarter (EPNAK) + Caisse
