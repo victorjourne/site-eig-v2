@@ -5,8 +5,10 @@ promos:
   - Promotion 5
 role: agent-public
 defis:
-  - "DaSES  "
   - CoachÉlèves
+  - DaSES
+expertises:
+  - Data engineering
 image: img/placeholder_homme.svg
 ---
 
