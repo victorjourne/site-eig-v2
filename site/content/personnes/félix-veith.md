@@ -5,7 +5,9 @@ promos:
   - Promotion 5
 role: participant
 defis:
-  - "BatID "
+  - BatID
+expertises:
+  - Data engineering
 image: img/felix-veith.jpg
 linkedin: https://www.linkedin.com/in/f%C3%A9lix-veith-energy-and-climate-engineer
 github: https://github.com/fe51
