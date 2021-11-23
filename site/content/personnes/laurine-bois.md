@@ -5,7 +5,9 @@ promos:
   - Promotion 5
 role: participant
 defis:
-  - "DaSES  "
+  - DaSES
+expertises:
+  - Juriste
 image: img/laurine-bois.jpg
 linkedin: https://www.linkedin.com/in/laurine-bois-b1a571197/
 ---
