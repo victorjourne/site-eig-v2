@@ -3,6 +3,10 @@ title: On parle de nous
 layout: page
 url: /espace-presse
 ---
+**7 décembre 2021**
+
+[Une boîte à outils en ligne pour booster l’exploitation des données dans l’administration](https://acteurspublics.fr/articles/une-boite-a-outils-en-ligne-pour-booster-lexploitation-des-donnees-dans-ladministration)
+
 **11 octobre 2021** 
 
 [La Dinum vise la parité en 2022](https://www.nextinpact.com/lebrief/48394/la-dinum-vise-parite-en-2022)
