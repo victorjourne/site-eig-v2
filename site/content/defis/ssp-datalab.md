@@ -2,8 +2,7 @@
 title: SSP Datalab
 description: Améliorer la statistique publique à l’aide de nouvelles techniques
   et outils de traitement de données
-who: "  Administration de rattachement :Institut national de la statistique et
-  des études économiques"
+who: Institut national de la statistique et des études économiques
 themes:
   - Numérique public
 promos:
