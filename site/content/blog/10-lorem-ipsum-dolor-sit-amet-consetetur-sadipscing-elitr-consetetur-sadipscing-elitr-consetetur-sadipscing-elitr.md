@@ -2,7 +2,8 @@
 title: "Entrepreneurs d’intérêt général : lauréats et défis de la 5ème promotion"
 author: Corine Waroquiers, Coordinatrice du programme EIG
 date: 2021-07-19T14:11:00.000Z
-description: Test
+description: Ils et elles seront 39 à rejoindre les rangs de l’administration
+  française à la rentrée
 image: img/linkedin_annoncepromo5.jpg
 categories:
   - Évaluation
