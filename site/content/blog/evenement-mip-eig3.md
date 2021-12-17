@@ -4,8 +4,8 @@ description: "Le 9 novembre 2020, l’équipe du programme EIG a organisé une t
 image: img/evenement-mip-2020-eig3bis.png
 layout: post
 categories:
-- témoignage
-- pérennisation
+- Témoignage
+- Pérennisation
 title: "[Table-ronde en ligne] Pérenniser la transformation numérique : un an après le programme EIG, des mentors de la promotion 3 partagent leur expérience"
 date: 2021-01-05T00:00:00.000Z
 visible: true

@@ -1,3 +1,3 @@
 ---
-title: "Divers "
+title: "Divers"
 ---

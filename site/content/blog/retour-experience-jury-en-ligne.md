@@ -4,9 +4,9 @@ description: "Chaque année, l'équipe du programme Entrepreneurs d'Intérêt G�
 image: /img/photo_jury_twitter_EIG4.png
 layout: post
 categories:
-- méthode
-- outil
-- évaluation
+- Méthode
+- Outil
+- Évaluation
 title: "Organiser un jury en ligne - notre expérience avec la quatrième promotion EIG"
 date: 2020-04-01T00:00:00.000Z
 visible: true

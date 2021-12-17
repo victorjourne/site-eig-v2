@@ -4,9 +4,9 @@ description: Les entrepreneurs d’intérêt général (EIG) sont data scientist
 image: img/eig3-assemblee-nationale.png
 layout: post
 categories:
-- accompagnement
-- méthode
-- collectif
+- Accompagnement
+- Méthode
+- Collectif
 title: '[Vidéo] Qui sont les 32 entrepreneurs d''intérêt général de la promotion 3 ?'
 date: 2019-04-12T00:00:00.000Z
 visible: true

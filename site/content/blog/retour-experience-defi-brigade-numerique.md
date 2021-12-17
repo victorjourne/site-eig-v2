@@ -4,8 +4,8 @@ description: Dora Crisan est ingénieure, EIG pour le défi « Brigade numériq
 image: img/eig_brigade_numerique.jpg
 layout: post
 categories:
-- témoignage
-- développement
+- Témoignage
+- Développement
 title: 'Retour d''expérience : le défi Brigade numérique'
 date: 2018-11-15T00:00:00.000Z
 visible: true

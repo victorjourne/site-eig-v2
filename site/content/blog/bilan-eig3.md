@@ -4,10 +4,10 @@ description: La promotion EIG 3 a pris fin le 15 novembre 2019. Quel est le bila
 image: https://www.etalab.gouv.fr/wp-content/uploads/2020/01/restitution-eig-groupe-1024x519.jpg
 layout: post
 categories:
-- évaluation
-- open
-- accompagnement
-- méthode
+- Évaluation
+- Open
+- Accompagnement
+- Méthode
 title: 'Promotion EIG 3 : on fait le bilan'
 date: 2020-01-17T00:00:00.000Z
 visible: true

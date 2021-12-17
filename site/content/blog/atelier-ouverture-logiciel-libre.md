@@ -1,17 +1,12 @@
 ---
 author: Paul Schmite, équipe EIG
-description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement des EIG.  Elle
-  était organisée autour de trois ateliers : l’un sur les questions à se poser pour
-  définir son produit ; l’autre sur la façon d’impliquer les utilisateurs dans sa
-  conception ; le dernier sur l’ouverture du code source &#x2013; l’un des enjeux
-  majeurs du programme EIG étant de permettre le développement, au sein de l’administration,
-  de logiciels libres, ouverts aux contributions extérieures.'
+description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement des EIG.  Elle était organisée autour de trois ateliers : l’un sur les questions à se poser pour définir son produit ; l’autre sur la façon d’impliquer les utilisateurs dans sa conception ; le dernier sur l’ouverture du code source &#x2013; l’un des enjeux majeurs du programme EIG étant de permettre le développement, au sein de l’administration, de logiciels libres, ouverts aux contributions extérieures.'
 image: img/xkcd-open-source.jpg
 layout: post
 categories:
-- accompagnement
-- méthode
-- open
+- Accompagnement
+- Méthode
+- Open
 title: L’ouverture d’un logiciel libre.  Retour sur les ateliers du 22 mars (2/3)
 date: 2018-04-16T00:00:00.000Z
 visible: true

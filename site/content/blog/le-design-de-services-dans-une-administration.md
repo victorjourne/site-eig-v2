@@ -4,9 +4,9 @@ description: 'Il y a 4 mois, Coline Lebaratoux intégrait l''ACOSS en tant qu''e
 image: img/detail-atelier-ux-map.jpg
 layout: post
 categories:
-- témoignage
-- réalisation
-- design
+- Témoignage
+- Réalisation
+- Design
 title: Comment faire du design de services dans l'administration ? L'exemple du projet ACOSS-plateforme
 date: 2019-07-03T00:00:00.000Z
 visible: true

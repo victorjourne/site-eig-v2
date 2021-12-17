@@ -4,8 +4,8 @@ description: "Les experts en accessibilité numérique, Jamshid Kohandel et Fern
 image: img/demo-a11y-20190404.jpeg
 layout: post
 categories:
-- design
-- écosystème
+- Design
+- Écosystème
 title: "Démonstrations : comment un aveugle navigue sur le web ?"
 date: 2019-08-30T00:00:00.000Z
 visible: true

@@ -4,10 +4,10 @@ description: "En tant qu'équipe coordination du programme, nous avons comme mis
 image: img/doc-site.png
 layout: post
 categories:
-- open
-- méthode
-- collectif
-- outil
+- Open
+- Méthode
+- Collectif
+- Outil
 title: "Ouvrir les ressources du programme : notre documentation en ligne"
 date: 2019-09-12T00:00:00.000Z
 visible: true

@@ -4,9 +4,9 @@ description: Comment s'assurer que les défis EIG perdurent au-delà des 10 mois
 image: img/session-mentors-perennisation-2019.jpg
 layout: post
 categories:
-- méthode
-- accompagnement
-- pérennisation
+- Méthode
+- Accompagnement
+- Pérennisation
 title: Quelles suites pour les défis EIG ?
 date: 2019-05-20T00:00:00.000Z
 visible: true

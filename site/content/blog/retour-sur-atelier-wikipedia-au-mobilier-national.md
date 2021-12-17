@@ -4,9 +4,9 @@ description: 'Le 21 septembre 2018, l''équipe EIG du Mobilier national a organi
 image: img/capture-commons-08102018.png
 layout: post
 categories:
-- partenariat
-- open
-- design
+- Partenariat
+- Open
+- Design
 title: Retour sur l'atelier Wikipédia organisé au Mobilier national
 date: 2018-10-12T00:00:00.000Z
 visible: true

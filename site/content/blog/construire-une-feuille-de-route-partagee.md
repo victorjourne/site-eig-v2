@@ -4,10 +4,9 @@ description: Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se so
 image: img/lll-1-canvas.jpg
 layout: post
 categories:
-- accompagnement
-- méthode
-title: 'Réaliser un défi en 10 mois : construire une feuille de route partagée et
-  accepter de la faire évoluer'
+- Accompagnement
+- Méthode
+title: 'Réaliser un défi en 10 mois : construire une feuille de route partagée et accepter de la faire évoluer'
 date: 2018-04-04T00:00:00.000Z
 visible: true
 ---

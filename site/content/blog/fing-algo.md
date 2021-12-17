@@ -4,10 +4,9 @@ description: Le 26 septembre 2018, la Fing animait un atelier "Nos Systèmes" su
 image: img/atelier-fing-algo-ensemble.jpg
 layout: post
 categories:
-- partenariat
-- algorithme
-title: Construire des algorithmes publics exemplaires, la mission Fing-Etalab est
-  lancée avec la Promotion 2 des EIG !
+- Partenariat
+- Algorithme
+title: Construire des algorithmes publics exemplaires, la mission Fing-Etalab est lancée avec la Promotion 2 des EIG !
 date: 2018-10-15T00:00:00.000Z
 visible: true
 ---

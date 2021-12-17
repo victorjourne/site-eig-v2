@@ -4,9 +4,9 @@ description: Antoine Augusti, entrepreneur d'intérêt général pour le défi P
 image: img/article-Antoine-photo-avec-Elsa.jpg
 layout: post
 categories:
-- témoignage
-- datascience
-- open
+- Témoignage
+- Datascience
+- Open
 title: 'Travailler avec des données d''exception et les rendre disponibles : retour d''expérience d''Antoine Augusti'
 date: 2018-06-11T00:00:00.000Z
 visible: true

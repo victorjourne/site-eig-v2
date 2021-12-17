@@ -4,9 +4,9 @@ description: De janvier à novembre 2018, le programme Entrepreneur·e d'Intér�
 image: img/promotion2.jpg
 layout: post
 categories:
-- réalisation
-- open
-- accompagnement
+- Réalisation
+- Open
+- Accompagnement
 title: Entrepreneur·e d'Intérêt Général - retour en image et en équipe sur les réalisations de la Promotion 2
 date: 2018-12-03T00:00:00.000Z
 visible: true

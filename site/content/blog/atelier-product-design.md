@@ -1,15 +1,12 @@
 ---
 author: Sophie Miljkovic, équipe EIG
-description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement des entrepreneurs
-  d’intérêt général. En présence des mentors des défis, nous avons travaillé sur 3
-  ateliers, orientés « utilisateurs » : recherche produit et utilisateurs, design
-  et conception du produit avec ses utilisateurs, ouverture du code source.'
+description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement des entrepreneurs d’intérêt général. En présence des mentors des défis, nous avons travaillé sur 3 ateliers, orientés « utilisateurs » : recherche produit et utilisateurs, design et conception du produit avec ses utilisateurs, ouverture du code source.'
 image: img/design-site-affreux.jpg
 layout: post
 categories:
-- accompagnement
-- méthode
-- design
+- Accompagnement
+- Méthode
+- Design
 title: Comment mettre son utilisateur au centre du design de son site ou de son outil ?  Retour
   sur les ateliers du 22 mars (3/3)
 date: 2018-04-25T00:00:00.000Z

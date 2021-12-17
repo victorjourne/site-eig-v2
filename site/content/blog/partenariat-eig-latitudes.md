@@ -4,9 +4,9 @@ description: "Au quotidien, l’équipe de coordination du programme Entrepreneu
 image: img/partenariat-latitudes.jpg
 layout: post
 categories:
-- collectif
-- partenariat 
-- écosystème
+- Collectif
+- Partenariat 
+- Écosystème
 title: "Le programme EIG noue un partenariat avec l'association Latitudes"
 date: 2019-12-16T00:00:00.000Z
 visible: true

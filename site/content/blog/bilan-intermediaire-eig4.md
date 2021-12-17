@@ -4,7 +4,7 @@ description: "La promotion 4 du programme EIG a démarré en septembre 2020. Sep
 image: img/EIG4_BilanIntermediaire_202103.jpg
 layout: post
 categories:
-- réalisation
+- Réalisation
 title: "[VIDEO] Bilan intermédiaire : où en est la promotion EIG 4 ?"
 date: 2021-04-01T00:00:00.000Z
 visible: true

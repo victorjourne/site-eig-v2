@@ -4,8 +4,8 @@ description: Lors de la session d'accompagnement mensuelle de la promotion EIG 3
 image: img/seminaire-2019/designers.jpg
 layout: post
 categories:
-- témoignage
-- design
+- Témoignage
+- Design
 title: Qu'est-ce qu'un bon designer ?
 date: 2019-04-26T00:00:00.000Z
 visible: true

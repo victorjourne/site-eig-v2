@@ -7,8 +7,8 @@ description: 'Au printemps dernier, les EIG et les mentors se sont retrouvés po
 image: img/win-fails-tableau.jpg
 layout: post
 categories:
-- témoignage
-- méthode
+- Témoignage
+- Méthode
 title: Comment les EIG et les mentors apprennent et progressent ?
 date: 2018-10-25T00:00:00.000Z
 visible: true

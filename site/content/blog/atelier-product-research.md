@@ -1,16 +1,12 @@
 ---
 author: Mathilde Bras, équipe EIG
-description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement des entrepreneurs
-  d’intérêt général. En présence des mentors des défis, nous avons travaillé sur 3
-  ateliers, orientés « utilisateurs » : recherche produit et utilisateurs, design
-  et conception du produit avec ses utilisateurs, ouverture du code source.'
+description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement des entrepreneurs d’intérêt général. En présence des mentors des défis, nous avons travaillé sur 3 ateliers, orientés « utilisateurs » : recherche produit et utilisateurs, design et conception du produit avec ses utilisateurs, ouverture du code source.'
 image: img/ex-empathy-map.jpg
 layout: post
 categories:
-- accompagnement
-- design
-title: '« You are not (always) your user » : partir des utilisateurs pour construire
-  un produit.  Retour sur les ateliers du 22 mars (1/3)'
+- Accompagnement
+- Design
+title: '« You are not (always) your user » : partir des utilisateurs pour construire un produit.  Retour sur les ateliers du 22 mars (1/3)'
 date: 2018-04-12T00:00:00.000Z
 visible: true
 ---

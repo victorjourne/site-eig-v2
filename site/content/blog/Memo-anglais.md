@@ -4,9 +4,9 @@ description: Here at Etalab, we are convinced that the « Public Interest Entrep
 image: /img/logo-marianne-eig-site.png
 layout: post
 categories:
-- accompagnement
-- méthode
-- international
+- Accompagnement
+- Méthode
+- International
 title: Public Interest Entrepreneurs, why, what and how
 date: 2018-07-23T00:00:00.000Z
 visible: true

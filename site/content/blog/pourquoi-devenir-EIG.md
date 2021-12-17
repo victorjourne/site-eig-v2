@@ -1,12 +1,11 @@
 ---
 author: Tiphaine Phe-Neau, EIG Prévisecours
-description: Tiphaine revient sur son parcours –de Dailymotion à Entrepreneur·e d’Intérêt
-  Général- et nous raconte ce qui l’a poussée à s’engager dans le programme.
+description: Tiphaine revient sur son parcours –de Dailymotion à Entrepreneur·e d’Intérêt Général- et nous raconte ce qui l’a poussée à s’engager dans le programme.
 image: img/tiphaine-guillaume.jpg
 layout: post
 categories:
-- témoignage
-- datascience
+- Témoignage
+- Datascience
 title: Pourquoi quitter son travail et devenir Entrepreneur·e d'Intérêt Général (EIG)?
 date: 2018-05-29T00:00:00.000Z
 visible: true

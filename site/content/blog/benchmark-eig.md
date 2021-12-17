@@ -1,17 +1,12 @@
 ---
 author: Guénolé Carré, équipe EIG
-description: 'En France comme ailleurs, de nombreuses administrations font face à
-  une même problématique : le recrutement de compétences numériques. Pour y parvenir,
-  différentes initiatives se mettent en place. Nous avons souhaité comparer celles-ci
-  au programme Entrepreneurs d’Intérêt Général (EIG), afin de mieux comprendre notre
-  environnement et pour constater nos éventuels points de convergence.'
+description: 'En France comme ailleurs, de nombreuses administrations font face à une même problématique : le recrutement de compétences numériques. Pour y parvenir, différentes initiatives se mettent en place. Nous avons souhaité comparer celles-ci au programme Entrepreneurs d’Intérêt Général (EIG), afin de mieux comprendre notre environnement et pour constater nos éventuels points de convergence.'
 image: img/initiatives.PNG
 layout: post
 categories:
-- écosystème
-- international
-title: 'Mobiliser des compétences numériques dans l''administration : quelles initiatives
-  à l''étranger ?'
+- Écosystème
+- International
+title: 'Mobiliser des compétences numériques dans l''administration : quelles initiatives à l''étranger ?'
 date: 2019-07-10T00:00:00.000Z
 visible: true
 ---

@@ -4,11 +4,10 @@ description: L'équipe de coordination du programme EIG a organisé un premier s
 image: img/seminaire-2019/promo-3.jpg
 layout: post
 categories:
-- accompagnement
-- méthode
-- collectif
-title: 'Accélérer les défis et fédérer la promotion : retours du premier séminaire
-  « hors-les-murs » de la promotion EIG 3'
+- Accompagnement
+- Méthode
+- Collectif
+title: 'Accélérer les défis et fédérer la promotion : retours du premier séminaire « hors-les-murs » de la promotion EIG 3'
 date: 2019-05-27T00:00:00.000Z
 visible: true
 ---

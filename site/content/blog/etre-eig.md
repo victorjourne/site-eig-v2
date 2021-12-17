@@ -4,9 +4,9 @@ description: "Chaque année, le programme Entrepreneurs d’Intérêt Général 
 image: img/bootcamp6.jpg
 layout: post
 categories:
-- recrutement
-- témoignage
-- collectif
+- Recrutement
+- Témoignage
+- Collectif
 title: " Qui sont et que font les « entrepreneurs d’intérêt général » ?"
 date: 2020-05-25T00:00:00.000Z
 visible: true

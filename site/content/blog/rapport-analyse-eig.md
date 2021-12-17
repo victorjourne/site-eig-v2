@@ -4,9 +4,9 @@ description: Dans le cadre de la démarche d'évaluation du programme menée par
 image: img/datajust-pac.jpg
 layout: post
 categories:
-- accompagnement
-- évaluation
-- méthode
+- Accompagnement
+- Évaluation
+- Méthode
 title: Les entrepreneurs d'intérêt général transforment-ils vraiment l'administration ? Réponses pour les promotions 1 & 2
 date: 2019-06-26T00:00:00.000Z
 visible: true

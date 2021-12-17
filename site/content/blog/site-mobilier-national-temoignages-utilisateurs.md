@@ -4,9 +4,9 @@ description: En avril 2019 le Mobilier national rendait accessibles 65 000 meubl
 image: img/gobelins-interface-V7.jpg
 layout: post
 categories:
-- réalisation
-- design
-- open
+- Réalisation
+- Design
+- Open
 title: 'Le site des collections du Mobilier national : un outil, sept usages'
 date: 2019-06-14T00:00:00.000Z
 visible: true

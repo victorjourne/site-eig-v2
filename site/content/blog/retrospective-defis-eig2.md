@@ -4,10 +4,9 @@ description: Les 6 et 7 septembre 2018, la promotion 2 des entrepreneurs d'inté
 image: img/win-fails-tableau.jpg
 layout: post
 categories:
-- accompagnement
-- évaluation
-title: Rétrospective - les EIG2 font le bilan. Ce qu'ils ont réussi, appris, transmis,
-  ce qui les a surpris, ce qu'ils auraient fait autrement
+- Accompagnement
+- Évaluation
+title: Rétrospective - les EIG2 font le bilan. Ce qu'ils ont réussi, appris, transmis, ce qui les a surpris, ce qu'ils auraient fait autrement
 date: 2018-09-24T00:00:00.000Z
 visible: true
 ---

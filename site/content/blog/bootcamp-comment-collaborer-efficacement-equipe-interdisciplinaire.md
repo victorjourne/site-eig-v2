@@ -4,9 +4,9 @@ description: "Du 21 au 25 septembre derniers, les entrepreneures et entrepreneur
 image: img/blogposteig4-promotion.jpg
 layout: post
 categories:
-- accompagnement
-- méthode
-- interdisciplinarité
+- Accompagnement
+- Méthode
+- Interdisciplinarité
 title: "Accompagner l'interdisciplinarité : retour sur le bootcamp d'embarquement de la promotion 4 des entrepreneurs d'intérêt général"
 date: 2020-11-10T00:00:00.000Z
 visible: true

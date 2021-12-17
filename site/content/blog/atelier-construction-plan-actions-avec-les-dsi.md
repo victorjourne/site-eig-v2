@@ -1,15 +1,12 @@
 ---
 author: L'équipe EIG (Bastien et Mathilde)
-description: Mercredi 16 mai, entrepreneurs d'intérêt général et mentors venaient
-  à la rencontre de leurs correspondants dans les directions des systèmes d'informations
-  de leurs ministères. À l'occasion d'un atelier au Liberté Living Lab, ils ont construit
-  la feuille de route de pérennisation de leurs défis.
+description: Mercredi 16 mai, entrepreneurs d'intérêt général et mentors venaient à la rencontre de leurs correspondants dans les directions des systèmes d'informations de leurs ministères. À l'occasion d'un atelier au Liberté Living Lab, ils ont construit la feuille de route de pérennisation de leurs défis.
 image: img/dsi-pyramide-perennisation.jpg
 layout: post
 categories:
-- accompagnement
-- méthode
-- pérennisation
+- Accompagnement
+- Méthode
+- Pérennisation
 title: Pérenniser un projet EIG - Retour sur le séminaire avec les DSI des ministères
 date: 2018-05-24T00:00:00.000Z
 visible: true

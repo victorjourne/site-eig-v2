@@ -4,9 +4,9 @@ description: "Le programme Entrepreneurs d’Intérêt Général fait la part be
 image: img/seminaire-2019/moteurs-regles.jpg
 layout: post
 categories:
-- datascience
-- open
-- collectif
+- Datascience
+- Open
+- Collectif
 title: "Tour d’horizon des méthodes d’intelligence artificielle utilisées dans les défis EIG 3"
 date: 2019-08-21T00:00:00.000Z
 visible: true

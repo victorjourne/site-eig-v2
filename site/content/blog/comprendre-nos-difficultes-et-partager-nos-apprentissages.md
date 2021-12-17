@@ -4,9 +4,9 @@ description: 'Lors de notre séminaire de septembre, nous avons fait le point su
 image: img/seminaire-2019/seminaire-201909.jpg
 layout: post
 categories:
-- collectif
-- open 
-- accompagnement
+- Collectif
+- Open 
+- Accompagnement
 title: 'Comprendre nos difficultés et partager nos apprentissages'
 date: 2019-12-10T00:00:00.000Z
 visible: true

@@ -4,9 +4,9 @@ description: "Afin de partager et de suivre l'avancement des différents défis 
 image: img/bulletins-form.png
 layout: post
 categories:
-- réalisation
-- open
-- accompagnement
+- Réalisation
+- Open
+- Accompagnement
 title: 'Bulletins : notre outil open source de rétrospective hebdomadaire'
 date: 2019-07-03T00:00:00.000Z
 visible: true

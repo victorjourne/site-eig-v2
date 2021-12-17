@@ -4,8 +4,8 @@ description: 'Le programme EIG a bientôt 3 ans ! Nous vous proposons une rétr
 image: /img/promo.PNG
 layout: post
 categories:
-- évaluation
-- accompagnement
+- Évaluation
+- Accompagnement
 title: 'Data EIG : un retour en chiffres sur 3 années du programme EIG'
 date: 2019-05-09T00:00:00.000Z
 visible: true

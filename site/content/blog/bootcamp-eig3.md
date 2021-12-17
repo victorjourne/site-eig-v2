@@ -5,12 +5,10 @@ date: 2019-03-12T00:00:00.000Z
 image: img/photo-blogpost-bootcamp-eig3.jpg
 layout: post
 categories:
-- accompagnement
-- méthode
-- écosystème
-title: Quelles ressources mobiliser pour mener à bien un projet numérique autour des
-  données ? - Retour sur la semaine d'intégration de la promotion 3 des entrepreneurs
-  d'intérêt général
+- Accompagnement
+- Méthode
+- Écosystème
+title: Quelles ressources mobiliser pour mener à bien un projet numérique autour des données ? - Retour sur la semaine d'intégration de la promotion 3 des entrepreneurs d'intérêt général
 visible: true
 ---
 

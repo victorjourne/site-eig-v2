@@ -4,8 +4,8 @@ description: "En novembre 2019, la promotion 3 du programme EIG prenait fin. Sei
 image: img/Blogpost_EIG3_2021-0.png
 layout: post
 categories:
-- évaluation
-- open
+- Évaluation
+- Open
 title: "Plus d’un an après, que deviennent les défis de la promotion 3 ?"
 date: 2021-04-08T00:00:00.000Z
 visible: true
