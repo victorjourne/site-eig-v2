@@ -8,7 +8,7 @@ description: De janvier à novembre 2018, le programme Entrepreneur·e d'Intér�
   leurs réalisations et proposent quelques conseils à la prochaine promotion.
 image: /img/blog/bootcamp/promotion2.jpg
 layout: post
-tags:
+categories:
 - réalisation
 - open
 - accompagnement

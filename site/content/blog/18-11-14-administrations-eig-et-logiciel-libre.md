@@ -5,7 +5,7 @@ description: Qu'est-ce que le logiciel libre ?  Les EIG en ont-ils utilisé ? 
   année du programme EIG.
 image: https://upload.wikimedia.org/wikipedia/commons/e/ee/GNU%2BLinux.png
 layout: post
-tags:
+categories:
 - méthode
 - outil
 - open

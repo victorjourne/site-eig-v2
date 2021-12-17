@@ -6,7 +6,7 @@ description: Afin de partager et de suivre l'avancement des différents défis r
   présentons dans cet article.
 image: /img/blog/bulletins-form.png
 layout: post
-tags:
+categories:
 - réalisation
 - open
 - accompagnement

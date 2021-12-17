@@ -5,7 +5,7 @@ description: Alors que le programme EIG fêtera bientôt ses trois ans, il nous 
   ceux à améliorer.
 image: /img/blog/evaluation-ogp.jpg
 layout: post
-tags:
+categories:
 - accompagnement
 - évaluation
 title: Mesurer l'impact du programme EIG

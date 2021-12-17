@@ -6,7 +6,7 @@ description: Dans le cadre de la démarche d'évaluation du programme menée par
   promotions.
 image: /img/blog/datajust-pac.jpg
 layout: post
-tags:
+categories:
 - accompagnement
 - évaluation
 - méthode

@@ -5,7 +5,7 @@ description: Les entrepreneurs d’intérêt général (EIG) sont data scientist
   numérique de l’État ?
 image: /img/blog/eig3-assemblee-nationale.png
 layout: post
-tags:
+categories:
 - accompagnement
 - méthode
 - collectif

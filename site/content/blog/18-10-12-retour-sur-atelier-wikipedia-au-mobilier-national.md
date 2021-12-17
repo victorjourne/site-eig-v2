@@ -8,7 +8,7 @@ description: 'Le 21 septembre 2018, l''équipe EIG du Mobilier national a organi
   d''ouverture qui a fortement mobilisé et qui ne demande qu''à être prolongée !'
 image: /img/blog/capture-commons-08102018.png
 layout: post
-tags:
+categories:
 - partenariat
 - open
 - design

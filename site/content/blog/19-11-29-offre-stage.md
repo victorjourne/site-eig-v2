@@ -4,7 +4,7 @@ description: Rejoins-nous ! Nous recherchons quelqu’un pour appuyer le pilota
 image: /img/blog/session-mentors-2.jpg
 layout: post
 published: true
-tags:
+categories:
 - accompagnement
 - recrutement
 title: 'Rejoins l''équipe Entrepreneurs d''Intérêt Général à Etalab : offre de stage « Chargé(e) de mission pour le programme EIG »'

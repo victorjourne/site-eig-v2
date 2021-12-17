@@ -7,7 +7,7 @@ description: 'Du 5 au 9 février derniers, l''équipe du programme Entrepreneur�
   et ce qui en est ressorti.'
 image: /img/blog/bootcamp/promotion2.jpg
 layout: post
-tags:
+categories:
 - accompagnement
 - méthode
 - collectif

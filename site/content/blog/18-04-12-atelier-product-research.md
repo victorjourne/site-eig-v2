@@ -6,7 +6,7 @@ description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement d
   et conception du produit avec ses utilisateurs, ouverture du code source.'
 image: /img/blog/ex-empathy-map.jpg
 layout: post
-tags:
+categories:
 - accompagnement
 - design
 title: '« You are not (always) your user » : partir des utilisateurs pour construire

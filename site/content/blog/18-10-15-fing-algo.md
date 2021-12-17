@@ -6,7 +6,7 @@ description: Le 26 septembre 2018, la Fing animait un atelier "Nos Systèmes" su
   la méthode et les prochaines étapes
 image: /img/blog/atelier-fing-algo-ensemble.jpg
 layout: post
-tags:
+categories:
 - partenariat
 - algorithme
 title: Construire des algorithmes publics exemplaires, la mission Fing-Etalab est

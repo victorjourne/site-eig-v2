@@ -6,7 +6,7 @@ description: Le 14 juin dernier s'est tenue une session de bilan à mi-parcours.
   qu'offre l'équipe EIG. En voici une synthèse.
 image: /img/blog/Matrice-Social-Connect.jpg
 layout: post
-tags:
+categories:
 - accompagnement
 - méthode
 - évaluation

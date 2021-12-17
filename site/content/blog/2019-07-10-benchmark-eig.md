@@ -7,7 +7,7 @@ description: 'En France comme ailleurs, de nombreuses administrations font face 
   environnement et pour constater nos éventuels points de convergence.'
 image: /img/blog/initiatives.PNG
 layout: post
-tags:
+categories:
 - écosystème
 - international
 title: 'Mobiliser des compétences numériques dans l''administration : quelles initiatives

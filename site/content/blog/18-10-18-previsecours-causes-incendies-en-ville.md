@@ -5,7 +5,7 @@ description: Guillaume est développeur au Ministère de l'Intérieur pour le d�
   plus corrélés avec le volume d'incendies urbains dans les différentes communes d'Essonne.
 image: /img/communaute/Guillaume-Lancrenon.png
 layout: post
-tags:
+categories:
 - témoignage
 - réalisation
 - datascience

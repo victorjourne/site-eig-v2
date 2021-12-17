@@ -6,7 +6,7 @@ description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement d
   et conception du produit avec ses utilisateurs, ouverture du code source.'
 image: /img/blog/design-site-affreux.jpg
 layout: post
-tags:
+categories:
 - accompagnement
 - méthode
 - design

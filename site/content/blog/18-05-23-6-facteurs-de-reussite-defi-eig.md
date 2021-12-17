@@ -8,7 +8,7 @@ description: 'Le 15 mai, l''équipe EIG a organisé au Liberté Living Lab une r
   par d’autres services, voire hors de l’administration ?'
 image: /img/blog/facteurs_reussite.jpg
 layout: post
-tags:
+categories:
 - accompagnement
 - méthode
 - évaluation

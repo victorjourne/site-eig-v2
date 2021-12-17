@@ -8,7 +8,7 @@ description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement d
   de logiciels libres, ouverts aux contributions extérieures.'
 image: /img/blog/xkcd-open-source.jpg
 layout: post
-tags:
+categories:
 - accompagnement
 - méthode
 - open

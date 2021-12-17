@@ -7,7 +7,7 @@ description: 'Il y a 4 mois, Coline Lebaratoux intégrait l''ACOSS en tant qu''e
   la recherche utilisateur.'
 image: /img/blog/detail-atelier-ux-map.jpg
 layout: post
-tags:
+categories:
 - témoignage
 - réalisation
 - design

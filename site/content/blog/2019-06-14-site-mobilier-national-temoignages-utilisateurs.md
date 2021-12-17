@@ -6,7 +6,7 @@ description: En avril 2019 le Mobilier national rendait accessibles 65 000 meubl
   pour quoi faire ?
 image: /img/blog/gobelins-interface-V7.jpg
 layout: post
-tags:
+categories:
 - réalisation
 - design
 - open

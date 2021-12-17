@@ -7,7 +7,7 @@ description: 'Lors de notre séminaire de septembre, nous avons fait le point su
   l’administration publique.'
 image: /img/blog/seminaire-2019/seminaire-201909.jpg
 layout: post
-tags:
+categories:
 - collectif
 - open 
 - accompagnement

@@ -11,7 +11,7 @@ description: 'Du 11 au 15 février, les entrepreneurs d’intérêt général de
   vous pourrez vous appuyer pour les résoudre.'
 image: /img/blog/photo-blogpost-bootcamp-eig3.jpg
 layout: post
-tags:
+categories:
 - accompagnement
 - méthode
 - écosystème

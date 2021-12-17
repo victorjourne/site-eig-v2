@@ -7,7 +7,7 @@ description: L'équipe de coordination du programme EIG a organisé un premier s
   différents ?
 image: /img/blog/seminaire-2019/promo-3.jpg
 layout: post
-tags:
+categories:
 - accompagnement
 - méthode
 - collectif

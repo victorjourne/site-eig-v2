@@ -3,7 +3,7 @@ author: Antoine Augusti, EIG Link
 description: "Au quotidien, l’équipe de coordination du programme Entrepreneurs d'Intérêt Général échange avec une multitude d'acteurs de la communauté du numérique d'intérêt général. Aujourd'hui, nous sommes fiers d'annoncer un partenariat avec l'association Latitudes"
 image: /img/blog/partenariat-latitudes.jpg
 layout: post
-tags:
+categories:
 - collectif
 - partenariat 
 - écosystème

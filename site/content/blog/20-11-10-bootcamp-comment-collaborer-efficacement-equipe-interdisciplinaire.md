@@ -3,7 +3,7 @@ author: Thanh Ha Le, équipe EIG
 description: "Du 21 au 25 septembre derniers, les entrepreneures et entrepreneurs d'intérêt général de la quatrième promotion se sont retrouvés pour la première fois, en collectif, à l'occasion d'un bootcamp d'embarquement. Parmi les objectifs de cette semaine : initier un esprit de promotion et encourager la collaboration. Alors que l'accent a souvent été mis sur la collaboration entre les défis, la question d'une bonne coordination au sein des équipes EIG interdisciplinaires a été moins abordée. Or, cette année, avec le renforcement de la place du design dans la nouvelle promotion, s'interroger sur la gestion de l'interdisciplinarité dans les duos/trios d'EIG est devenu essentiel. Quels sont les enjeux ? Comment les résoudre ? Vous trouverez dans cet article les bonnes pratiques que nous avons identifiées pour tirer le meilleur parti de l'interdisciplinarité."
 image: /img/blog/bootcamp/blogposteig4-promotion.jpg
 layout: post
-tags:
+categories:
 - accompagnement
 - méthode
 - interdisciplinarité

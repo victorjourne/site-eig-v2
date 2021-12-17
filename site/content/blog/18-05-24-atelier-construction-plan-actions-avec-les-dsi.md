@@ -6,7 +6,7 @@ description: Mercredi 16 mai, entrepreneurs d'intérêt général et mentors ven
   la feuille de route de pérennisation de leurs défis.
 image: /img/blog/dsi-pyramide-perennisation.jpg
 layout: post
-tags:
+categories:
 - accompagnement
 - méthode
 - pérennisation

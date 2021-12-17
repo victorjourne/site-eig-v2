@@ -7,7 +7,7 @@ description: Le jeudi 14 mars, les entrepreneurs d’intérêt général (EIG) s
   d'une administration.
 image: /img/blog/documentation-snds.png
 layout: post
-tags:
+categories:
 - méthode
 - accompagnement
 - open

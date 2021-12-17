@@ -7,7 +7,7 @@ description: Comment s'assurer que les défis EIG perdurent au-delà des 10 mois
   des mentors dans cette pérennisation ?
 image: /img/blog/session-mentors-perennisation-2019.jpg
 layout: post
-tags:
+categories:
 - méthode
 - accompagnement
 - pérennisation

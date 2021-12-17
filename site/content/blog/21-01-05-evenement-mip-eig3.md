@@ -3,7 +3,7 @@ author: Soizic Pénicaud et Thanh Ha Le (équipe EIG)
 description: "Le 9 novembre 2020, l’équipe du programme EIG a organisé une table-ronde pendant laquelle plusieurs agents publics mentors de défis EIG 3 ont été invités à raconter leur expérience, un an après la fin de la promotion en novembre 2019. Quels sont les enjeux de l’immersion de profils design et tech dans les administrations ? Quels en sont les bénéfices durables ? Qu’en est-il de la pérennisation des projets développés dans ce cadre ? Les réponses dans cet article, qui contient aussi une rediffusion vidéo du webinaire."
 image: /img/blog/evenement-mip-2020-eig3bis.png
 layout: post
-tags:
+categories:
 - témoignage
 - pérennisation
 title: "[Table-ronde en ligne] Pérenniser la transformation numérique : un an après le programme EIG, des mentors de la promotion 3 partagent leur expérience"

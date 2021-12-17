@@ -3,7 +3,7 @@ author: Soizic Pénicaud, équipe EIG
 description: La promotion EIG 3 a pris fin le 15 novembre 2019. Quel est le bilan collectif des 15 défis et 32 EIG de la promotion ? Quelles sont les pistes d'amélioration pour le programme en 2020 ?
 image: https://www.etalab.gouv.fr/wp-content/uploads/2020/01/restitution-eig-groupe-1024x519.jpg
 layout: post
-tags:
+categories:
 - évaluation
 - open
 - accompagnement

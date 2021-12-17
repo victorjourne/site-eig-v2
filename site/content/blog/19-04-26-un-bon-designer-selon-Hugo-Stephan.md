@@ -6,7 +6,7 @@ description: Lors de la session d'accompagnement mensuelle de la promotion EIG 3
   choisi une approche un peu taquine.
 image: /img/blog/seminaire-2019/designers.jpg
 layout: post
-tags:
+categories:
 - témoignage
 - design
 title: Qu'est-ce qu'un bon designer ?
