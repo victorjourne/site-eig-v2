@@ -12,6 +12,7 @@ categories:
 title: 'Rejoins l''équipe Entrepreneur·e d''Intérêt Général à Etalab : offre de stage
   « Appui à la coordination du programme EIG »'
 date: 2018-12-05T00:00:00.000Z
+visible: true
 ---
 
 ### Offre de stage « Appui à la coordination du programme EIG »

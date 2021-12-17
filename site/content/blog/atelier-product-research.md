@@ -12,6 +12,7 @@ categories:
 title: '« You are not (always) your user » : partir des utilisateurs pour construire
   un produit.  Retour sur les ateliers du 22 mars (1/3)'
 date: 2018-04-12T00:00:00.000Z
+visible: true
 ---
 
 L’un des enjeux du programme : concevoir en 10 mois un produit et/ou

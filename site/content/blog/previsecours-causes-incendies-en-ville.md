@@ -11,6 +11,7 @@ categories:
 - datascience
 title: Comment prédire les incendies en ville ?
 date: 2018-10-18T00:00:00.000Z
+visible: true
 ---
 
 ## Incendies en ville : quelles causes probables ?

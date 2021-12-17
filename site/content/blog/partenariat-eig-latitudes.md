@@ -9,6 +9,7 @@ categories:
 - écosystème
 title: "Le programme EIG noue un partenariat avec l'association Latitudes"
 date: 2019-12-16T00:00:00.000Z
+visible: true
 ---
 
 Le programme Entrepreneurs d'Intérêt Général  intègre pendant quelques mois des profils numériques d'exception dans les administrations pour relever des défis d'amélioration du service public à l'aide du numérique et des données. 

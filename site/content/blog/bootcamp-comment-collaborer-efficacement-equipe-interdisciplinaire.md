@@ -9,6 +9,7 @@ categories:
 - interdisciplinarité
 title: "Accompagner l'interdisciplinarité : retour sur le bootcamp d'embarquement de la promotion 4 des entrepreneurs d'intérêt général"
 date: 2020-11-10T00:00:00.000Z
+visible: true
 ---
 
 Après quatre ans d’existence et d’évolution permanente, le programme Entrepreneurs d’Intérêt Général passe à l’échelle : cette année, ce sont 41 EIG, parmi lesquels 18 femmes et 23 hommes, qui ont décidé de joindre leurs expertises pour relever 17 défis d’amélioration du service public par le numérique. Cette nouvelle promotion fait la part belle au design, à la suite de l’expérience réussie des Designers d’Intérêt Général, qui a désormais fusionné avec le programme EIG. La **taille de la promotion** et le **rôle renforcé que le design y joue** laissent présager de nouvelles dynamiques, que nous avons commencé à observer pendant le bootcamp d’embarquement qui a eu lieu du 21 au 25 septembre 2020.

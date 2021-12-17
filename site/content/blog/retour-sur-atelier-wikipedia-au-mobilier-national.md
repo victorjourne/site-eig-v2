@@ -1,11 +1,6 @@
 ---
 author: Bastien
-description: 'Le 21 septembre 2018, l''équipe EIG du Mobilier national a organisé
-  une journée « Wikipédia » : le matin, les personnels du Mobilier ont offert aux
-  visiteurs (wikipédiens ou futurs wikipédiens) une visite privée des ateliers ; l''après-midi,
-  chacun a mis en ligne et partagé ses photos sur le projet Wikimedia Commons puis
-  enrichi des articles de l''encyclopédie libre et collaborative. Retour sur une expérience
-  d''ouverture qui a fortement mobilisé et qui ne demande qu''à être prolongée !'
+description: 'Le 21 septembre 2018, l''équipe EIG du Mobilier national a organisé une journée « Wikipédia » : le matin, les personnels du Mobilier ont offert aux visiteurs (wikipédiens ou futurs wikipédiens) une visite privée des ateliers ; l''après-midi, chacun a mis en ligne et partagé ses photos sur le projet Wikimedia Commons puis enrichi des articles de l''encyclopédie libre et collaborative. Retour sur une expérience d''ouverture qui a fortement mobilisé et qui ne demande qu''à être prolongée !'
 image: img/capture-commons-08102018.png
 layout: post
 categories:
@@ -14,6 +9,7 @@ categories:
 - design
 title: Retour sur l'atelier Wikipédia organisé au Mobilier national
 date: 2018-10-12T00:00:00.000Z
+visible: true
 ---
 
 ## L'idée : une journée d'atelier pour contribuer aux projets Wikimédia

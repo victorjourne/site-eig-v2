@@ -12,6 +12,7 @@ categories:
 - pérennisation
 title: Pérenniser un projet EIG - Retour sur le séminaire avec les DSI des ministères
 date: 2018-05-24T00:00:00.000Z
+visible: true
 ---
 
 Les designers, datascientistes et développeurs du programme EIG

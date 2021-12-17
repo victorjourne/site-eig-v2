@@ -1,9 +1,6 @@
 ---
 author: Laurie Chapotte, EIG et Sophie Miljkovic, équipe EIG
-description: En avril 2019 le Mobilier national rendait accessibles 65 000 meubles,
-  œuvres et textiles sur son nouveau site collection.mobiliernational.culture.gouv.fr.
-  Trois mois après le lancement, qui utilise concrètement ce site, et
-  pour quoi faire ?
+description: En avril 2019 le Mobilier national rendait accessibles 65 000 meubles, œuvres et textiles sur son nouveau site collection.mobiliernational.culture.gouv.fr. Trois mois après le lancement, qui utilise concrètement ce site, et pour quoi faire ?
 image: img/gobelins-interface-V7.jpg
 layout: post
 categories:
@@ -12,6 +9,7 @@ categories:
 - open
 title: 'Le site des collections du Mobilier national : un outil, sept usages'
 date: 2019-06-14T00:00:00.000Z
+visible: true
 ---
 
 En avril 2019 le Mobilier national rendait accessibles 65 000 meubles, œuvres et textiles sur son nouveau site [collection.mobiliernational.culture.gouv.fr](https://collection.mobiliernational.culture.gouv.fr). Ces pièces d’une valeur historique et esthétique exceptionnelle étaient difficilement accessible jusque-là…

@@ -14,6 +14,7 @@ categories:
 - évaluation
 title: Appel à projets EIG 3 - les 6 facteurs clés de succès d’un défi EIG
 date: 2018-05-23T00:00:00.000Z
+visible: true
 ---
 
 Le 15 mai, l’équipe EIG a organisé au Liberté Living Lab une réunion d’information à l’occasion de [**l'appel à projets EIG 3**](/a-propos.html).

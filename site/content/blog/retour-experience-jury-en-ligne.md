@@ -9,6 +9,7 @@ categories:
 - évaluation
 title: "Organiser un jury en ligne - notre expérience avec la quatrième promotion EIG"
 date: 2020-04-01T00:00:00.000Z
+visible: true
 ---
 
 Chaque année, le programme Entrepreneurs d'Intérêt Général (EIG) part à la recherche de défis d'amélioration du service public à l'aide du numérique, portés par des administrations. Une fois les défis sélectionnés, le programme aide les administrations à recruter des spécialistes en data science, développement ou design pour les relever. Ces spécialistes constituent alors une nouvelle promotion EIG. 

@@ -13,6 +13,7 @@ categories:
 - collectif
 title: Un point technique après deux mois du programme EIG
 date: 2018-03-16T00:00:00.000Z
+visible: true
 ---
 
 **TL;DR**: Les 28 « entrepreneur·es d'intérêt général » ne sont pas

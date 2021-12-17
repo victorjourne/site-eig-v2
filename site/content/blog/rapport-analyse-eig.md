@@ -1,18 +1,15 @@
 ---
 author: Guénolé Carré, équipe EIG
-description: Dans le cadre de la démarche d'évaluation du programme menée par l'équipe
-  de coordination du programme EIG, nous vous présentons les résultats de l'enquête
-  menée auprès des entrepreneurs d'intérêt général (EIG) et des mentors des deux premières
-  promotions.
+description: Dans le cadre de la démarche d'évaluation du programme menée par l'équipe de coordination du programme EIG, nous vous présentons les résultats de l'enquête menée auprès des entrepreneurs d'intérêt général (EIG) et des mentors des deux premières promotions.
 image: img/datajust-pac.jpg
 layout: post
 categories:
 - accompagnement
 - évaluation
 - méthode
-title: Les entrepreneurs d'intérêt général transforment-ils vraiment l'administration ?
-  Réponses pour les promotions 1 & 2
+title: Les entrepreneurs d'intérêt général transforment-ils vraiment l'administration ? Réponses pour les promotions 1 & 2
 date: 2019-06-26T00:00:00.000Z
+visible: true
 ---
 
 ## Prendre du recul sur le programme grâce à une rétrospective

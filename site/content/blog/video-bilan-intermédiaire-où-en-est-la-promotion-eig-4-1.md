@@ -2,11 +2,7 @@
 title: "[VIDEO] Bilan intermédiaire : où en est la promotion EIG 4 ?"
 author: "Thanh Ha LE, EIG Node et Coline Malivel, EIG Link "
 date: 2021-04-01T15:26:54.784Z
-description: La promotion 4 du programme EIG a démarré en septembre 2020. Sept
-  mois après, où en sont les 17 équipes dans leurs défis et leurs démarches
-  d'acculturation ? Premier point d'étape dans cet article, qui contient
-  notamment la vidéo du Demo Day de mi-parcours où les EIG ont pitché leurs
-  projets en 3 minutes.
+description: La promotion 4 du programme EIG a démarré en septembre 2020. Sept mois après, où en sont les 17 équipes dans leurs défis et leurs démarches d'acculturation ? Premier point d'étape dans cet article, qui contient notamment la vidéo du Demo Day de mi-parcours où les EIG ont pitché leurs projets en 3 minutes.
 image: img/eig4_bilanintermediaire_202103.jpg
 categories:
   - Réalisation
@@ -14,6 +10,7 @@ related:
   - Plus d’un an après, que deviennent les défis de la promotion 3 ?
 visible: true
 ---
+
 Voilà sept mois que la promotion 4 du programme Entrepreneurs d’Intérêt Général a démarré. En septembre 2020, 10 spécialistes en data science, 17 en développement et 14 en design ont rejoint l’écosystème du numérique public pour relever 17 défis d’intérêt général, aux côtés de 32 agents publics. [Prévenir les conflits d’intérêts dans le domaine médical](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/adex.html), [contribuer à la transparence des fonds publics engagés pour les Jeux Olympiques 2024](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/datalympics.html) ou [faciliter le contrôle environnemental des sites industriels](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/envinorma.html)… autant d’enjeux auxquels se sont attaquées les équipes.  
 
 Où en sont les projets ? À l’occasion du Demo Day de mi-parcours, en février dernier, l’équipe de coordination du programme a réalisé un premier point d’étape et une évaluation intermédiaire.  

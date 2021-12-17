@@ -11,6 +11,7 @@ categories:
 - méthode
 title: Comment les EIG et les mentors apprennent et progressent ?
 date: 2018-10-25T00:00:00.000Z
+visible: true
 ---
 
 ## Quatre types de façon d'apprendre et résoudre des problèmes

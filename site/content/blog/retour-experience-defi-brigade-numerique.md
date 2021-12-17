@@ -1,8 +1,6 @@
 ---
 author: Dora Crisan, EIG Brigade numérique
-description: Dora Crisan est ingénieure, EIG pour le défi « Brigade numérique » au
-  ministère de l'intérieur, à la Direction générale de la gendarmerie nationale. Elle
-  partage son vécu et les avancées du projet après 10 mois de travail.
+description: Dora Crisan est ingénieure, EIG pour le défi « Brigade numérique » au ministère de l'intérieur, à la Direction générale de la gendarmerie nationale. Elle partage son vécu et les avancées du projet après 10 mois de travail.
 image: img/eig_brigade_numerique.jpg
 layout: post
 categories:
@@ -10,6 +8,7 @@ categories:
 - développement
 title: 'Retour d''expérience : le défi Brigade numérique'
 date: 2018-11-15T00:00:00.000Z
+visible: true
 ---
 
 En janvier 2018, j'ai rejoint la deuxième promotion du programme

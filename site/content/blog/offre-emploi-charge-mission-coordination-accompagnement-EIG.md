@@ -8,6 +8,7 @@ categories:
 - recrutement
 title: "[OFFRE POURVUE] Rejoignez l'équipe Entrepreneurs d'Intérêt Général à Etalab : offre d'emploi « Chargé de mission coordination et accompagnement du programme EIG (F/H) »"
 date: 2020-04-22T00:00:00.000Z
+visible: true
 ---
 
 ### Offre d’emploi “Chargé de mission coordination et accompagnement du programme Entrepreneurs d’Intérêt Général (F/H)”

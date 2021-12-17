@@ -1,9 +1,6 @@
 ---
 author: Sophie Miljkovic, équipe EIG
-description: Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se sont rassemblés
-  pour une session d’accompagnement bimensuelle au Liberté Living Lab.  L’occasion
-  pour eux de construire la feuille de route de leurs défis et d’identifier les actions
-  à renforcer et à clarifier.
+description: Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se sont rassemblés pour une session d’accompagnement bimensuelle au Liberté Living Lab.  L’occasion pour eux de construire la feuille de route de leurs défis et d’identifier les actions à renforcer et à clarifier.
 image: img/lll-1-canvas.jpg
 layout: post
 categories:
@@ -12,6 +9,7 @@ categories:
 title: 'Réaliser un défi en 10 mois : construire une feuille de route partagée et
   accepter de la faire évoluer'
 date: 2018-04-04T00:00:00.000Z
+visible: true
 ---
 
 ![Dans une grande salle, les EIG de la promotion 2 sont assis à des pupitres individuels et discutent entre eux.](/img/blog/LLL-1-photo-groupe.jpg)

@@ -8,6 +8,7 @@ categories:
 - open
 title: "Plus d’un an après, que deviennent les défis de la promotion 3 ?"
 date: 2021-04-08T00:00:00.000Z
+visible: true
 ---
 
 De janvier à novembre 2019, 32 EIG avaient rejoint l’administration à l’occasion de la promotion EIG 3. 18 spécialistes en data science, 9 développeurs et développeuses, 5 designers et 21 agents publics avaient combiné leurs expertises pour s’attaquer à 15 problématiques de politiques publiques comme la lutte contre les comportements financiers illicites, la lisibilité du droit du travail ou encore l’agriculture biologique.
