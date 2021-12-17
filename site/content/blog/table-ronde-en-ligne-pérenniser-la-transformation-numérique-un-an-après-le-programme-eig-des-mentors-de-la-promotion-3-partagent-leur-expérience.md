@@ -1,16 +1,8 @@
 ---
-title: "[Table-ronde en ligne] Pérenniser la transformation numérique : un an
-  après le programme EIG, des mentors de la promotion 3 partagent leur
-  expérience"
+title: "[Table-ronde en ligne] Pérenniser la transformation numérique : un an après le programme EIG, des mentors de la promotion 3 partagent leur expérience"
 author: "Soizic Pénicaud et Thanh Ha Le (équipe EIG) "
 date: 2021-01-05T09:23:09.714Z
-description: Le 9 novembre 2020, l’équipe du programme EIG a organisé une
-  table-ronde pendant laquelle plusieurs agents publics mentors de défis EIG 3
-  ont été invités à raconter leur expérience, un an après la fin de la promotion
-  en novembre 2019. Quels sont les enjeux de l’immersion de profils design et
-  tech dans les administrations ? Quels en sont les bénéfices durables ? Qu’en
-  est-il de la pérennisation des projets développés dans ce cadre ? Les réponses
-  dans cet article, qui contient aussi une rediffusion vidéo du webinaire.
+description: Le 9 novembre 2020, l’équipe du programme EIG a organisé une table-ronde pendant laquelle plusieurs agents publics mentors de défis EIG 3 ont été invités à raconter leur expérience, un an après la fin de la promotion en novembre 2019. Quels sont les enjeux de l’immersion de profils design et tech dans les administrations ? Quels en sont les bénéfices durables ? Qu’en est-il de la pérennisation des projets développés dans ce cadre ? Les réponses dans cet article, qui contient aussi une rediffusion vidéo du webinaire.
 image: img/evenement-mip-2020-eig3.png
 categories:
   - Pérennisation
@@ -19,6 +11,7 @@ related:
   - "[Vidéo] Retour sur 4 défis de la promotion Designers d’Intérêt Général"
 visible: true
 ---
+
 « *Je ne peux que conseiller \[aux agents publics] de se lancer dans cette aventure* », a attesté Estelle Jond-Necand lors d’une table-ronde organisée par l’équipe EIG le 9 novembre dernier, pendant le Mois de l’Innovation Publique
 
 C’est bien l’aventure du programme Entrepreneurs d’Intérêt Général que l’équipe du programme a invité des agents publics mentors de la promotion EIG 3 à raconter, un an après la fin de la promotion en novembre 2019 :
