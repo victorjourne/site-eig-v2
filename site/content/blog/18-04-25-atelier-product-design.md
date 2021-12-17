@@ -12,7 +12,6 @@ categories:
 - design
 title: Comment mettre son utilisateur au centre du design de son site ou de son outil ?  Retour
   sur les ateliers du 22 mars (3/3)
-twitter: MiljkovicSophie
 ---
 
 Comment concevoir un produit qui corresponde aux besoins de ses

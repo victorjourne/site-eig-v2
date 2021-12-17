@@ -8,7 +8,6 @@ categories:
 - témoignage
 - collectif
 title: " Qui sont et que font les « entrepreneurs d’intérêt général » ?"
-twitter: MiljkovicSophie
 ---
 
 Chaque année, le programme Entrepreneurs d’Intérêt Général lance un appel à candidatures pour recruter des spécialistes du numérique qui améliorent le service public à l’aide du numérique et des données. Une fois sélectionnés, ces spécialistes deviennent entrepreneurs et entrepreneuses d’intérêt général. Mais qu’est-ce que cela veut dire, concrètement ? 

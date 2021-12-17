@@ -8,7 +8,6 @@ categories:
 - accompagnement
 - recrutement
 title: 'Rejoins l''équipe Entrepreneurs d''Intérêt Général à Etalab : offre de stage « Chargé(e) de mission pour le programme EIG »'
-twitter: MiljkovicSophie
 ---
 
 ### Offre de stage « Chargé(e) de mission pour le programme Entrepreneurs d’Intérêt Général» 

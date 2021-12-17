@@ -13,7 +13,6 @@ categories:
 - collectif
 title: Comment souder un collectif de talents et assurer sa réussite - Retour sur
   le bootcamp d'intégration de la promotion 2 des entrepreneurs d'intérêt général
-twitter: soizicpenicaud
 ---
 
 ### Retour sur le bootcamp d'intégration de la promotion 2 des entrepreneurs d'intérêt général

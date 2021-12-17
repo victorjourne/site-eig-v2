@@ -13,7 +13,6 @@ categories:
 - méthode
 - open
 title: L’ouverture d’un logiciel libre.  Retour sur les ateliers du 22 mars (2/3)
-twitter: schmitologie
 ---
 
 Voici un petit retour d’expérience sur ma participation à cet atelier,

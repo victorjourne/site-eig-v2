@@ -12,7 +12,6 @@ categories:
 - accompagnement
 title: 'Bulletins : notre outil open source de rétrospective hebdomadaire'
 lang-ref: bulletins-form
-twitter: AntoineAugusti
 ---
 
 Accompagner une trentaine de professionnels du numérique au sein de 15 défis dans autant d'administrations réparties dans différents lieux : c'est la mission que relève au quotidien l'équipe du programme Entrepreneurs d'Intérêt Général (EIG). Pluridisciplinaire, l'équipe appuie entrepreneurs d'intérêt général et mentors sur des aspects variés de leurs défis : stratégie, technique, gestion de projet, évaluation, communication, etc.

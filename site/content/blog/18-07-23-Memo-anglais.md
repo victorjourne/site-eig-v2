@@ -11,7 +11,6 @@ categories:
 - méthode
 - international
 title: Public Interest Entrepreneurs, why, what and how
-twitter: MiljkovicSophie
 ---
 
 Inspired by the [Presidential Innovation

@@ -11,7 +11,6 @@ categories:
 - design
 title: '« You are not (always) your user » : partir des utilisateurs pour construire
   un produit.  Retour sur les ateliers du 22 mars (1/3)'
-twitter: Mathilde_Bras
 ---
 
 L’un des enjeux du programme : concevoir en 10 mois un produit et/ou

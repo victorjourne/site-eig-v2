@@ -11,7 +11,6 @@ categories:
 - évaluation
 title: Rétrospective - les EIG2 font le bilan. Ce qu'ils ont réussi, appris, transmis,
   ce qui les a surpris, ce qu'ils auraient fait autrement
-twitter: Mathilde_Bras
 ---
 
 Pendant 10 mois, les entrepreneurs d'intérêt général travaillent à la

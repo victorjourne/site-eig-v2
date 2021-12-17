@@ -9,7 +9,6 @@ categories:
 - datascience
 title: Pourquoi quitter son travail et devenir Entrepreneur·e d'Intérêt Général (EIG)?
 lang-ref: pourquoi-devenir-eig
-twitter: datatiph
 ---
 
 _Tiphaine revient sur son parcours – de Dailymotion à Entrepreneur·e

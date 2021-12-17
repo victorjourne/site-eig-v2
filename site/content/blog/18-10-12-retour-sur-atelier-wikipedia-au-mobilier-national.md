@@ -13,7 +13,6 @@ categories:
 - open
 - design
 title: Retour sur l'atelier Wikipédia organisé au Mobilier national
-twitter: bzg2
 ---
 
 ## L'idée : une journée d'atelier pour contribuer aux projets Wikimédia

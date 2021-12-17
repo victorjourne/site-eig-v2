@@ -10,7 +10,6 @@ categories:
 - témoignage
 - design
 title: Qu'est-ce qu'un bon designer ?
-twitter: HugoStephan
 ---
 
 La [session d'accompagnement mensuelle](https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html) d'avril de la promotion EIG 3 était axée sur le thème du design. À cette occasion, on a demandé aux 5 designers de la promotion de définir ce qui, selon eux, caractérise un bon designer. [Hugo Stéphan](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/hugo-stephan.html), du défi [Karfu’R](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/karfur.html), a choisi une approche un peu taquine.

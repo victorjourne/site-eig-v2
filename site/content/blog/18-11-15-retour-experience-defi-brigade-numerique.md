@@ -9,7 +9,6 @@ categories:
 - témoignage
 - développement
 title: 'Retour d''expérience : le défi Brigade numérique'
-twitter: DoraCrisan
 ---
 
 En janvier 2018, j'ai rejoint la deuxième promotion du programme

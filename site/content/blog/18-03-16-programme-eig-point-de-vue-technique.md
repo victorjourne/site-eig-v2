@@ -12,7 +12,6 @@ categories:
 - outil
 - collectif
 title: Un point technique après deux mois du programme EIG
-twitter: bzg2
 ---
 
 **TL;DR**: Les 28 « entrepreneur·es d'intérêt général » ne sont pas

@@ -14,7 +14,6 @@ categories:
 - accompagnement
 title: Entrepreneur·e d'Intérêt Général - retour en image et en équipe sur les réalisations
   de la Promotion 2
-twitter: etalab
 ---
 
 La transformation numérique des administrations doit se faire en

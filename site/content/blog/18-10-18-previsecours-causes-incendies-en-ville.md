@@ -10,7 +10,6 @@ categories:
 - réalisation
 - datascience
 title: Comment prédire les incendies en ville ?
-twitter: etalab
 ---
 
 ## Incendies en ville : quelles causes probables ?

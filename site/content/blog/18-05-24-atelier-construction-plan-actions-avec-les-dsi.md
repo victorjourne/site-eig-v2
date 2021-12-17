@@ -11,7 +11,6 @@ categories:
 - méthode
 - pérennisation
 title: Pérenniser un projet EIG - Retour sur le séminaire avec les DSI des ministères
-twitter: etalab
 ---
 
 Les designers, datascientistes et développeurs du programme EIG

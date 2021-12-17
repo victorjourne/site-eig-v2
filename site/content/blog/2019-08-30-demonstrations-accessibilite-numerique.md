@@ -7,7 +7,6 @@ categories:
 - design
 - écosystème
 title: "Démonstrations : comment un aveugle navigue sur le web ?"
-twitter: jbledevehat
 ---
 
 ## Qu'est-ce que l'accessibilité ?

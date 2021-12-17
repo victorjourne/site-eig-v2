@@ -11,7 +11,6 @@ categories:
 - open
 title: Et le logiciel libre dans tout ça ?
 lang-ref: logiciel-libre
-twitter: bzg2
 ---
 
 ## Le logiciel libre et l'administration publique

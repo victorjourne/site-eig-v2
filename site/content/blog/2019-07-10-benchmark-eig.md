@@ -13,7 +13,6 @@ categories:
 title: 'Mobiliser des compétences numériques dans l''administration : quelles initiatives
   à l''étranger ?'
 lang-ref: benchmark-eig
-twitter: CarreGuenole
 ---
 
 ## Tour d'horizon international d'initiatives similaires au programme Entrepreneurs d'Intérêt Général

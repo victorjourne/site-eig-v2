@@ -11,7 +11,6 @@ categories:
 - collectif
 title: '[Vidéo] Qui sont les 32 entrepreneurs d''intérêt général de la promotion 3
   ?'
-twitter: MiljkovicSophie
 ---
 
 Dans un précédent article, nous présentions les acteurs de l'écosystème de l'innovation publique que les EIG peuvent mobiliser pour relever leurs défis.

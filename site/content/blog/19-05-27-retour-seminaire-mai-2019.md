@@ -13,7 +13,6 @@ categories:
 - collectif
 title: 'Accélérer les défis et fédérer la promotion : retours du premier séminaire
   « hors-les-murs » de la promotion EIG 3'
-twitter: eigforever
 ---
 
 Les 16 et 17 mai 2019, les entrepreneurs d'intérêt général (EIG) se sont retrouvés pour le premier séminaire « hors-les-murs » de l'année. Fort du succès de ce [format que nous avons testé l’année dernière](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/09/24/retrospective-defis-eig2.html), nous avons reconduit l’expérience cette année. Ce premier séminaire à mi-parcours avait pour objectif de donner un coup d'accélérateur aux défis et de commencer à réfléchir à leur pérennisation. 

@@ -10,7 +10,6 @@ categories:
 - témoignage
 - méthode
 title: Comment les EIG et les mentors apprennent et progressent ?
-twitter: bzg2
 ---
 
 ## Quatre types de façon d'apprendre et résoudre des problèmes

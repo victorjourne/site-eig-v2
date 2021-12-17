@@ -12,7 +12,6 @@ categories:
 title: Construire des algorithmes publics exemplaires, la mission Fing-Etalab est
   lancée avec la Promotion 2 des EIG !
 lang-ref: fing-algo
-twitter: la_fing
 ---
 
 _Cet article a été rédigé par l'équipe Nos Systèmes de la Fing : Hubert Guillaud et Thierry Marcou. Merci à la Fing, Simon Chignard et Loup Cellard pour l'animation de cet atelier !_

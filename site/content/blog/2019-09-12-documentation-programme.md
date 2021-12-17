@@ -10,7 +10,6 @@ categories:
 - outil
 title: "Ouvrir les ressources du programme : notre documentation en ligne"
 lang-ref: documentation-programme
-twitter: AntoineAugusti
 ---
 
 Le programme Entrepreneurs d'Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneurs d'intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Ils interviennent dans les domaines du développement, du design et de la datascience. Avec les agents publics de leurs administrations d’accueil, ils ont 10 mois pour relever un défi d'amélioration du service public à l'aide du numérique et des données. Ces défis suivent une démarche de travail ouverte et transparente, notamment par la publication de productions en open source et en open data.

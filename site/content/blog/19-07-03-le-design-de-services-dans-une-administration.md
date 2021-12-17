@@ -13,7 +13,6 @@ categories:
 - design
 title: Comment faire du design de services dans l'administration ? L'exemple du projet
   ACOSS-plateforme
-twitter: colinelbx
 ---
 
 [Coline Lebaratoux](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/coline-lebaratoux.html) a un diplôme supérieur d’arts appliqués en design de services et un master 2 en innovation sociale par le design. Après 4 années passées en agence en tant que designer de services, elle a intégré la promotion EIG 3 pour relever le défi [ACOSS-plateforme](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/acossplateforme.html). En binôme avec [Anoureth Pongrattana](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/anoureth-pongrattana.html), développeur full stack, ils ont pour mission de simplifier les démarches administratives liées au secteur de l’emploi à domicile. 

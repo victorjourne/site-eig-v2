@@ -12,7 +12,6 @@ categories:
 - évaluation
 title: 'Bilan à mi-parcours : itération sur les feuilles de routes des défis EIG et
   l''accompagnement de l''équipe EIG'
-twitter: MiljkovicSophie
 ---
 
 « **Itération** » fait partie des mots clés du programme

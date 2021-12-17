@@ -11,7 +11,6 @@ categories:
 - design
 - open
 title: 'Le site des collections du Mobilier national : un outil, sept usages'
-twitter: Lauriechapotte
 ---
 
 En avril 2019 le Mobilier national rendait accessibles 65 000 meubles, œuvres et textiles sur son nouveau site [collection.mobiliernational.culture.gouv.fr](https://collection.mobiliernational.culture.gouv.fr). Ces pièces d’une valeur historique et esthétique exceptionnelle étaient difficilement accessible jusque-là…

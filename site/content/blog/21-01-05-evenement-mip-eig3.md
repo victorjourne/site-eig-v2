@@ -7,7 +7,6 @@ categories:
 - témoignage
 - pérennisation
 title: "[Table-ronde en ligne] Pérenniser la transformation numérique : un an après le programme EIG, des mentors de la promotion 3 partagent leur expérience"
-twitter: soizicpenicaud
 ---
 
 « _Je ne peux que conseiller [aux agents publics] de se lancer dans cette aventure_ », a attesté Estelle Jond-Necand lors d’une table-ronde organisée par l’équipe EIG le 9 novembre dernier, pendant le Mois de l’Innovation Publique.

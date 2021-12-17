@@ -18,7 +18,6 @@ categories:
 title: Quelles ressources mobiliser pour mener à bien un projet numérique autour des
   données ? - Retour sur la semaine d'intégration de la promotion 3 des entrepreneurs
   d'intérêt général
-twitter: null
 ---
 
 _Retour sur le bootcamp d'intégration de la promotion 3 des entrepreneurs d'intérêt général_

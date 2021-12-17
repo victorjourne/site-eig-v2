@@ -10,7 +10,6 @@ categories:
 - méthode
 title: 'Promotion EIG 3 : on fait le bilan'
 lang-ref: bilan-eig3
-twitter: soizicpenicaud
 ---
 
 Le 15 novembre 2019, après 10 mois de travail intense et près de 18 mois après le lancement de l’appel à projets pour constituer la troisième promotion des entrepreneurs d’intérêt général, celle-ci s’est officiellement achevée. [C’est avec fierté que nous avons clôturé cette promotion lors d’un événement de restitution publique, le 12 novembre 2019](https://www.etalab.gouv.fr/quels-resultats-pour-la-promotion-3-du-programme-entrepreneurs-dinteret-general), à l’occasion duquel chaque défi a pu présenter ses résultats.

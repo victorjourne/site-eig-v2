@@ -12,7 +12,6 @@ categories:
 - méthode
 title: Les entrepreneurs d'intérêt général transforment-ils vraiment l'administration ?
   Réponses pour les promotions 1 & 2
-twitter: carreguenole
 ---
 
 ## Prendre du recul sur le programme grâce à une rétrospective

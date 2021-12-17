@@ -12,7 +12,6 @@ categories:
 - open 
 - accompagnement
 title: 'Comprendre nos difficultés et partager nos apprentissages'
-twitter: jbledevehat
 ---
  
 

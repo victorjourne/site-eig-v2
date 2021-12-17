@@ -11,7 +11,6 @@ categories:
 - recrutement
 title: 'Rejoins l''équipe Entrepreneur·e d''Intérêt Général à Etalab : offre de stage
   « Appui à la coordination du programme EIG »'
-twitter: soizicpenicaud
 ---
 
 ### Offre de stage « Appui à la coordination du programme EIG »
