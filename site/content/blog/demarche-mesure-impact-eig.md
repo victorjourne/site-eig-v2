@@ -9,7 +9,6 @@ categories:
 - accompagnement
 - évaluation
 title: Mesurer l'impact du programme EIG
-lang-ref: mesurer-impact
 date: 2019-06-12T00:00:00.000Z
 ---
 

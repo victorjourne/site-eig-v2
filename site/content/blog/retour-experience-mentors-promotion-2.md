@@ -9,7 +9,6 @@ categories:
 - accompagnement
 - méthode
 title: Quels apprentissages pour les agents publics mentors du programme EIG ?
-lang-ref: experience-mentors
 date: 2018-07-27T00:00:00.000Z
 ---
 

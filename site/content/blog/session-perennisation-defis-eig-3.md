@@ -12,7 +12,6 @@ categories:
 - accompagnement
 - pérennisation
 title: Quelles suites pour les défis EIG ?
-lang-ref: suites-defis
 date: 2019-05-20T00:00:00.000Z
 ---
 

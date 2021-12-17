@@ -9,7 +9,6 @@ categories:
 - collectif
 - outil
 title: "Ouvrir les ressources du programme : notre documentation en ligne"
-lang-ref: documentation-programme
 date: 2019-09-12T00:00:00.000Z
 ---
 

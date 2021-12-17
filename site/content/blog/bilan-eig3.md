@@ -9,7 +9,6 @@ categories:
 - accompagnement
 - méthode
 title: 'Promotion EIG 3 : on fait le bilan'
-lang-ref: bilan-eig3
 date: 2020-01-17T00:00:00.000Z
 ---
 

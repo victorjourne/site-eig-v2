@@ -11,7 +11,6 @@ categories:
 - algorithme
 title: Construire des algorithmes publics exemplaires, la mission Fing-Etalab est
   lancée avec la Promotion 2 des EIG !
-lang-ref: fing-algo
 date: 2018-10-15T00:00:00.000Z
 ---
 

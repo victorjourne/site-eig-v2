@@ -13,7 +13,6 @@ categories:
 - méthode
 - évaluation
 title: Appel à projets EIG 3 - les 6 facteurs clés de succès d’un défi EIG
-lang-ref: facteurs-reussite
 date: 2018-05-23T00:00:00.000Z
 ---
 

@@ -11,7 +11,6 @@ categories:
 - open
 - accompagnement
 title: 'Bulletins : notre outil open source de rétrospective hebdomadaire'
-lang-ref: bulletins-form
 date: 2019-07-03T00:00:00.000Z
 ---
 

@@ -12,7 +12,6 @@ categories:
 - international
 title: 'Mobiliser des compétences numériques dans l''administration : quelles initiatives
   à l''étranger ?'
-lang-ref: benchmark-eig
 date: 2019-07-10T00:00:00.000Z
 ---
 
