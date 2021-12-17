@@ -10,7 +10,7 @@ projet numérique autour des données au sein de l’État ?
 
   Voici les problèmes que vous rencontrerez peut-être… et les ressources sur lesquelles
   vous pourrez vous appuyer pour les résoudre.'
-image: /img/blog/photo-blogpost-bootcamp-eig3.jpg
+image: img/photo-blogpost-bootcamp-eig3.jpg
 layout: post
 categories:
 - accompagnement

@@ -5,7 +5,7 @@ description: Comment s'assurer que les défis EIG perdurent au-delà des 10 mois
   communautés formées ? Comment faire perdurer l'élan de
   transformation numérique impulsé par les EIG ? Et quel est le rôle
   des mentors dans cette pérennisation ?
-image: /img/blog/session-mentors-perennisation-2019.jpg
+image: img/session-mentors-perennisation-2019.jpg
 layout: post
 categories:
 - méthode

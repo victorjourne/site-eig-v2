@@ -5,7 +5,7 @@ description: L'équipe de coordination du programme EIG a organisé un premier s
   pendant deux jours et les réunir au vert ? Comment organiser des temps de travail
   efficaces pour 35 personnes aux spécialités diverses et qui travaillent sur 15 défis
   différents ?
-image: /img/blog/seminaire-2019/promo-3.jpg
+image: img/seminaire-2019/promo-3.jpg
 layout: post
 categories:
 - accompagnement

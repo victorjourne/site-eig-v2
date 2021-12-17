@@ -4,7 +4,7 @@ description: Dans le cadre de la démarche d'évaluation du programme menée par
   de coordination du programme EIG, nous vous présentons les résultats de l'enquête
   menée auprès des entrepreneurs d'intérêt général (EIG) et des mentors des deux premières
   promotions.
-image: /img/blog/datajust-pac.jpg
+image: img/datajust-pac.jpg
 layout: post
 categories:
 - accompagnement

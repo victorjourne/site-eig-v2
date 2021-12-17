@@ -1,7 +1,7 @@
 ---
 author: Thanh Ha LE, EIG Node et Coline Malivel, EIG Link
 description: "La promotion 4 du programme EIG a démarré en septembre 2020. Sept mois après, où en sont les 17 équipes dans leurs défis et leurs démarches d'acculturation ? Premier point d'étape dans cet article, qui contient notamment la vidéo du Demo Day de mi-parcours où les EIG ont pitché leurs projets en 3 minutes."
-image: /img/blog/EIG4_BilanIntermediaire_202103.jpg
+image: img/EIG4_BilanIntermediaire_202103.jpg
 layout: post
 categories:
 - réalisation

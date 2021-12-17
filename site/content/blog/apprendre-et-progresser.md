@@ -4,7 +4,7 @@ description: 'Au printemps dernier, les EIG et les mentors se sont retrouvés po
   une session d''accompagnement au cours de laquelle deux ateliers ont été organisés
   autour de deux questions simples : comment apprenons-nous ? quelles stratégies pour
   progresser dans la résolution des problèmes ?'
-image: /img/blog/win-fails-tableau.jpg
+image: img/win-fails-tableau.jpg
 layout: post
 categories:
 - témoignage

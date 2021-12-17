@@ -6,7 +6,7 @@ description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement d
   conception ; le dernier sur l’ouverture du code source &#x2013; l’un des enjeux
   majeurs du programme EIG étant de permettre le développement, au sein de l’administration,
   de logiciels libres, ouverts aux contributions extérieures.'
-image: /img/blog/xkcd-open-source.jpg
+image: img/xkcd-open-source.jpg
 layout: post
 categories:
 - accompagnement

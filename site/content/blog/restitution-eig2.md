@@ -6,7 +6,7 @@ description: De janvier à novembre 2018, le programme Entrepreneur·e d'Intér�
   administrations centrales. Guidés par leurs mentors, ils ont relevé 13 défis autour
   du numérique et des données. EIG et mentors reviennent ici sur leurs défis, présentent
   leurs réalisations et proposent quelques conseils à la prochaine promotion.
-image: /img/blog/bootcamp/promotion2.jpg
+image: img/bootcamp/promotion2.jpg
 layout: post
 categories:
 - réalisation

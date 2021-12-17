@@ -6,7 +6,7 @@ description: 'Le 21 septembre 2018, l''équipe EIG du Mobilier national a organi
   chacun a mis en ligne et partagé ses photos sur le projet Wikimedia Commons puis
   enrichi des articles de l''encyclopédie libre et collaborative. Retour sur une expérience
   d''ouverture qui a fortement mobilisé et qui ne demande qu''à être prolongée !'
-image: /img/blog/capture-commons-08102018.png
+image: img/capture-commons-08102018.png
 layout: post
 categories:
 - partenariat

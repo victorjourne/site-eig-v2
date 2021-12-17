@@ -5,7 +5,7 @@ description: 'Lors de notre séminaire de septembre, nous avons fait le point su
   d’identifier les difficultés que nous avions rencontrées et d’en tirer quelques 
   apprentissages, possiblement utiles aux professionnel(le)s du numérique de 
   l’administration publique.'
-image: /img/blog/seminaire-2019/seminaire-201909.jpg
+image: img/seminaire-2019/seminaire-201909.jpg
 layout: post
 categories:
 - collectif

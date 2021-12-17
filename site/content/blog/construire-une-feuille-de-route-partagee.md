@@ -4,7 +4,7 @@ description: Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se so
   pour une session d’accompagnement bimensuelle au Liberté Living Lab.  L’occasion
   pour eux de construire la feuille de route de leurs défis et d’identifier les actions
   à renforcer et à clarifier.
-image: /img/blog/lll-1-canvas.jpg
+image: img/lll-1-canvas.jpg
 layout: post
 categories:
 - accompagnement

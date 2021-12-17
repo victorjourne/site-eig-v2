@@ -3,7 +3,7 @@ author: Soizic Pénicaud, équipe EIG
 description: Rejoins-nous ! Nous recherchons quelqu’un pour appuyer le pilotage du
   programme Entrepreneur·e d’Intérêt Général, pour un stage à temps plein de 4 à 6
   mois à partir de janvier 2019.
-image: /img/blog/session-mentors-2.jpg
+image: img/session-mentors-2.jpg
 layout: post
 published: true
 categories:

@@ -6,7 +6,7 @@ description: 'Le 15 mai, l''équipe EIG a organisé au Liberté Living Lab une r
   la fin d’un défi, les administrations disposent d’outils numériques répondant à
   leur problématique métier de départ, qui puissent être pérennisés et réutilisés
   par d’autres services, voire hors de l’administration ?'
-image: /img/blog/facteurs_reussite.jpg
+image: img/facteurs_reussite.jpg
 layout: post
 categories:
 - accompagnement

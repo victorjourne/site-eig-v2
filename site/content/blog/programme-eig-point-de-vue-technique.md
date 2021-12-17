@@ -4,7 +4,7 @@ description: Quelles sont les « stacks » des défis EIG ?  Font-ils de « 
   sont leurs outils de gestion de projet ?  Où est publié leur code ?  Quels rituels
   collectifs se mettent en place ?  Quel est le rôle de l'EIG Link ?  Un point technique
   après deux mois de cette deuxième année EIG.
-image: /img/blog/bulloterie_apercu.jpg
+image: img/bulloterie_apercu.jpg
 layout: post
 categories:
 - accompagnement

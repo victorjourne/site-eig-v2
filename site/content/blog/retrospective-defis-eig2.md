@@ -4,7 +4,7 @@ description: Les 6 et 7 septembre 2018, la promotion 2 des entrepreneurs d'inté
   général prenait du temps "hors les murs" pour faire le bilan de l'année et imaginer
   le futur du programme et de leurs projets. Un atelier "Réussites/Enseignements"
   a été organisé. Restitutions (en images).
-image: /img/blog/win-fails-tableau.jpg
+image: img/win-fails-tableau.jpg
 layout: post
 categories:
 - accompagnement

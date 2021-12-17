@@ -4,7 +4,7 @@ description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement d
   d’intérêt général. En présence des mentors des défis, nous avons travaillé sur 3
   ateliers, orientés « utilisateurs » : recherche produit et utilisateurs, design
   et conception du produit avec ses utilisateurs, ouverture du code source.'
-image: /img/blog/ex-empathy-map.jpg
+image: img/ex-empathy-map.jpg
 layout: post
 categories:
 - accompagnement

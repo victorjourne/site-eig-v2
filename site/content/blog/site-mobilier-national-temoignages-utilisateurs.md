@@ -4,7 +4,7 @@ description: En avril 2019 le Mobilier national rendait accessibles 65 000 meubl
   œuvres et textiles sur son nouveau site collection.mobiliernational.culture.gouv.fr.
   Trois mois après le lancement, qui utilise concrètement ce site, et
   pour quoi faire ?
-image: /img/blog/gobelins-interface-V7.jpg
+image: img/gobelins-interface-V7.jpg
 layout: post
 categories:
 - réalisation
