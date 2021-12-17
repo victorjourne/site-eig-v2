@@ -2,7 +2,6 @@
 author: Antoine Augusti, EIG Link
 description: "En tant qu'équipe coordination du programme, nous avons comme missions principales la constitution de promotions, l'accompagnement des entrepreneurs au fil de l'année, faire rayonner et évoluer le programme EIG. Il s'est avéré nécessaire de mettre en place une base de connaissance comportant nos événements, nos processus, diverses explications et bonnes pratiques. Nous détaillons dans cet article quels sont les objectifs de notre documentation, la démarche de construction suivie et comment nous la faisons évoluer."
 image: img/doc-site.png
-layout: post
 categories:
 - Open
 - Méthode

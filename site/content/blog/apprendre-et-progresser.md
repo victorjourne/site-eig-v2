@@ -5,7 +5,6 @@ description: 'Au printemps dernier, les EIG et les mentors se sont retrouvés po
   autour de deux questions simples : comment apprenons-nous ? quelles stratégies pour
   progresser dans la résolution des problèmes ?'
 image: img/win-fails-tableau.jpg
-layout: post
 categories:
 - Témoignage
 - Méthode

@@ -3,7 +3,6 @@ author: Sophie Miljkovic, équipe EIG
 description: "Du 11 au 15 février, les entrepreneurs d’intérêt général de la troisième promotion ont participé à une semaine d’intégration - un « bootcamp » - organisée par l’équipe de coordination du programme à Etalab. Un des objectifs : leur faire découvrir les acteurs qui œuvrent à la transformation numérique de l’État et qu’ils pourront mobiliser pendant les 10 mois de leurs défis. Vous aussi, vous menez un projet numérique autour des données au sein de l’État ? Voici les problèmes que vous rencontrerez peut-être… et les ressources sur lesquelles vous pourrez vous appuyer pour les résoudre."
 date: 2019-03-12T00:00:00.000Z
 image: img/photo-blogpost-bootcamp-eig3.jpg
-layout: post
 categories:
 - Accompagnement
 - Méthode

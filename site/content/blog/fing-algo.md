@@ -2,7 +2,6 @@
 author: La Fondation Internet Nouvelle Génération (auteur invité)
 description: Le 26 septembre 2018, la Fing animait un atelier "Nos Systèmes" sur l'exemplarité et la responsabilité sociale des algorithmes, dans le cadre de son partenariat avec Etalab. Des projets EIG 2018 et d'autres partenaires ont participé. Retours sur la méthode et les prochaines étapes
 image: img/atelier-fing-algo-ensemble.jpg
-layout: post
 categories:
 - Partenariat
 - Algorithme

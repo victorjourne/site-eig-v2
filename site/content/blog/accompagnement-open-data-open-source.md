@@ -2,7 +2,6 @@
 author: Sophie Milkjovic, équipe EIG
 description: Le jeudi 14 mars, les entrepreneurs d’intérêt général (EIG) se sont retrouvés pour leur première session d’accompagnement collectif autour du thème de l’ouverture des codes source – « open source » -  et des données – « open data ». Voici pourquoi on en parle et ce que cela change quand on mène un projet numérique porté au sein d'une administration.
 image: /img/blog/documentation-snds.png
-layout: post
 categories:
 - Méthode
 - Accompagnement

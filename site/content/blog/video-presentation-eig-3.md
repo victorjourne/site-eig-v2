@@ -2,7 +2,6 @@
 author: Sophie Miljkovic, équipe EIG
 description: Les entrepreneurs d’intérêt général (EIG) sont data scientists, designers, développeurs et développeuses. Qui sont-ils et comment œuvrent-ils à la transformation numérique de l’État ?
 image: img/eig3-assemblee-nationale.png
-layout: post
 categories:
 - Accompagnement
 - Méthode

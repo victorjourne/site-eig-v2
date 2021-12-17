@@ -2,7 +2,6 @@
 author: Thanh Ha Le, équipe EIG
 description: "En novembre 2019, la promotion 3 du programme EIG prenait fin. Seize mois après, où en sont les 15 projets accompagnés ? Dans cet article, des chiffres sur leur état d’avancement, leurs conditions de pérennisation et les parcours des EIG."
 image: img/Blogpost_EIG3_2021-0.png
-layout: post
 categories:
 - Évaluation
 - Open

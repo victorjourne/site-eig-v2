@@ -2,7 +2,6 @@
 author: Soizic Pénicaud, équipe EIG
 description: "Rejoignez-nous ! Nous cherchons quelqu'un pour assurer la réussite, la pérennisation et la valorisation des défis EIG à partir de mai 2020."
 image: img/offre-emploi.png
-layout: post
 categories:
 - Accompagnement
 - Recrutement

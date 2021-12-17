@@ -2,7 +2,6 @@
 author: Guénolé Carré, équipe EIG
 description: 'Le programme EIG a bientôt 3 ans ! Nous vous proposons une rétrospective du programme en données chiffrées, découvrez-les !'
 image: /img/promo.PNG
-layout: post
 categories:
 - Évaluation
 - Accompagnement

@@ -2,7 +2,6 @@
 author: Jean-Baptiste Le Dévéhat, EIG Link
 description: "Les experts en accessibilité numérique, Jamshid Kohandel et Fernando Pinto da Silva vous montrent comment un aveugle navigue depuis son ordinateur et depuis son smartphone sur des sites internet et applications. Ce que vous découvrirez : les outils et les gestes de navigation, les erreurs de conception les plus fréquentes, l'importance de concevoir des services numériques réellement accessibles à tous."
 image: img/demo-a11y-20190404.jpeg
-layout: post
 categories:
 - Design
 - Écosystème

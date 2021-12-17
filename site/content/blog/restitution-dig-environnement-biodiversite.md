@@ -2,7 +2,6 @@
 author: Coline Malivel, EIG Link
 description: "Les designers des défis « Environnement et Biodiversité » du programme Designers d'intérêt général présentent leurs réalisations et partagent leurs retours d'expérience."
 image: img/dig-meetup5_thumb.png
-layout: post
 categories:
 - Design
 - Témoignage

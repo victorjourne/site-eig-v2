@@ -2,7 +2,6 @@
 author: Tiphaine Phe-Neau, EIG Prévisecours
 description: Tiphaine revient sur son parcours –de Dailymotion à Entrepreneur·e d’Intérêt Général- et nous raconte ce qui l’a poussée à s’engager dans le programme.
 image: img/tiphaine-guillaume.jpg
-layout: post
 categories:
 - Témoignage
 - Datascience

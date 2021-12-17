@@ -2,7 +2,6 @@
 author: Antoine Augusti et Jean-Baptiste le Dévéhat, EIG Link
 description: L'équipe de coordination du programme EIG a organisé un premier séminaire « hors-les-mur s» pour la promotion 3. Pourquoi sortir les EIG de leurs administrations pendant deux jours et les réunir au vert ? Comment organiser des temps de travail efficaces pour 35 personnes aux spécialités diverses et qui travaillent sur 15 défis différents ?
 image: img/seminaire-2019/promo-3.jpg
-layout: post
 categories:
 - Accompagnement
 - Méthode

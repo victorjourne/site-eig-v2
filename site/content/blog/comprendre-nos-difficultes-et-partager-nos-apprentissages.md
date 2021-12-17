@@ -2,7 +2,6 @@
 author: Jean-Baptiste Le Dévéhat, EIG Link
 description: 'Lors de notre séminaire de septembre, nous avons fait le point sur nos mois écoulés, afin d’envisager la suite de nos défis. Ce temps nous a aussi permis d’identifier les difficultés que nous avions rencontrées et d’en tirer quelques  apprentissages, possiblement utiles aux professionnel(le)s du numérique de l’administration publique.'
 image: img/seminaire-2019/seminaire-201909.jpg
-layout: post
 categories:
 - Collectif
 - Open 

@@ -2,7 +2,6 @@
 author: Coline Lebaratoux, EIG
 description: 'Il y a 4 mois, Coline Lebaratoux intégrait l''ACOSS en tant qu''entrepreneure d''intérêt général designer de service. Sa mission, appliquer les méthode du design de service aux démarches des particuliers qui ont recours à l''emploi à domicile. Voici comment elle a mis en oeuvre la première étape de tout projet de design : la recherche utilisateur.'
 image: img/detail-atelier-ux-map.jpg
-layout: post
 categories:
 - Témoignage
 - Réalisation

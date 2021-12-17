@@ -2,7 +2,6 @@
 author: Sophie Miljkovic, équipe EIG
 description: Le 14 juin dernier s'est tenue une session de bilan à mi-parcours. L'occasion pour les EIG et leurs mentors de faire le point sur leurs défis et d'adapter la feuille de route des 5 mois à venir. L'occasion aussi de faire des retours sur l'accompagnement qu'offre l'équipe EIG. En voici une synthèse.
 image: /img/blog/Matrice-Social-Connect.jpg
-layout: post
 categories:
 - Accompagnement
 - Méthode

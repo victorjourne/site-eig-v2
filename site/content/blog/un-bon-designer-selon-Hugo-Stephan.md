@@ -2,7 +2,6 @@
 author: Hugo Stéphan, EIG
 description: Lors de la session d'accompagnement mensuelle de la promotion EIG 3 axée sur le thème du design, il a été demandé aux 5 designers de la promotion de définir ce qui, selon eux, caractérise un bon designer. Hugo Stéphan, du défi Karfu’R, a choisi une approche un peu taquine.
 image: img/seminaire-2019/designers.jpg
-layout: post
 categories:
 - Témoignage
 - Design

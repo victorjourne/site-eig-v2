@@ -2,7 +2,6 @@
 author: Soizic Pénicaud, équipe EIG
 description: Alors que le programme EIG fêtera bientôt ses trois ans, il nous paraît important de prendre du recul sur ce qui a été produit, les axes à approfondir et ceux à améliorer.
 image: img/evaluation-ogp.jpg
-layout: post
 categories:
 - Accompagnement
 - Évaluation

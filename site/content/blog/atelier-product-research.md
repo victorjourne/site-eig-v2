@@ -2,7 +2,6 @@
 author: Mathilde Bras, équipe EIG
 description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement des entrepreneurs d’intérêt général. En présence des mentors des défis, nous avons travaillé sur 3 ateliers, orientés « utilisateurs » : recherche produit et utilisateurs, design et conception du produit avec ses utilisateurs, ouverture du code source.'
 image: img/ex-empathy-map.jpg
-layout: post
 categories:
 - Accompagnement
 - Design
