@@ -11,6 +11,7 @@ categories:
 - open
 title: 'Travailler avec des données d''exception et les rendre disponibles : retour
   d''expérience d''Antoine Augusti'
+date: 2018-06-11T00:00:00.000Z
 ---
 
 _Antoine Augusti, entrepreneur d'intérêt général pour le défi

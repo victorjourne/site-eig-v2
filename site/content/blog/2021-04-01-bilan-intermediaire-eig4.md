@@ -6,6 +6,7 @@ layout: post
 categories:
 - réalisation
 title: "[VIDEO] Bilan intermédiaire : où en est la promotion EIG 4 ?"
+date: 2021-04-01T00:00:00.000Z
 ---
 
 Voilà sept mois que la promotion 4 du programme Entrepreneurs d’Intérêt Général a démarré. En septembre 2020, 10 spécialistes en data science, 17 en développement et 14 en design ont rejoint l’écosystème du numérique public pour relever 17 défis d’intérêt général, aux côtés de 32 agents publics. [Prévenir les conflits d’intérêts dans le domaine médical](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/adex.html), [contribuer à la transparence des fonds publics engagés pour les Jeux Olympiques 2024](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/datalympics.html) ou [faciliter le contrôle environnemental des sites industriels](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/envinorma.html)... autant d’enjeux auxquels se sont attaquées les équipes.

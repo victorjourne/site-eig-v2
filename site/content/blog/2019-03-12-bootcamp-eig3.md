@@ -5,7 +5,8 @@ description: 'Du 11 au 15 février, les entrepreneurs d’intérêt général de
   par l''équipe de coordination du programme à Etalab. Un des objectifs : leur faire
   découvrir les acteurs qui œuvrent à la transformation numérique de l’État et qu’ils
   pourront mobiliser pendant les 10 mois de leurs défis. Vous aussi, vous menez un
-  projet numérique autour des données au sein de l’État ?
+date: 2019-03-12T00:00:00.000Z
+projet numérique autour des données au sein de l’État ?
 
   Voici les problèmes que vous rencontrerez peut-être… et les ressources sur lesquelles
   vous pourrez vous appuyer pour les résoudre.'

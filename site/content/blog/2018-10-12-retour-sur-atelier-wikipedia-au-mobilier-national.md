@@ -13,6 +13,7 @@ categories:
 - open
 - design
 title: Retour sur l'atelier Wikipédia organisé au Mobilier national
+date: 2018-10-12T00:00:00.000Z
 ---
 
 ## L'idée : une journée d'atelier pour contribuer aux projets Wikimédia

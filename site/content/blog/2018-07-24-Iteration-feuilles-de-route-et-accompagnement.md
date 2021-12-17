@@ -12,6 +12,7 @@ categories:
 - évaluation
 title: 'Bilan à mi-parcours : itération sur les feuilles de routes des défis EIG et
   l''accompagnement de l''équipe EIG'
+date: 2018-07-24T00:00:00.000Z
 ---
 
 « **Itération** » fait partie des mots clés du programme

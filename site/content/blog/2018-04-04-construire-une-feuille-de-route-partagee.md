@@ -11,6 +11,7 @@ categories:
 - méthode
 title: 'Réaliser un défi en 10 mois : construire une feuille de route partagée et
   accepter de la faire évoluer'
+date: 2018-04-04T00:00:00.000Z
 ---
 
 ![Dans une grande salle, les EIG de la promotion 2 sont assis à des pupitres individuels et discutent entre eux.](/img/blog/LLL-1-photo-groupe.jpg)

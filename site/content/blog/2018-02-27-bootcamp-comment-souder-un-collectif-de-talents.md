@@ -13,6 +13,7 @@ categories:
 - collectif
 title: Comment souder un collectif de talents et assurer sa réussite - Retour sur
   le bootcamp d'intégration de la promotion 2 des entrepreneurs d'intérêt général
+date: 2018-02-27T00:00:00.000Z
 ---
 
 ### Retour sur le bootcamp d'intégration de la promotion 2 des entrepreneurs d'intérêt général

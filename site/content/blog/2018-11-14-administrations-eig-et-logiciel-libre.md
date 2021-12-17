@@ -11,6 +11,7 @@ categories:
 - open
 title: Et le logiciel libre dans tout ça ?
 lang-ref: logiciel-libre
+date: 2018-11-14T00:00:00.000Z
 ---
 
 ## Le logiciel libre et l'administration publique

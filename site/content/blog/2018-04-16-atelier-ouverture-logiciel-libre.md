@@ -13,6 +13,7 @@ categories:
 - méthode
 - open
 title: L’ouverture d’un logiciel libre.  Retour sur les ateliers du 22 mars (2/3)
+date: 2018-04-16T00:00:00.000Z
 ---
 
 Voici un petit retour d’expérience sur ma participation à cet atelier,

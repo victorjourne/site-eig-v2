@@ -8,6 +8,7 @@ categories:
 - évaluation
 - accompagnement
 title: 'Data EIG : un retour en chiffres sur 3 années du programme EIG'
+date: 2019-05-09T00:00:00.000Z
 ---
 
 Alors que l'équipe du programme EIG accompagne actuellement une troisième promotion, il nous est apparu intéressant de vous proposer un retour en arrière, et en données, sur son fonctionnement. Cet article s'inscrit dans le cadre d'une démarche d'évaluation plus globale du programme, dont cette amorce en données constitue un premier volet.

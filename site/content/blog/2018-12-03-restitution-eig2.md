@@ -14,6 +14,7 @@ categories:
 - accompagnement
 title: Entrepreneur·e d'Intérêt Général - retour en image et en équipe sur les réalisations
   de la Promotion 2
+date: 2018-12-03T00:00:00.000Z
 ---
 
 La transformation numérique des administrations doit se faire en

@@ -13,6 +13,7 @@ categories:
 - open
 title: 'Open source et open data : quels impacts pour les défis des entrepreneurs
   d''intérêt général ?'
+date: 2019-04-12T00:00:00.000Z
 ---
 
 Le jeudi 14 mars, les entrepreneurs d’intérêt général (EIG) se sont retrouvés pour leur première [session d’accompagnement collectif](https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html) autour du thème de l’ouverture des codes source – *open source* -  et des données – *open data*. Cette ouverture est une valeur et une obligation légale que porte le programme et que les administrations d’accueil aussi bien que les EIG s’engagent à respecter. C’est aussi un sujet sur lequel l’équipe de coordination, aidée par [Etalab](https://www.etalab.gouv.fr/), s’engage à les accompagner. 

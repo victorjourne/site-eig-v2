@@ -12,6 +12,7 @@ categories:
 - open 
 - accompagnement
 title: 'Comprendre nos difficultés et partager nos apprentissages'
+date: 2019-12-10T00:00:00.000Z
 ---
  
 

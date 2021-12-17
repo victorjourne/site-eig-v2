@@ -11,6 +11,7 @@ categories:
 - méthode
 - international
 title: Public Interest Entrepreneurs, why, what and how
+date: 2018-07-23T00:00:00.000Z
 ---
 
 Inspired by the [Presidential Innovation

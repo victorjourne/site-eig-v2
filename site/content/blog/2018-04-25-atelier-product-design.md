@@ -12,6 +12,7 @@ categories:
 - design
 title: Comment mettre son utilisateur au centre du design de son site ou de son outil ?  Retour
   sur les ateliers du 22 mars (3/3)
+date: 2018-04-25T00:00:00.000Z
 ---
 
 Comment concevoir un produit qui corresponde aux besoins de ses

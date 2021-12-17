@@ -9,6 +9,7 @@ categories:
 - témoignage
 - développement
 title: 'Retour d''expérience : le défi Brigade numérique'
+date: 2018-11-15T00:00:00.000Z
 ---
 
 En janvier 2018, j'ai rejoint la deuxième promotion du programme

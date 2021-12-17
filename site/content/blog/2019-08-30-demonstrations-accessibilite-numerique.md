@@ -7,6 +7,7 @@ categories:
 - design
 - écosystème
 title: "Démonstrations : comment un aveugle navigue sur le web ?"
+date: 2019-08-30T00:00:00.000Z
 ---
 
 ## Qu'est-ce que l'accessibilité ?
