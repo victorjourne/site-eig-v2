@@ -27,7 +27,7 @@ program: >-
    Pour en savoir plus :
 
 
-  > * Consultez la [plaquette de l’appel à projets 2022](img/eig-plaquette-appel-à-projets-2022.pdf)
+  > * Consultez la [plaquette de l’appel à projets 2022](img/aap-eig6_plaquette_v1.2.pdf)
 
   > * Découvrez les [projets réalisés par notre dernière promotion](x64z39u)
 
