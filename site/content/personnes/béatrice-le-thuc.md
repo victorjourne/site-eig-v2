@@ -4,8 +4,10 @@ job: "Designer "
 promos:
   - Promotion 5
 role: participant
-defis: 
-  - e-PSHAD
+defis:
+  - ePSHAD
+expertises:
+  - Design
 image: img/beatrice-lethuc.jpg
 linkedin: https://www.linkedin.com/in/beatricelethuc/
 ---
