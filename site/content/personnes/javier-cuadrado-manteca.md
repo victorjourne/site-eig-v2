@@ -5,7 +5,9 @@ promos:
   - Promotion 5
 role: participant
 defis:
-  - e-PSHAD
+  - ePSHAD
+expertises:
+  - Développement
 image: img/javier-cuadrado.jpeg
 linkedin: https://www.linkedin.com/in/javier-cuadrado/
 github: https://github.com/mantecajc
