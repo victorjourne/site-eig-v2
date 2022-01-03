@@ -5,7 +5,9 @@ promos:
   - Promotion 5
 role: participant
 defis:
-  - e-PSHAD
+  - ePSHAD
+expertises:
+  - Développement
 image: img/simon-denier.png
 linkedin: https://www.linkedin.com/in/simon-denier/
 github: https://github.com/sdenier
