@@ -89,16 +89,20 @@ questions:
     title: Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ? (profils du
       numérique)
   - desc: >-
-      1. Lorem ipsum dolor sit amet, c
+      Vous pouvez en premier lieu prendre contact avec les expertises numériques
+      de votre administration, au sein de votre direction des systèmes
+      d'information ou votre direction du numérique.
 
-      2. onsetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. S
 
-      3. tet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+      Vous pouvez également identifier les agents publics qui ont déjà reçu des EIG au sein de votre administration en naviguant dans [les projets passés](https://damp-basin-47015.herokuapp.com/defis.html). N'hésitez pas à les contacter pour un retour d'expérience.
 
-      4.  labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum d
 
-      5. olor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-    title: Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet
+      Par ailleurs, vous pouvez [prendre contact avec nous](mailto:eig@data.gouv.fr). Nous essayerons autant que possible de vous mettre en relation avec des personnes pouvant vous aider dans votre administration.
+
+
+      Enfin, ne vous inquiétez pas si vous n’êtes pas tout à fait sûr des compétences recherchées : si votre projet est sélectionné, les profils EIG recherchés seront retravaillés et précisés avec vous.
+    title: "Je manque de compétences techniques : comment définir les profils d’EIG
+      dont j’ai besoin pour réaliser mon projet ?"
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
