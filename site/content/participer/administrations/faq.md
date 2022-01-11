@@ -43,21 +43,29 @@ questions:
         * Un mentor de haut niveau, issu de la hiérarchie de la structure porteuse du projet
         * Une équipe dédiée au projet, aux profils pluridisciplinaires (métier et technique)
     title: Quels sont les critères d’éligibilité au programme ?
-  - desc: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-      clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-      amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-      nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-      diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-      Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor
-      sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-      diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
-      erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
-      rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
-      dolor sit amet.
-    title: At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-      gubergren
+  - desc: >-
+      Seules les administrations disposant d’un programme budgétaire sont
+      éligibles au co-financement direct (en général, les administrations
+      centrales).
+
+
+      Si vous n’êtes pas éligible au co-financement direct, vous pouvez établir une convention avec une administration éligible ou prévoir un financement alternatif.
+
+
+      Le programme cofinance la rémunération des entrepreneurs d'intérêt général avec l'administration d'accueil.
+
+
+      Le programme propose une subvention correspondant au coût total employeur de 3 mois d'une rémunération de 3 500 euros nets par mois pour les EIG jusqu’à 5 ans d’expérience inclus, et 4 000 euros nets par mois pour les profils au-delà de 5 ans d’expérience.
+
+
+      L’administration s'engage à assurer financièrement la rémunération des EIG pour le reste de la durée du projet.
+
+
+      Nous cofinançons via des crédits en titre 2. Vous pouvez donc bénéficier du cofinancement si votre administration opère un programme budgétaire avec du titre 2, ou si vous êtes en capacité de faire porter administrativement le projet, c'est-à-dire qu'une autre administration (par exemple dans le cas des opérateurs ou des agences, le ministère de tutelle ou de rattachement) reçoit les crédits de cofinancement sur son programme budgétaire en titre 2 et que vous définissez avec elle ce mode de partenariat.
+
+
+      Si vous avez besoin d’aide pour trouver un porteur administratif, vous pouvez [prendre contact avec nous](mailto:eig@data.gouv.fr).
+    title: Quels sont les critères d’éligibilité au financement ?
   - desc: >-
       * [Lorem ipsum dolor sit amet](https://www.modernisation.gouv.fr/presse), 
 
