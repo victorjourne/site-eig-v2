@@ -27,22 +27,22 @@ questions:
 
 
       Au-delà de ce soutien, **vous entrez dans une communauté de pratiques** qui compte aujourd’hui 95 agents publics et 133 profils du numérique, qui ont mis en œuvre 71 projets. Cette communauté s’insère dans l’écosystème du numérique public d’Etalab (data.gouv, le Lab IA, open data, open source), de la DINUM (design.gouv, beta.gouv.fr), de la Direction interministérielle de la transformation publique ainsi que nos partenaires hors de l’administration.
-  - desc: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-      clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-      amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-      nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-      diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-      Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor
-      sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-      diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
-      erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
-      rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
-      dolor sit amet.
-    title: At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-      gubergrenAt vero eos et accusam et justo duo dolores et ea rebum. Stet
-      clita kasd gubergren
+  - desc: >-
+      Les conditions d’éligibilité sont les suivantes :
+
+
+      * **Bénéficiaire** : toute administration
+
+      * **Dimensionnement**
+
+      * * Un projet réalisable sur une période de 10 mois
+        * Par une équipe de 2 ou 3 profils du numérique
+      * **Equipe**
+
+      * * Un ou deux porteurs de projet (agents publics)
+        * Un mentor de haut niveau, issu de la hiérarchie de la structure porteuse du projet
+        * Une équipe dédiée au projet, aux profils pluridisciplinaires (métier et technique)
+    title: Quels sont les critères d’éligibilité au programme ?
   - desc: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
       eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
       voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
