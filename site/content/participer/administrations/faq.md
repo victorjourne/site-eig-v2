@@ -67,20 +67,22 @@ questions:
       Si vous avez besoin d’aide pour trouver un porteur administratif, vous pouvez [prendre contact avec nous](mailto:eig@data.gouv.fr).
     title: Quels sont les critères d’éligibilité au financement ?
   - desc: >-
-      * [Lorem ipsum dolor sit amet](https://www.modernisation.gouv.fr/presse), 
+      Le programme vise à produire des outils numériques mais aussi à encourager
+      une transformation numérique plus profonde dans les administrations.
+      Ainsi, nos critères de sélection portent autant sur **le projet à réaliser
+      en 10 mois** que sur **l’équipe qui le porte** :
 
-      * consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea r
 
-      * ebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit am
+      * **Pertinence du besoin** : un besoin clair, à fort impact, porté à un haut niveau hiérarchique par l’administration d’accueil ;
 
-      * et, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolo
+      * **Définition** : une problématique bien circonscrite, des profils du numérique cohérents ;
 
-      * r sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. [At vero eos et accus](https://www.modernisation.gouv.fr/presse)
+      * **Engagement** : motivation pour participer au programme, ouvrir le terrain d’expérimentation aux profils du numérique, et leur offrir de l’autonomie ;
 
-      * am et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-    title: At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-      gubergrenAt vero eos et accusam et justo duo dolores et ea rebum. Stet
-      clita kasd gubergren
+      * **Transformation** : une forte volonté de transformation numérique de la part de l’administration ;
+
+      * **Ouverture** : des opportunités d’ouverture, de mutualisation et de réplication des outils produits et des données.
+    title: Quels sont les critères de sélection des projets ?
   - desc: >-
       ### Lorem ipsum dolor sit amet,
 
