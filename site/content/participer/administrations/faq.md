@@ -103,6 +103,11 @@ questions:
       Enfin, ne vous inquiétez pas si vous n’êtes pas tout à fait sûr des compétences recherchées : si votre projet est sélectionné, les profils EIG recherchés seront retravaillés et précisés avec vous.
     title: "Je manque de compétences techniques : comment définir les profils d’EIG
       dont j’ai besoin pour réaliser mon projet ?"
+  - title: Quel est le type de contrat des EIG ?
+    desc: "Les EIG signent un contrat avec leurs administrations d’accueil : un CDD
+      de 10 mois avec une rémunération de 3 500 euros nets par mois pour les EIG
+      jusqu’à 5 ans d’expérience inclus, et 4 000 euros nets par mois pour les
+      profils au-delà de 5 ans d’expérience."
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
