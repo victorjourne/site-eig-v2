@@ -83,12 +83,11 @@ questions:
 
       * **Ouverture** : des opportunités d’ouverture, de mutualisation et de réplication des outils produits et des données.
     title: Quels sont les critères de sélection des projets ?
-  - desc: >-
-      ### Lorem ipsum dolor sit amet,
-
-       consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-    title: At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-      gubergren
+  - desc: "Cela dépend du périmètre de votre projet et des compétences que vous
+      recherchez. À noter : dans la plupart des cas, les équipes des promotions
+      2 et 3 étaient constituées de 2 EIG."
+    title: Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ? (profils du
+      numérique)
   - desc: >-
       1. Lorem ipsum dolor sit amet, c
 
