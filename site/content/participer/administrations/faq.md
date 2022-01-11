@@ -2,8 +2,17 @@
 title: Foire aux questions Administrations
 layout: faq
 questions:
-  - title: Lorem ipsum
-    desc: Lorem ipsum [dolor sit](#)
+  - title: Comment fonctionne le programme EIG ?
+    desc: >-
+      Le programme Entrepreneurs d’Intérêt Général fonctionne par appels à
+      projets, en 3 étapes.
+
+
+      * **Vous candidatez** : nous sélectionnons une vingtaine de projets numériques proposés par les administrations publiques (du 1er février au 7 avril) ;
+
+      * **Nous réunissons une équipe** : ensemble, nous sélectionnons 2 ou 3 profils tech, design et en droit du numérique pour votre projet (en mai et juin) ;
+
+      * **Vous expérimentez** : créez et testez de nouveaux possibles avec vos profils du numérique et le soutien du programme (à partir du 13 septembre, pour 10 mois).
   - title: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
       eirmod "
     desc: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
