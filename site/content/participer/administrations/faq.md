@@ -116,6 +116,13 @@ questions:
 
 
       Vous pouvez également contacter [les agents publics de votre administration qui ont déjà participé au programme](https://eig.etalab.gouv.fr/talents/) : ils et elles pourront vous orienter vers les personnes en interne qui les ont aidés et partager leur expérience avec vous.
+  - title: Le programme EIG peut-il se cumuler avec d’autres appels à projets de
+      transformation numérique de l’Etat ?
+    desc: Oui tout à fait ! Néanmoins, seuls des crédits budgétaires correspondant
+      au titre 2 de la nomenclature du budget de l’Etat pourront être mobilisés
+      pour financer la rémunération des EIG. Au contraire, des crédits
+      budgétaires correspondant au titre 3, à l’instar des crédits de
+      prestations de services, ne pourront pas être mobilisés.
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
