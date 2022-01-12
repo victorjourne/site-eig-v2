@@ -190,6 +190,8 @@ questions:
     desc: Les porteurs de projet assistent aux sessions d’accompagnement, à un
       rythme moins soutenu que les EIG (une session tous les deux mois pour le
       dispositif mis en place lors de la promotion 4).
+  - title: Le projet peut-il être encadré par 2 porteurs de projet opérationnels ?
+    desc: Oui, tout à fait ! C’était le cas pour plusieurs défis EIG 2, 3 et 4.
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
