@@ -129,6 +129,21 @@ questions:
       type frais de déplacement ?
     desc: Les autres frais liés à la présence des EIG (notamment les frais de
       déplacement) sont à la charge de l’administration d’accueil.
+  - title: "Je suis une administration territoriale de l’Etat (service déconcentré)
+      : comment puis-je financer mon projet EIG ?"
+    desc: >-
+      Les services régionaux et départementaux de l’Etat ne sont pas éligibles
+      au cofinancement direct. Ils peuvent donc soit prendre à leur charge la
+      rémunération des EIG et les dépenses liées à l’exercice de leur fonction
+      (poste de travail, etc.) sur les 10 mois du projet, soit établir une
+      convention avec leur administration centrale pour bénéficier du
+      cofinancement. Celle-ci agira alors comme porteur administratif du projet.
+
+
+      Bien conscients de l’effort financier important, nous vous encourageons donc à déposer des projets qui seront menés en partenariat avec d’autres administrations, soit des collectivités territoriales, soit en concluant ce partenariat avec votre administration centrale.
+
+
+      Il est important de noter que la rémunération des EIG ne pourra être affectée qu’au titre 2 de la nomenclature du budget de l’Etat, et que les EIG devront en principe émarger au plafond du service d’accueil.
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
