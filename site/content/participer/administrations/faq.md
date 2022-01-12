@@ -123,6 +123,8 @@ questions:
       pour financer la rémunération des EIG. Au contraire, des crédits
       budgétaires correspondant au titre 3, à l’instar des crédits de
       prestations de services, ne pourront pas être mobilisés.
+  - title: Puis-je autofinancer mon projet EIG ?
+    desc: Vous pouvez tout à fait auto-financer votre projet EIG !
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
