@@ -169,6 +169,23 @@ questions:
 
 
       Nous encourageons d'ailleurs particulièrement les projets qui se situent hors de la région parisienne.
+  - title: Quel est généralement le profil des porteurs de projet opérationnels ?
+      Quel est leur rôle ?
+    desc: >-
+      Les porteurs de projet opérationnels sont en charge de permettre aux EIG
+      de mener au mieux leur projet, en les orientant dans l’administration, en
+      s’assurant qu’ils disposent de toutes les ressources nécessaires
+      (notamment techniques et en données), et en facilitant les démarches
+      juridiques et administratives éventuelles.
+
+
+      Ils font également partie du collectif EIG et assistent aux sessions d’accompagnement.
+
+
+      En général, les porteurs de projet opérationnels ont un profil « métier », et peuvent faire bénéficier les EIG de leur expérience du terrain. Il est courant qu'ils forment un binôme avec un porteur de projet au profil « technique ».
+
+
+      On attend surtout du porteur de projet qu’il soit passionné par le projet EIG qu’il porte. Le temps hebdomadaire investi dans le projet EIG sera un élément important d’appréciation des projets. En moyenne, ils investissent 30 à 40% de leur temps dans leur projet EIG (et certains en investissent 100% !).
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
