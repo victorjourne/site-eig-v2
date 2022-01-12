@@ -125,6 +125,10 @@ questions:
       prestations de services, ne pourront pas être mobilisés.
   - title: Puis-je autofinancer mon projet EIG ?
     desc: Vous pouvez tout à fait auto-financer votre projet EIG !
+  - title: À la charge de qui sont les frais annexes liés à la présence des EIG, de
+      type frais de déplacement ?
+    desc: Les autres frais liés à la présence des EIG (notamment les frais de
+      déplacement) sont à la charge de l’administration d’accueil.
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
