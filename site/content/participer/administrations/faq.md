@@ -154,6 +154,12 @@ questions:
   - title: Qui doit effectuer la simulation financière à inclure au dossier de
       réponse ?
     desc: Cette simulation est à demander à vos services RH.
+  - title: "Je voudrais présenter un projet interministériel : qui indiquer en
+      administration d'accueil ?"
+    desc: Nous vous conseillons de choisir comme administration d'accueil le
+      ministère chez qui les EIG seront en immersion, et d’indiquer le(s)
+      autre(s) administration(s) participante(s) en tant que partenaires, en
+      insistant sur la dimension interministérielle du projet.
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
