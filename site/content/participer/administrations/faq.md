@@ -160,6 +160,15 @@ questions:
       ministère chez qui les EIG seront en immersion, et d’indiquer le(s)
       autre(s) administration(s) participante(s) en tant que partenaires, en
       insistant sur la dimension interministérielle du projet.
+  - title: Les EIG peuvent-ils être accueillis dans des locaux hors de la région
+      parisienne ?
+    desc: >-
+      Tout à fait, c’était d’ailleurs le cas pour deux projets EIG 2 (baliseNAV
+      à Brest et Signaux Faibles à Dijon) et un projet EIG 4 (MonitorFish à
+      Etel).
+
+
+      Nous encourageons d'ailleurs particulièrement les projets qui se situent hors de la région parisienne.
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
