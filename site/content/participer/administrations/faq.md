@@ -186,6 +186,10 @@ questions:
 
 
       On attend surtout du porteur de projet qu’il soit passionné par le projet EIG qu’il porte. Le temps hebdomadaire investi dans le projet EIG sera un élément important d’appréciation des projets. En moyenne, ils investissent 30 à 40% de leur temps dans leur projet EIG (et certains en investissent 100% !).
+  - title: Les porteurs de projet assistent-ils aux sessions d’accompagnement ?
+    desc: Les porteurs de projet assistent aux sessions d’accompagnement, à un
+      rythme moins soutenu que les EIG (une session tous les deux mois pour le
+      dispositif mis en place lors de la promotion 4).
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
