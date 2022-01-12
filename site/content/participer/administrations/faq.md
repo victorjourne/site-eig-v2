@@ -197,6 +197,14 @@ questions:
     desc: "Le temps de constitution est variable, mais nous avons volontairement
       limité la longueur du dossier cette année : n’hésitez pas à être précis et
       concis !"
+  - title: En cas de sélection, comment se passe le jury d’admission ?
+    desc: >-
+      Les porteurs des projets présélectionnés seront conviés à pitcher devant
+      le jury d’admission, notamment en utilisant les slides jointes au dossier
+      de réponse à l’appel à projets (qui peuvent être modifiées entre-temps).
+
+
+      Plus d’informations seront envoyées aux administrations présélectionnées.
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
