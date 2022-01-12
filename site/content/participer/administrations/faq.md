@@ -151,6 +151,9 @@ questions:
 
 
       Afin de bénéficier du cofinancement, vous devez conclure un partenariat avec un ministère, qui sera alors le porteur administratif du projet.
+  - title: Qui doit effectuer la simulation financière à inclure au dossier de
+      réponse ?
+    desc: Cette simulation est à demander à vos services RH.
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
