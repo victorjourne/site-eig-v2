@@ -144,6 +144,13 @@ questions:
 
 
       Il est important de noter que la rémunération des EIG ne pourra être affectée qu’au titre 2 de la nomenclature du budget de l’Etat, et que les EIG devront en principe émarger au plafond du service d’accueil.
+  - title: "Je suis une collectivité territoriale : comment puis-je financer mon
+      projet EIG ?"
+    desc: >-
+      La première solution est bien sûr l’autofinancement.
+
+
+      Afin de bénéficier du cofinancement, vous devez conclure un partenariat avec un ministère, qui sera alors le porteur administratif du projet.
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
