@@ -192,6 +192,11 @@ questions:
       dispositif mis en place lors de la promotion 4).
   - title: Le projet peut-il être encadré par 2 porteurs de projet opérationnels ?
     desc: Oui, tout à fait ! C’était le cas pour plusieurs défis EIG 2, 3 et 4.
+  - title: Combien de temps prend la constitution d’un dossier de réponse à l’appel
+      à candidatures ?
+    desc: "Le temps de constitution est variable, mais nous avons volontairement
+      limité la longueur du dossier cette année : n’hésitez pas à être précis et
+      concis !"
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
