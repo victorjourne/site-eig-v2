@@ -108,6 +108,14 @@ questions:
       de 10 mois avec une rémunération de 3 500 euros nets par mois pour les EIG
       jusqu’à 5 ans d’expérience inclus, et 4 000 euros nets par mois pour les
       profils au-delà de 5 ans d’expérience."
+  - title: Les postes des EIG rentrent-ils dans le cadre des plafonds d'emploi ?
+    desc: >-
+      Oui, il faut des supports de poste qui rentrent dans les plafonds d'emploi
+      pour les EIG. Notre conseil : profitez-en pour impliquer rapidement vos
+      services RH et identifier des solutions aux éventuels obstacles.
+
+
+      Vous pouvez également contacter [les agents publics de votre administration qui ont déjà participé au programme](https://eig.etalab.gouv.fr/talents/) : ils et elles pourront vous orienter vers les personnes en interne qui les ont aidés et partager leur expérience avec vous.
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
