@@ -27,15 +27,15 @@ program: >-
    Pour en savoir plus :
 
 
-  > * Consultez la [plaquette de l’appel à projets 2022](/img/aap_eig6_plaquette.pdf)
+  * Consultez la [plaquette de l’appel à projets 2022](/img/aap_eig6_plaquette.pdf)
 
-  > * Découvrez les [projets réalisés par notre dernière promotion](x64z39u)
+  * Découvrez les [projets réalisés par notre dernière promotion](x64z39u)
 
 
   Vous avez déjà un projet ou souhaitez explorer des idées avec notre équipe :
 
 
-  > * Contactez-nous: [eig@data.gouv.fr](eig@data.gouv.fr) 
+  * Contactez-nous: [eig@data.gouv.fr](eig@data.gouv.fr) 
 
 
   Inscrivez-vous sur notre [liste de diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio) pour être tenus au courant de l’ouverture de l’appel à projets et de nos événements de présentation.
@@ -59,17 +59,17 @@ program: >-
   Le programme offre une procédure de recrutement accélérée, de bout en bout, en sourçant et en sélectionnant des talents aux compétences rares - des "EIG" :
 
 
-  > * développeurs / développeuses
+  * développeurs / développeuses
 
-  > * data scientists
+  * data scientists
 
-  > * data engineers
+  * data engineers
 
-  > * géomaticiens / géomaticiennes
+  * géomaticiens / géomaticiennes
 
-  > * designers
+  * designers
 
-  > * juristes du numérique
+  * juristes du numérique
 
 
   #### Co-financement
@@ -78,9 +78,9 @@ program: >-
   Nous participons aux salaires des talents à hauteur de 30 %. Ils sont rémunérés 3 500 € ou 4 000 € nets par mois :
 
 
-  > * 70 % par l’administration d’accueil
+  * 70 % par l’administration d’accueil
 
-  > * 30 % par le programme
+  * 30 % par le programme
 
 
   #### Aide à l'innovation
@@ -89,11 +89,11 @@ program: >-
   Pour vous soutenir dans le pilotage de talents et de projets avec une compétence entrepreneuriale, trois dispositifs vous sont proposés :
 
 
-  > * des séminaires collectifs
+  * des séminaires collectifs
 
-  > * un coaching par équipe
+  * un coaching par équipe
 
-  > * des apprentissages en pair-à-pair
+  * des apprentissages en pair-à-pair
 criteria:
   title: "5 critères de sélection "
   desc: >-
