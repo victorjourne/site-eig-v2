@@ -186,6 +186,29 @@ questions:
 
 
       On attend surtout du porteur de projet qu’il soit passionné par le projet EIG qu’il porte. Le temps hebdomadaire investi dans le projet EIG sera un élément important d’appréciation des projets. En moyenne, ils investissent 30 à 40% de leur temps dans leur projet EIG (et certains en investissent 100% !).
+  - title: Les porteurs de projet assistent-ils aux sessions d’accompagnement ?
+    desc: Les porteurs de projet assistent aux sessions d’accompagnement, à un
+      rythme moins soutenu que les EIG (une session tous les deux mois pour le
+      dispositif mis en place lors de la promotion 4).
+  - title: Le projet peut-il être encadré par 2 porteurs de projet opérationnels ?
+    desc: Oui, tout à fait ! C’était le cas pour plusieurs défis EIG 2, 3 et 4.
+  - title: Combien de temps prend la constitution d’un dossier de réponse à l’appel
+      à candidatures ?
+    desc: "Le temps de constitution est variable, mais nous avons volontairement
+      limité la longueur du dossier cette année : n’hésitez pas à être précis et
+      concis !"
+  - title: En cas de sélection, comment se passe le jury d’admission ?
+    desc: >-
+      Les porteurs des projets présélectionnés seront conviés à pitcher devant
+      le jury d’admission, notamment en utilisant les slides jointes au dossier
+      de réponse à l’appel à projets (qui peuvent être modifiées entre-temps).
+
+
+      Plus d’informations seront envoyées aux administrations présélectionnées.
+  - title: Quelle est la différence entre Entrepreneurs d'Intérêt Général (EIG) et
+      Designers d'Intérêt Général (DIG) ?
+    desc: "Le programme DIG (Designers d’Intérêt Général) n’existe plus : il a
+      fusionné avec le programme EIG (Entrepreneurs d’Intérêt Général) en 2020."
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
