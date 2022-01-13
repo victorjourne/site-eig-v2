@@ -205,6 +205,10 @@ questions:
 
 
       Plus d’informations seront envoyées aux administrations présélectionnées.
+  - title: Quelle est la différence entre Entrepreneurs d'Intérêt Général (EIG) et
+      Designers d'Intérêt Général (DIG) ?
+    desc: "Le programme DIG (Designers d’Intérêt Général) n’existe plus : il a
+      fusionné avec le programme EIG (Entrepreneurs d’Intérêt Général) en 2020."
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---
