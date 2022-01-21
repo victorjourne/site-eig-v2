@@ -9,25 +9,26 @@ callout:
 how:
   title: Les 2 choses à faire pour postuler
   desc: >-
-    * Lire le [cahier des charges de l’appel à projets](#)
+    * Lire le [cahier des charges de l’appel à
+    projets](https://eig.etalab.gouv.fr/img/aap-eig6-cahier-des-charges.pdf)
 
     * Déposer son dossier de candidature sur la [plateforme Démarches Simplifiées](https://www.demarches-simplifiees.fr/commencer/aap-eig6) avant le 18/03/2022, 23h59
 steps:
   dates:
-    - date: "[Date - Date]"
+    - date: "[24 janvier - 18 mars]"
       desc: Répondez à l’appel à projets
-    - date: "[Date]"
+    - date: "[21 mars - 25 mars]"
       desc: Pré-sélection des projets par la DINUM
-    - date: "[Date]"
+    - date: "[31 mars - 1er avril]"
       desc: Jury de sélection des projets lauréats
-    - date: "[Date]"
+    - date: "[début avril]"
       desc: Annonce des lauréats, qui font ensuite un travail de cadrage
         méthodologique et technique accompagnés par la DINUM
-    - date: "[Date]"
+    - date: "[4 avril - 6 mai]"
       desc: Pré-sélection des profils du numérique par la DINUM
-    - date: "[Date]"
+    - date: "[6 juin - 10 juin]"
       desc: Jury de sélection des profils du numérique (EIG) pour vos projet.
-    - date: "[Date]"
+    - date: "[12 septembre]"
       desc: Accueillez les EIG dans votre administration pour démarrer 10 mois
         d’expérimentation autour de votre projet et encourager la transformation
         numérique de votre service.
@@ -36,7 +37,7 @@ questions: >-
   ## Des questions ?
 
 
-  * Trouvez des réponses dans notre [foire aux questions](/participer/administrations/faq)
+  * Trouvez des réponses dans notre foire aux questions
 
   * Rejoignez nos webinaires de présentation de l'appel à candidatures :
 
