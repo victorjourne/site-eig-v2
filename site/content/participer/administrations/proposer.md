@@ -37,22 +37,24 @@ questions: >-
   ## Des questions ?
 
 
-  * Trouvez des réponses dans notre foire aux questions
+  * Trouvez des réponses dans notre [foire aux questions](/admins-faq)
 
   * Rejoignez nos webinaires de présentation de l'appel à candidatures :
 
-    1. Le XX/XX/XXX de XXh à XXh\
-       [S'inscrire](https://www.demarches-simplifiees.fr/)
-    2. Le XX/XX/XXX de XXh à XXh\
-       [S'inscrire](https://www.demarches-simplifiees.fr/)
-  * [Inscrivez-vous à nos "office hours du vendredi"](#) pour échanger 20 minutes sur vos projets avant le dépôt de vos candidatures
+    1. Le jeudi 3 février de 13h45 à 14h45\
+       [S'inscrire](https://www.demarches-simplifiees.fr/) \[AJOUTER LIEN]
+    2. Le jeudi 17 février de 13h45 à 14h45\
+       [S'inscrire](https://www.demarches-simplifiees.fr/) \[AJOUTER LIEN]
+
+       + ajouter webinaire thématique du jeudi 10 février de 13h45 à 14h45 \[THOMAS]
+  * [Inscrivez-vous à nos "office hours du vendredi"](#) pour échanger 20 minutes sur vos projets avant le dépôt de vos candidatures \[MISE A JOUR THOMAS]
 
   * Contactez-nous : eig@data.gouv.fr
 com: >-
   ## Côté communication
 
 
-  * Inscrivez-vous à notre liste de diffusion
+  * Inscrivez-vous à notre liste de diffusion \[AJOUTER LIEN]
 
-  * Partagez cet appel à projets avec des agents publics intéressés ! Télécharger la plaquette
+  * Partagez cet appel à projets avec des agents publics intéressés ! [Télécharger la plaquette](https://eig.etalab.gouv.fr/img/aap-eig6-plaquette.pdf)
 ---
