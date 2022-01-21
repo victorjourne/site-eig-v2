@@ -3,15 +3,15 @@ title: Proposer un projet
 layout: project
 callout:
   title: Délais
-  desc: L’appel à candidatures pour rejoindre la Xe promotion des Entrepreneurs
-    d’intérêt général est ouvert jusqu’au JJ/MM/AAAA, pour un démarrage des
-    projets au sein des administrations le JJ/MM/AAAA.
+  desc: L’appel à candidatures pour rejoindre la 6e promotion des Entrepreneurs
+    d’intérêt général est ouvert jusqu’au 18/03/2022, pour un démarrage des
+    projets au sein des administrations le 12/09/2022.
 how:
   title: Les 2 choses à faire pour postuler
   desc: >-
     * Lire le [cahier des charges de l’appel à projets](#)
 
-    * Déposer son dossier de candidature sur la [plateforme Démarches Simplifiées](#) avant le JJ/MM/AAAA, XXhXX, sans oublier de joindre la [fiche détaillée de réponse](#)
+    * Déposer son dossier de candidature sur la [plateforme Démarches Simplifiées](https://www.demarches-simplifiees.fr/commencer/aap-eig6) avant le 18/03/2022, 23h59
 steps:
   dates:
     - date: "[Date - Date]"
