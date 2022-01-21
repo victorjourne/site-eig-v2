@@ -25,7 +25,7 @@ Ce site est conçu et développé par l'équipe du programme Entrepreneurs d'int
 
 ## Code source du site
 
-Le code source du site est disponible sur Github ???
+Le code source du site est disponible sur Github
 
 ## Propriété intellectuelle et liens
 
