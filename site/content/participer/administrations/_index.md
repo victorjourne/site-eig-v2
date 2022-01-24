@@ -21,7 +21,7 @@ program: >-
   Le sixième appel à projets des Entrepreneurs d'intérêt général est **ouvert** ! Il s'adresse à toute administration publique désireuse d’être soutenue pour mener des projets d’innovation numérique. 
 
 
-  Les administrations ont jusqu’au **18 mars 2022** pour déposer leurs projets. Le processus de sélection des projets et de recrutement des futurs EIG aura lieu d’**avril à juin 2022**, pour un démarrage de la future promotion le **12 septembre 2022**.
+  Les administrations ont jusqu’au **18 mars 2022** pour [déposer leurs projets](https://eig.etalab.gouv.fr/participer/administrations/proposer/). Le processus de sélection des projets et de recrutement des futurs EIG aura lieu d’**avril à juin 2022**, pour un démarrage de la future promotion le **12 septembre 2022**.
 
 
    Pour en savoir plus :
@@ -149,9 +149,8 @@ steps: >-
 wait:
   title: |-
     L’appel à candidatures pour notre
-    promotion 6 n'est pas encore ouvert.
-  desc: Si vous êtes intéressés par une participation à la prochaine promotion,
-    [inscrivez-vous à notre liste de
-    diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio)
-    ! Vous serez tenus au courant de toutes nos actualités.
+    promotion 6 est ouvert jusqu'au 18 mars 2022.
+  desc: Cliquez
+    [ICI](https://eig.etalab.gouv.fr/participer/administrations/proposer/) pour
+    proposer votre projet et bénéficier d'un accompagnement sur mesure.
 ---
