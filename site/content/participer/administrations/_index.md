@@ -31,6 +31,8 @@ program: >-
 
   * Découvrez les [projets réalisés par notre dernière promotion](https://www.dailymotion.com/video/x82e13y)
 
+  * Accédez à [notre foire aux questions](https://eig.etalab.gouv.fr/participer/administrations/faq/)
+
 
   Vous avez déjà un projet ou souhaitez explorer des idées avec notre équipe :
 
