@@ -1,7 +1,7 @@
 ---
 title: Administrations
 layout: admins
-open: false
+open: true
 head:
   desc: Parce que nous croyons qu'une transformation durable se fait de
     l'intérieur... le programme Entrepreneurs d'intérêt général vous aide à
@@ -15,13 +15,13 @@ head:
     title: Cahier des charges
     url: img/blank.pdf
 program: >-
-  ## LANCEMENT DE NOTRE FUTUR APPEL A PROJET LE 24 JANVIER 2022
+  ## L'APPEL A PROJET 2022 EST OUVERT
 
 
-  Le prochain appel à projets ouvert à toute administration publique désireuse d’être soutenue pour mener des projets d’innovation numérique sera ouvert le **24 janvier 2022** sur ce site internet. Les administrations auront jusqu’au **18 mars 2022** pour déposer leurs projets.
+  Le [sixième appel à projets des Entrepreneurs d'intérêt général](https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2) est **ouvert** ! Il s'adresse à toute administration publique désireuse d’être soutenue pour mener des projets d’innovation numérique. 
 
 
-  Le processus de sélection des projets et de recrutement des futurs EIG aura lieu d’**avril à juin 2022**, pour un démarrage de la future promotion le **12 septembre 2022**.
+  Les administrations ont jusqu’au **18 mars 2022** pour déposer leurs projets. Le processus de sélection des projets et de recrutement des futurs EIG aura lieu d’**avril à juin 2022**, pour un démarrage de la future promotion le **12 septembre 2022**.
 
 
    Pour en savoir plus :
@@ -31,14 +31,15 @@ program: >-
 
   * Découvrez les [projets réalisés par notre dernière promotion](https://www.dailymotion.com/video/x82e13y)
 
+  * Accédez à [notre foire aux questions](https://eig.etalab.gouv.fr/participer/administrations/faq/)
+
 
   Vous avez déjà un projet ou souhaitez explorer des idées avec notre équipe :
 
 
-  * Contactez-nous: [eig@data.gouv.fr](eig@data.gouv.fr) 
+  * Contactez-nous : [eig@data.gouv.fr](eig@data.gouv.fr) 
 
-
-  Inscrivez-vous sur notre [liste de diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio) pour être tenus au courant de l’ouverture de l’appel à projets et de nos événements de présentation.
+  * Inscrivez-vous à [nos webinaires d'information](https://eig.etalab.gouv.fr/participer/administrations/proposer/)
 
 
   ## Ce que le programme vous propose
@@ -65,8 +66,6 @@ program: >-
 
   * data engineers
 
-  * géomaticiens / géomaticiennes
-
   * designers
 
   * juristes du numérique
@@ -75,12 +74,7 @@ program: >-
   #### Co-financement
 
 
-  Nous participons aux salaires des talents à hauteur de 30 %. Ils sont rémunérés 3 500 € ou 4 000 € nets par mois :
-
-
-  * 70 % par l’administration d’accueil
-
-  * 30 % par le programme
+  Nous participons aux salaires des talents à hauteur de 30 %. Ils sont rémunérés 3 500 € ou 4 000 € net par mois, avec une possibilité de co-financement de 20.000 euros par profil recruté (le programme est ouvert à toute administration, mais des conditions spécifiques s’appliquent pour le cofinancement).
 
 
   #### Aide à l'innovation
@@ -109,8 +103,10 @@ criteria:
       desc: Un besoin clair, à fort impact, porté à un haut niveau hiérarchique par
         l’administration d’accueil.
     - num: "2"
-      name: Définition
-      desc: Une problématique bien circonscrite, des talents du numérique cohérents.
+      name: Approche
+      desc: Caractère entrepreneurial du projet ; il ouvre un champ d’exploration des
+        usages et de la technologie tout en ayant une problématique circonscrite
+        et des profils du numérique cohérents
     - num: "3"
       name: Engagement
       desc: Motivation pour participer au programme, ouvrir le terrain
@@ -121,13 +117,14 @@ criteria:
       desc: De fortes capacités de transformation numérique de l’administration.
     - num: "5"
       name: Ouverture
-      desc: Des opportunités d’ouverture, de mutualisation et deréutilisation des
-        outils produits et des données.
+      desc: Une démarche d’innovation ouverte (collaboration, co-construction,
+        gouvernance) et de partage de communs numériques (ouverture des données
+        et des codes-sources, mutualisation et réplication des productions).
 steps: >-
   ## Les étapes clés de la sélection
 
 
-  Pour rejoindre la prochaine promotion du programme vous êtes invités à répondre à notre prochain appel à projets. 
+  Pour rejoindre la prochaine promotion du programme vous êtes invités à répondre à notre sixième appel à projets - ouvert jusqu’au 18/03/2022. 
 
 
   Le processus de sélection se fait en **3 étapes :** 
@@ -147,9 +144,8 @@ steps: >-
 wait:
   title: |-
     L’appel à candidatures pour notre
-    promotion 6 n'est pas encore ouvert.
-  desc: Si vous êtes intéressés par une participation à la prochaine promotion,
-    [inscrivez-vous à notre liste de
-    diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio)
-    ! Vous serez tenus au courant de toutes nos actualités.
+    promotion 6 est ouvert jusqu'au 18 mars 2022.
+  desc: Cliquez
+    [ICI](https://eig.etalab.gouv.fr/participer/administrations/proposer/) pour
+    proposer votre projet et bénéficier d'un accompagnement sur mesure.
 ---
