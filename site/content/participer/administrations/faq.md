@@ -8,7 +8,7 @@ questions:
       projets, en 3 étapes.
 
 
-      * **Vous candidatez** : nous sélectionnons une vingtaine de projets numériques proposés par les administrations publiques (du 24 janvier au 18 mars) ;
+      * **Vous candidatez** : nous sélectionnons une vingtaine de projets numériques proposés par les administrations publiques (du 24 janvier au 18 mars 2022) ;
 
       * **Nous réunissons une équipe** : ensemble, nous sélectionnons 2 ou 3 profils tech, design et en droit du numérique pour votre projet (entre avril et juin) ;
 
@@ -21,7 +21,7 @@ questions:
 
       * **Pour votre recrutement** : nous pilotons une procédure de recrutement accélérée, avec la sélection de profils aux compétences rares : développeurs et développeuses, data scientists, data engineers, géomaticiens et géomaticiennes, designers et des juristes du numérique.
 
-      * **Pour votre financement** : vos profils sont rémunérés 3 500 ou 4 000 euros nets par mois, avec une possibilité de co-financement à hauteur de 30% par le programme (le programme est ouvert à toute administration, mais des conditions spécifiques s’appliquent pour le cofinancement).
+      * **Pour votre financement** : vos profils sont rémunérés 3 500 ou 4 000 euros nets par mois, avec une possibilité de co-financement à hauteur de 20 000€ par EIG recruté (le programme est ouvert à toute administration, mais des conditions spécifiques s’appliquent pour le cofinancement).
 
       * **Pour conduire l’innovation** : vous recevez un appui technique et méthodologique du programme tout au long des dix mois, avec la participation des experts d’Etalab et de la DINUM.
 
