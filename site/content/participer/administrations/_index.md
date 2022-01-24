@@ -74,7 +74,7 @@ program: >-
   #### Co-financement
 
 
-  Nous participons aux salaires des talents à hauteur de 30 %. Ils sont rémunérés 3 500 € ou 4 000 € net par mois, avec une possibilité de co-financement de 20.000 euros par profil recruté (le programme est ouvert à toute administration, mais des conditions spécifiques s’appliquent pour le cofinancement).
+  Nous participons aux salaires des talents à hauteur de 30 %. Ils sont rémunérés 3 500 € ou 4 000 € net par mois, avec une possibilité de co-financement de 20.000 euros par profil recruté (le programme est ouvert à toute administration, mais des conditions spécifiques s’appliquent pour le cofinancement, voir le cahier des charges de l'appel à projets).
 
 
   #### Aide à l'innovation
