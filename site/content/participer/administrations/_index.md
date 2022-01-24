@@ -29,7 +29,7 @@ program: >-
 
   * Consultez la [plaquette de l’appel à projets 2022](https://eig.etalab.gouv.fr/img/aap-eig6_plaquette.pdf)
 
-  * Découvrez les [projets réalisés par notre dernière promotion](x64z39u)
+  * Découvrez les [projets réalisés par notre dernière promotion](https://www.dailymotion.com/video/x82e13y)
 
 
   Vous avez déjà un projet ou souhaitez explorer des idées avec notre équipe :
