@@ -8,11 +8,11 @@ questions:
       projets, en 3 étapes.
 
 
-      * **Vous candidatez** : nous sélectionnons une vingtaine de projets numériques proposés par les administrations publiques (du 1er février au 7 avril) ;
+      * **Vous candidatez** : nous sélectionnons une vingtaine de projets numériques proposés par les administrations publiques (du 24 janvier au 18 mars) ;
 
-      * **Nous réunissons une équipe** : ensemble, nous sélectionnons 2 ou 3 profils tech, design et en droit du numérique pour votre projet (en mai et juin) ;
+      * **Nous réunissons une équipe** : ensemble, nous sélectionnons 2 ou 3 profils tech, design et en droit du numérique pour votre projet (entre avril et juin) ;
 
-      * **Vous expérimentez** : créez et testez de nouveaux possibles avec vos profils du numérique et le soutien du programme (à partir du 13 septembre, pour 10 mois).
+      * **Vous expérimentez** : créez et testez de nouveaux possibles avec vos profils du numérique et le soutien du programme (à partir du 12 septembre, pour 10 mois).
   - title: Quel soutien reçoivent les administrations ?
     desc: >-
       Rejoindre le programme Entrepreneurs d’Intérêt Général, c’est recevoir un
