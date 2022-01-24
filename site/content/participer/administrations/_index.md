@@ -13,7 +13,7 @@ head:
     url: /participer/administrations/proposer
   call:
     title: Cahier des charges
-    url: img/blank.pdf
+    url: img/aap-eig6-cahier-des-charges.pdf
 program: >-
   ## L'APPEL A PROJET 2022 EST OUVERT
 
