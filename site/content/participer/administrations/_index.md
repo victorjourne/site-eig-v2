@@ -37,7 +37,7 @@ program: >-
   Vous avez déjà un projet ou souhaitez explorer des idées avec notre équipe :
 
 
-  * Contactez-nous: [eig@data.gouv.fr](eig@data.gouv.fr) 
+  * Contactez-nous : [eig@data.gouv.fr](eig@data.gouv.fr) 
 
   * Inscrivez-vous à [nos webinaires d'information et à nos "office hours du vendredi"](https://eig.etalab.gouv.fr/participer/administrations/proposer/)
 
