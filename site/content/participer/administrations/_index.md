@@ -66,8 +66,6 @@ program: >-
 
   * data engineers
 
-  * géomaticiens / géomaticiennes
-
   * designers
 
   * juristes du numérique
@@ -76,12 +74,7 @@ program: >-
   #### Co-financement
 
 
-  Nous participons aux salaires des talents à hauteur de 30 %. Ils sont rémunérés 3 500 € ou 4 000 € nets par mois :
-
-
-  * 70 % par l’administration d’accueil
-
-  * 30 % par le programme
+  Nous participons aux salaires des talents à hauteur de 30 %. Ils sont rémunérés 3 500 € ou 4 000 € net par mois, avec une possibilité de co-financement de 20.000 euros par profil recruté (le programme est ouvert à toute administration, mais des conditions spécifiques s’appliquent pour le cofinancement).
 
 
   #### Aide à l'innovation
@@ -110,8 +103,10 @@ criteria:
       desc: Un besoin clair, à fort impact, porté à un haut niveau hiérarchique par
         l’administration d’accueil.
     - num: "2"
-      name: Définition
-      desc: Une problématique bien circonscrite, des talents du numérique cohérents.
+      name: Approche
+      desc: Caractère entrepreneurial du projet ; il ouvre un champ d’exploration des
+        usages et de la technologie tout en ayant une problématique circonscrite
+        et des profils du numérique cohérents
     - num: "3"
       name: Engagement
       desc: Motivation pour participer au programme, ouvrir le terrain
@@ -122,8 +117,9 @@ criteria:
       desc: De fortes capacités de transformation numérique de l’administration.
     - num: "5"
       name: Ouverture
-      desc: Des opportunités d’ouverture, de mutualisation et deréutilisation des
-        outils produits et des données.
+      desc: Une démarche d’innovation ouverte (collaboration, co-construction,
+        gouvernance) et de partage de communs numériques (ouverture des données
+        et des codes-sources, mutualisation et réplication des productions).
 steps: >-
   ## Les étapes clés de la sélection
 
