@@ -3,6 +3,10 @@ title: On parle de nous
 layout: page
 url: /espace-presse
 ---
+**24 janvier 2022**
+
+[La stratégie bien rodée de l'État pour recruter des professionnels du numérique](https://www.usine-digitale.fr/article/la-strategie-bien-rodee-de-l-etat-pour-recruter-des-professionnels-du-numerique.N1776667)
+
 **7 décembre 2021**
 
 [Une boîte à outils en ligne pour booster l’exploitation des données dans l’administration](https://acteurspublics.fr/articles/une-boite-a-outils-en-ligne-pour-booster-lexploitation-des-donnees-dans-ladministration)
