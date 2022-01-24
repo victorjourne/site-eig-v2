@@ -41,13 +41,15 @@ questions: >-
 
   * Rejoignez nos webinaires de présentation de l'appel à candidatures :
 
-    1. Le jeudi 3 février de 13h45 à 14h45\
-       [S'inscrire](https://www.demarches-simplifiees.fr/) \[AJOUTER LIEN]
-    2. Le jeudi 17 février de 13h45 à 14h45\
-       [S'inscrire](https://www.demarches-simplifiees.fr/) \[AJOUTER LIEN]
 
-       + ajouter webinaire thématique du jeudi 10 février de 13h45 à 14h45 \[THOMAS]
-  * [Inscrivez-vous à nos "office hours du vendredi"](#) pour échanger 20 minutes sur vos projets avant le dépôt de vos candidatures \[MISE A JOUR THOMAS]
+  1. [Le jeudi 3 février de 13h45 à 14h45](https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb)
+
+  2. [Le jeudi 10 février de 13h45 à 14h45](https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb)
+
+  3. [Le jeudi 17 février de 13h45 à 14h45](https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb)
+
+
+  * Pendant toute la durée de l'appel à projet, vous pouvez également bénéficier d'un entretien de pré-incubation avec un coach produit. L'objectif de ce nouveau dispositif est de vous accompagner dans l'élaboration de votre stratégie entrepreneuriale. Pour ce faire, [réservez un créneau parmi ceux proposés](https://calendly.com/thomas-parisot/entretien-de-pre-incubation).
 
   * Contactez-nous : eig@data.gouv.fr
 com: >-
