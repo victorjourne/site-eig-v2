@@ -15,13 +15,13 @@ head:
     title: Cahier des charges
     url: img/blank.pdf
 program: >-
-  ## LANCEMENT DE NOTRE FUTUR APPEL A PROJET LE 24 JANVIER 2022
+  ## L'APPEL A PROJET 2022 EST OUVERT
 
 
-  Le prochain appel à projets ouvert à toute administration publique désireuse d’être soutenue pour mener des projets d’innovation numérique sera ouvert le **24 janvier 2022** sur ce site internet. Les administrations auront jusqu’au **18 mars 2022** pour déposer leurs projets.
+  Le sixième appel à projets des Entrepreneurs d'intérêt général est **ouvert** ! Il s'adresse à toute administration publique désireuse d’être soutenue pour mener des projets d’innovation numérique. 
 
 
-  Le processus de sélection des projets et de recrutement des futurs EIG aura lieu d’**avril à juin 2022**, pour un démarrage de la future promotion le **12 septembre 2022**.
+  Les administrations ont jusqu’au **18 mars 2022** pour déposer leurs projets. Le processus de sélection des projets et de recrutement des futurs EIG aura lieu d’**avril à juin 2022**, pour un démarrage de la future promotion le **12 septembre 2022**.
 
 
    Pour en savoir plus :
