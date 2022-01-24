@@ -37,7 +37,7 @@ questions: >-
   ## Des questions ?
 
 
-  * Trouvez des réponses dans notre [foire aux questions](/admins-faq)
+  * Trouvez des réponses dans notre [foire aux questions](https://eig.etalab.gouv.fr/participer/administrations/faq/)
 
   * Rejoignez nos webinaires de présentation de l'appel à candidatures :
 
