@@ -8,7 +8,7 @@ questions:
       projets, en 3 étapes.
 
 
-      * **Vous candidatez** : nous sélectionnons une vingtaine de projets numériques proposés par les administrations publiques (du 24 janvier au 18 mars) ;
+      * **Vous candidatez** : nous sélectionnons une vingtaine de projets numériques proposés par les administrations publiques (du 24 janvier au 18 mars 2022) ;
 
       * **Nous réunissons une équipe** : ensemble, nous sélectionnons 2 ou 3 profils tech, design et en droit du numérique pour votre projet (entre avril et juin) ;
 
