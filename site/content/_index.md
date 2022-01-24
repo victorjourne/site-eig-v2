@@ -9,8 +9,7 @@ hero:
     pour le service public
 
 intro:
-  desc:
-    Le programme Entrepreneurs d'intérêt général sélectionne des spécialistes
+  desc: Le programme Entrepreneurs d'intérêt général sélectionne des spécialistes
     de la technologie, du design et du droit du numérique pour tester et
     expérimenter de nouveaux possibles avec des agents de l’État.
   title: Nous réunissons talents du numérique et agents publics pour relever des
@@ -48,7 +47,7 @@ join:
     external: false
 medias:
   desc: Parcourez les articles, tribunes, posts de blog sur le programme dans
-    l'espace presse
+    l'espace « On parle de nous »
   tiles:
     - image: img/forbes.png
       title: Forbes
