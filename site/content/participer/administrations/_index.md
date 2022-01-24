@@ -128,7 +128,7 @@ steps: >-
   ## Les étapes clés de la sélection
 
 
-  Pour rejoindre la prochaine promotion du programme vous êtes invités à répondre à notre prochain appel à projets. 
+  Pour rejoindre la prochaine promotion du programme vous êtes invités à répondre à notre sixième appel à projets - ouvert jusqu’au 18/03/2022. 
 
 
   Le processus de sélection se fait en **3 étapes :** 
