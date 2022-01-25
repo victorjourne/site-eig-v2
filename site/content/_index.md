@@ -63,4 +63,7 @@ medias:
     - title: On parle de nous
       image: img/eig1-default-1-.svg
       link: https://eig.etalab.gouv.fr/espace-presse/
+    - link: https://www.acteurspublics.fr/articles/la-cinquieme-promotion-des-entrepreneurs-dinteret-general-souvre-a-de-nouveaux-profils
+      image: img/acteurs-publics.jpg
+      title: Acteurs publics
 ---
