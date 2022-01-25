@@ -2,7 +2,20 @@
 title: On parle de nous
 layout: page
 url: /espace-presse
+agents:
+  sub: Les agents publics
+  desc: "Issus de tout type d'administration, qu'elle soit centrale de l'Etat,
+    d'un de ses opérateurs ou agences, territoriale, de santé..., des agents
+    publics accueillent deux ou trois « EIG » dans leurs services pour relever
+    ensemble les défis. "
+  list:
+    - Christophe Cuq
+    - TEST - Adeline Celier
 ---
+**25 janvier 2022**
+
+[Corine Waroquiers : “Le programme « Entrepreneurs d’intérêt général » est de plus en plus populaire auprès des administrations”](https://acteurspublics.fr/articles/corine-waroquiers-le-programme-entrepreneurs-dinteret-general-est-de-plus-en-plus-populaire-aupres-des-administrations)
+
 **24 janvier 2022**
 
 [La stratégie bien rodée de l'État pour recruter des professionnels du numérique](https://www.usine-digitale.fr/article/la-strategie-bien-rodee-de-l-etat-pour-recruter-des-professionnels-du-numerique.N1776667)
