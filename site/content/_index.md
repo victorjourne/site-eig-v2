@@ -60,10 +60,10 @@ medias:
     - image: img/lusine-digitale.png
       link: https://www.usine-digitale.fr/article/la-strategie-bien-rodee-de-l-etat-pour-recruter-des-professionnels-du-numerique.N1776667
       title: L'Usine Digitale
-    - title: On parle de nous
-      image: img/eig1-default-1-.svg
-      link: https://eig.etalab.gouv.fr/espace-presse/
     - link: https://www.acteurspublics.fr/articles/la-cinquieme-promotion-des-entrepreneurs-dinteret-general-souvre-a-de-nouveaux-profils
       image: img/acteurs-publics.jpg
       title: Acteurs publics
+    - title: On parle de nous
+      image: img/eig1-default-1-.svg
+      link: https://eig.etalab.gouv.fr/espace-presse/
 ---
