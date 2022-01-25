@@ -57,6 +57,9 @@ medias:
     - link: https://usbeketrica.com/fr/article/le-manoir-de-verre-comment-la-tech-traite-t-elle-les-femmes-developpeuses-ou-data-scientists
       title: Usbek & Rica
       image: img/u-b.png
+    - image: img/lusine-digitale.png
+      link: https://www.usine-digitale.fr/article/la-strategie-bien-rodee-de-l-etat-pour-recruter-des-professionnels-du-numerique.N1776667
+      title: L'Usine Digitale
     - title: On parle de nous
       image: img/eig1-default-1-.svg
       link: https://eig.etalab.gouv.fr/espace-presse/
