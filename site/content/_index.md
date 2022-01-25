@@ -46,8 +46,7 @@ join:
     url: https://eig.etalab.gouv.fr/participer/
     external: false
 medias:
-  desc: Parcourez les articles, tribunes, posts de blog sur le programme dans
-    l'espace « On parle de nous »
+  desc: Parcourez les articles, tribunes, posts de blog sur le programme
   tiles:
     - image: img/forbes.png
       title: Forbes
@@ -58,4 +57,7 @@ medias:
     - link: https://usbeketrica.com/fr/article/le-manoir-de-verre-comment-la-tech-traite-t-elle-les-femmes-developpeuses-ou-data-scientists
       title: Usbek & Rica
       image: img/u-b.png
+    - title: On parle de nous
+      image: img/eig1-default-1-.svg
+      link: https://eig.etalab.gouv.fr/espace-presse/
 ---
