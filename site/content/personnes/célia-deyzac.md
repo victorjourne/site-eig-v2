@@ -2,7 +2,7 @@
 title: Célia Deyzac
 job: Designer
 promos:
-  - Promotion 5
+  - Promotion 2
 role: participant
 defis:
   - UrssafassuR
