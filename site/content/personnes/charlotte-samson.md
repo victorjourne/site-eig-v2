@@ -6,7 +6,7 @@ promos:
 role: participant
 defis: 
   - Mes services Greentech
-- expertises:
+expertises:
   - Data science
 image: img/charlotte-samson.jpg
 linkedin: https://www.linkedin.com/in/charlottesamson/
