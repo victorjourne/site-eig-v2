@@ -7,6 +7,8 @@ role: participant
 defis:
   - MCC - Inventaire des orgues
   - EIG2 Link
+expertises:
+  - Développement
 image: img/bastien-guerry.png
 linkedin: ""
 github: https://github.com/bzg
