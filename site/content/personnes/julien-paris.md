@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - " Social Connect"
+expertises:
+  - Développement
 image: img/julienparis.png
 github: https://github.com/JulienParis
 ---
