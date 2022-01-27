@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Green Data for Health
+expertises:
+  - Juriste
 image: img/sabrina-hammoudi.png
 linkedin: https://www.linkedin.com/in/sabrina-hammoudi-992528140/
 ---
