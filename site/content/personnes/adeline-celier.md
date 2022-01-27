@@ -8,7 +8,6 @@ role: participant
 defis:
   - MonitorFish
 expertises:
-  - Data engineering
   - Design
 image: img/adeline-celier.jpg
 linkedin: https://www.linkedin.com/in/adeline-celier-a84436168/
