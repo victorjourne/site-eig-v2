@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Brigade Numérique
+expertises:
+  - Design
 image: img/jean-baptiste-le-devehat.png
 linkedin: https://www.linkedin.com/in/jbledevehat/
 github: https://github.com/jbledevehat
