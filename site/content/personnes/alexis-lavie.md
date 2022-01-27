@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Décos
+expertises:
+  - Développement
 image: img/alexis-lavie.png
 linkedin: https://linkedin.com/in/alexislavie
 github: https://github.com/alxlve
