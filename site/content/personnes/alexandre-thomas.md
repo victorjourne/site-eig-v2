@@ -4,8 +4,10 @@ job: Data Engineer
 promos:
   - Promotion 5
 role: participant
-defis: 
+defis:
   - CyberImpact
+expertises:
+  - Data engineering
 image: img/alexandre-thomas.jpg
 linkedin: https://www.linkedin.com/in/alexandrethm/
 github: https://github.com/alexandrethm
