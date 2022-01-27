@@ -8,6 +8,8 @@ defis:
   - Mes services Greentech
   - Green Data for Health
   - Sequoia CGDD
+expertises:
+  - Design
 image: img/marie-ramon-dare.png
 ---
 
