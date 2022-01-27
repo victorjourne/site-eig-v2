@@ -5,7 +5,9 @@ promos:
   - Promotion 2
 role: participant
 defis:
-  - " b@liseNAV"
+  - b@liseNAV
+expertises:
+  - Data science
 image: img/adriensignorino.png
 github: https://github.com/sign0
 ---
