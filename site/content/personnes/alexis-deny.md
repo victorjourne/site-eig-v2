@@ -5,7 +5,9 @@ promos:
   - Promotion 3
 role: participant
 defis:
-  - " RembourSanté"
+  - RembourSanté
+expertises:
+  - Design
 image: img/alexis-deny.png
 linkedin: https://www.linkedin.com/in/alexis-deny-581a3a9a/
 ---
