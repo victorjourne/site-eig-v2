@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - SMASH
+expertises:
+  - Data science
 image: img/gilles-gonon.jpg
 linkedin: https://www.linkedin.com/in/gilles-gonon/
 github: https://github.com/giloop
