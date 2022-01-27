@@ -7,6 +7,8 @@ role: participant
 defis:
   - PrédiSauvetage
   - EIG3 Link
+expertises:
+  - Développement
 image: img/antoine-augusti.png
 linkedin: https://www.linkedin.com/in/antoineaugusti/
 github: https://github.com/AntoineAugusti
