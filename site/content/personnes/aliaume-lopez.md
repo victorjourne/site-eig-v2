@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - SIANCE
+expertises:
+  - Développement
 image: img/aliaume-lopez.png
 linkedin: https://www.linkedin.com/in/aliaume-lopez-b27810106/
 github: https://github.com/AliaumeL
