@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - UrssafassuR
+expertises:
+  - Design
 image: img/celia-deyzac.jpg
 linkedin: https://www.linkedin.com/in/celia-deyzac-interaction-designer/
 ---
