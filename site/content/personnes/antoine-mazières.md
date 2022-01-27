@@ -7,6 +7,8 @@ promos:
 role: participant
 defis:
   - CyberImpact
+expertises:
+  - Data science
 image: img/antoine-mazieres.png
 linkedin: https://www.linkedin.com/in/mazieres/
 github: https://github.com/mazieres
