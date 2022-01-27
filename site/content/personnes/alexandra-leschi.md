@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Datalympics
+expertises:
+  - Développement
 image: img/alexandra-leschi.png
 linkedin: https://www.linkedin.com/in/alexandra-leschi-241354a7/
 ---
