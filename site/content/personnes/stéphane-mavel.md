@@ -5,7 +5,9 @@ promos:
   - Promotion 3 - DIG
 role: agent-public
 defis:
-  - " FranceCo"
+  - FranceCo
+expertises:
+  - Juriste
 image: img/placeholder_homme.svg
 ---
 
