@@ -5,7 +5,9 @@ promos:
   - Promotion 3 - DIG
 role: participant
 defis:
-  - " FranceCo"
+  - FranceCo
+expertises:
+  - Design
 image: img/maxime-beaugrand.png
 linkedin: https://www.linkedin.com/in/maximebeaugrand/
 ---
