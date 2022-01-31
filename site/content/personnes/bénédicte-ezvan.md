@@ -3,9 +3,11 @@ title: Bénédicte Ezvan
 job: Porteuse de projet
 promos:
   - Promotion 3 - DIG
-role: participant
+role: agent-public
 defis:
   - Maritux
+expertises:
+  - Juriste
 image: img/benedicte-ezvan.png
 linkedin: https://www.linkedin.com/in/b%C3%A9n%C3%A9dicte-ezvan-aab450b0/
 ---
