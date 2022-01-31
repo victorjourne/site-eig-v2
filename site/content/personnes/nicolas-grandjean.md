@@ -5,7 +5,9 @@ promos:
   - Promotion 3 - DIG
 role: participant
 defis:
-  - " Recrues"
+  - Recrues
+expertises:
+  - Design
 image: img/nicolas-grandjean.png
 linkedin: https://www.linkedin.com/in/nicolas-grandjean-64b325107/
 ---
