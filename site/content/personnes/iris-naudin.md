@@ -5,7 +5,9 @@ promos:
   - Promotion 3 - DIG
 role: participant
 defis:
-  - " Recrues"
+  - Recrues
+expertises:
+  - Design
 image: img/placeholder_femme.png
 linkedin: https://www.linkedin.com/in/irisvnaudin/
 ---
