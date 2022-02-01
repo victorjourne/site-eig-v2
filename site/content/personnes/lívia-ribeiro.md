@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Atlas Culture
+expertises:
+- Développement
 image: img/livia-ribeiro.png
 linkedin: https://www.linkedin.com/in/liviaribeiro79877426/?originalSubdomain=fr
 ---

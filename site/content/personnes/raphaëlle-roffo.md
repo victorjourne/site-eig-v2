@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - EIG4 Link
+expertises:
+- Data science
 image: img/raphaelle-roffo.jpg
 linkedin: https://www.linkedin.com/in/raphaelle-roffo/
 github: https://github.com/raphaelleroffo

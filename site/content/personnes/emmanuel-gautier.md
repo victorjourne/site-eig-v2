@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Archifiltre
+expertises:
+- Data science
 image: img/emmanuel-gautier.png
 github: https://github.com/emmanuelgautier1994
 ---

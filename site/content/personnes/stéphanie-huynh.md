@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Enki
+expertises:
+- Design
 image: img/stephanie-huynh.jpg
 linkedin: https://www.linkedin.com/in/huynhs1/
 ---

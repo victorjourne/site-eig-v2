@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Maritux
+expertises:
+- Design
 image: img/cecile-canel.png
 linkedin: https://www.linkedin.com/in/c%C3%A9cile-canel-73b9141a6/
 ---

@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - CoachÉlèves
+expertises:
+- Data science
 image: img/david-panou.jfif
 github: https://github.com/pandav2
 ---

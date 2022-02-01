@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - MonitorFish
+expertises:
+- Développement
 image: img/loup-theron.png
 linkedin: https://www.linkedin.com/in/loup-theron-b1785397/
 github: https://github.com/louptheron

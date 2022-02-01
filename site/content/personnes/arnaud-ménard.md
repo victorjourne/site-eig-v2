@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - " b@liseNAV"
+expertises:
+- Data science
 image: img/arnaud-menard.png
 ---
 

@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - ProxiRH
+expertises:
+- Design
 image: img/laurent-darellis.png
 linkedin: https://www.linkedin.com/in/laurentdarellis/
 ---

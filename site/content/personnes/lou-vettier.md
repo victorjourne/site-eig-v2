@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Datalympics
+expertises:
+- Design
 image: img/lou-vettier.png
 linkedin: https://www.linkedin.com/in/lou-vettier/
 ---

@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - " DataESR"
+expertises:
+- Développement
 image: img/maxime-pierrot.png
 github: https://github.com/pierrax
 ---

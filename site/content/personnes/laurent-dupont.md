@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - " MESRI - La machine à données"
+expertises:
+- Développement
 image: img/laurent-dupont.png
 github: https://github.com/duplau
 ---

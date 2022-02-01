@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - CartoBio
+expertises:
+- Développement
 image: img/lucas-bchini.png
 linkedin: https://www.linkedin.com/in/lucas-bchini-9b1a09a8/
 ---

@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - DataReg
+expertises:
+- Data science
 image: img/thierry-razanajao.png
 github: https://github.com/madageomapping
 ---

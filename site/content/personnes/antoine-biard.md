@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - ADEX
+expertises:
+- Data science
 image: img/antoine-biard.jpg
 linkedin: https://www.linkedin.com/in/antoine-biard-02906355/
 github: https://github.com/antoan2

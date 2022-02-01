@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Signaux Faibles
+expertises:
+- Développement
 image: img/christophe-ninucci.png
 linkedin: ""
 github: https://github.com/chrnin

@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Sequoia IGN
+expertises:
+- Design
 image: img/charlotte-marmet.png
 linkedin: https://www.linkedin.com/in/charlotte-marmet-a60a3bb2/
 ---

@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - SSP Datalab
+expertises:
+- Design
 image: img/marc-hufschmitt.jpg
 linkedin: https://www.linkedin.com/in/marc-hufschmitt/?originalSubdomain=fr
 ---

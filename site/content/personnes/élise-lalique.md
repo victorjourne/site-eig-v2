@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - " Social Connect"
+expertises:
+- Design
 image: img/elise-250.jpg
 github: https://github.com/Eliselalique
 ---

@@ -7,6 +7,8 @@ role: participant
 defis:
   - Open Chronic
   - Lab Santé
+expertises:
+- Data science
 image: img/phileas-condemine.png
 github: https://github.com/phileas-condemine
 ---

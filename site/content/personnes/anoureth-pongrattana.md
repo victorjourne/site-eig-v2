@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - ACOSS-Plateforme
+expertises:
+- Développement
 image: img/anoureth-pongrattana.png
 linkedin: https://www.linkedin.com/in/anoureth-pongrattana-3946b2a5/?originalSubdomain=fr
 github: https://github.com/BarbeNoash

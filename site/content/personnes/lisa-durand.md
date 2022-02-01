@@ -7,6 +7,8 @@ promos:
 role: participant
 defis:
   - Envinorma
+expertises:
+- Développement
 image: img/lisa-durand.png
 linkedin: https://www.linkedin.com/in/lisa-durand-46333722/
 github: https://github.com/lisa-durand

@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - LexImpact
+expertises:
+- Design
 image: img/dorine-lambinet.png
 linkedin: https://www.linkedin.com/in/dorine-lambinet-99534b117/
 ---

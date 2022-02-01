@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - DGFiP - fraude fiscale
+expertises:
+- Data science
 image: img/marion-paclot.png
 linkedin: ""
 github: https://github.com/marion-paclot

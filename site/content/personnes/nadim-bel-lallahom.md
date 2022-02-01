@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - France Transition
+expertises:
+- Design
 image: img/nadim-bel-lallahom.jpg
 linkedin: https://www.linkedin.com/in/nadim-bel-lallahom/
 ---

@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - SEDAccord
+expertises:
+- Développement
 image: img/helene-jonin.jpg
 linkedin: https://www.linkedin.com/in/helenejoninliprofile/
 github: https://github.com/hjonin

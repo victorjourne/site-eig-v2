@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - " MESRI - La machine à données"
+expertises:
+- Data science
 image: img/leo-bouloc.png
 github: https://github.com/Leobouloc
 ---
