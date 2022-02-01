@@ -22,4 +22,4 @@ Mis en service au début des années 2000, le site achats.defense.gouv.fr des ac
 
 ### Le défi : concevoir la refonte du portail d’achats hors armement du Ministère des Armées sur la base des besoins de ses utilisateurs.
 
-Pour cela, le designer aura pour mission de comprendre les usages qui sont fait du portail et de définir des *persona* - ou typologies d’utilisateurs. Il passera ensuite à une phase de co-conception avec des utilisateurs du portail. Les tests utilisateurs lui permettront d’affiner le design du portail jusqu’à le stabiliser en vue de son développement. Pour finir, il sera en charge du suivi du développement de la nouvelle version d’achats.defense.gouv.fr.
+Pour cela, le designer aura pour mission de comprendre les usages qui sont fait du portail et de définir des *persona* - ou typologies d’utilisateurs. Il passera ensuite à une phase de co-conception avec des utilisateurs du portail. Les tests utilisateurs lui permettront d’affiner le design du portail jusqu’à le stabiliser en vue de son développement. Pour finir, il sera en charge du suivi du développement de la nouvelle version d’achats.defense.gouv.fr
