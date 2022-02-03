@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - " DataESR"
+expertises:
+- Développement
 image: img/ambre-arnaud.png
 linkedin: ""
 github: https://github.com/ambreelmee

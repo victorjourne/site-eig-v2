@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - CoachÉlèves
+expertises:
+- Data science
 image: img/arnaud-rachez.jfif
 github: https://github.com/zermelozf
 ---

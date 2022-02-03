@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - INPN Espaces
+expertises:
+- Design
 image: img/edouard-sastre.png
 linkedin: https://www.linkedin.com/in/edouard-sastre/
 ---

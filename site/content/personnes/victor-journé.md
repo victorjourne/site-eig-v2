@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - IA Flash
+expertises:
+- Data science
 image: img/victor-journe.png
 linkedin: https://www.linkedin.com/in/victorjourne/
 github: https://github.com/victorjourne

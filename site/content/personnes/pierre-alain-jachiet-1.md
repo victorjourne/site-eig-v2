@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Open Chronic
+expertises:
+- Data science
 image: img/pierre-alain-jachiet-1-.png
 linkedin: https://www.linkedin.com/in/pierrealainjachiet/
 github: https://github.com/pajachiet

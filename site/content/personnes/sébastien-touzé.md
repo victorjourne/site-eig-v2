@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - CibNav
+expertises:
+- Développement
 image: img/sebastien-touze.png
 linkedin: https://www.linkedin.com/in/sebastientouze/
 github: https://github.com/SebastienTouze

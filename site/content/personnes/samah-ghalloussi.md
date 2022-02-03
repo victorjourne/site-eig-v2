@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Lab Santé
+expertises:
+- Data science
 image: img/samah-ghalloussi.png
 ---
 

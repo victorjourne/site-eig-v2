@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - DataMed
+expertises:
+- Data science
 image: img/line-rahal.png
 linkedin: https://www.linkedin.com/in/line-rahal-0608a177/
 github: https://github.com/lrahal

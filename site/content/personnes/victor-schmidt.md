@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Hopkins
+expertises:
+- Data science
 image: img/victorschmidt.png
 github: https://github.com/vict0rsch
 ---

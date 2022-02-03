@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - CartoBio
+expertises:
+- Data science
 image: img/wojtek-sitarz.png
 linkedin: https://www.linkedin.com/in/wojtek-sitarz/
 github: https://github.com/wojteksitarz

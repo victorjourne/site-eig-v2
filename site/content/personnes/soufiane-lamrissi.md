@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Karfu’R
+expertises:
+- Développement
 image: img/soufiane-lamrissi.png
 linkedin: https://www.linkedin.com/in/soufiane-lamrissi-15b79261/
 github: https://github.com/Tony4469

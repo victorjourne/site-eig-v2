@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - ID numérique
+expertises:
+- Design
 image: img/placeholder_homme.svg
 linkedin: https://www.linkedin.com/in/jeremiebaboukhian/
 ---

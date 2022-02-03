@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Prévisecours
+expertises:
+- Data science
 image: img/tiphaine-pheneau.png
 github: https://github.com/tiphaine
 ---

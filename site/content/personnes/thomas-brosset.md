@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - ADEX
+expertises:
+- Développement
 image: img/thomas-brosset.png
 linkedin: https://www.linkedin.com/in/thomasbrosset/
 github: https://github.com/thoomasbro

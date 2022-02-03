@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - App 112
+expertises:
+- Design
 image: img/julien-dubedout.png
 github: https://github.com/judbd
 ---

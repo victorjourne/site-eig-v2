@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Plume
+expertises:
+- Développement
 image: img/placeholder_femme.png
 ---
 

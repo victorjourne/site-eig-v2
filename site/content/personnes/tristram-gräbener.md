@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - MI - cartAV
+expertises:
+- Développement
 image: img/tristram-grabener.png
 github: https://github.com/Tristramg
 ---

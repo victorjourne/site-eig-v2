@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Hopkins
+expertises:
+- Développement
 image: img/benoit-guigal.png
 github: https://github.com/benoitguigal
 ---

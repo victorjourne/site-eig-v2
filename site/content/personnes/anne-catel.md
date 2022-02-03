@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - ADEX
+expertises:
+- Design
 image: img/anne-catel.jpg
 linkedin: https://www.linkedin.com/in/annecatel/
 ---

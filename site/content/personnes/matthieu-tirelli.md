@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - NEOTac
+expertises:
+- Développement
 image: img/matthieu-tirelli.jpg
 linkedin: https://www.linkedin.com/in/delaisement/
 github: https://github.com/matthieutirelli

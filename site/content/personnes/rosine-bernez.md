@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Ma famille ici
+expertises:
+- Design
 image: img/placeholder_femme.png
 linkedin: https://www.linkedin.com/in/rosine-bernez
 ---

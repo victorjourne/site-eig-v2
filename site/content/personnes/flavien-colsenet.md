@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Vigicr’UX
+expertises:
+- Design
 image: img/flavien-colsenet.png
 linkedin: https://www.linkedin.com/in/flavien-colsenet-591225107/
 ---

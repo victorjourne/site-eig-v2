@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Karfu’R
+expertises:
+- Design
 image: img/hugo-stephan.png
 linkedin: https://www.linkedin.com/in/hugo-stephan/
 ---

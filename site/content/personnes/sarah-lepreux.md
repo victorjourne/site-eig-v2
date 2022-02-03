@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Alphabet
+expertises:
+- Design
 image: img/placeholder_femme.png
 linkedin: https://www.linkedin.com/in/sarah-lepreux/
 ---

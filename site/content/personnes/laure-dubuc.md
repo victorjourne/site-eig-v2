@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Résorption bidonvilles
+expertises:
+- Design
 image: img/laure-dubuc.png
 linkedin: https://www.linkedin.com/in/laure-dubuc-64419b104/
 ---

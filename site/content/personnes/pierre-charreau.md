@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Vers l'école pour tous
+expertises:
+- Design
 image: img/pierre-charreau.png
 ---
 

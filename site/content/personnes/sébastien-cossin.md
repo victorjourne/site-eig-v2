@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - ARS - Parcours de soin
+expertises:
+- Développement
 image: img/sebastien-cossin.png
 github: https://github.com/scossin
 ---

@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - ACOSS-Plateforme
+expertises:
+- Design
 image: img/coline-lebaratoux.png
 linkedin: https://www.linkedin.com/in/coline-lebaratoux/
 ---

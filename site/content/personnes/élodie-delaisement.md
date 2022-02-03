@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Open Collectivités
+expertises:
+- Design
 image: img/elodie-delaisement.png
 linkedin: https://www.linkedin.com/in/delaisement/
 ---

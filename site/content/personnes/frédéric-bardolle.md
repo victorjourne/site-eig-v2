@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - CC - API rapports
+expertises:
+- Développement
 image: img/frederic-bardolle.png
 github: https://github.com/seiteta
 ---

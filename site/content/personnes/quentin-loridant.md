@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - CibNav
+expertises:
+- Data science
 image: img/quentin-loridant.png
 linkedin: https://www.linkedin.com/in/quentin-loridant-8b5719a5/
 ---

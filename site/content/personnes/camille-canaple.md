@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Atlas Culture
+expertises:
+- Design
 image: img/camille-canaple.jpg
 linkedin: https://www.linkedin.com/in/camille-canaple/
 ---

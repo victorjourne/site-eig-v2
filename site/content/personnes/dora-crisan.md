@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Brigade Numérique
+expertises:
+- Développement
 image: img/dora-crisan.png
 github: https://github.com/dora27
 ---

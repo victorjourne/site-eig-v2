@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - MI - cartAV
+expertises:
+- Développement
 image: img/francis-chabouis.png
 github: https://github.com/fchabouis
 ---
