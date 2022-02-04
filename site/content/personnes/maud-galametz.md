@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - SMASH
+expertises:
+- Data science
 image: img/maud-galametz.jpg
 linkedin: https://www.linkedin.com/in/maud-galametz-4943b2153/
 github: https://github.com/maudgalametz

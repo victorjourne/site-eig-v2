@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - PlaniPref
+expertises:
+- Design
 image: img/nicolas-patriarca.png
 linkedin: https://www.linkedin.com/in/nicolas-patriarca-5a94b67b/
 github: https://github.com/Nik165790

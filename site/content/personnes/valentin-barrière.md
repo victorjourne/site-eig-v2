@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Open Justice
+expertises:
+- Data science
 image: img/valentin-barriere.png
 ---
 

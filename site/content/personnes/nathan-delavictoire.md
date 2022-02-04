@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - CapQualif
+expertises:
+- Design
 image: img/nathan-delavictoire.jpeg
 linkedin: https://www.linkedin.com/in/nathan-delavictoire-23123686/?originalSubdomain=it
 ---

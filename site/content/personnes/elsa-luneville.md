@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - PrédiSauvetage
+expertises:
+- Data science
 image: img/elsa-luneville.png
 linkedin: ""
 github: https://github.com/Elsalune

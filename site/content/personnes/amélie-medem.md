@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Plume
+expertises:
+- Data science
 image: img/amelie-medem.png
 linkedin: https://www.linkedin.com/in/amelie-medem/
 github: https://github.com/letnotimitateothers

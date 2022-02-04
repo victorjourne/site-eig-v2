@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Prévisecours
+expertises:
+- Développement
 image: img/guillaume-lancrenon.png
 github: https://github.com/guillim
 ---

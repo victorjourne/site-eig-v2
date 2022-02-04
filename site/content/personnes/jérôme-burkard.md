@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Opérations 18
+expertises:
+- Développement
 image: img/jerome-burkard.png
 linkedin: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-burkard-53869747/
 github: https://github.com/JeromeBu

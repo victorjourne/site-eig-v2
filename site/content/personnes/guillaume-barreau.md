@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - NEOTac
+expertises:
+- Design
 image: img/guillaume-barreau.png
 linkedin: https://www.linkedin.com/in/guillaume-barreau-91958b2/
 github: https://github.com/guibar

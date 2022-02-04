@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Open Justice
+expertises:
+- Data science
 image: img/amaury-fouret.png
 linkedin: https://www.linkedin.com/in/amaury-fouret-283422125/?originalSubdomain=fr
 github: https://github.com/mauryaland

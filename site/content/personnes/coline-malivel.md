@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - EIG4 Link
+expertises:
+- Design
 image: img/coline-malivel.jpg
 linkedin: https://www.linkedin.com/in/colinemalivel/
 github: https://github.com/coline

@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - ExploCode
+expertises:
+- Data science
 image: img/armand-giraud.png
 linkedin: https://www.linkedin.com/in/armandgiraud/
 github: https://github.com/ArmandGiraud

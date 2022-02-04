@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - " Gobelins"
+expertises:
+- Développement
 image: img/ned-baldessin.png
 github: https://github.com/nedbaldessin
 ---

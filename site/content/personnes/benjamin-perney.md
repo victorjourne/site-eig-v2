@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Enki
+expertises:
+- Développement
 image: img/benjamin-perney.png
 linkedin: https://www.linkedin.com/in/benjamin-perney-6324b74a/
 ---

@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - SEDAccord
+expertises:
+- Design
 image: img/salim-atmani.jpg
 linkedin: https://www.linkedin.com/in/salim-atmani/
 ---

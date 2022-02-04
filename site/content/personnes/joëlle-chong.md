@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - DataMed
+expertises:
+- Design
 image: img/joelle-chong.png
 linkedin: https://www.linkedin.com/in/joelle-chong/
 ---

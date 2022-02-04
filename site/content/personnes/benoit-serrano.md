@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - LABEL
+expertises:
+- Développement
 image: img/benoit-serrano.png
 linkedin: https://www.linkedin.com/in/benoit-serrano-9a2900ab/
 github: https://github.com/BenoitSerrano

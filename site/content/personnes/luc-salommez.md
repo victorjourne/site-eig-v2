@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Polygraphe
+expertises:
+- Développement
 image: img/luc-salommez.png
 linkedin: https://www.linkedin.com/in/luc-salommez-6bb89baa/
 ---

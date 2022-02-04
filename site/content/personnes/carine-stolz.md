@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - DataReg
+expertises:
+- Data science
 image: img/carine-stolz.png
 linkedin: https://www.linkedin.com/in/carinestolz/
 ---

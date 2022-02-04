@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - France Transition
+expertises:
+- Développement
 image: img/cedric-merouani.jpg
 linkedin: https://www.linkedin.com/in/unavailable/
 github: https://github.com/Linkinou

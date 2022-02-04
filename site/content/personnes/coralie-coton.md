@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Mes services Greentech
+expertises:
+- Design
 image: img/coralie-coton.jpg
 linkedin: https://www.linkedin.com/in/coralie-coton/
 github: ""

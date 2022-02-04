@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - DataRH
+expertises:
+- Design
 image: img/vedran-beric.jpg
 linkedin: https://www.linkedin.com/in/vedran-beric-26002155/
 ---

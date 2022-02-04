@@ -6,6 +6,8 @@ promos:
 role: agent-public
 defis:
   - Archifiltre
+expertises:
+- Développement
 image: img/jeanbaptiste-assouad.png
 github: https://github.com/jeanbaptisteassouad
 ---

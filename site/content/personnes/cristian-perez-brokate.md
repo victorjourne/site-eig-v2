@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - IA Flash
+expertises:
+- Data science
 image: img/cristian-perez.jpg
 github: https://github.com/cristianpb
 ---

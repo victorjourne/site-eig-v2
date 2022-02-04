@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Envinorma
+expertises:
+- Data science
 image: img/remi-delbouys.jpg
 linkedin: https://www.linkedin.com/in/remidelbouys/
 github: https://github.com/remidbs

@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - AchaDef
+expertises:
+- Design
 image: img/marc-bouteiller.png
 linkedin: https://www.linkedin.com/in/marc-bouteiller-511431a8/
 ---

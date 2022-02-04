@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Enki
+expertises:
+- Data science
 image: img/raphael-courivaud.png
 linkedin: https://www.linkedin.com/in/rapha%C3%ABl-courivaud/
 github: https://github.com/rcourivaud

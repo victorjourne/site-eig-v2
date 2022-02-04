@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Signaux Faibles
+expertises:
+- Data science
 image: img/pierre-camilleri.png
 github: https://github.com/jazzypierrot
 ---

@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - SSP Datalab
+expertises:
+- Développement
 image: img/joseph-garrone.jpg
 linkedin: https://www.linkedin.com/in/joseph-garrone-0b583490/
 github: https://github.com/garronej

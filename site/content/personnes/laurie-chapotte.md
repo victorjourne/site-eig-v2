@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - " Gobelins"
+expertises:
+- Design
 image: img/laurie-chapotte.png
 github: https://github.com/lauriechap
 ---

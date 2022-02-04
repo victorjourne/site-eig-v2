@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Basegun
+expertises:
+- Développement
 image: img/beryl-koller.jpg
 linkedin: https://www.linkedin.com/in/berylkoller/
 github: https://github.com/beryl-koller

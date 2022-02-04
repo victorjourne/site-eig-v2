@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - " AFD - Geodata"
+expertises:
+- Développement
 image: img/etienne-david.png
 github: https://github.com/EtienneDavid
 ---

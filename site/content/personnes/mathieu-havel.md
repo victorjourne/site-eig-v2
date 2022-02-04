@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - ExploCode
+expertises:
+- Data science
 image: img/mathieu-havel.png
 linkedin: https://www.linkedin.com/in/mathieu-havel/
 github: https://github.com/mhavel

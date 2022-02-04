@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Hopkins
+expertises:
+- Data science
 image: img/paul-boosz.png
 github: https://github.com/paulboosz
 ---

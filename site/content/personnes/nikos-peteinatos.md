@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Plume
+expertises:
+- Design
 image: img/nikos-peteinatos.png
 linkedin: https://www.linkedin.com/in/nikosgpet/
 github: https://github.com/nikosgpet

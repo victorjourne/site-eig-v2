@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Polygraphe
+expertises:
+- Data science
 image: img/gabriel-bastard.png
 linkedin: https://github.com/retdop
 github: https://www.linkedin.com/in/gbastard/

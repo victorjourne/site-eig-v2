@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - DataJust
+expertises:
+- Data science
 image: img/kim-montalibet.png
 linkedin: https://www.linkedin.com/in/kim-montalibet-1a01a265/
 ---

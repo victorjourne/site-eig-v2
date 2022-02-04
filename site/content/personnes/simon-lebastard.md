@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - ADLER
+expertises:
+- Data science
 image: img/simon-lebastard.png
 linkedin: https://www.linkedin.com/in/simon-lebastard/
 github: https://github.com/slebastard

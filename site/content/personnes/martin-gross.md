@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - MI - matchID
+expertises:
+- Développement
 image: img/martin-gross.png
 github: https://github.com/SuperKiwi
 ---

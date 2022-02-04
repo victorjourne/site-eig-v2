@@ -6,6 +6,8 @@ promos:
 role: agent-public
 defis:
   - " DataESR"
+expertises:
+- Data science
 image: img/sami-moustachir.png
 github: https://github.com/sammous
 ---

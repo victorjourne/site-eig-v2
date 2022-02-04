@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - LABEL
+expertises:
+- Développement
 image: img/nicolas-assouad.png
 linkedin: https://www.linkedin.com/in/nicolas-assouad-02548412a/
 github: https://github.com/fondation451

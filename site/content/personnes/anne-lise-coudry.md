@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Prev-AC-Tion
+expertises:
+- Développement
 image: img/annelise-coudry-min.png
 linkedin: www.linkedin.com/in/anne-lise-coudry
 github: https://github.com/Anne-Lise
