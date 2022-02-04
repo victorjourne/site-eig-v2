@@ -7,7 +7,7 @@ role: participant
 defis:
   - Opérations 18
 expertises:
-- Développement
+- Data science
 image: img/raphaelle-bertrand-lalo.png
 linkedin: https://www.linkedin.com/in/rapha%C3%ABlle-bertrand-lalo-185679b9/
 github: https://github.com/bertrandlalo
