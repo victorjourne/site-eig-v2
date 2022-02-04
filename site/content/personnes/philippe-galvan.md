@@ -7,7 +7,7 @@ role: participant
 defis:
   - Prev-AC-Tion
 expertises:
-- Data Engineer
+  - Data Engineer
 image: img/philippe-galvan.png
 linkedin: https://www.linkedin.com/in/philippegalvan/
 ---
