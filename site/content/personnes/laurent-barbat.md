@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Fabrique Numérique
+expertises:
+- Design
 image: img/laurent-barbat.jpg
 ---
 Designer

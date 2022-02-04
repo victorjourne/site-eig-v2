@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Open Collectivités
+expertises:
+- Développement
 image: img/sylvain-boissel.jpeg
 linkedin: https://www.linkedin.com/in/sboissel/
 ---

@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Green Data for Health
+expertises:
+- Design
 image: img/charly-dottin-min.png
 linkedin: https://www.linkedin.com/in/strategic-service-ux-designer-charly-dottin/
 ---

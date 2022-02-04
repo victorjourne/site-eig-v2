@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - GDR Santé
+expertises:
+- Data science
 image: img/arnaud-valladier.png
 linkedin: https://www.linkedin.com/in/arnaud-valladier/
 ---

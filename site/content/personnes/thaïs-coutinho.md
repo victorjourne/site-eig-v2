@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - GDR Santé
+expertises:
+- Design
 image: img/thais-coutinho.jpg
 linkedin: https://www.linkedin.com/in/thais-coutinho-designer/
 ---

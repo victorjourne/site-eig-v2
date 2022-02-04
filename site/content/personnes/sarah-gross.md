@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Basegun
+expertises:
+- Data science
 image: img/sarah-gross.jpg
 linkedin: https://www.linkedin.com/in/grsarah
 github: https://github.com/leihuayi

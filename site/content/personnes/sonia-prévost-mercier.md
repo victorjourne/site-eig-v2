@@ -7,6 +7,8 @@ promos:
 role: participant
 defis:
   - UrssafassuR
+expertises:
+- Développement
 image: img/sonia-prevost.png
 linkedin: https://www.linkedin.com/in/soniaprevost/
 github: https://github.com/soniaprevost

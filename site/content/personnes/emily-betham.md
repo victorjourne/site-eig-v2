@@ -6,6 +6,8 @@ promos:
 role: participant
 defis:
   - Décos
+expertises:
+- Design
 image: img/emily-betham.jpg
 linkedin: https://www.linkedin.com/in/emily-in-paris/
 ---
