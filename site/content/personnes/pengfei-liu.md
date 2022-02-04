@@ -7,7 +7,7 @@ role: participant
 defis:
   - SSP Datalab
 expertises:
-  - Data engineer
+  - Data engineering
 image: img/pengfei-liu.png
 linkedin: https://www.linkedin.com/in/pengfei-liu-22a89416/
 github: https://github.com/pengfei99
