@@ -6,7 +6,7 @@ hero:
     url: https://eig.etalab.gouv.fr/participer/
   title: |+
     Entreprendre
-    pour le service public
+    pour le service public.
 
 intro:
   desc: Le programme Entrepreneurs d'intérêt général sélectionne des spécialistes
