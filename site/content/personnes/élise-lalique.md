@@ -5,9 +5,9 @@ promos:
   - Promotion 2
 role: participant
 defis:
-  - " Social Connect"
+  - Social Connect
 expertises:
-- Design
+  - Design
 image: img/elise-250.jpg
 github: https://github.com/Eliselalique
 ---
