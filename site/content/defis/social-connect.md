@@ -1,6 +1,6 @@
 ---
 title: Social Connect
-description: Repérer et mettre en réseau l’innovation sociale dans les territoir
+description: Repérer et mettre en réseau l’innovation sociale dans les territoires
 who: Services du Premier Ministre, Commissariat général à l’égalité des
   territoires, Carrefour des innovations sociales
 themes:
