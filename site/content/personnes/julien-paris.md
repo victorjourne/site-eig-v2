@@ -5,7 +5,7 @@ promos:
   - Promotion 2
 role: participant
 defis:
-  - " Social Connect"
+  - Social Connect
 expertises:
   - Développement
 image: img/julienparis.png
