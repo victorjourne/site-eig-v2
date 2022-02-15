@@ -12,6 +12,10 @@ agents:
     - Christophe Cuq
     - TEST - Adeline Celier
 ---
+**Le 15 février 2022**
+
+[Design et data au service de l’innovation](https://www.horizonspublics.fr/numerique/design-et-data-au-service-de-linnovation)
+
 **25 janvier 2022**
 
 [Corine Waroquiers : “Le programme « Entrepreneurs d’intérêt général » est de plus en plus populaire auprès des administrations”](https://acteurspublics.fr/articles/corine-waroquiers-le-programme-entrepreneurs-dinteret-general-est-de-plus-en-plus-populaire-aupres-des-administrations)
