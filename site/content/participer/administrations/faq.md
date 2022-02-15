@@ -45,8 +45,10 @@ questions:
     title: Quels sont les critères d’éligibilité au programme ?
   - desc: >-
       Seules les administrations disposant d’un programme budgétaire sont
-      éligibles au co-financement (en général, les administrations
-      centrales). Les opérateurs de l'État ne sont donc pas éligibles au
+      éligibles au co-financement (en général, les administrations centrales
+      et les services déconcentrés qui font partie de l’État). Les entités hors
+      État (collectivités, opérateurs, autres administrations publiques,
+      semi-publiques ou para-publiques) ne sont pas éligibles au
       co-financement.
 
 
@@ -56,10 +58,7 @@ questions:
       L’administration s'engage à assurer financièrement la rémunération des EIG pour le reste de la durée du projet.
 
 
-      Nous cofinançons via des crédits en titre 2. Vous pouvez donc bénéficier du cofinancement si votre administration opère un programme budgétaire avec du titre 2, ou si vous êtes en capacité de faire porter administrativement le projet, c'est-à-dire qu'une autre administration (par exemple dans le cas des opérateurs ou des agences, le ministère de tutelle ou de rattachement) reçoit les crédits de cofinancement sur son programme budgétaire en titre 2 et que vous définissez avec elle ce mode de partenariat.
-
-
-      Si vous avez besoin d’aide pour trouver un porteur administratif, vous pouvez [prendre contact avec nous](mailto:eig@data.gouv.fr).
+      A noter : nous cofinançons via des crédits en titre 2.
     title: Quels sont les critères d’éligibilité au financement ?
   - desc: >-
       Le programme vise à produire des outils numériques mais aussi à encourager
