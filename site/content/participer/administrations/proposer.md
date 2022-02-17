@@ -44,7 +44,7 @@ questions: >-
 
   1. [Le jeudi 3 février de 13h45 à 14h45](https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb)
 
-  2. [Le jeudi 17 février de 13h45 à 14h45](https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb)
+  2. [Le jeudi 17 février de 13h45 à 14h45](https://webinaire.numerique.gouv.fr//meeting/signin/2843/creator/1605/hash/4aa188a6a354d50f6d59089d072cd805fde129b5)
 
 
   * Pendant toute la durée de l'appel à projet, vous pouvez également bénéficier d'un entretien de pré-incubation avec un coach produit. L'objectif de ce nouveau dispositif est de vous accompagner dans l'élaboration de votre stratégie entrepreneuriale. Pour ce faire, [réservez un créneau parmi ceux proposés](https://calendly.com/thomas-parisot/entretien-de-pre-incubation).
