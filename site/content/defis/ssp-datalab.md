@@ -42,6 +42,8 @@ Le défi se focalisera sur l’amélioration :
 
 La création d’une communauté de pratiques est un axe essentiel du défi. L’ambition de cette offre de service est d’améliorer la qualité des traitements de données grâce à un partage des bonnes pratiques au sein du service statistique public.
 
+{{< dailymotion x82e13y >}}
+
 ## Webinaire
 
 Ce défi a été présenté lors du webinaire « Open source, mutualisation d'outils et mémoire de l'administration » du mardi 19 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-5 "Rediffusion du webinaire").
