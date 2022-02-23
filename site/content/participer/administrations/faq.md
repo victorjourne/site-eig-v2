@@ -49,7 +49,7 @@ questions:
       centrales).
 
 
-      Si vous n’êtes pas éligible au co-financement direct, vous pouvez établir une convention avec une administration éligible ou prévoir un financement alternatif.
+      Si vous n’êtes pas éligible au co-financement direct (=entités hors Etat), vous pouvez établir une convention avec une administration éligible ou prévoir un financement alternatif.
 
 
       Le programme cofinance la rémunération des entrepreneurs d'intérêt général avec l'administration d'accueil.
@@ -61,7 +61,7 @@ questions:
       L’administration s'engage à assurer financièrement la rémunération des EIG pour le reste de la durée du projet.
 
 
-      Nous cofinançons via des crédits en titre 2. Vous pouvez donc bénéficier du cofinancement si votre administration opère un programme budgétaire avec du titre 2, ou si vous êtes en capacité de faire porter administrativement le projet, c'est-à-dire qu'une autre administration (par exemple dans le cas des opérateurs ou des agences, le ministère de tutelle ou de rattachement) reçoit les crédits de cofinancement sur son programme budgétaire en titre 2 et que vous définissez avec elle ce mode de partenariat.
+      Nous cofinançons via des crédits en titre 2. Vous pouvez donc bénéficier du cofinancement si votre administration opère un programme budgétaire avec du titre 2, ou si vous êtes en capacité de faire porter administrativement le projet, c'est-à-dire qu'une autre administration (dans le cas des opérateurs ou des agences, le ministère de tutelle ou de rattachement) reçoit les crédits de cofinancement sur son programme budgétaire en titre 2 et que vous définissez avec elle ce mode de partenariat. **Il sera essentiel de clarifier en amont avec le ministère de tutelle les modalités de reversement des crédits du programme ministériel bénéficiaire du transfert vers  votre administration.**
 
 
       Si vous avez besoin d’aide pour trouver un porteur administratif, vous pouvez [prendre contact avec nous](mailto:eig@data.gouv.fr).
