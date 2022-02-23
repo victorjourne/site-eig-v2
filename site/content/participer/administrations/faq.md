@@ -45,12 +45,17 @@ questions:
     title: Quels sont les critères d’éligibilité au programme ?
   - desc: >-
       Seules les administrations disposant d’un programme budgétaire sont
-      éligibles au co-financement (en général, les administrations
-      centrales). Les opérateurs de l'État ne sont donc pas éligibles au
-      co-financement.
+      éligibles au co-financement direct (en général, les administrations
+      centrales).
 
 
-      Aux administrations concernées, le programme propose une subvention correspondant au coût total employeur de 3 mois d'une rémunération de 3 500 euros nets par mois pour les EIG jusqu’à 5 ans d’expérience inclus, et 4 000 euros nets par mois pour les profils au-delà de 5 ans d’expérience.
+      Si vous n’êtes pas éligible au co-financement direct (= entités hors Etat), vous pouvez établir une convention avec une administration éligible ou prévoir un financement alternatif.
+
+
+      Le programme cofinance la rémunération des entrepreneurs d'intérêt général avec l'administration d'accueil.
+
+
+      Le programme propose une subvention correspondant au coût total employeur de 3 mois d'une rémunération de 3 500 euros nets par mois pour les EIG jusqu’à 5 ans d’expérience inclus, et 4 000 euros nets par mois pour les profils au-delà de 5 ans d’expérience.
 
 
       L’administration s'engage à assurer financièrement la rémunération des EIG pour le reste de la durée du projet.
