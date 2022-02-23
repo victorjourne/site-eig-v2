@@ -26,7 +26,7 @@ steps:
         méthodologique et technique accompagnés par la DINUM
     - date: "[4 avril - 6 mai]"
       desc: Pré-sélection des profils du numérique par la DINUM
-    - date: "[6 juin - 10 juin]"
+    - date: "[7 juin - 13 juin]"
       desc: Jury de sélection des profils du numérique (EIG) pour vos projet.
     - date: "[12 septembre]"
       desc: Accueillez les EIG dans votre administration pour démarrer 10 mois
@@ -39,15 +39,7 @@ questions: >-
 
   * Trouvez des réponses dans notre [foire aux questions](https://eig.etalab.gouv.fr/participer/administrations/faq/)
 
-  * Rejoignez nos webinaires de présentation de l'appel à candidatures :
-
-
-  1. [Le jeudi 3 février de 13h45 à 14h45](https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb)
-
-  2. [Le jeudi 17 février de 13h45 à 14h45](https://webinaire.numerique.gouv.fr//meeting/signin/2843/creator/1605/hash/4aa188a6a354d50f6d59089d072cd805fde129b5)
-
-
-  * Pendant toute la durée de l'appel à projet, vous pouvez également bénéficier d'un entretien de pré-incubation avec un coach produit. L'objectif de ce nouveau dispositif est de vous accompagner dans l'élaboration de votre stratégie entrepreneuriale. Pour ce faire, [réservez un créneau parmi ceux proposés](https://calendly.com/thomas-parisot/entretien-de-pre-incubation).
+  * Pendant toute la durée de l'appel à projet, vous pouvez bénéficier d'un entretien de pré-incubation avec un coach produit. L'objectif de ce nouveau dispositif est de vous accompagner dans l'élaboration de votre stratégie entrepreneuriale. Pour ce faire, [réservez un créneau parmi ceux proposés](https://calendly.com/thomas-parisot/entretien-de-pre-incubation).
 
   * Contactez-nous : eig@data.gouv.fr
 com: >-
