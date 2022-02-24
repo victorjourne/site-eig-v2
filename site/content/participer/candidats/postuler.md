@@ -11,7 +11,7 @@ how:
   desc: >-
     * Lire le [règlement](#) de l’appel à candidatures
 
-    * Consulter la plaquette de l'appel à candidatures
+    * Consulter la [plaquette de l'appel à candidatures](https://eig.etalab.gouv.fr/img/aac-eig6-plaquette.pdf)
 
     * Découvrir les [fiches métiers et profils recherchés](#)
 
