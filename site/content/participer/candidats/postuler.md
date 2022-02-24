@@ -37,9 +37,13 @@ steps:
 questions: >-
   ## Des questions ?
 
+
   * Trouvez des réponses dans notre [foire aux questions](/participer/candidats/faq)
 
   * Rejoignez nos webinaires de présentation de l'appel à candidatures :
+
+    * Le [jeudi 17 mars de 13h45 à 14h45](https://webinaire.numerique.gouv.fr//meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e)
+    * Le [jeudi 24 mars de 13h45 à 14h45](https://webinaire.numerique.gouv.fr//meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e)
 join:
   image: img/bootcamp6.jpg
   title: Le programme vous plaît mais ce n'est pas le bon moment pour vous ?
