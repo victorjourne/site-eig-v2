@@ -11,6 +11,8 @@ how:
   desc: >-
     * Lire le [règlement](#) de l’appel à candidatures
 
+    * Consulter la plaquette de l'appel à candidatures
+
     * Découvrir les [fiches métiers et profils recherchés](#)
 
     * Remplir le formulaire de candidature sur la [plateforme Démarches Simplifiées](#) avant le dimanche 3 avril 2022, [23h59](https://entrepreneur-interet-general.etalab.gouv.fr/index.html)
