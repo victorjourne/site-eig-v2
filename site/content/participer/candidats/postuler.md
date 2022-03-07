@@ -12,7 +12,7 @@ how:
     * Lire le [règlement](https://eig.etalab.gouv.fr/img/aac-eig6-reglement.pdf)
     de l’appel à candidatures
 
-    * Découvrir les [fiches métiers et profils recherchés](#)
+    * Découvrir les [fiches métiers et profils recherchés](https://www.welcometothejungle.com/fr/companies/entrepreneurs-d-interet-general/jobs)
 
     * Remplir le formulaire de candidature sur la [plateforme Démarches Simplifiées](https://www.demarches-simplifiees.fr/commencer/aac-eig6) avant le dimanche 3 avril 2022, 23h59
 steps:
