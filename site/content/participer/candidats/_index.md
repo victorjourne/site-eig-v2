@@ -100,7 +100,7 @@ how:
 
     * Accédez à [notre foire aux questions](https://eig.etalab.gouv.fr/participer/candidats/faq/)
 
-    * Consultez la [plaquette de l’appel à c](https://eig.etalab.gouv.fr/img/aap-eig6_plaquette.pdf)andidatures 2022
+    * Consultez la [](https://eig.etalab.gouv.fr/img/aac-eig6-plaquette.pdf)[plaquette de l'appel à candidatures 2022](https://eig.etalab.gouv.fr/img/aac-eig6-plaquette.pdf)
 wait:
   title: |-
     L’appel à candidatures pour notre
