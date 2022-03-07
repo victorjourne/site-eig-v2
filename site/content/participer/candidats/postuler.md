@@ -25,8 +25,9 @@ steps:
         candidature est présélectionnée, vous nous indiquerez avant
         le 15/05/2022 les projets sur lesquels vous souhaitez vous positionner,
         dans la limite de trois. En attendant de découvrir les projets dévoilés
-        en mai,[ explorez les projets des années passées](#) et les [parcours
-        des anciens et anciennes EIG](#).
+        en mai,[ explorez les projets des années
+        passées](https://eig.etalab.gouv.fr/defis/) et les [parcours des anciens
+        et anciennes EIG](https://eig.etalab.gouv.fr/equipe/).
     - date: "[7 juin] - [13 juin]"
       desc: Passez un entretien de sélection en présence d’un jury composé d’agents
         publics, de membres d'Etalab et de la direction interministérielle du
