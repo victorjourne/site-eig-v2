@@ -83,11 +83,7 @@ how:
     Le processus de sélection se fait en 4 étapes : 
 
 
-
-
     ![](img/steps.svg)
-
-
 
 
     1. **Vous postulez** au programme via un formulaire de candidature en ligne
@@ -97,6 +93,14 @@ how:
     3. **Vous échangez avec un jury** composé d'agents publics et d'experts lors d'une audition pour relever un défi pour lequel vous avez voté
 
     4. **Vous rejoignez le programme Entrepreneurs d'intérêt général et une administration** pendant 10 mois
+
+
+    Pour en savoir plus :
+
+
+    * Accédez à [notre foire aux questions](https://eig.etalab.gouv.fr/participer/candidats/faq/)
+
+    * Consultez la [](https://eig.etalab.gouv.fr/img/aac-eig6-plaquette.pdf)[plaquette de l'appel à candidatures 2022](https://eig.etalab.gouv.fr/img/aac-eig6-plaquette.pdf)
 wait:
   title: |-
     L’appel à candidatures pour notre
