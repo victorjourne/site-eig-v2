@@ -14,7 +14,7 @@ how:
 
     * Découvrir les [fiches métiers et profils recherchés](#)
 
-    * Remplir le formulaire de candidature sur la [plateforme Démarches Simplifiées](#) avant le dimanche 3 avril 2022, [23h59](https://entrepreneur-interet-general.etalab.gouv.fr/index.html)
+    * Remplir le formulaire de candidature sur la [plateforme Démarches Simplifiées](https://www.demarches-simplifiees.fr/commencer/aac-eig6) avant le dimanche 3 avril 2022, 23h59
 steps:
   title: Retrouvons-nous à chaque étape du processus de candidature
   dates:
