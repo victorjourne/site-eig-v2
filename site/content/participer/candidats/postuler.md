@@ -3,7 +3,7 @@ title: Postuler à la 6e promotion
 layout: apply
 callout:
   title: "Délais "
-  desc: L’appel à candidatures pour rejoindre la Xe promotion des Entrepreneurs
+  desc: L’appel à candidatures pour rejoindre la 6e promotion des Entrepreneurs
     d’intérêt général est ouvert jusqu’au 03/04/2022, pour un démarrage des
     projets au sein des administrations le 12/09/2022.
 how:
