@@ -37,7 +37,7 @@ what:
     - def: Expérimenter autour de projets pour améliorer l’action publique
     - def: Entrer dans l'écosystème du numérique public (Etalab, DINUM,...)
 layout: candidates
-title: Candidat(e)s EIG
+title: Candidats et candidates EIG
 profiles:
   title: Profils
   desc: >-
