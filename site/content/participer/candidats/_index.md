@@ -95,7 +95,7 @@ how:
     4. **Vous rejoignez le programme Entrepreneurs d'intérêt général et une administration** pendant 10 mois
 
 
-    Pour en savoir plus :
+    ###### Pour en savoir plus :
 
 
     * Accédez à [notre foire aux questions](https://eig.etalab.gouv.fr/participer/candidats/faq/)
