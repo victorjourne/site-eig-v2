@@ -14,3 +14,9 @@
   to = "https://eig.etalab.gouv.fr"
   status = 301
   force = true
+  
+[[redirects]]
+  from = "https://eig.etalab.gouv.fr/aac-eig6-reglement.pdf"
+  to = "https://eig.etalab.gouv.fr/img/aac-eig6-reglement.pdf"
+  status = 301
+  force = true
