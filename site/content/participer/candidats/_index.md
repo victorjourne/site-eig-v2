@@ -10,8 +10,8 @@ head:
     title: Postuler
     url: /participer/candidats/postuler
   call:
-    title: Appel à candidature
-    url: img/document-é-sans-titre-copie.pdf
+    title: "Règlement "
+    url: img/aac-eig6-reglement.pdf
 def:
   title: EIG ça veut dire quoi ?
   info:
