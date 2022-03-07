@@ -53,5 +53,5 @@ join:
   title: Le programme vous plaît mais ce n'est pas le bon moment pour vous ?
   desc: Vous pouvez vous inscrire à notre liste de diffusion pour rester au
     courant de l'actualité du programme.
-  link: https://entrepreneur-interet-general.etalab.gouv.fr/index.html
+  link: https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio
 ---
