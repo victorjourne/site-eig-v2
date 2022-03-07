@@ -11,8 +11,6 @@ how:
   desc: >-
     * Lire le [règlement](#) de l’appel à candidatures
 
-    * Consulter la [plaquette de l'appel à candidatures](https://eig.etalab.gouv.fr/img/aac-eig6-plaquette.pdf)
-
     * Découvrir les [fiches métiers et profils recherchés](#)
 
     * Remplir le formulaire de candidature sur la [plateforme Démarches Simplifiées](#) avant le dimanche 3 avril 2022, [23h59](https://entrepreneur-interet-general.etalab.gouv.fr/index.html)
@@ -40,12 +38,15 @@ questions: >-
   ## Des questions ?
 
 
-  * Trouvez des réponses dans notre [foire aux questions](/participer/candidats/faq)
+  1. Trouvez des réponses dans notre [foire aux questions](/participer/candidats/faq)
 
-  * Rejoignez nos webinaires de présentation de l'appel à candidatures :
+  2. Rejoignez nos webinaires de présentation de l'appel à candidatures :
 
-    * Le [jeudi 17 mars de 13h45 à 14h45](https://webinaire.numerique.gouv.fr//meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e)
-    * Le [jeudi 24 mars de 13h45 à 14h45](https://webinaire.numerique.gouv.fr//meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e)
+
+  Le [jeudi 17 mars de 13h45 à 14h45](https://webinaire.numerique.gouv.fr//meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e)
+
+
+  Le [jeudi 24 mars de 13h45 à 14h45](https://webinaire.numerique.gouv.fr//meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e)
 join:
   image: img/bootcamp6.jpg
   title: Le programme vous plaît mais ce n'est pas le bon moment pour vous ?
