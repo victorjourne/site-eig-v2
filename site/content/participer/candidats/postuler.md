@@ -9,7 +9,8 @@ callout:
 how:
   title: Les 3 choses à faire pour postuler
   desc: >-
-    * Lire le [règlement](#) de l’appel à candidatures
+    * Lire le [règlement](https://eig.etalab.gouv.fr/img/aac-eig6-reglement.pdf)
+    de l’appel à candidatures
 
     * Découvrir les [fiches métiers et profils recherchés](#)
 
