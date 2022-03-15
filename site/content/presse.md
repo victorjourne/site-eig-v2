@@ -12,7 +12,15 @@ agents:
     - Christophe Cuq
     - TEST - Adeline Celier
 ---
-**Le 15 février 2022**
+**11 mars 2022**
+
+[Entrepreneurs d'intérêt général : des talents de la tech pour construire le service public de demain](https://www.journaldunet.com/solutions/dsi/1509937-entrepreneurs-d-interet-general-des-talents-de-la-tech-pour-construire-le-service-public-de-demain/)
+
+**9 mars 2022**
+
+[L'Etat ouvre 50 postes IT pour des missions d'intérêt général](https://www.lemondeinformatique.fr/actualites/lire-l-etat-ouvre-50-postes-it-pour-des-missions-d-interet-general-86067.html)
+
+**15 février 2022**
 
 [Design et data au service de l’innovation](https://www.horizonspublics.fr/numerique/design-et-data-au-service-de-linnovation)
 
