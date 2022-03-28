@@ -35,8 +35,9 @@ Il existe deux façons de modifier les contenus (textes du site, biographies, ar
 
 - Soit en passant par le [back-office](https://eig.etalab.gouv.fr/admin) du site. En effet, le site fonctionne comme un CMS. Chaque modification opérée via le back-office a d'abord le statut de `draft`. Une branche est automatiquement créée pour chaque draft. Lorsque l'auteur(e) change le statut de la modification de `draft` à `publié`, la branche est automatiquement mergée à `master`.
 
-
 ## Fonctionnement technique : Hugo template for Netlify CMS with Netlify Identity
+
+La documentation qui suit est en anglais car elle provient de Netlify directement.
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
 
@@ -83,8 +84,13 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
 </svg>
 ```
 
+## Contributions
+
+Les contributions relevant de bugfix sur le code sont les bienvenues.
+La modification des contenus textuels reste à la charge de l'équipe EIG.
+
 ## Licence
 
 ![](https://raw.githubusercontent.com/entrepreneur-interet-general/site-eig-v2/main/documentation/resources/images/Logo_Licence_Ouverte_bleu_blanc_rouge.png?token=GHSAT0AAAAAABSYLW3RA2NFXSRU7SB4U5HYYSBPWWA)
 
-La licence utilisée est la [licence ouverte 2.0. Etalab](https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf), encourageant la réutilisation des données publiques mises à disposition gratuitement. Cette licence introduit une réutilisation obligatoire des données publiques (articles D.323-2-1 et D. 323-2-2 du Code des relations entre le public et l’administration). Cette licence donne un droit non exclusif et gratuit de réutilisation libre de l’information à des fins commerciales, ou non, pour le monde entier, et pour une durée illimitée. Il s’agit d’une licence permissive, comprenant toutefois une contrainte importante, nécessitant la mention de la paternité et la date de la dernière mise à jour (article L. 322-1 du Code des relations entre le public et l’administration). L’utilisateur est en droit de « reproduire l’information, de la copier, de l’adapter, de la modifier, de l’extraire et de la transformer pour créer des informations dérivées, de la communiquer, la diffuser, la redistribuer, la publier et la transmettre ; de l’exploiter à titre commercial ». 
+La licence utilisée est la [licence ouverte 2.0. Etalab](https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf), encourageant la réutilisation des données publiques mises à disposition gratuitement. Cette licence introduit une réutilisation obligatoire des données publiques (articles D.323-2-1 et D. 323-2-2 du Code des relations entre le public et l’administration). Cette licence donne un droit non exclusif et gratuit de réutilisation libre de l’information à des fins commerciales, ou non, pour le monde entier, et pour une durée illimitée. Il s’agit d’une licence permissive, comprenant toutefois une contrainte importante, nécessitant la mention de la paternité et la date de la dernière mise à jour (article L. 322-1 du Code des relations entre le public et l’administration). L’utilisateur est en droit de « reproduire l’information, de la copier, de l’adapter, de la modifier, de l’extraire et de la transformer pour créer des informations dérivées, de la communiquer, la diffuser, la redistribuer, la publier et la transmettre ; de l’exploiter à titre commercial ».
