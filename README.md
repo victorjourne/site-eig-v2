@@ -25,7 +25,7 @@ Le code du site fonctionne à travers trois branches : `master`, `develop` et `p
 - La branche `develop` est une branche de travail permettant de réaliser les développements.
 - La branche `prepod` permet de tester les développements avant de les basculer sur la branche `master`.
 
-** Remarque : la branche `master` est en cours de renommage en `main`. **
+*Remarque : la branche `master` est en cours de renommage en `main`.*
 
 ### Contenus
 
