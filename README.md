@@ -20,18 +20,20 @@ Dans un contexte d’engagement de l’Etat en faveur de l’ouverture des donn�
 
 ### Code
 
-Le code du site fonctionne à travers trois branches : `main`, `develop` et `prepod`. 
-- La branche `main` est la production, à laquelle est connectée le back-office. 
+Le code du site fonctionne à travers trois branches : `master`, `develop` et `prepod`. 
+- La branche `master` est la production, à laquelle est connectée le back-office. 
 - La branche `develop` est une branche de travail permettant de réaliser les développements.
-- La branche `prepod` permet de tester les développements avant de les basculer sur la branche `main`. 
+- La branche `prepod` permet de tester les développements avant de les basculer sur la branche `master`.
+
+** Remarque : la branche `master` est en cours de renommage en `main`. **
 
 ### Contenus
 
 Il existe deux façons de modifier les contenus (textes du site, biographies, articles, etc.) du site :
 
-- Soit en modifiant directement les fichiers. Dans ce cas, le changement est à faire sur une branche créée pour l'occasion, puis à intégrer à `main` via une pull request sur Github (avant d'accepter la pull request, il est possible de prévisualiser le changement apporté au site via un lien automatiquement généré par Netlify).
+- Soit en modifiant directement les fichiers. Dans ce cas, le changement est à faire sur une branche créée pour l'occasion, puis à intégrer à `master` via une pull request sur Github (avant d'accepter la pull request, il est possible de prévisualiser le changement apporté au site via un lien automatiquement généré par Netlify).
 
-- Soit en passant par le [back-office](https://eig.etalab.gouv.fr/admin) du site. En effet, le site fonctionne comme un CMS. Chaque modification opérée via le back-office a d'abord le statut de `draft`. Une branche est automatiquement créée pour chaque draft. Lorsque l'auteur(e) change le statut de la modification de `draft` à `publié`, la branche est automatiquement mergée à `main`.
+- Soit en passant par le [back-office](https://eig.etalab.gouv.fr/admin) du site. En effet, le site fonctionne comme un CMS. Chaque modification opérée via le back-office a d'abord le statut de `draft`. Une branche est automatiquement créée pour chaque draft. Lorsque l'auteur(e) change le statut de la modification de `draft` à `publié`, la branche est automatiquement mergée à `master`.
 
 
 ## Fonctionnement technique : Hugo template for Netlify CMS with Netlify Identity
