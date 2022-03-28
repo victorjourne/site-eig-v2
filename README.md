@@ -80,3 +80,9 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
   <use xlink:href="#SVG-ID"></use>
 </svg>
 ```
+
+## Licence
+
+![](https://raw.githubusercontent.com/entrepreneur-interet-general/site-eig-v2/main/documentation/resources/images/Logo_Licence_Ouverte_bleu_blanc_rouge.png?token=GHSAT0AAAAAABSYLW3RA2NFXSRU7SB4U5HYYSBPWWA)
+
+La licence utilisée est la [licence ouverte 2.0. Etalab](https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf), encourageant la réutilisation des données publiques mises à disposition gratuitement. Cette licence introduit une réutilisation obligatoire des données publiques (articles D.323-2-1 et D. 323-2-2 du Code des relations entre le public et l’administration). Cette licence donne un droit non exclusif et gratuit de réutilisation libre de l’information à des fins commerciales, ou non, pour le monde entier, et pour une durée illimitée. Il s’agit d’une licence permissive, comprenant toutefois une contrainte importante, nécessitant la mention de la paternité et la date de la dernière mise à jour (article L. 322-1 du Code des relations entre le public et l’administration). L’utilisateur est en droit de « reproduire l’information, de la copier, de l’adapter, de la modifier, de l’extraire et de la transformer pour créer des informations dérivées, de la communiquer, la diffuser, la redistribuer, la publier et la transmettre ; de l’exploiter à titre commercial ». 
