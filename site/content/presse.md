@@ -12,6 +12,10 @@ agents:
     - Christophe Cuq
     - TEST - Adeline Celier
 ---
+**28 mars 2022**
+
+La direction interministérielle du numérique (DINUM) recrute !
+
 **11 mars 2022**
 
 [Entrepreneurs d'intérêt général : des talents de la tech pour construire le service public de demain](https://www.journaldunet.com/solutions/dsi/1509937-entrepreneurs-d-interet-general-des-talents-de-la-tech-pour-construire-le-service-public-de-demain/)
