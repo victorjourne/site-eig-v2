@@ -8,7 +8,7 @@ defis:
   - Fabrique Numérique
   - Open Justice
 expertises:
-- Data science
+- Développement
 image: img/ppsmall.jpeg
 linkedin: https://www.linkedin.com/in/mathieujperez/
 ---
