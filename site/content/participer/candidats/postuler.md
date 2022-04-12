@@ -4,7 +4,7 @@ layout: apply
 callout:
   title: "Délais "
   desc: L’appel à candidatures pour rejoindre la 6e promotion des Entrepreneurs
-    d’intérêt général est ouvert jusqu’au 10/04/2022, pour un démarrage des
+    d’intérêt général est ouvert **jusqu’au 19/04/2022**, pour un démarrage des
     projets au sein des administrations le 12/09/2022.
 how:
   title: Les 3 choses à faire pour postuler
@@ -14,11 +14,11 @@ how:
 
     * Découvrir les [fiches métiers et profils recherchés](https://www.welcometothejungle.com/fr/companies/entrepreneurs-d-interet-general/jobs)
 
-    * Remplir le formulaire de candidature sur la [plateforme Démarches Simplifiées](https://www.demarches-simplifiees.fr/commencer/aac-eig6) avant le dimanche 10 avril 2022, 23h59
+    * Remplir le formulaire de candidature sur la [plateforme Démarches Simplifiées](https://www.demarches-simplifiees.fr/commencer/aac-eig6) avant le **mardi 19 avril 2022, 23h59**
 steps:
   title: Retrouvons-nous à chaque étape du processus de candidature
   dates:
-    - date: "[7 mars] - [3 avril]"
+    - date: "[7 mars] - [19 avril]"
       desc: Envoyez-nous votre candidature.
     - date: "[9 mai] - [15 mai]"
       desc: Les projets à mener dans l’administration sont révélés. Si votre
