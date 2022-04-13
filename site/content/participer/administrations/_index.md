@@ -144,8 +144,7 @@ steps: >-
 wait:
   title: |-
     L’appel à candidatures pour notre
-    promotion 6 est ouvert jusqu'au 18 mars 2022.
-  desc: Cliquez
-    [ICI](https://eig.etalab.gouv.fr/participer/administrations/proposer/) pour
-    proposer votre projet et bénéficier d'un accompagnement sur mesure.
+    promotion 6 est désormais fermé.
+  desc: Cliquer [ICI](https://eig.etalab.gouv.fr/defis/) pour découvrir les défis
+    de la promotion 5
 ---
