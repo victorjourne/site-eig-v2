@@ -63,7 +63,7 @@ medias:
     - link: https://acteurspublics.fr/articles/corine-waroquiers-le-programme-entrepreneurs-dinteret-general-est-de-plus-en-plus-populaire-aupres-des-administrations
       image: img/acteurs-publics.jpg
       title: Acteurs publics
-    - title: On parle de nous
-      image: img/eig1-default-1-.svg
-      link: https://eig.etalab.gouv.fr/espace-presse/
+    - title: BFM Buisness
+      image: img/logo_bfm-business.svg.png
+      link: https://twitter.com/bfmbusiness/status/1508397718498160641?s=20&t=_hwPmDusXjVnYl9Dzb7M6A
 ---
