@@ -3,7 +3,7 @@ title: Soizic Pénicaud
 job: Accompagnement
 promos:
   - Promotion 4
-role: agent-public
+role: agent-ecosysteme
 expertises:
   - "Accompagnement "
 image: img/soizic_penicaud.jpg
