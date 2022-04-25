@@ -1,7 +1,7 @@
 ---
 title: Guénolé Carré
 job: Accompagnement
-role: agent-public
+role: agent-ecosysteme
 expertises:
   - "Accompagnement "
 image: img/placeholder_homme.svg
