@@ -1,7 +1,7 @@
 ---
 title: Laure Casellas
 job: "Accompagnement "
-role: agent-public
+role: agent-ecosysteme
 expertises:
   - "Accompagnement "
 image: img/placeholder_femme2.png
