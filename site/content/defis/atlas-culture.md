@@ -69,3 +69,5 @@ La mission des EIG prolongée de juillet à décembre 2021 avec au programme :
 
 > * Site web Atlas Culture des territoires (bientôt disponible)
 > * Lien vers les jeux de données de l'Atlas (bientôt disponible)
+
+{{< dailymotion x82dxt1 >}}
