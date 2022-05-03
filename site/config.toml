@@ -1,4 +1,4 @@
-baseurl = "https://eig.etalab.gouv.fr/"
+baseurl = "http://localhost:3000"
 languageCode = "fr-fr"
 languageLang = "fr"
 title = "Entrepreneurs d'intérêt général"
