@@ -39,3 +39,9 @@ L’objectif de la plateforme Mission Transition est de motiver les entreprises 
 >    * une mise en avant **des outils et informations pratiques** des partenaires sur la transition écologique (fiches d’information ADEME, outils BPI, outils gratuits d’autres organisations).
 
 *Ce défi est réalisé en collaboration avec les équipes de l’Ecolab du Commissariat général au développement durable et de la [Fabrique Numérique](https://beta.gouv.fr/incubateurs/mtes.html) du Ministère de la Transition écologique.*
+
+## Webinaire
+
+Ce défi a été présenté lors du webinaire « Santé et justice » du lundi 18 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. 
+
+{{< dailymotion x82e1ah >}}
