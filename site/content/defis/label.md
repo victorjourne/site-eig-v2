@@ -14,6 +14,8 @@ expertises:
 image: img/eig4-label.svg
 visible: true
 ---
+{{< dailymotion x82dylb >}}
+
 La Cour de cassation souhaite mettre en place un outil d’annotation open source lui permettant d’accélérer et fiabiliser le processus de pseudonymisation des décisions de justice et leur mise en open data.
 
 ## La problématique : une interface d’annotation inadaptée
@@ -40,6 +42,6 @@ L’objectif est de développer un outil qui pourra être repris à l’extérie
 
 ## Webinaire
 
-Ce défi a été présenté lors du webinaire « Santé et justice » du lundi 18 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-4 "Rediffusion du webinaire").
+Ce défi a été présenté lors du webinaire « Santé et justice » du lundi 18 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. 
 
-Rendez-vous sur la page de présentation de l'appel à candidatures pour retrouver la liste complète des webinaires.
+{{< dailymotion x82e1ah >}}
