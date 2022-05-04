@@ -15,6 +15,8 @@ expertises:
 image: img/eig4-neotac.svg
 visible: true
 ---
+{{< dailymotion x82dyrp >}}
+
 La Direction Générale de la Gendarmerie Nationale (DGGN) souhaite développer un outil permettant d’automatiser les plans d’intervention des unités de sécurité publique pour gagner en efficacité et en réactivité lors de situations d’urgence.
 
 ## La problématique : des situations d’urgence nombreuses qui demandent la mise en place rapide et efficace de dispositifs d’intervention
@@ -42,9 +44,3 @@ NEOTac permettra de :
 À terme, cet outil augmentera l’efficacité des dispositifs mis en place et donc les chances de succès des interventions.
 
 *Ce projet s’insère dans le chantier plus vaste de la numérisation de l’espace d’opération (NEOps) que vient de lancer la DGGN.*
-
-## Webinaire
-
-Ce défi a été présenté lors du webinaire « Gestion de crise » du mercredi 13 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-2 "Rediffusion du webinaire").
-
-Rendez-vous sur la page de présentation de l'appel à candidatures pour retrouver la liste complète des webinaires.
