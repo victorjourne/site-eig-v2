@@ -14,6 +14,8 @@ expertises:
 image: img/eig4-france-transition.svg
 visible: true
 ---
+{{< dailymotion x82dyfj >}}
+
 ## La problématique : les aides publiques liées à la transition écologie des entreprises restent difficiles d’accès.
 
 Selon l’étude « Les Dirigeants de PME-ETI face à l’urgence climatique » de Bpifrance, 80% des dirigeants de PME et ETI ont conscience de l’urgence climatique mais seulement 13% déclarent pouvoir réduire « de manière importante » leurs émissions carbone dans les 5 prochaines années.
@@ -37,9 +39,3 @@ L’objectif de la plateforme Mission Transition est de motiver les entreprises 
 >    * une mise en avant **des outils et informations pratiques** des partenaires sur la transition écologique (fiches d’information ADEME, outils BPI, outils gratuits d’autres organisations).
 
 *Ce défi est réalisé en collaboration avec les équipes de l’Ecolab du Commissariat général au développement durable et de la [Fabrique Numérique](https://beta.gouv.fr/incubateurs/mtes.html) du Ministère de la Transition écologique.*
-
-## Webinaire
-
-Ce défi a été présenté lors du webinaire « Écologie et affaires maritimes » du mardi 12 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-1 "Rediffusion du webinaire").
-
-Rendez-vous sur la page de présentation de l'appel à candidatures pour retrouver la liste complète des webinaires.
