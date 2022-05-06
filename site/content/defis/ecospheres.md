@@ -14,8 +14,7 @@ expertises:
   - Data science
   - Design
   - Développement
-image: img/13_basegun_10.svg
-ogImage: /img/test-og.png
+image: img/promotion-6/02_écosphère(s).svg
 visible: true
 ---
 
