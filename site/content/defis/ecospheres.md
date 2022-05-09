@@ -1,5 +1,5 @@
 ---
-title: Écosphère(s)
+title: Ecosphère(s)
 description: Développer l'écosystème de la donnée de la transition écologique et de la cohésion des territoires  
 who: Commissariat général au développement durable (CGDD)
 place: ""
