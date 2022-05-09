@@ -39,8 +39,6 @@ L'État a un devoir d'exemplarité en termes de politiques environnementales. L'
 ### L'équipe entrepreneuriale{.subtitle}
 ## Rejoignez un collectif au service de l'intérêt général{.title}
 
-## Rejoignez un collectif au service de l'intérêt général{.title}
-
 Les EIG recherché(e)s :
 * Développeur ou développeuse
 * Ingénieur(e) des sciences de la donnée (ou ""data scientist"")
