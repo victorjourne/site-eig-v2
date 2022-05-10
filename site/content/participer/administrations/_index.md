@@ -18,7 +18,7 @@ program: >-
   ## L'APPEL A PROJET 2022 EST OUVERT
 
 
-  Le [sixième appel à projets des Entrepreneurs d'intérêt général](https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2) est **ouvert** ! Il s'adresse à toute administration publique désireuse d’être soutenue pour mener des projets d’innovation numérique. 
+  Le [sixième appel à projets des Entrepreneurs d'intérêt général](https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2) est **ouvert** ! Il s'adresse à toute administration publique désireuse d’être soutenue pour mener des projets d’innovation numérique...
 
 
   Les administrations ont jusqu’au **18 mars 2022** pour déposer leurs projets. Le processus de sélection des projets et de recrutement des futurs EIG aura lieu d’**avril à juin 2022**, pour un démarrage de la future promotion le **12 septembre 2022**.
