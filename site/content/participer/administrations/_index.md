@@ -15,7 +15,7 @@ head:
     title: Cahier des charges
     url: img/aap-eig6-cahier-des-charges.pdf
 program: >-
-  ## L'APPEL A PROJET 2022 EST OUVERT
+  ## L'APPEL A PROJET 2022 EST CLOS
 
 
   Le [sixième appel à projets des Entrepreneurs d'intérêt général](https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2) est désormais fermé. Cliquer [ICI](https://eig.etalab.gouv.fr/defis/) pour découvrir les défis séléctionnés. 
