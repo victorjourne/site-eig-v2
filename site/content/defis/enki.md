@@ -15,6 +15,8 @@ expertises:
 image: img/eig4-enki.svg
 visible: true
 ---
+{{< dailymotion x82dy83 >}}
+
 L’Agence du Numérique de la Sécurité Civile souhaite mettre en place une interface permettant de centraliser, organiser et communiquer les informations provenant des services d’urgence et de leurs partenaires, nécessaires aux autorités pour gérer les crises au mieux.
 
 ## La problématique : des données de terrain mal exploitées et non partagées avec les autorités en période de crise
@@ -36,9 +38,3 @@ L’objectif de l’outil est de :
 > * faciliter la mobilisation des acteurs, qu’il s’agisse des autorités ou des services d’urgence.
 
 A terme, l’outil sera étendu à d’autres autorités, comme les préfets, et leur permettra d’émettre des demandes quant à la gestion de la crise.
-
-## Webinaire
-
-Ce défi a été présenté lors du webinaire « Gestion de crise » du mercredi 13 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-2 "Rediffusion du webinaire").
-
-Rendez-vous sur la [page de présentation de l'appel à candidatures](https://damp-basin-47015.herokuapp.com/candidature-eig.html "Présentation de l'appel à candidatures") pour retrouver la liste complète des webinaires.
