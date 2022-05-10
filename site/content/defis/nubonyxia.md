@@ -12,7 +12,6 @@ date: 2022
 expertises:
   - Sciences de la donnée
   - Ingénierie de la donnée
-  - Ingénierie de la donnée
 image: img/promotion-6/defis/01_Nubonyxia.svg
 visible: true
 ---
