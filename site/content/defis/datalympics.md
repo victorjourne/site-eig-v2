@@ -39,8 +39,4 @@ Dans un second temps, les EIG pourront proposer des outils facilitant l’accès
 
 Au-delà de l’impact en termes de transparence budgétaire de l’organisation des JOP 2024, cet outil a pour vocation de proposer une nouvelle méthodologie de mise à disposition de données de qualité et certifiées.
 
-## Webinaire
-
-Ce défi a été présenté lors du webinaire « Transparence des politiques publiques » du mercredi 20 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-6 "Rediffusion du webinaire").
-
-Rendez-vous sur la page de présentation de l'appel à candidatures pour retrouver la liste complète des webinaires.
+{{< dailymotion x82dy3o >}}
