@@ -17,7 +17,7 @@ image: img/promotion-6/defis/08_OptiFlex.svg
 visible: true
 ---
 
-{{< dailymotion x8akknm >}}
+{{< dailymotion x8aotqe >}}
 
 ## Le défi à relever
 
