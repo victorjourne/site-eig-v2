@@ -26,7 +26,7 @@ visible: true
 La vocation du Service du commissariat des armées (SCA) est d’assurer le soutien commun et l’administration générale des armées. Il est sous-tendu par deux forces qui se complètent : la première est celle de la culture opérationnelle, comme en témoigne sa présence dans la totalité des engagements opérationnels, sur les théâtres d’opérations extérieures et dans le cadre de l’opération Sentinelle. La seconde est la capacité du service à se transformer et à se moderniser.
 
 #### La problématique identifiée{.subtitle}
-### Des espaces pas assez optimisés et adpatés aux nouveaux modes de travail
+### Des espaces pas assez optimisés et adaptés aux nouveaux modes de travail
 La crise sanitaire a imposé de nouveaux modes de travail, notamment avec le recours à la télé-activité qui a démontré son efficience. L’arrivée de ces nouvelles habitudes nécessite aujourd’hui de revoir les modes de fonctionnement à plusieurs niveaux : l’organisation de la télé-activité et son impact sur les espaces de travail, ainsi que la gestion des espaces.
 Aujourd’hui les espaces de travail se vident de leur activité entre 20% et 60% du temps ce qui fait mécaniquement croitre les coûts de fonctionnement unitaire. Les agents aspirent à plus de confort au bureau et plus de partage pendant leurs temps de présence. Face à cela, comment repenser de nouveaux modes de fonctionnement pour favoriser à la fois la qualité de vie au travail des agents et optimiser les espaces ?
 
