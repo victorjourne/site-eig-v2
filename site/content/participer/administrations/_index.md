@@ -18,7 +18,7 @@ program: >-
   ## L'APPEL A PROJET 2022 EST CLOS
 
 
-  Le [sixième appel à projets des Entrepreneurs d'intérêt général](https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2) est désormais fermé. Cliquer [ICI](https://eig.etalab.gouv.fr/defis/) pour découvrir les défis séléctionnés. 
+  Le [sixième appel à projets des Entrepreneurs d'intérêt général](https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2) est désormais fermé. Cliquer [ICI](https://eig.etalab.gouv.fr/defis/) pour découvrir les défis sélectionnés. 
 
 
    Pour en savoir plus :
