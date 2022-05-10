@@ -20,7 +20,7 @@ visible: true
 {{< dailymotion x8aklbn >}}
 
 ### L'administration porteuse{.subtitle}
-## Le BRGM, l'expert des donnée scientifiques nationales des sciences des sous-sols OU le ""service géologique national""{.title}
+## Le BRGM, l'expert des donnée scientifiques nationales des sciences des sous-sols{.title}
 Créé en 1959, le Bureau de recherches géologiques et minières (BRGM) est l’établissement public de référence dans les applications des sciences de la Terre pour gérer les ressources et les risques du sol et du sous-sol dans une perspective de développement durable.
 Partenaire de nombreux acteurs publics et privés, son action est orientée vers la recherche scientifique, l’appui aux politiques publiques et la coopération internationale.
 
