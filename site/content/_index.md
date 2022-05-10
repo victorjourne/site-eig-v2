@@ -25,9 +25,7 @@ talents:
     développement, en data science, en design et en droit du numérique - à la
     réussite de ces défis.
   list:
-    - Anne-Lise Coudry
-    - TEST - Adeline Celier
-    - Alexandre Bastide
+    - Adeline Celier
 agents:
   sub: Les agents publics
   desc: "Issus de tout type d'administration, qu'elle soit centrale de l'Etat,
