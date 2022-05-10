@@ -19,24 +19,26 @@ visible: true
 
 {{< dailymotion x8akkng >}}
 
-### L'administration porteuse{.subtitle}
-## Cerema, l'expertise publique pour la transition écologique et la cohésion des territoires{.title}
+## Le défi à relever
+
+#### L'administration porteuse{.subtitle}
+### Cerema, l'expertise publique pour la transition écologique et la cohésion des territoires
 Le Cerema est l’établissement de référence dans les domaines de l’expertise et de l’ingénierie publique pour accompagner les territoires dans leurs missions d’adaptation aux changements climatiques. Il assiste l'État, les collectivités territoriales et les entreprises pour les conduire vers une stratégie d'aménagement durable (bâtiments, infrastructures, environnement …).
 
-### La problématique identifiée{.subtitle}
-## Les maires ne disposent pas d'informations suffisamment accessibles et complètes pour mener à bien des politiques d'entretien et de réparation des ponts de leurs communes{.title}
+#### La problématique identifiée{.subtitle}
+### Les maires ne disposent pas d'informations suffisamment accessibles et complètes pour mener à bien des politiques d'entretien et de réparation des ponts de leurs communes
 Entretenir et réparer les ponts relève du casse-tête pour les maires des communes en déficit d’ingénierie : comment s’y prendre ? Quels acteurs, outils, méthodes et financements peuvent permettre d’avancer efficacement, au vu de la situation locale ?
 
-### L'hypothèse à vérifier{.subtitle}
-## Rendre les informations techniques plus accessibles et compréhensibles aux maires des communes pourrait permettre d'améliorer l'état des ponts sur le territoire national{.title}
+#### L'hypothèse à vérifier{.subtitle}
+### Rendre les informations techniques plus accessibles et compréhensibles aux maires des communes pourrait permettre d'améliorer l'état des ponts sur le territoire national
 En tant que maire de petite commune, je ne sais pas quoi faire pour les ponts en mauvais état ou présentant des problèmes de sécurité importants. Qui contacter, quel budget, quelles normes, quelles sont les prochaines étapes ? Une piste serait que je puisse accéder simplement à des contenus techniques compréhensibles qui me guident dans ma démarche.
 
-### Les ambitions du projet{.subtitle}
-## Garantir la sécurité de 40 000 ponts sur l'ensemble du territoire national{.title}
+#### Les ambitions du projet{.subtitle}
+### Garantir la sécurité de 40 000 ponts sur l'ensemble du territoire national
 Le Cerema a été missionné par le gouvernement pour piloter le Programme National Ponts afin de recenser et d’évaluer l’état de 40 000 ouvrages communaux. Le projet SOS Ponts, par l'incitation à l'action des maries qu'il porte, contribuera à garantir la sécurité sur une cible potentielle de 40 000 ponts en France.
 
-### L'équipe entrepreneuriale{.subtitle}
-## Rejoignez un collectif au service de l'intérêt général{.title}
+## L'équipe entrepreneuriale
+### Rejoignez un collectif au service de l'intérêt général
 
 Les EIG recherché(e)s :
 * Designer
