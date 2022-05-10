@@ -27,7 +27,7 @@ talents:
   list:
     - Christophe Ninucci
     - Samah Ghalloussi
-    - Alexandra Leschi
+    - Adeline Celier
 agents:
   sub: Les agents publics
   desc: "Issus de tout type d'administration, qu'elle soit centrale de l'Etat,
