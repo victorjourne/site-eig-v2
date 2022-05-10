@@ -38,7 +38,7 @@ Ce générateur de données synthétiques pourra par conséquent d'abord être m
 Le projet permettra d’accélérer le développement d'outils automatisés d'analyse d'images des espaces publics notamment pour les besoins du MinInt et par souci de transparence mettra à disposition des citoyens et des autres services publics une plateforme de démonstration sur l'utilisation de ces données de vidéoprotection.
 Ainsi, le monde conçu sera tout ou partie rendu public, via des banques d'objet 3D chez Unity ou Unreal, tout comme les codes visant à générer les images ; les codes d'adaptation de domaines, les codes d'apprentissages profonds et les codes produits seront ouverts et en licence libre. Seuls les modèles entraînés resterons privés.
 
-## L'équipe entrepreneuriale{.subtitle}
+## L'équipe entrepreneuriale
 ### Rejoignez un collectif au service de l'intérêt général
 
 Les EIG recherché(e)s :

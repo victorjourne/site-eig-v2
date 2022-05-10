@@ -37,9 +37,10 @@ La valorisation des données de la DSN s'appuiera sur l'articulation entre l'év
 ### Rendre intelligibles et valoriser dans la pratique les données de la déclaration sociale nominative
 Un accès aux données de la déclaration sociale nominative aider les agents à mener à bien des politiques publiques dans différents champs. Un des premiers cas d'usage liés au projet Champollion serait s'inscrirait ainsi dans la lutte contre l'abus au travail précaire. Mais d'autres applications sont à espérer : par exemple, accompagner le controle de la masse salariale des Ehpad, ou encore faciliter la vie des usagers en leur proposant des aides sociales en fonction de leur niveau de rémunération.
 
-## L'équipe entrepreneuriale{.subtitle}
+## L'équipe entrepreneuriale
 ### Rejoignez un collectif au service de l'intérêt général
 
 Les EIG recherché(e)s :
 * Développeur ou développeuse
 * Ingénieur(e) de la donnée (ou « data engineer »)
+* Ingénieur(e) des sciences de la donnée (ou « data scientist »)
