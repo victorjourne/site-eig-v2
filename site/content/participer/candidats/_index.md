@@ -1,5 +1,5 @@
 ---
-open: true
+open: false
 head:
   questions:
     - question: Vous voulez vous engager pour l'intérêt général ?
@@ -104,9 +104,8 @@ how:
 
     * Lisez notre [article de blog](https://www.etalab.gouv.fr/letat-recherche-des-profils-du-numerique-rejoignez-les-entrepreneurs-dinteret-general/)
 wait:
-  title: |-
-    L’appel à candidatures pour notre
-    promotion 6 n'est pas encore ouvert.
+  title: L'appel à candidatures 2022 du programme Entrepreneurs d'Intérêt Général
+    est désormais clos.
   desc: Si vous êtes intéressés par une participation à la prochaine promotion,
     [inscrivez-vous à notre liste de
     diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio)
