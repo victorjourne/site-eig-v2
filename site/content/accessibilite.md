@@ -23,7 +23,7 @@ Cette déclaration a été établie le 07 septembre 2021.
 
 ## Retour d'information et contact
 
-Si vous n’arrivez pas à accéder à un contenu ou à un service, vous pouvez contacter le responsable du site internet  pour être orienté vers une alternative accessible ou obtenir le contenu sous une autre forme. Merci d'envoyer un message [](https://www.inrae.fr/contact)à eig@data.gouv.fr
+Si vous n’arrivez pas à accéder à un contenu ou à un service, vous pouvez contacter le responsable du site internet  pour être orienté vers une alternative accessible ou obtenir le contenu sous une autre forme. Merci d'envoyer un message [](https://www.inrae.fr/contact)à eig@data.gouv.fr.
 
 ## Voies de recours
 
