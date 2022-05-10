@@ -1,7 +1,4 @@
 ---
-title: Administrations
-layout: admins
-open: false
 head:
   desc: Parce que nous croyons qu'une transformation durable se fait de
     l'intérieur... le programme Entrepreneurs d'intérêt général vous aide à
@@ -15,7 +12,7 @@ head:
     title: Cahier des charges
     url: img/aap-eig6-cahier-des-charges.pdf
 program: >-
-  ## L'APPEL A PROJET 2022 EST OUVERT
+  ## L'APPEL A PROJET 2022 EST CLOS
 
 
   Le [sixième appel à projets des Entrepreneurs d'intérêt général](https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2) est **ouvert** ! Il s'adresse à toute administration publique désireuse d’être soutenue pour mener des projets d’innovation numérique. 
@@ -88,6 +85,54 @@ program: >-
   * un coaching par équipe
 
   * des apprentissages en pair-à-pair
+talents:
+  sub: Les talents - ou « EIG »
+  desc: Durant 10 mois, des femmes et des hommes apportent leur expertise - en
+    développement, en data science, en design et en droit du numérique - à la
+    réussite de ces défis.
+  list:
+    - Christophe Ninucci
+    - Samah Ghalloussi
+    - Alexandra Leschi
+open: false
+steps: >-
+  ## Les étapes clés de la sélection
+
+
+  Pour rejoindre la prochaine promotion du programme vous êtes invités à répondre à notre sixième appel à projets - ouvert jusqu’au 18/03/2022. 
+
+
+  Le processus de sélection se fait en **3 étapes :** 
+
+
+  ![](img/steps2.svg)
+
+
+  1. **Vous postulez** en répondant à l'appel à projets. 
+
+  2. **Si votre projet est sélectionné, nous réunissons une équipe** de 2 ou 3 EIG pour relever le défi, en vous associant au processus de recrutement 
+
+  3. **Vous expérimentez** de nouvelles solutions avec votre équipe d'EIG et le soutien du programme
+
+
+  ![]()
+layout: admins
+agents:
+  sub: Les agents publics
+  desc: "Issus de tout type d'administration, qu'elle soit centrale de l'Etat,
+    d'un de ses opérateurs ou agences, territoriale, de santé..., des agents
+    publics accueillent deux ou trois « EIG » dans leurs services pour relever
+    ensemble les défis. "
+  list:
+    - Christophe Cuq
+    - TEST - Adeline Celier
+wait:
+  title: |-
+    L’appel à candidatures pour notre
+    promotion 6 est désormais fermé.
+  desc: Cliquer [ICI](https://eig.etalab.gouv.fr/defis/) pour découvrir les défis
+    de la promotion 5
+title: Administrations
 criteria:
   title: "5 critères de sélection "
   desc: >-
@@ -120,31 +165,4 @@ criteria:
       desc: Une démarche d’innovation ouverte (collaboration, co-construction,
         gouvernance) et de partage de communs numériques (ouverture des données
         et des codes-sources, mutualisation et réplication des productions).
-steps: >-
-  ## Les étapes clés de la sélection
-
-
-  Pour rejoindre la prochaine promotion du programme vous êtes invités à répondre à notre sixième appel à projets - ouvert jusqu’au 18/03/2022. 
-
-
-  Le processus de sélection se fait en **3 étapes :** 
-
-
-  ![](img/steps2.svg)
-
-
-  1. **Vous postulez** en répondant à l'appel à projets. 
-
-  2. **Si votre projet est sélectionné, nous réunissons une équipe** de 2 ou 3 EIG pour relever le défi, en vous associant au processus de recrutement 
-
-  3. **Vous expérimentez** de nouvelles solutions avec votre équipe d'EIG et le soutien du programme
-
-
-  ![]()
-wait:
-  title: |-
-    L’appel à candidatures pour notre
-    promotion 6 est désormais fermé.
-  desc: Cliquer [ICI](https://eig.etalab.gouv.fr/defis/) pour découvrir les défis
-    de la promotion 5
 ---
