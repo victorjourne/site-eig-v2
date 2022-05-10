@@ -127,7 +127,7 @@ steps: >-
   Pour rejoindre la prochaine promotion du programme vous êtes invités à répondre à notre sixième appel à projets - ouvert jusqu’au 18/03/2022. 
 
 
-  Le processus de sélection se fait en **3 étapes :** 
+  Le processus de sélection se fait en **trois étapes :** 
 
 
   ![](img/steps2.svg)
