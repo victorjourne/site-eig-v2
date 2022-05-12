@@ -1,6 +1,7 @@
 ---
 title: Champollion
-description: Rendre intelligibles et valoriser dans la pratique les données de la déclaration sociale nominative 
+description: Rendre intelligibles et valoriser dans la pratique les données de
+  la déclaration sociale nominative
 who: Secrétariat général des ministères chargés des affaires sociales
 place: ""
 themes:
@@ -11,8 +12,8 @@ town: Paris (75)
 date: 2022
 expertises:
   - Développement
-  - Ingénierie de la donnée
-  - Sciences de la donnée
+  - Data engineering
+  - Data science
 image: img/promotion-6/defis/06_Champollion.svg
 visible: true
 ---
