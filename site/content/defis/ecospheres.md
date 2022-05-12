@@ -1,6 +1,7 @@
 ---
 title: Ecosphère(s)
-description: Développer l'écosystème de la donnée de la transition écologique et de la cohésion des territoires  
+description: Développer l'écosystème de la donnée de la transition écologique et
+  de la cohésion des territoires
 who: Commissariat général au développement durable (CGDD)
 place: ""
 themes:
@@ -12,7 +13,7 @@ date: 2022
 expertises:
   - Design
   - Développement
-  - Sciences de la donnée
+  - Data science
 image: img/promotion-6/defis/02_écosphère(s).svg
 visible: true
 ---
