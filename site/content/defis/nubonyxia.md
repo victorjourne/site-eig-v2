@@ -1,6 +1,7 @@
 ---
 title: Nubonyxia
-description: Sécuriser et faciliter l'intelligence des données économiques et financières sensibles 
+description: Sécuriser et faciliter l'intelligence des données économiques et
+  financières sensibles
 who: Secrétariat général des ministères économiques et financiers
 place: ""
 themes:
@@ -10,8 +11,8 @@ promos:
 town: Paris (75)
 date: 2022
 expertises:
-  - Sciences de la donnée
-  - Ingénierie de la donnée
+  - Data engineering
+  - Data science
 image: img/promotion-6/defis/01_Nubonyxia.svg
 visible: true
 ---
