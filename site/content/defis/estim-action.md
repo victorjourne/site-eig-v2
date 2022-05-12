@@ -1,6 +1,7 @@
 ---
 title: Estim'Action
-description: Aider les collectivités à réduire les nuissances routières, sources de pollution atmosphérique et sonore 
+description: Aider les collectivités à réduire les nuissances routières, sources
+  de pollution atmosphérique et sonore
 who: Cerema
 place: ""
 themes:
@@ -11,7 +12,7 @@ town: Bordeaux (33) | Champs-sur-Marne (77)
 date: 2022
 expertises:
   - Design
-  - Ingénierie de la donnée
+  - Data engineering
 image: img/promotion-6/defis/04_EstimAction.svg
 visible: true
 ---
