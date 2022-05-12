@@ -1,6 +1,7 @@
 ---
 title: SOS Ponts
-description: Guider les maires pas à pas dans les actions à mener pour préserver les ponts de leur commune 
+description: Guider les maires pas à pas dans les actions à mener pour préserver
+  les ponts de leur commune
 who: Cerema
 place: ""
 themes:
@@ -12,7 +13,7 @@ date: 2022
 expertises:
   - Design
   - Développement
-  - Sciences de la donnée
+  - Data science
 image: img/promotion-6/defis/03_SOS-Ponts.svg
 visible: true
 ---
