@@ -1,6 +1,6 @@
 ---
 title: Etat bas carbone
-description: Soutenir les services de l’État dans la réduction de leur empreinte carbone 
+description: Soutenir les services de l’État dans la réduction de leur empreinte carbone
 who: Commissariat général au développement durable (CGDD)
 place: ""
 themes:
@@ -11,7 +11,7 @@ town: La Défense (92)
 date: 2022
 expertises:
   - Développement
-  - Sciences de la donnée
+  - Data science
 image: img/promotion-6/defis/12_État_bas_carbone.svg
 visible: true
 ---
