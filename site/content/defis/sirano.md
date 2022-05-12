@@ -1,6 +1,7 @@
 ---
 title: SIRANo
-description: Améliorer la transparence et le suivi des projets financés de recherche appliquée en santé 
+description: Améliorer la transparence et le suivi des projets financés de
+  recherche appliquée en santé
 who: Direction Générale de l’Offre de Soins (DGOS)
 place: ""
 themes:
@@ -11,7 +12,7 @@ town: Paris (75)
 date: 2022
 expertises:
   - Développement
-  - Ingénierie de la donnée
+  - Data engineering
 image: img/promotion-6/defis/11_SIRANo.svg
 visible: true
 ---
