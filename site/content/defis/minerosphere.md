@@ -1,6 +1,6 @@
 ---
 title: MinerOsphère
-description: Optimiser la souveraineté de l'État dans le domaine des ressources minérales 
+description: Optimiser la souveraineté de l'État dans le domaine des ressources minérales
 who: Bureau de recherches géologiques et minières (BRGM)
 place: ""
 themes:
@@ -12,7 +12,7 @@ date: 2022
 expertises:
   - Design
   - Développement
-  - Sciences de la donnée
+  - Data science
 image: img/promotion-6/defis/14_MinerOsphère.svg
 visible: true
 ---
