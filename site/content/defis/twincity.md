@@ -1,6 +1,7 @@
 ---
 title: TwinCity
-description: Explorer le potentiel de l'intelligence artificielle appliquée à des jumeaux numériques de villes 
+description: Explorer le potentiel de l'intelligence artificielle appliquée à
+  des jumeaux numériques de villes
 who: Ministère de l'Intérieur
 place: ""
 themes:
@@ -11,7 +12,7 @@ town: Paris (75)
 date: 2022
 expertises:
   - Développement
-  - Sciences de la donnée
+  - Data science
 image: img/promotion-6/defis/07_TwinCity.svg
 visible: true
 ---
