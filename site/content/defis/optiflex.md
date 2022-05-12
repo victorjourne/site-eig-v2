@@ -1,18 +1,19 @@
 ---
 title: OptiFlex
-description: Repenser les modes de travail au service de la qualité de vie et de la maîtrise de l'empreinte environnementale 
+description: Repenser les modes de travail au service de la qualité de vie et de
+  la maîtrise de l'empreinte environnementale
 who: Commissariat des armées
 place: ""
 themes:
   - Travail
 promos:
   - Promotion 6
-town: Paris (75) | Rambouillet (78) 
+town: Paris (75) | Rambouillet (78)
 date: 2022
 expertises:
   - Design
   - Développement
-  - Ingénierie de la donnée
+  - Data engineering
 image: img/promotion-6/defis/08_OptiFlex.svg
 visible: true
 ---
