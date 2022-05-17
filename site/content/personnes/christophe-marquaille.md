@@ -8,6 +8,6 @@ defis:
   - Basegun
 expertises:
   - "Accompagnement "
-image: img/placeholder_homme.svg
+image: img/cm.jpg
 ---
 Bientôt disponible
