@@ -1,6 +1,6 @@
 ---
 title: "Jessica Nyobe "
-job: "Chargée de missions "
+job: Chargée de mission
 role: agent-programme
 expertises:
   - "Accompagnement "
