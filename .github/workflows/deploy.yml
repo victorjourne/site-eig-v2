@@ -28,8 +28,8 @@ jobs:
           hugo-version: '0.94.2'
           extended: true
           
-      - name: Prepare build
-        run: npm install rimraf
+     # - name: Prepare build
+     #   run: npm install rimraf
 
       # - name: Prepare build
       #   run: |
@@ -37,7 +37,7 @@ jobs:
       #     cp -r themes/design-system-gouvfr/node_modules/@gouvfr/dsfr/dist/ ./static/design-system-gouvfr
 
       - name: Build
-        run: yarn run build
+        run: npm run build:webpack && npm run build:hugo
         #run: hugo --minify -b $SITE_URL
 
       - name: Deploy
