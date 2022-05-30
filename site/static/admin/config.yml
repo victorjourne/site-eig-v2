@@ -1,7 +1,9 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: entrepreneur-interet-general/site-eig-v2
   branch: master
-  repo: LaNetscouade/site-eig-v2
+  base_url: https://oauth.app.etalab.studio
+
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
