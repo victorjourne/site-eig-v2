@@ -90,6 +90,11 @@ img {
     margin-top: 2.5rem;
   }
 
+  .subtitle {
+    margin-top: 3rem;
+    font-weight: 500;
+  }
+
   &--quote {
     position: relative;
 

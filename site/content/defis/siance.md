@@ -15,6 +15,8 @@ expertises:
 image: img/eig4-siance.svg
 visible: true
 ---
+{{< dailymotion x82e0pj >}}
+
 SIANCE est une plateforme de collecte et d’analyse de documents publics relatifs à la sûreté nucléaire et à la radioprotection. Elle est dotée d’une interface web adaptée aux activités de contrôle menées par l’Autorité de Sûreté Nucléaire.
 
 ## La problématique : des données provenant des inspections difficiles à analyser et à traduire en actions

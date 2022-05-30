@@ -16,6 +16,8 @@ expertises:
 image: img/eig4-open-collectivité-1-.svg
 visible: true
 ---
+{{< dailymotion x82dytp >}}
+
 ## La problématique : des informations disséminées sur différents canaux
 
 En octobre 2019, le Conseil National de l’Information Statistique (CNIS) publie [une note](https://www.cnis.fr/wp-content/uploads/2020/02/Note-Stat-sur-les-Coll-territoriales-def.pdf) dans laquelle il recommande de mettre largement à disposition les données et publications statistiques sur les collectivités locales. Cela « afin d’augmenter la notoriété et la visibilité des statistiques existantes \[…]. Cette mise à disposition peut prendre a minima la forme d’une publication, mais pourrait aussi faire l’objet d’un portail dédié ».
@@ -57,7 +59,3 @@ Le défi a été prolongé de 6 mois afin de :
 ## Webinaire
 
 Ce défi a été présenté lors du webinaire « Transparence des politiques publiques » du mercredi 20 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-6 "Rediffusion du webinaire").
-
-Rendez-vous sur la page de présentation de l'appel à candidatures pour retrouver la liste complète des webinaires.
-
-{{< arrow-link url="https://www.open-collectivites.fr/" title="Trouver une collectivité" target="true" >}}

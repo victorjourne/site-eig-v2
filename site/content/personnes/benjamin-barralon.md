@@ -2,8 +2,9 @@
 title: Benjamin Barralon
 job: Porteur de projet
 role: agent-public
-defis:
-  - Basegun
+defis: []
+expertises:
+  - "Accompagnement "
 image: img/benjamin-barralon.png
 ---
 
