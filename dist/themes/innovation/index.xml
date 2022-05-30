@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innovation on Entrepreneurs d&#39;intérêt général</title>
+    <link>https://eig.etalab.gouv.fr/themes/innovation/</link>
+    <description>Recent content in Innovation on Entrepreneurs d&#39;intérêt général</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Jan 1970 00:33:42 +0000</lastBuildDate><atom:link href="https://eig.etalab.gouv.fr/themes/innovation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Magellan</title>
+      <link>https://eig.etalab.gouv.fr/defis/magellan/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>https://eig.etalab.gouv.fr/defis/magellan/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse La DINUM, le service de public de demain avec le numérique La Direction interministérielle du numérique (DINUM) accompagne les ministères dans leur transformation numérique, conseille le gouvernement et développe des services et ressources partagées. Elle pilote, avec l’appui des ministères, le programme Tech.gouv d’accélération de la transformation numérique du service public. Créée en 2019, la DINUM a pris la suite de la Direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC).</description>
+    </item>
+    
+    <item>
+      <title>TwinCity</title>
+      <link>https://eig.etalab.gouv.fr/defis/twincity/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>https://eig.etalab.gouv.fr/defis/twincity/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse La SDITN, le lab innovation de la Place Beauvau La Sous-direction de l’innovation et de la transformation numérique (SDITN) du Ministère de l&amp;rsquo;Intérieur - fabrique des outils numériques à destination des agents du Ministère de l&amp;rsquo;Intérieur ou des citoyens, dans une logique de transparence des méthodes et d&amp;rsquo;ouverture des données.
+La problématique identifiée Les données dont dispose le MinInt sont toujours plus volumineuses notamment grâce à la vidéosurveillance mais difficilement exploitables pour des raisons juridiques Le respect des données à caractère personnel constitue un garde-fou nécessaire dans nos sociétés mais en même temps cela peut freiner des initiatives de R&amp;amp;D qui voudraient se servir de la qualité et de la volumétrie de ces informations afin d&amp;rsquo;élaborer des systèmes intelligents de protection des citoyens.</description>
+    </item>
+    
+  </channel>
+</rss>

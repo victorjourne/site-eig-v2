@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Expertises on Entrepreneurs d&#39;intérêt général</title>
+    <link>https://eig.etalab.gouv.fr/expertises/</link>
+    <description>Recent content in Expertises on Entrepreneurs d&#39;intérêt général</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 27 Oct 2021 14:10:19 +0000</lastBuildDate><atom:link href="https://eig.etalab.gouv.fr/expertises/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Développement</title>
+      <link>https://eig.etalab.gouv.fr/expertises/developpement/</link>
+      <pubDate>Wed, 27 Oct 2021 14:10:19 +0000</pubDate>
+      
+      <guid>https://eig.etalab.gouv.fr/expertises/developpement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data science</title>
+      <link>https://eig.etalab.gouv.fr/expertises/data-science/</link>
+      <pubDate>Wed, 27 Oct 2021 14:02:12 +0000</pubDate>
+      
+      <guid>https://eig.etalab.gouv.fr/expertises/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://eig.etalab.gouv.fr/expertises/design/</link>
+      <pubDate>Tue, 26 Oct 2021 21:20:36 +0000</pubDate>
+      
+      <guid>https://eig.etalab.gouv.fr/expertises/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data engineering</title>
+      <link>https://eig.etalab.gouv.fr/expertises/data-engineering/</link>
+      <pubDate>Sun, 26 Sep 2021 12:26:34 +0000</pubDate>
+      
+      <guid>https://eig.etalab.gouv.fr/expertises/data-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juriste</title>
+      <link>https://eig.etalab.gouv.fr/expertises/juriste/</link>
+      <pubDate>Tue, 20 Jul 2021 16:20:20 +0000</pubDate>
+      
+      <guid>https://eig.etalab.gouv.fr/expertises/juriste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ingénierie de la donnée</title>
+      <link>https://eig.etalab.gouv.fr/expertises/ingenierie-de-la-donnee/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>https://eig.etalab.gouv.fr/expertises/ingenierie-de-la-donnee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sciences de la donnée</title>
+      <link>https://eig.etalab.gouv.fr/expertises/sciences-de-la-donnee/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>https://eig.etalab.gouv.fr/expertises/sciences-de-la-donnee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accompagnement </title>
+      <link>https://eig.etalab.gouv.fr/expertises/accompagnement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eig.etalab.gouv.fr/expertises/accompagnement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Géomatique</title>
+      <link>https://eig.etalab.gouv.fr/expertises/geomatique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eig.etalab.gouv.fr/expertises/geomatique/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
