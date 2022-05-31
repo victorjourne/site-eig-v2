@@ -2,6 +2,7 @@ backend:
   name: github
   branch: master
   repo: entrepreneur-interet-general/site-eig-v2
+  base_url: https://oauth.app.etalab.studio
 
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
