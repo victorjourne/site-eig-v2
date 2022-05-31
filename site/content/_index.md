@@ -35,7 +35,7 @@ agents:
     publics accueillent deux ou trois « EIG » dans leurs services pour relever
     ensemble les défis. "
   list:
-    - Christophe Cuq
+    - Céline Guillou
     - TEST - Adeline Celier
 join:
   image: img/photo-de-nadim.jfif
