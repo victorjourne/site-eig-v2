@@ -50,6 +50,6 @@ jobs:
         if: ${{ github.ref == 'refs/heads/master' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
           publish_branch: pages
+          publish_dir: ./dist
           destination_dir: dist
